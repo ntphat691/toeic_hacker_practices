@@ -1,0 +1,1117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC Part 6 - Full Practice Test</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .score-panel {
+            background: #f8f9fa;
+            padding: 20px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            border-bottom: 3px solid #667eea;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .score-item {
+            text-align: center;
+        }
+        
+        .score-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .score-value {
+            font-size: 2em;
+            font-weight: bold;
+        }
+        
+        .score-value.correct {
+            color: #28a745;
+        }
+        
+        .score-value.incorrect {
+            color: #dc3545;
+        }
+        
+        .score-value.total {
+            color: #17a2b8;
+        }
+        
+        .reset-btn {
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .reset-btn:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .passage {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            border-left: 5px solid #667eea;
+        }
+        
+        .passage h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        
+        .passage-text {
+            line-height: 1.8;
+            color: #333;
+            white-space: pre-wrap;
+            font-size: 1.05em;
+        }
+        
+        .question-block {
+            background: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            border: 2px solid #e9ecef;
+            transition: all 0.3s;
+        }
+        
+        .question-block:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.1);
+        }
+        
+        .question-number {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+        
+        .options {
+            margin-top: 15px;
+        }
+        
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin: 10px 0;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: white;
+        }
+        
+        .option:hover {
+            background: #f8f9fa;
+            border-color: #667eea;
+            transform: translateX(5px);
+        }
+        
+        .option input[type="radio"] {
+            width: 20px;
+            height: 20px;
+            margin-right: 15px;
+            cursor: pointer;
+            accent-color: #667eea;
+        }
+        
+        .option label {
+            cursor: pointer;
+            font-size: 1.05em;
+            flex: 1;
+        }
+        
+        .answer-feedback {
+            display: none;
+            margin-top: 15px;
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            animation: slideDown 0.3s ease;
+        }
+        
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .answer-feedback.correct {
+            background: #d4edda;
+            color: #155724;
+            border: 2px solid #28a745;
+        }
+        
+        .answer-feedback.incorrect {
+            background: #f8d7da;
+            color: #721c24;
+            border: 2px solid #dc3545;
+        }
+        
+        .answer-feedback.show {
+            display: block;
+        }
+        
+        .option.selected-correct {
+            background: #d4edda;
+            border-color: #28a745;
+        }
+        
+        .option.selected-incorrect {
+            background: #f8d7da;
+            border-color: #dc3545;
+        }
+        
+        .passage-divider {
+            height: 3px;
+            background: linear-gradient(to right, #667eea, #764ba2);
+            margin: 40px 0;
+            border-radius: 2px;
+        }
+
+        .footer {
+            padding: 18px 22px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #eef1f5;
+            background: #fafbfe;
+            font-weight: 700;
+        }
+
+        .loading-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 20px;
+            min-height: 400px;
+        }
+
+        .loading-spinner {
+            width: 60px;
+            height: 60px;
+            border: 5px solid #e9ecef;
+            border-top: 5px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading-text {
+            font-size: 1.2em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .error-message {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #dc3545;
+            text-align: center;
+            max-width: 600px;
+            margin: 40px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="testTitle">📚 TOEIC Reading Practice Test</h1>
+            <p id="testSubtitle">Loading...</p>
+        </div>
+        
+        <div class="score-panel" id="scorePanel" style="display: none;">
+            <div class="score-item">
+                <div class="score-label">Correct</div>
+                <div class="score-value correct" id="correctScore">0</div>
+            </div>
+            <div class="score-item">
+                <div class="score-label">Progress</div>
+                <div class="score-value total" id="totalScore">0/0</div>
+            </div>
+            <div class="score-item">
+                <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
+            </div>
+            <div class="score-item">
+                <div class="score-label">Incorrect</div>
+                <div class="score-value incorrect" id="incorrectScore">0</div>
+            </div>
+        </div>
+
+        <div class="loading-container" id="loadingContainer">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">Loading test data...</div>
+        </div>
+
+        <div class="content" id="questionsContainer" style="display: none;">
+            <!-- Questions will be dynamically generated here -->
+        </div>
+        <div class="footer">@nntrang</div>
+    </div>
+
+    <script>
+        const questionsData = {
+  "testTitle": "TOEIC Reading Test 01",
+  "timeLimit": "75 Minutes",
+  "parts": [
+    {
+      "partNumber": 5,
+      "title": "Incomplete Sentences",
+      "instructions": "Select the best answer (A), (B), (C), or (D) to complete each statement.",
+      "questions": [
+        {
+          "id": "q101",
+          "question": "Delegates attending the international trade convention were provided with overnight ______ at Hotel Boswick.",
+          "translation": "",
+          "options": [
+            {"text": "accommodated", "value": "A"},
+            {"text": "accommodates", "value": "B"},
+            {"text": "accommodating", "value": "C"},
+            {"text": "accommodations", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q102",
+          "question": "Charles Wang submitted a resume that ______ his years of experience in advertising.",
+          "translation": "",
+          "options": [
+            {"text": "emphasized", "value": "A"},
+            {"text": "enclosed", "value": "B"},
+            {"text": "estimated", "value": "C"},
+            {"text": "employed", "value": "D"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q103",
+          "question": "Beginning next week, Zumwalt, Inc.'s new smartphone will be available for purchase at ____ retailers across Korea and Japan.",
+          "translation": "",
+          "options": [
+            {"text": "authorizing", "value": "A"},
+            {"text": "authority", "value": "B"},
+            {"text": "authorization", "value": "C"},
+            {"text": "authorized", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q104",
+          "question": "Highway construction has been postponed indefinitely as Hampshire County residents have ____ to the plan.",
+          "translation": "",
+          "options": [
+            {"text": "preferences", "value": "A"},
+            {"text": "arrangements", "value": "B"},
+            {"text": "considerations", "value": "C"},
+            {"text": "objections", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q105",
+          "question": "The Trescott Chamber of Commerce _____ local businessman Brian Larue at a ceremony next week.",
+          "translation": "",
+          "options": [
+            {"text": "was honoring", "value": "A"},
+            {"text": "to honor", "value": "B"},
+            {"text": "will honor", "value": "C"},
+            {"text": "honor", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q106",
+          "question": "Please review your contract, and feel free to ask us _____ questions you might have.",
+          "translation": "",
+          "options": [
+            {"text": "few", "value": "A"},
+            {"text": "either", "value": "B"},
+            {"text": "any", "value": "C"},
+            {"text": "much", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q107",
+          "question": "The manager announced that a few office supply _______ would be delayed because of weather conditions.",
+          "translation": "",
+          "options": [
+            {"text": "shipment", "value": "A"},
+            {"text": "shipments", "value": "B"},
+            {"text": "to ship", "value": "C"},
+            {"text": "shipping", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q108",
+          "question": "By adding extra flights between Dubai and Istanbul, Euroblue Airlines will increase its ____ for this route by more than 50 percent.",
+          "translation": "",
+          "options": [
+            {"text": "endurance", "value": "A"},
+            {"text": "motivation", "value": "B"},
+            {"text": "location", "value": "C"},
+            {"text": "capacity", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q109",
+          "question": "Halmilton Hospital's purchase of a medical scanning device will permit doctors to diagnose patients more ____ than ever before.",
+          "translation": "",
+          "options": [
+            {"text": "precise", "value": "A"},
+            {"text": "precisely", "value": "B"},
+            {"text": "precision", "value": "C"},
+            {"text": "preciseness", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q110",
+          "question": "____ a bank has approved Flynn Co.'s business loan, the company can begin its planned expansion.",
+          "translation": "",
+          "options": [
+            {"text": "Even if", "value": "A"},
+            {"text": "As though", "value": "B"},
+            {"text": "Consequently", "value": "C"},
+            {"text": "Now that", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q111",
+          "question": "Online reviewers praise Alpha Fashion's ______ deliveries and its generous return policy.",
+          "translation": "",
+          "options": [
+            {"text": "tangible", "value": "A"},
+            {"text": "measured", "value": "B"},
+            {"text": "timely", "value": "C"},
+            {"text": "subsequent", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q112",
+          "question": "Though Bruce Guthrie's concert is planned _______ August 1, the organizers have said that this is subject to change.",
+          "translation": "",
+          "options": [
+            {"text": "at", "value": "A"},
+            {"text": "for", "value": "B"},
+            {"text": "since", "value": "C"},
+            {"text": "in", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q113",
+          "question": "The public speaking course presents trainees with opportunities _____ themselves in front of a group.",
+          "translation": "",
+          "options": [
+            {"text": "will express", "value": "A"},
+            {"text": "to express", "value": "B"},
+            {"text": "are expressing", "value": "C"},
+            {"text": "expressed", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q114",
+          "question": "The speaker at the Westicon Literature Seminar told an _____ story that had the entire audience laughing in enjoyment.",
+          "translation": "",
+          "options": [
+            {"text": "amusing", "value": "A"},
+            {"text": "amusement", "value": "B"},
+            {"text": "amused", "value": "C"},
+            {"text": "amuse", "value": "D"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q115",
+          "question": "A fee of $100 will be _____ to office rental payments that are more than two weeks late.",
+          "translation": "",
+          "options": [
+            {"text": "applied", "value": "A"},
+            {"text": "applying", "value": "B"},
+            {"text": "apply", "value": "C"},
+            {"text": "application", "value": "D"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q116",
+          "question": "Last month's issue of Wise Finance _________ an exclusive interview with Chuck Granville, founder of financial firm Granville Investments.",
+          "translation": "",
+          "options": [
+            {"text": "subscribed", "value": "A"},
+            {"text": "admitted", "value": "B"},
+            {"text": "featured", "value": "C"},
+            {"text": "dedicated", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q117",
+          "question": "Broadcasting the ________ latest news 24 hours a day, cable station CPP allows viewers to keep up-to-date on world events.",
+          "translation": "",
+          "options": [
+            {"text": "fewer", "value": "A"},
+            {"text": "very", "value": "B"},
+            {"text": "far", "value": "C"},
+            {"text": "more", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q118",
+          "question": "The software _____ that New-Tech offers remove security risks and improve the performance of computers.",
+          "translation": "",
+          "options": [
+            {"text": "increments", "value": "A"},
+            {"text": "enhancements", "value": "B"},
+            {"text": "certificates", "value": "C"},
+            {"text": "exceptions", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q119",
+          "question": "Mr. Evans took a taxi to avoid being late, but the theater show had ____ begun by the time he arrived.",
+          "translation": "",
+          "options": [
+            {"text": "usually", "value": "A"},
+            {"text": "seldom", "value": "B"},
+            {"text": "hourly", "value": "C"},
+            {"text": "already", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q120",
+          "question": "Notices _______ residents of possible power outages were mailed out a week before crews began work on the power lines.",
+          "translation": "",
+          "options": [
+            {"text": "inform", "value": "A"},
+            {"text": "information", "value": "B"},
+            {"text": "informed", "value": "C"},
+            {"text": "informing", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q121",
+          "question": "Mr. Clemon's work was so impressive that he was made a senior manager _____ only six months with the company.",
+          "translation": "",
+          "options": [
+            {"text": "on", "value": "A"},
+            {"text": "after", "value": "B"},
+            {"text": "while", "value": "C"},
+            {"text": "owing to", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q122",
+          "question": "In anticipation of an increase in visitors during the summer holiday, the Shoreline Inn decided to ______ hire additional housekeeping staff.",
+          "translation": "",
+          "options": [
+            {"text": "adversely", "value": "A"},
+            {"text": "uncontrollably", "value": "B"},
+            {"text": "temporarily", "value": "C"},
+            {"text": "relatively", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q123",
+          "question": "Although a graduate degree is a requirement for the position, none of _______ who responded to the job announcement have one.",
+          "translation": "",
+          "options": [
+            {"text": "they", "value": "A"},
+            {"text": "these", "value": "B"},
+            {"text": "themselves", "value": "C"},
+            {"text": "those", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q124",
+          "question": "Travel writer Arthur Chaplin will give a short presentation tomorrow _____ the trip the described in his new book, Walking in Peru.",
+          "translation": "",
+          "options": [
+            {"text": "along", "value": "A"},
+            {"text": "regarding", "value": "B"},
+            {"text": "in exchange for", "value": "C"},
+            {"text": "by means of", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q125",
+          "question": "Having written multiple books on the effects of global warming, Ms. Black is widely regarded as a _______ expert on environmental issues.",
+          "translation": "",
+          "options": [
+            {"text": "naive", "value": "A"},
+            {"text": "notable", "value": "B"},
+            {"text": "tolerant", "value": "C"},
+            {"text": "mundane", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q126",
+          "question": "Local water quality is ____ to improve once the sewage treatment center is upgraded.",
+          "translation": "",
+          "options": [
+            {"text": "grown", "value": "A"},
+            {"text": "limited", "value": "B"},
+            {"text": "bound", "value": "C"},
+            {"text": "acquired", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q127",
+          "question": "Charles Kapoor was not considered a suitable candidate for a financial analyst position ______ he possessed exceptional investment experience.",
+          "translation": "",
+          "options": [
+            {"text": "accordingly", "value": "A"},
+            {"text": "in spite of", "value": "B"},
+            {"text": "as if", "value": "C"},
+            {"text": "even though", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q128",
+          "question": "The tour bus did not stop at Sheffield Stadium, so its passengers could only take pictures as they drove ______ it.",
+          "translation": "",
+          "options": [
+            {"text": "until", "value": "A"},
+            {"text": "past", "value": "B"},
+            {"text": "onto", "value": "C"},
+            {"text": "within", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q129",
+          "question": "Mercer Incorporated carefully goes over _______ its customer surveys and market research before making important decisions.",
+          "translation": "",
+          "options": [
+            {"text": "as well as", "value": "A"},
+            {"text": "both", "value": "B"},
+            {"text": "between", "value": "C"},
+            {"text": "neither", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q130",
+          "question": "For the purpose of increasing sales, Mendelbaum Electronics is giving a prize to _____ is the 100th person to buy a refrigerator.",
+          "translation": "",
+          "options": [
+            {"text": "whichever", "value": "A"},
+            {"text": "another", "value": "B"},
+            {"text": "whoever", "value": "C"},
+            {"text": "someone", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 6,
+      "title": "Text Completion",
+      "instructions": "Select the answer choice that correctly completes the text.",
+      "passages": [
+        {
+          "passage": "Questions 131-134 refer to the following e-mail:",
+          "image": "image/131-134.png",
+          "questions": [
+            { "id": "q131", "num": 131, "question": "My retail business, Delrio, currently needs a new _______ for its products.", "options": ["manufacture", "manufacturer", "manufacturing", "manufactured"], "answer": "B" },
+            { "id": "q132", "num": 132, "question": "This event will provide an opportunity... to establish a positive ________ with them.", "options": ["nuisance", "attitude", "reputation", "condition"], "answer": "C" },
+            { "id": "q133", "num": 133, "question": "______ everything must be convenient to use and made of durable materials", "options": ["In this way", "In contrast", "In particular", "In reality"], "answer": "C" },
+            { "id": "q134", "num": 134, "question": "I would like a sample of each one _______.", "options": ["Perhaps we can discuss the issue further at the trade fair.", "If I like the results, I'd be willing to work with you on a regular basis.", "Once I make the design changes, I will send you the order.", "Your quoted prices are higher than I have budgeted for the items."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 135-138 refer to the following notice:",
+          "image": "image/135-138.png",
+          "questions": [
+            { "id": "q135", "num": 135, "question": "As you know, we have done some _______ facility renovations", "options": ["clever", "repetitive", "conservative", "extensive"], "answer": "D" },
+            { "id": "q136", "num": 136, "question": "Northrup Apartment management _______ you a detailed report of the amount spent", "options": ["will send", "has sent", "to be sent", "is sending"], "answer": "B" },
+            { "id": "q137", "num": 137, "question": "Costs will be divided as we earlier _______ during the meeting", "options": ["declined", "agreed", "encompassed", "attempted"], "answer": "B" },
+            { "id": "q138", "num": 138, "question": "monthly bills will increase by $25 beginning next month. _______.", "options": ["Those who haven't paid the charge yet will receive a fine.", "The additional fee will be charged until the expenses are all paid for.", "Please let us know when you will be using the new services.", "This will be imposed after the facility improvements have been approved."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 139-142 refer to the following information:",
+          "image": "image/139-142.png",
+          "questions": [
+            { "id": "q139", "num": 139, "question": "Schuler Gas _______ its customers a chance to win", "options": ["has offered", "was offering", "will have offered", "is offering"], "answer": "D" },
+            { "id": "q140", "num": 140, "question": "leave the receipt... in the box _______ the exit", "options": ["inside", "beside", "upon", "without"], "answer": "B" },
+            { "id": "q141", "num": 141, "question": "________", "options": ["You can save more if you buy ski lift tickets for five or more days.", "Each one must be used by the date and time stamped on it.", "Discounts are not applicable if coupons are past their expiration dates.", "The country's ski resorts are among the best the world has to offer."], "answer": "B" },
+            { "id": "q142", "num": 142, "question": "who can _______ the tickets at the station", "options": ["claim", "deliver", "redeem", "pursue"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 143-146 refer to the following article:",
+          "image": "image/143-146.png",
+          "questions": [
+            { "id": "q143", "num": 143, "question": "______", "options": ["The profitability of the venture could affect its completion.", "It has so far proven quite popular with people of all ages.", "But there was some opposition to the project when it started.", "The city has become a model for other cities to follow."], "answer": "C" },
+            { "id": "q144", "num": 144, "question": "money should have been used to _______ local roads instead", "options": ["repaired", "repairing", "repairs", "repair"], "answer": "D" },
+            { "id": "q145", "num": 145, "question": "Most residents believe the center is a _______", "options": ["commitment", "necessity", "responsibility", "coincidence"], "answer": "B" },
+            { "id": "q146", "num": 146, "question": "Karen Petrowski, _______ has been appointed the center's director said", "options": ["instead", "who", "later", "also"], "answer": "B" }
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 7,
+      "title": "Reading Comprehension",
+      "instructions": "Select the best answer for each question.",
+      "passages": [
+        {
+          "passage": "Questions 147-148 refer to the following text message:",
+          "image": "image/147-148.png",
+          "questions": [
+            { "id": "q147", "num": 147, "question": "What is the advertisement mainly about?", "options": ["A cooking class", "A television program", "A recipe book", "A school cafeteria"], "answer": "C" },
+            { "id": "q148", "num": 148, "question": "What is suggested about Alexandra Maldini?", "options": ["She has released several books.", "She gives lectures at a university.", "She operates a chain of restaurants.", "She has retired from a television show."], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 149-150 refer to the following e-mail:",
+          "image": "image/149-150.png",
+          "questions": [
+            { "id": "q149", "num": 149, "question": "What is the e-mail mainly about?", "options": ["Placing requests for leave", "Relocating to a new office", "Replenishing basic office necessities", "Ensuring deliveries are complete"], "answer": "C" },
+            { "id": "q150", "num": 150, "question": "What is indicated about departmental supervisors?", "options": ["They are authorized to buy materials on their own.", "They are responsible for approving employees' purchases.", "They may sign requisition forms on Ms. Jessop's behalf.", "They must work with a budget determined by Ms. Jessop."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 151-152 refer to the following text message chain:",
+          "image": "image/151-152.png",
+          "questions": [
+            { "id": "q151", "num": 151, "question": "What most likely is Ms. Candela's job?", "options": ["A store manager", "A restaurant critic", "A wedding planner", "An event caterer"], "answer": "D" },
+            { "id": "q152", "num": 152, "question": "At 11:08 a.m., what does Mr. Brosky most likely mean when he writes, \"I'm guessing\"?", "options": ["He would like to confirm the details of a request.", "He believes someone already went to a store.", "He could not understand a request.", "He wants to check if he already has some materials."], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 153-154 refer to the following ticket:",
+          "image": "image/153-154.png",
+          "questions": [
+            { "id": "q153", "num": 153, "question": "When does Seafoam Park close on Sundays?", "options": ["At 7 p.m.", "At 8 p.m.", "At 9 p.m.", "At 10 p.m."], "answer": "B" },
+            { "id": "q154", "num": 154, "question": "What information is NOT included on the ticket?", "options": ["The price of the ticket", "The expiration date of a voucher", "The location of a parking lot", "The age range of ticket holders"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 155-157 refer to the following notice:",
+          "image": "image/155-157.png",
+          "questions": [
+            { "id": "q155", "num": 155, "question": "What is the purpose of the notice?", "options": ["To announce the times of a community event", "To outline requirements for potential renters", "To tell about upcoming maintenance work", "To provide assignment details to construction workers"], "answer": "C" },
+            { "id": "q156", "num": 156, "question": "What is stated about the Residents' Association?", "options": ["It has been demanding changes.", "It has meetings every month.", "It is planning further construction.", "It is recruiting volunteers for a project."], "answer": "A" },
+            { "id": "q157", "num": 157, "question": "What will the Aston Towers Management do soon?", "options": ["Add a garden to an apartment building", "Repair a road that passes a property", "Contact prospective tenants", "Schedule visiting times with residents"], "answer": "D" }
+          ]
+        },
+        {
+          "passage": "Questions 158-161 refer to the following article:",
+          "image": "image/158-161.png",
+          "questions": [
+            { "id": "q158", "num": 158, "question": "What is the article mainly about?", "options": ["The start of a football season", "The foundation of an athletic association", "The building of a new suburb", "The relocation of a sports team"], "answer": "D" },
+            { "id": "q159", "num": 159, "question": "What is mentioned about the Kansas City Bluecoats?", "options": ["It previously won first place in a competition.", "It lost one of its corporate sponsors.", "Its coach was recruited locally.", "Its players are the highest paid in the league."], "answer": "A" },
+            { "id": "q160", "num": 160, "question": "What is true about the new stadium?", "options": ["It will formally open after two months.", "It has yet to be given a name.", "It will be the site of a championship game.", "It is located within Kansas City's downtown area."], "answer": "B" },
+            { "id": "q161", "num": 161, "question": "In which of the positions marked [A], [B], [C], and [D] does the following sentence best belong? \"Fans and out-of-town supporters will be better served by these changes.\"", "options": ["", "", "", ""], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 162-165 refer to the following text message chain:",
+          "image": "image/162-165.png",
+          "questions": [
+            { "id": "q162", "num": 162, "question": "What is NOT mentioned as a way to handle the recall?", "options": ["Broadcasting the news on television", "Answering calls from customers", "Announcing information in some publications", "Posting about the issue online"], "answer": "A" },
+            { "id": "q163", "num": 163, "question": "What is suggested about the company?", "options": ["It sells products internationally.", "It plans to launch a new toaster model.", "It conducted a press conference.", "It runs advertisements in local papers."], "answer": "A" },
+            { "id": "q164", "num": 164, "question": "What can be inferred about Mr. Lee?", "options": ["He has contacts with members of the press.", "He will send an announcement to the public.", "He has previously worked on a product recall.", "He writes promotional material for the company."], "answer": "C" },
+            { "id": "q165", "num": 165, "question": "At 10:25 a.m., what does Mr. Lee most likely mean when he writes, \"I'll get right on it\"?", "options": ["He will call the marketing department.", "He needs to hire more staff.", "He intends to consult a former employee.", "He will start instructing the employees."], "answer": "D" }
+          ]
+        },
+        {
+          "passage": "Questions 166-168 refer to the following Web page:",
+          "image": "image/166-168.png",
+          "questions": [
+            { "id": "q166", "num": 166, "question": "What is the main purpose of the Web page?", "options": ["To advertise travel packages", "To collect feedback from customers", "To provide contact information", "To recruit local tour guides"], "answer": "A" },
+            { "id": "q167", "num": 167, "question": "What is NOT stated as an activity visitors can do in Indonesia?", "options": ["Scuba diving", "Visiting temples", "Surfing in the sea", "Camping in a jungle"], "answer": "C" },
+            { "id": "q168", "num": 168, "question": "In which of the positions marked [A], [B], [C], and [D] does the following sentence best belong? \"Outside the city awaits a world of natural and historical wonders.\"", "options": ["", "", "", ""], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 169-171 refer to the following memo:",
+          "image": "image/169-171.png",
+          "questions": [
+            { "id": "q169", "num": 169, "question": "Why was the memo written?", "options": ["To explain a new log-in system", "To inform workers about regulations", "To announce a penalty for absences", "To notify staff of scheduled maintenance"], "answer": "B" },
+            { "id": "q170", "num": 170, "question": "What is indicated about the daily report?", "options": ["It must be signed by a supervisor.", "It should be drawn up as simply as possible.", "It needs to be submitted in person.", "It can be used to evaluate work efficiency."], "answer": "D" },
+            { "id": "q171", "num": 171, "question": "From when will the new measure be implemented?", "options": ["From November", "From December", "From January", "From February"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 172-175 refer to the following article:",
+          "image": "image/172-175.png",
+          "questions": [
+            { "id": "q172", "num": 172, "question": "What is the main topic of the article?", "options": ["The profitability of innovative services", "Consumption patterns among online shoppers", "The adoption of new training programs", "Opposition to an economic trend"], "answer": "D" },
+            { "id": "q173", "num": 173, "question": "What does the article suggest about the sharing economy?", "options": ["It allows workers to charge more for their services.", "It has encouraged charitable giving in a local community.", "It benefits individuals more than traditional companies.", "It can function without the Internet."], "answer": "C" },
+            { "id": "q174", "num": 174, "question": "What happened last year in Ghorinburg?", "options": ["A mobile application was introduced.", "A new mayor was elected to office.", "A business association held a protest", "A ban against the sharing economy was lifted."], "answer": "B" },
+            { "id": "q175", "num": 175, "question": "What is mentioned about Browenville?", "options": ["Its residents are largely unwilling to adopt new technologies.", "Local businesses are essential to its economic development.", "The local government encourages participation in the sharing economy.", "Its employment opportunities have been declining in recent years."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 176-180 refer to the following advertisement:",
+          "image": "image/176-180.png",
+          "questions": [
+            { "id": "q176", "num": 176, "question": "What is stated about Bulk Land Supermarket?", "options": ["It has a minimum order requirement.", "It introduces new deals every month.", "It will not deliver to some residences.", "It does not have any physical stores."], "answer": "D" },
+            { "id": "q177", "num": 177, "question": "In the advertisement, the word \"comfort\" in paragraph 1, line 4, is closest in meaning to", "options": ["alleviation", "service", "consolation", "ease"], "answer": "D" },
+            { "id": "q178", "num": 178, "question": "According to the advertisement, what is a benefit of buying large amounts at Bulk Land Supermarket?", "options": ["Wider product options", "Lower packaging costs", "Cheaper prices on products", "Better membership incentives"], "answer": "C" },
+            { "id": "q179", "num": 179, "question": "What can be inferred about Mr. Johnson?", "options": ["He has placed orders with Bulk Land Supermarket before.", "He did not get his preferred delivery date.", "He will receive his order on Thursday night.", "He will call Bulk Land Supermarket to confirm his order."], "answer": "A" },
+            { "id": "q180", "num": 180, "question": "What special offer is Mr. Johnson eligible for?", "options": ["A coupon for a future purchase", "A complimentary item of his choice", "A free delivery to his location", "An immediate discount on his order"], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 181-185 refer to the following e-mail:",
+          "image": "image/181-185.png",
+          "questions": [
+            { "id": "q181", "num": 181, "question": "What is mentioned about the Seacrest Convention Center?", "options": ["It is fully booked for the upcoming trade event.", "It is located far from any accommodation facilities.", "It provides vendors with complimentary Internet access.", "It hosts the beauty product fair every year."], "answer": "C" },
+            { "id": "q182", "num": 182, "question": "Where can Ms. Danbury find information on Tradevent Incorporated's prices?", "options": ["On an application form", "In an advertising flyer", "On a corporate Web site", "In a trade Journal"], "answer": "A" },
+            { "id": "q183", "num": 183, "question": "What is implied about Brittany Cosmetics?", "options": ["It is ineligible for a rental price reduction.", "It is in the process of expanding its range of products.", "It had satisfactory results at an event in Denver.", "It registered for a trade fair online."], "answer": "C" },
+            { "id": "q184", "num": 184, "question": "What does Ms. Danbury inquire about?", "options": ["Extra tickets", "Hotel amenities", "A detailed floor plan", "A reservation procedure"], "answer": "D" },
+            { "id": "q185", "num": 185, "question": "In the e-mail, the phrase \"taking part in\" is closest in meaning to", "options": ["supporting", "encouraging", "joining", "competing"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 186-190 refer to the following e-mail:",
+          "image": "image/186-190.png",
+          "questions": [
+            { "id": "q186", "num": 186, "question": "What does Ms. Webb suggest about the cruise she took?", "options": ["The onboard facilities seemed crowded.", "It had fewer staff than necessary.", "The deck party included very good food.", "It cost more than she had anticipated."], "answer": "C" },
+            { "id": "q187", "num": 187, "question": "What is mentioned about the H.M.S. Lady Blackbeard?", "options": ["It recently underwent a restoration.", "It can be viewed in online pictures.", "It includes a variety of room types.", "It departs from Port Royal every Saturday."], "answer": "B" },
+            { "id": "q188", "num": 188, "question": "What is the purpose of the e-mail?", "options": ["To request specific dates for a trip", "To inquire about the cost of a cruise ticket", "To discuss a possible staff activity", "To ask for a change to a booking date"], "answer": "C" },
+            { "id": "q189", "num": 189, "question": "What is indicated about the comment card?", "options": ["It should be mailed to the cruise company.", "It can be submitted in person.", "It was found in the ship's main lounge.", "It will be sent to the traveler's address after the trip."], "answer": "B" },
+            { "id": "q190", "num": 190, "question": "What did Ms. Webb most likely have to do?", "options": ["Prepare some audiovisual equipment", "Pay extra to have clothes washed", "Fill in a newsletter subscription card", "Postpone an excursion to another date"], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 191-195 refer to the following article:",
+          "image": "image/191-195.png",
+          "questions": [
+            { "id": "q191", "num": 191, "question": "According to the list, what is NOT true about Henry Spencer?", "options": ["He participated in two movies by the same director.", "He has played roles that are different occupations.", "He performed in leading roles in all productions.", "He received multiple nominations for Therein Lies the Truth."], "answer": "C" },
+            { "id": "q192", "num": 192, "question": "What can be inferred about Ms. Oakland?", "options": ["She worked with Henry Spencer in her latest film.", "She received a Sci-Fi Award for one of her films.", "She collaborated with Jerry Bradbury on a past project.", "She plans to make a sequel to Bandits of Time II."], "answer": "A" },
+            { "id": "q193", "num": 193, "question": "Who most likely is Korinna McKay?", "options": ["A television producer", "A talk show host", "A broadcast network executive", "An interview guest"], "answer": "B" },
+            { "id": "q194", "num": 194, "question": "What is suggested about Mr. Voorhies?", "options": ["He was contacted by Korinna McKay previously.", "He provided feedback about the June 7 show online.", "He had a query about Bandits of Time II during a show.", "He listened to a rerun of Screen Action."], "answer": "C" },
+            { "id": "q195", "num": 195, "question": "Why has Ms. Hefner asked Mr. Voorhies to sign a document?", "options": ["To signify his willingness to be interviewed", "To allow a program recording to be publicly released", "To give permission to post some written questions", "To agree to keep information confidential"], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 196-200 refer to the following e-mail:",
+          "image": "image/196-200.png",
+          "questions": [
+            { "id": "q196", "num": 196, "question": "What is the article mainly about?", "options": ["Some guidelines for ensuring a varied diet", "A disease that commonly affects the elderly", "Some advice regarding the consumption of supplements", "A medication proven to be effective for seniors"], "answer": "C" },
+            { "id": "q197", "num": 197, "question": "What does the e-mail suggest about Health Note?", "options": ["It does not approve all petitions for reprints.", "It is published on a weekly basis.", "It has allowed Mr. Hopson to reprint excerpts before.", "It does not provide copies of previous issues."], "answer": "A" },
+            { "id": "q198", "num": 198, "question": "What is true about Psychology Guide?", "options": ["It is a new publication.", "It is inaccessible to members of the public.", "It has long supported Health Note.", "It is not available online."], "answer": "D" },
+            { "id": "q199", "num": 199, "question": "What is indicated about Mr. Hopson's request?", "options": ["It will not incur a charge for printing.", "It requires that a research study be conducted.", "It has to be approved by the Research Institute for Aging.", "It is for a newly launched medical journal."], "answer": "A" },
+            { "id": "q200", "num": 200, "question": "When will Mr. Hopson receive a response?", "options": ["At the end of March", "At the beginning of April", "At the end of April", "At the beginning of May"], "answer": "D" }
+          ]
+        }
+      ]
+    }
+  ]
+};
+
+        let correctCount = 0;
+        let incorrectCount = 0;
+        const questionState = new Map();
+        let totalQuestionsCache = 0;
+
+        function loadTest() {
+            try {
+                document.getElementById('testTitle').textContent = '📚 ' + questionsData.testTitle;
+                document.getElementById('testSubtitle').textContent = questionsData.timeLimit + ' - ' + getTotalQuestions() + ' Questions';
+                
+                document.getElementById('loadingContainer').style.display = 'none';
+                document.getElementById('questionsContainer').style.display = 'block';
+                document.getElementById('scorePanel').style.display = 'flex';
+                
+                generateQuestions();
+                updateScore();
+                
+            } catch (error) {
+                console.error('Error loading test:', error);
+                document.getElementById('loadingContainer').innerHTML = 
+                    '<div class="error-message">Error loading test data. Please refresh the page.</div>';
+            }
+        }
+
+        function getTotalQuestions() {
+            if (!questionsData || !questionsData.parts) return 0;
+            
+            if (totalQuestionsCache > 0) return totalQuestionsCache;
+            
+            var total = 0;
+            questionsData.parts.forEach(function(part) {
+                if (part.questions) {
+                    total += part.questions.length;
+                }
+                if (part.passages) {
+                    part.passages.forEach(function(passage) {
+                        if (passage.questions) {
+                            total += passage.questions.length;
+                        }
+                    });
+                }
+            });
+            totalQuestionsCache = total;
+            return total;
+        }
+
+        function generateQuestions() {
+            var container = document.getElementById('questionsContainer');
+            container.innerHTML = '';
+            
+            questionsData.parts.forEach(function(part, partIndex) {
+                var partHeader = document.createElement('div');
+                partHeader.className = 'passage';
+                partHeader.innerHTML = '<h2>Part ' + part.partNumber + ' - ' + part.title + '</h2>';
+                if (part.instructions) {
+                    partHeader.innerHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + part.instructions + '</p>';
+                }
+                container.appendChild(partHeader);
+                
+                if (part.questions) {
+                    part.questions.forEach(function(q) {
+                        var questionDiv = document.createElement('div');
+                        questionDiv.className = 'question-block';
+                        
+                        var optionsHTML = q.options.map(function(opt, idx) {
+                            var letter = String.fromCharCode(65 + idx);
+                            var optText = typeof opt === 'string' ? opt : opt.text;
+                            return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.correctAnswer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + optText + '</label></div>';
+                        }).join('');
+                        
+                        questionDiv.innerHTML = '<span class="question-number">Question ' + q.id.replace('q', '') + '</span><p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
+                        
+                        container.appendChild(questionDiv);
+                    });
+                }
+                
+                if (part.passages) {
+                    part.passages.forEach(function(passage, passageIndex) {
+                        var passageDiv = document.createElement('div');
+                        passageDiv.className = 'passage';
+                        var passageHTML = '<h2>' + passage.passage + '</h2>';
+                        if (passage.image && passage.image !== '') {
+                            passageHTML += '<img src="' + passage.image + '" alt="' + passage.passage + '" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">';
+                        }
+                        passageDiv.innerHTML = passageHTML;
+                        container.appendChild(passageDiv);
+                        
+                        if (passage.questions) {
+                            passage.questions.forEach(function(q) {
+                                var questionDiv = document.createElement('div');
+                                questionDiv.className = 'question-block';
+                                
+                                var optionsHTML = q.options.map(function(opt, idx) {
+                                    var letter = String.fromCharCode(65 + idx);
+                                    return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.answer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + opt + '</label></div>';
+                                }).join('');
+                                
+                                var questionText = q.question ? '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p>' : '';
+                                questionDiv.innerHTML = '<span class="question-number">Question ' + q.num + '</span>' + questionText + '<div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
+                                
+                                container.appendChild(questionDiv);
+                            });
+                        }
+                        
+                        if (passageIndex < part.passages.length - 1) {
+                            var divider = document.createElement('div');
+                            divider.className = 'passage-divider';
+                            container.appendChild(divider);
+                        }
+                    });
+                }
+                
+                if (partIndex < questionsData.parts.length - 1) {
+                    var divider = document.createElement('div');
+                    divider.className = 'passage-divider';
+                    container.appendChild(divider);
+                }
+            });
+        }
+
+        function recomputeScore() {
+            var c = 0;
+            var i = 0;
+            for (var v of questionState.values()) {
+                if (v === true) c++;
+                else if (v === false) i++;
+            }
+            correctCount = c;
+            incorrectCount = i;
+        }
+
+        function lockQuestion(questionId) {
+            var options = document.querySelectorAll('.option input[name="' + questionId + '"]');
+            options.forEach(function(inp) {
+                var opt = inp.closest('.option');
+                if (opt) {
+                    opt.style.pointerEvents = 'none';
+                    opt.style.opacity = '0.7';
+                }
+            });
+        }
+
+        function selectAnswer(optionElement, questionId, correctAnswer) {
+            var input = optionElement.querySelector('input');
+            
+            // Clear previous selection if any
+            var allInputs = document.querySelectorAll('.option input[name="' + questionId + '"]');
+            allInputs.forEach(function(inp) {
+                var opt = inp.closest('.option');
+                opt.classList.remove('selected-correct', 'selected-incorrect');
+                inp.checked = false;
+            });
+            
+            // Check the clicked input
+            input.checked = true;
+            var selectedValue = input.value;
+            var feedbackDiv = document.getElementById('feedback-' + questionId);
+            
+            if (selectedValue === correctAnswer) {
+                optionElement.classList.add('selected-correct');
+                feedbackDiv.textContent = '✓ Correct!';
+                feedbackDiv.classList.remove('incorrect');
+                feedbackDiv.classList.add('correct');
+                questionState.set(questionId, true);
+                lockQuestion(questionId);
+            } else {
+                optionElement.classList.add('selected-incorrect');
+                feedbackDiv.textContent = '✗ Incorrect. Try again!';
+                feedbackDiv.classList.remove('correct');
+                feedbackDiv.classList.add('incorrect');
+                // Don't lock on incorrect answer - allow re-selection
+                // Remove from state if previously marked as incorrect
+                if (questionState.get(questionId) === false) {
+                    questionState.delete(questionId);
+                }
+            }
+            
+            feedbackDiv.classList.add('show');
+            recomputeScore();
+            updateScore();
+        }
+
+        function updateScore() {
+            document.getElementById('correctScore').textContent = correctCount;
+            document.getElementById('incorrectScore').textContent = incorrectCount;
+            document.getElementById('totalScore').textContent = (correctCount + incorrectCount) + '/' + getTotalQuestions();
+        }
+
+        function resetQuiz() {
+            correctCount = 0;
+            incorrectCount = 0;
+            questionState.clear();
+            
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected-correct', 'selected-incorrect');
+                opt.style.pointerEvents = 'auto';
+                opt.style.opacity = '1';
+            });
+            
+            document.querySelectorAll('input[type="radio"]').forEach(radio => {
+                radio.checked = false;
+            });
+            
+            document.querySelectorAll('.answer-feedback').forEach(fb => {
+                fb.classList.remove('show', 'correct', 'incorrect');
+            });
+            
+            updateScore();
+        }
+
+        // Load test when page is ready
+        document.addEventListener('DOMContentLoaded', loadTest);
+    </script>
+</body>
+</html>

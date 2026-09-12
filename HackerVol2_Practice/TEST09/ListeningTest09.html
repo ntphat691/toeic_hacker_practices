@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC Listening - Full Practice Test</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            min-height: 100vh;
+            padding-top: 120px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .audio-player {
+            background: #f8f9fa;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 2px solid #667eea;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 99;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .audio-player.collapsed {
+            padding: 10px;
+        }
+
+        .audio-player.collapsed audio,
+        .audio-player.collapsed p {
+            display: none;
+        }
+
+        .audio-player audio {
+            width: 100%;
+            max-width: 600px;
+        }
+
+        .audio-player p {
+            color: #666;
+            margin-bottom: 10px;
+            font-size: 0.95em;
+        }
+
+        .collapse-btn {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            cursor: pointer;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+        }
+
+        .collapse-btn:hover {
+            background: #5568d3;
+            transform: rotate(180deg);
+        }
+        
+        .score-panel {
+            background: #f8f9fa;
+            padding: 20px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            border-bottom: 3px solid #667eea;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        .score-item {
+            text-align: center;
+        }
+        
+        .score-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        
+        .score-value {
+            font-size: 2em;
+            font-weight: bold;
+        }
+        
+        .score-value.correct {
+            color: #28a745;
+        }
+        
+        .score-value.incorrect {
+            color: #dc3545;
+        }
+        
+        .score-value.total {
+            color: #17a2b8;
+        }
+        
+        .reset-btn {
+            padding: 12px 30px;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            font-size: 1em;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .reset-btn:hover {
+            background: #5568d3;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .passage {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            border-left: 5px solid #667eea;
+        }
+        
+        .passage h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        
+        .passage-text {
+            line-height: 1.8;
+            color: #333;
+            white-space: pre-wrap;
+            font-size: 1.05em;
+        }
+        
+        .question-block {
+            background: white;
+            padding: 25px;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            border: 2px solid #e9ecef;
+            transition: all 0.3s;
+        }
+        
+        .question-block:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.1);
+        }
+        
+        .question-number {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+        
+        .options {
+            margin-top: 15px;
+        }
+        
+        .option {
+            display: flex;
+            align-items: center;
+            padding: 15px;
+            margin: 10px 0;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s;
+            background: white;
+        }
+        
+        .option:hover {
+            background: #f8f9fa;
+            border-color: #667eea;
+            transform: translateX(5px);
+        }
+        
+        .option input[type="radio"] {
+            width: 20px;
+            height: 20px;
+            margin-right: 15px;
+            cursor: pointer;
+            accent-color: #667eea;
+        }
+        
+        .option label {
+            cursor: pointer;
+            font-size: 1.05em;
+            flex: 1;
+        }
+        
+        .answer-feedback {
+            display: none;
+            margin-top: 15px;
+            padding: 15px;
+            border-radius: 8px;
+            font-weight: bold;
+            animation: slideDown 0.3s ease;
+        }
+        
+        @keyframes slideDown {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .answer-feedback.correct {
+            background: #d4edda;
+            color: #155724;
+            border: 2px solid #28a745;
+        }
+        
+        .answer-feedback.incorrect {
+            background: #f8d7da;
+            color: #721c24;
+            border: 2px solid #dc3545;
+        }
+        
+        .answer-feedback.show {
+            display: block;
+        }
+        
+        .option.selected-correct {
+            background: #d4edda;
+            border-color: #28a745;
+        }
+        
+        .option.selected-incorrect {
+            background: #f8d7da;
+            border-color: #dc3545;
+        }
+        
+        .passage-divider {
+            height: 3px;
+            background: linear-gradient(to right, #667eea, #764ba2);
+            margin: 40px 0;
+            border-radius: 2px;
+        }
+
+        .footer {
+            padding: 18px 22px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #eef1f5;
+            background: #fafbfe;
+            font-weight: 700;
+        }
+
+        .loading-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 60px 20px;
+            min-height: 400px;
+        }
+
+        .loading-spinner {
+            width: 60px;
+            height: 60px;
+            border: 5px solid #e9ecef;
+            border-top: 5px solid #667eea;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .loading-text {
+            font-size: 1.2em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .error-message {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 20px;
+            border-radius: 10px;
+            border: 2px solid #dc3545;
+            text-align: center;
+            max-width: 600px;
+            margin: 40px auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="testTitle">🎧 TOEIC Listening Practice Test</h1>
+            <p id="testSubtitle">Loading...</p>
+        </div>
+        
+        <div class="audio-player" id="audioPlayer">
+            <button class="collapse-btn" onclick="toggleAudioPlayer()">−</button>
+            <p>🎵 Listening Audio - Click play to start the test</p>
+            <audio controls>
+                <source src="audio/TEST 9.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+        
+        <div class="score-panel" id="scorePanel" style="display: none;">
+            <div class="score-item">
+                <div class="score-label">Correct</div>
+                <div class="score-value correct" id="correctScore">0</div>
+            </div>
+            <div class="score-item">
+                <div class="score-label">Progress</div>
+                <div class="score-value total" id="totalScore">0/0</div>
+            </div>
+            <div class="score-item">
+                <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
+            </div>
+            <div class="score-item">
+                <div class="score-label">Incorrect</div>
+                <div class="score-value incorrect" id="incorrectScore">0</div>
+            </div>
+        </div>
+
+        <div class="loading-container" id="loadingContainer">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">Loading test data...</div>
+        </div>
+
+        <div class="content" id="questionsContainer" style="display: none;">
+            <!-- Questions will be dynamically generated here -->
+        </div>
+        <div class="footer">@phuongvu</div>
+    </div>
+
+    <script>
+        const questionsData = {
+  "testTitle": "Hacker 9 New TOEIC Listening Test 09",
+  "timeLimit": "45 Minutes",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Photographs",
+      "instructions": "Choose the statement that best describes the picture.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Look at the picture and choose the best description.",
+          "image": "image/1.png",
+          "options": [
+            {"text": "He is putting on a jacket.", "value": "A"},
+            {"text": "He is reaching for a handle.", "value": "B"},
+            {"text": "He is opening a bag.", "value": "C"},
+            {"text": "He is standing beside a conveyor belt.", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q2",
+          "question": "Look at the picture and choose the best description.",
+          "image": "image/2.png",
+          "options": [
+            {"text": "They are walking under an archway.", "value": "A"},
+            {"text": "They are entering a hotel lobby.", "value": "B"},
+            {"text": "They are descending some steps.", "value": "C"},
+            {"text": "They are leaning over a handrail.", "value": "D"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q3",
+          "question": "Look at the picture and choose the best description.",
+          "image": "image/3.png",
+          "options": [
+            {"text": "She is wiping off a countertop.", "value": "A"},
+            {"text": "She is flattening out a piece of dough.", "value": "B"},
+            {"text": "She is putting away a rolling pin.", "value": "C"},
+            {"text": "She is rolling up her shirtsleeve.", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q4",
+          "question": "Look at the picture and choose the best description.",
+          "image": "image/4.png",
+          "options": [
+            {"text": "Blinds have been drawn in front of a window.", "value": "A"},
+            {"text": "Various objects have been placed in the cupboards.", "value": "B"},
+            {"text": "The refrigerator door has been left open.", "value": "C"},
+            {"text": "Pots are being washed in a sink.", "value": "D"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q5",
+          "question": "Look at the picture and choose the best description.",
+          "image": "image/5.png",
+          "options": [
+            {"text": "Some people are climbing into the back of a carriage.", "value": "A"},
+            {"text": "Some people are examining the wheels of a cart.", "value": "B"},
+            {"text": "Some people have tied horses to a fence.", "value": "C"},
+            {"text": "Some people have boarded an uncovered vehicle.", "value": "D"}
+          ],
+          "correctAnswer": "D"
+        },
+        {
+          "id": "q6",
+          "question": "Look at the picture and choose the best description.",
+          "image": "image/6.png",
+          "options": [
+            {"text": "Chairs are stacked in a room.", "value": "A"},
+            {"text": "All of the seats are occupied.", "value": "B"},
+            {"text": "Some people are separated by partitions.", "value": "C"},
+            {"text": "A man is copying some documents.", "value": "D"}
+          ],
+          "correctAnswer": "C"
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Question-Response",
+      "instructions": "Listen to the question or statement and choose the best response.",
+      "questions": [
+        {
+          "id": "q7",
+          "question": "What is everyone going to do after dinner?",
+          "options": [
+            {"text": "We'll probably see a film.", "value": "A"},
+            {"text": "The winner was declared.", "value": "B"},
+            {"text": "They had a late lunch.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q8",
+          "question": "What did it cost to have your tablet fixed?",
+          "options": [
+            {"text": "Go to aisle three for tablets.", "value": "A"},
+            {"text": "This furniture is broken.", "value": "B"},
+            {"text": "I was charged 50 Euros.", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q9",
+          "question": "Where's the research manager?",
+          "options": [
+            {"text": "Have you checked the lab?", "value": "A"},
+            {"text": "Set them over there.", "value": "B"},
+            {"text": "She's a skilled manager.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q10",
+          "question": "How long is the drive from here to Catalina?",
+          "options": [
+            {"text": "I'm taking my car.", "value": "A"},
+            {"text": "About half a day.", "value": "B"},
+            {"text": "It gets good mileage.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q11",
+          "question": "Which bus company should we book for our next trip?",
+          "options": [
+            {"text": "I'll change our booking time.", "value": "A"},
+            {"text": "Something more affordable than last time.", "value": "B"},
+            {"text": "One of the best travel guidebooks I bought.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q12",
+          "question": "When is the assistant director returning?",
+          "options": [
+            {"text": "Let me know if you need assistance.", "value": "A"},
+            {"text": "She supervises our team.", "value": "B"},
+            {"text": "Either this week or next week.", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q13",
+          "question": "Who was selected to oversee the Marlow project?",
+          "options": [
+            {"text": "That has yet to be announced.", "value": "A"},
+            {"text": "They're excited for the opportunity.", "value": "B"},
+            {"text": "The president finally chose a venue.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q14",
+          "question": "Why did you buy so many boxes of paper?",
+          "options": [
+            {"text": "There was a sale at the store.", "value": "A"},
+            {"text": "On the other receipt.", "value": "B"},
+            {"text": "I forgot to stop by.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q15",
+          "question": "Andria will send copies of the budget to us.",
+          "options": [
+            {"text": "Expenses for this quarter.", "value": "A"},
+            {"text": "Rent has not increased lately.", "value": "B"},
+            {"text": "When will we receive them?", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q16",
+          "question": "How quickly can your team revise this fiscal report?",
+          "options": [
+            {"text": "Your timing was perfect.", "value": "A"},
+            {"text": "It's the quickest way to the arena.", "value": "B"},
+            {"text": "You'll have the final draft by tomorrow.", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q17",
+          "question": "We're extremely pleased with your work on this assignment.",
+          "options": [
+            {"text": "I no longer work there.", "value": "A"},
+            {"text": "Thank you. I'm quite proud of it myself.", "value": "B"},
+            {"text": "That's an excellent suggestion.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q18",
+          "question": "Why don't you consult someone from technical assistance?",
+          "options": [
+            {"text": "I probably should.", "value": "A"},
+            {"text": "No, I don't see him.", "value": "B"},
+            {"text": "It's technically wrong.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q19",
+          "question": "You've visited this city in the past, right?",
+          "options": [
+            {"text": "My friend will be here in June.", "value": "A"},
+            {"text": "It's past the library.", "value": "B"},
+            {"text": "On several occasions, actually.", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q20",
+          "question": "Who can deposit these checks at the bank for me?",
+          "options": [
+            {"text": "Do you need them deposited today?", "value": "A"},
+            {"text": "Into the company account.", "value": "B"},
+            {"text": "Another teller needs to be hired.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q21",
+          "question": "It's not the best time for employees to go on holiday.",
+          "options": [
+            {"text": "Yes, an orientation for employees.", "value": "A"},
+            {"text": "You're right. A lot of orders are coming in.", "value": "B"},
+            {"text": "I spent it with my family.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q22",
+          "question": "Why is the train to Bern running behind schedule?",
+          "options": [
+            {"text": "It will be delivered today, though.", "value": "A"},
+            {"text": "There's a problem on the tracks.", "value": "B"},
+            {"text": "We should leave at once.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q23",
+          "question": "Why don't you share your research findings on Monday?",
+          "options": [
+            {"text": "I studied economics in college.", "value": "A"},
+            {"text": "To assess consumer opinions.", "value": "B"},
+            {"text": "Oh, the data won't be compiled by then.", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q24",
+          "question": "Does your store offer refunds and exchanges?",
+          "options": [
+            {"text": "Only under certain circumstances.", "value": "A"},
+            {"text": "It sells electronic equipment.", "value": "B"},
+            {"text": "We exchanged business cards.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q25",
+          "question": "You haven't seen my notebook around here, have you?",
+          "options": [
+            {"text": "Pick up some pens as well.", "value": "A"},
+            {"text": "You haven't been around these days.", "value": "B"},
+            {"text": "The one with the yellow cover?", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q26",
+          "question": "Please don't order a dish with nuts in it.",
+          "options": [
+            {"text": "I'll make sure they go in order.", "value": "A"},
+            {"text": "Pistachios are my favorite nut.", "value": "B"},
+            {"text": "Oh, I forgot you were allergic.", "value": "C"}
+          ],
+          "correctAnswer": "C"
+        },
+        {
+          "id": "q27",
+          "question": "Do you want to pack up the living room first or start with the bathroom?",
+          "options": [
+            {"text": "We still don't have boxes.", "value": "A"},
+            {"text": "It's in the next room.", "value": "B"},
+            {"text": "She has to move very soon.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q28",
+          "question": "Should we edit the photos on the computer?",
+          "options": [
+            {"text": "Everyone met the photographer.", "value": "A"},
+            {"text": "That requires special software.", "value": "B"},
+            {"text": "It is my new camera.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q29",
+          "question": "Am I supposed to lock up the building before I leave?",
+          "options": [
+            {"text": "The custodian takes care of that.", "value": "A"},
+            {"text": "We can look for it later.", "value": "B"},
+            {"text": "It's on the left side of the structure.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        },
+        {
+          "id": "q30",
+          "question": "Should I proofread this manual, or have you already reviewed it?",
+          "options": [
+            {"text": "Each division has a different handbook.", "value": "A"},
+            {"text": "Actually, can you have Cole do it?", "value": "B"},
+            {"text": "Let's watch a preview first.", "value": "C"}
+          ],
+          "correctAnswer": "B"
+        },
+        {
+          "id": "q31",
+          "question": "Didn't you take an excursion during your vacation?",
+          "options": [
+            {"text": "We took a day trip to Crete.", "value": "A"},
+            {"text": "Well, what would you like to do?", "value": "B"},
+            {"text": "The hotel staff will book one for us.", "value": "C"}
+          ],
+          "correctAnswer": "A"
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Conversations",
+      "instructions": "Listen to the conversation and answer the three questions for each conversation.",
+      "passages": [
+        {
+          "passage": "Questions 32-34:",
+          "questions": [
+            { "id": "q32", "num": 32, "question": "What industry do the speakers most likely work in?", "options": ["Manufacturing", "Event planning", "Publishing", "Marketing"], "answer": "C" },
+            { "id": "q33", "num": 33, "question": "According to the man, what did the speakers do this morning?", "options": ["Reserved event tickets", "Edited some advertisements", "Consulted with an organizer", "Listened to lectures"], "answer": "D" },
+            { "id": "q34", "num": 34, "question": "What suggestion does the woman make?", "options": ["Going to another conference", "Networking with professionals", "Getting a handout", "Hiring speakers for a function"], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 35-37:",
+          "questions": [
+            { "id": "q35", "num": 35, "question": "Where most likely is the conversation taking place?", "options": ["At a construction company", "At a travel agency", "At a legal office", "At an educational institute"], "answer": "A" },
+            { "id": "q36", "num": 36, "question": "What does the woman say about the training seminars?", "options": ["They require enrollment in advance.", "They are overseen by a company manager.", "They are held at nearby locations.", "They award professional certifications."], "answer": "C" },
+            { "id": "q37", "num": 37, "question": "Why does the man say, \"So, I won't be traveling on a regular basis\"?", "options": ["To show disappointment", "To make a request", "To confirm a point", "To raise a problem"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 38-40:",
+          "questions": [
+            { "id": "q38", "num": 38, "question": "Who most likely is the man?", "options": ["A bicycle repairperson", "A public transport driver", "A city official", "A bus passenger"], "answer": "B" },
+            { "id": "q39", "num": 39, "question": "What problem has the man identified?", "options": ["An engine has malfunctioned.", "Some instructions are unclear.", "A lock cannot be fastened.", "There is no more room for passengers."], "answer": "C" },
+            { "id": "q40", "num": 40, "question": "What does the woman inquire about?", "options": ["When another bus will arrive", "How much a service will cost", "Why a ride will take so long", "Whether someone else can help"], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 41-43:",
+          "questions": [
+            { "id": "q41", "num": 41, "question": "Where most likely do the speakers work?", "options": ["At a financial institution", "At a cell phone store", "At an IT consulting firm", "At a software company"], "answer": "A" },
+            { "id": "q42", "num": 42, "question": "What is suggested about the mobile application?", "options": ["It was designed by Robert Nolan.", "It is missing an important feature.", "It was affected by a database problem.", "It is not yet available to the public."], "answer": "D" },
+            { "id": "q43", "num": 43, "question": "What is the woman told to do?", "options": ["Attend a launch party", "Call a mobile phone number", "Provide a status update", "Check an Internet connection"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 44-46:",
+          "questions": [
+            { "id": "q44", "num": 44, "question": "What is the problem?", "options": ["An order was not delivered.", "A service is not reliable.", "An item was not installed.", "A product is not in stock."], "answer": "D" },
+            { "id": "q45", "num": 45, "question": "When did the man purchase some curtains?", "options": ["One week ago", "Two weeks ago", "Three weeks ago", "Four weeks ago"], "answer": "C" },
+            { "id": "q46", "num": 46, "question": "What does the woman mean when she says, \"it's not all bad news\"?", "options": ["A measurement is accurate.", "A comparable option is available.", "A pattern is popular.", "A refund can be provided."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 47-49:",
+          "questions": [
+            { "id": "q47", "num": 47, "question": "According to the woman, what is located near Freemont Park?", "options": ["A retail outlet", "An auto body shop", "A government building", "A community center"], "answer": "C" },
+            { "id": "q48", "num": 48, "question": "What does the woman inquire about?", "options": ["The business hours of a department", "The location of license forms", "The time the man will leave", "The purpose of a visit"], "answer": "D" },
+            { "id": "q49", "num": 49, "question": "What is the man planning to do on Saturday?", "options": ["Take an exam", "Drive to an event", "Renew a license", "Replace a passport"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 50-52:",
+          "questions": [
+            { "id": "q50", "num": 50, "question": "Who most likely are the men?", "options": ["Repair specialists", "Sales associates", "Research participants", "Technical writers"], "answer": "C" },
+            { "id": "q51", "num": 51, "question": "What is mentioned about the computer manual?", "options": ["It has been recently updated.", "It uses a small font size.", "It is printed in multiple languages.", "It lacks clarity at certain parts."], "answer": "D" },
+            { "id": "q52", "num": 52, "question": "What do the men suggest?", "options": ["Using more images", "Creating some graphs", "Shortening a handbook", "Expanding an introduction"], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 53-55:",
+          "questions": [
+            { "id": "q53", "num": 53, "question": "Why have customers made complaints?", "options": ["A sale period was cut short.", "A machine error occurred.", "A process takes too long.", "A parking lot is too small."], "answer": "C" },
+            { "id": "q54", "num": 54, "question": "What does the man say about the machines?", "options": ["They are used at other locations.", "They will cut down on an expense.", "They were discussed in a meeting.", "They have been fully repaired."], "answer": "B" },
+            { "id": "q55", "num": 55, "question": "What does the woman suggest?", "options": ["Rescheduling an afternoon gathering", "Hiring an additional agent", "Mentioning an idea to a supervisor", "Distributing a mall coupon book"], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 56-58:",
+          "questions": [
+            { "id": "q56", "num": 56, "question": "Where most likely does the woman work?", "options": ["At a public relations firm", "At a newspaper company", "At a management firm", "At a government office"], "answer": "B" },
+            { "id": "q57", "num": 57, "question": "What does the man want to learn more about?", "options": ["A forthcoming set of articles", "A potential business proposition", "A special subscription offer", "An early enrollment period"], "answer": "A" },
+            { "id": "q58", "num": 58, "question": "What will most likely happen on Tuesday?", "options": ["Business partners will meet.", "Residents will gather for an event.", "An interview will be conducted.", "A story will be released."], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 59-61:",
+          "questions": [
+            { "id": "q59", "num": 59, "question": "Why is the man calling?", "options": ["To negotiate a contract", "To share a meeting outcome", "To change a travel itinerary", "To set up an appointment"], "answer": "B" },
+            { "id": "q60", "num": 60, "question": "What does the woman want to discuss?", "options": ["Recruiting additional staff", "Postponing a meeting", "Delegating a task", "Pursuing a business deal"], "answer": "C" },
+            { "id": "q61", "num": 61, "question": "What does the man agree to do when he returns?", "options": ["Organize a gathering", "Stop by the woman's office", "Appoint a team leader", "Reschedule a future trip"], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 62-64:",
+          "questions": [
+            { "id": "q62", "num": 62, "question": "What is the problem?", "options": ["An item consumes a lot of energy.", "A product is missing components.", "A device will not shut off.", "An appliance gets too warm."], "answer": "D" },
+            { "id": "q63", "num": 63, "question": "What does the man mean when he says, \"We'd better play it safe\"?", "options": ["He would like to inform a director.", "He plans to announce a recall.", "He wants a product redesigned.", "He is going to conduct some tests."], "answer": "C" },
+            { "id": "q64", "num": 64, "question": "What does the woman suggest?", "options": ["Delaying a release date", "Canceling an expo presentation", "Selecting another manufacturer", "Issuing a safety warning"], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 65-67:",
+          "image": "image/65-67.png",
+          "questions": [
+            { "id": "q65", "num": 65, "question": "What is the conversation mainly about?", "options": ["A departmental downsizing", "An upcoming product launch", "A change in leadership", "A request for overtime hours"], "answer": "C" },
+            { "id": "q66", "num": 66, "question": "What is the man planning to do?", "options": ["Postpone a regular staff meeting", "Announce a decision to personnel", "Download a competitor's programs", "Consider taking on a different role"], "answer": "B" },
+            { "id": "q67", "num": 67, "question": "Look at the graphic. Which application will be edited?", "options": ["PicSnap", "DocX", "Music Time", "Text Monkey"], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 68-70:",
+          "image": "image/68-70.png",
+          "questions": [
+            { "id": "q68", "num": 68, "question": "Why does the woman plan to buy Orange Blast soda?", "options": ["The gas station has only one brand.", "The store has a special offer.", "The man recommended the flavor.", "The product was just released."], "answer": "B" },
+            { "id": "q69", "num": 69, "question": "Look at the graphic. Which ingredient is the man trying to avoid?", "options": ["Cholesterol", "Fat", "Sodium", "Sugar"], "answer": "D" },
+            { "id": "q70", "num": 70, "question": "What does the man request the woman do?", "options": ["Register for a store membership", "Complete a transaction quickly", "Refill a gas tank in a car", "Purchase a different beverage"], "answer": "D" }
+          ]
+        }
+      ]
+    },
+    {
+      "partNumber": 4,
+      "title": "Short Talks",
+      "instructions": "Listen to the short talk and answer the three questions.",
+      "passages": [
+        {
+          "passage": "Questions 71-73:",
+          "questions": [
+            { "id": "q71", "num": 71, "question": "Where most likely are the listeners?", "options": ["At a retirement celebration", "At a college commencement", "At a restaurant opening", "At an awards ceremony"], "answer": "D" },
+            { "id": "q72", "num": 72, "question": "What is the speaker's job?", "options": ["An event planner", "A chef", "A consultant", "A university professor"], "answer": "B" },
+            { "id": "q73", "num": 73, "question": "What does the speaker say about Mali Kaya?", "options": ["She is receiving an award.", "She has a promising future.", "She is a close friend.", "She owns a business."], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 74-76:",
+          "questions": [
+            { "id": "q74", "num": 74, "question": "Why is the speaker calling?", "options": ["To discuss a draft", "To submit a review", "To revise a contract", "To interview an author"], "answer": "A" },
+            { "id": "q75", "num": 75, "question": "What will most likely happen on August 20?", "options": ["A writer will provide a manuscript.", "A novel will be updated.", "A book will be published.", "An editor will approve a change."], "answer": "C" },
+            { "id": "q76", "num": 76, "question": "What does the speaker mean when she says \"I don't think it'll take much time\"?", "options": ["She knows that a deadline is flexible.", "She feels the problem can be easily fixed.", "She has already made most of the changes.", "She wants the man to work on another project."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 77-79:",
+          "questions": [
+            { "id": "q77", "num": 77, "question": "What type of business is Augusta?", "options": ["A real estate firm", "A car rental agency", "A moving company", "A courier service"], "answer": "C" },
+            { "id": "q78", "num": 78, "question": "What is offered to customers for an additional charge?", "options": ["A service warranty", "A vehicle upgrade", "Expedited shipping", "Packing assistance"], "answer": "D" },
+            { "id": "q79", "num": 79, "question": "Why would listeners visit a Web site?", "options": ["To make reservations", "To acquire a coupon", "To pre-order supplies", "To print out postage labels"], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 80-82:",
+          "questions": [
+            { "id": "q80", "num": 80, "question": "What is the problem?", "options": ["A company cannot fulfill an order.", "A customer filed a complaint.", "A product got negative comments.", "A factory has to close down."], "answer": "C" },
+            { "id": "q81", "num": 81, "question": "What was Capital Group hired to do?", "options": ["Promote a game", "Conduct market research", "Distribute goods", "Analyze a budget"], "answer": "B" },
+            { "id": "q82", "num": 82, "question": "What has the speaker decided to do?", "options": ["Arrange a focus group", "Respond to questions", "Request more funding", "Terminate a project"], "answer": "D" }
+          ]
+        },
+        {
+          "passage": "Questions 83-85:",
+          "questions": [
+            { "id": "q83", "num": 83, "question": "What is the main topic of the news report?", "options": ["A social media service", "A new software program", "A technological update", "A corporate takeover"], "answer": "D" },
+            { "id": "q84", "num": 84, "question": "What does the speaker imply when she says, \"This isn't that significant of a development, though\"?", "options": ["A search engine does not function properly.", "A piece of equipment received a minor update.", "A service is not popular with some users.", "A feature is offered by other companies."], "answer": "D" },
+            { "id": "q85", "num": 85, "question": "Who is Jonathon Starr?", "options": ["An investment manager", "An online business expert", "A technology company executive", "A financial news reporter"], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 86-88:",
+          "questions": [
+            { "id": "q86", "num": 86, "question": "Why is the speaker calling?", "options": ["She is responding to a survey.", "She wants to request a statement.", "She is confirming a booking.", "She wants to rent a vehicle."], "answer": "C" },
+            { "id": "q87", "num": 87, "question": "According to the message, what will Ms. Forbes need to do?", "options": ["Send a document", "Provide a credit card number", "Apply for a passport", "Purchase auto insurance"], "answer": "A" },
+            { "id": "q88", "num": 88, "question": "What is implied about Brent Stewart?", "options": ["He will travel to Hong Kong.", "He works for a rental agency.", "He will arrive on August 4.", "He requested a deposit."], "answer": "B" }
+          ]
+        },
+        {
+          "passage": "Questions 89-91:",
+          "questions": [
+            { "id": "q89", "num": 89, "question": "What is the announcement mainly about?", "options": ["Driving tips for winter", "New transportation regulations", "Forecasted weather conditions", "Changes to insurance policies"], "answer": "A" },
+            { "id": "q90", "num": 90, "question": "What does the speaker recommend?", "options": ["Calling an insurance company", "Using seasonal tires", "Avoiding long-distance travel", "Listening to weather updates"], "answer": "B" },
+            { "id": "q91", "num": 91, "question": "What is a feature of the application?", "options": ["It provides alternate routes for drivers.", "It warns of unsafe road conditions.", "It transmits a vehicle's location.", "It shows when emergency personnel will arrive."], "answer": "C" }
+          ]
+        },
+        {
+          "passage": "Questions 92-94:",
+          "image": "image/92-94.png",
+          "questions": [
+            { "id": "q92", "num": 92, "question": "What does the speaker say about Charlottesville Chocolates?", "options": ["It is owned by a local farmer.", "It is a major regional producer.", "It purchases processed cocoa.", "It developed a new flavor of candy."], "answer": "B" },
+            { "id": "q93", "num": 93, "question": "What distinguishes Charlottesville Chocolates from its competitors?", "options": ["Its production methods", "Its marketing techniques", "Its sales strategy", "Its quality control process"], "answer": "A" },
+            { "id": "q94", "num": 94, "question": "Look at the graphic. When will the seed harvesting room be visited?", "options": ["At 8:00 a.m.", "At 9:00 a.m.", "At 10:00 a.m.", "At 11:00 a.m."], "answer": "A" }
+          ]
+        },
+        {
+          "passage": "Questions 95-97:",
+          "image": "image/95-97.png",
+          "questions": [
+            { "id": "q95", "num": 95, "question": "Why is the speaker calling?", "options": ["To announce a cancelation", "To offer a service", "To ask for a payment", "To clarify a request"], "answer": "D" },
+            { "id": "q96", "num": 96, "question": "Look at the graphic. What service is the coupon valid for?", "options": ["Skin treatment", "Thai massage", "Foot massage", "Aromatherapy massage"], "answer": "C" },
+            { "id": "q97", "num": 97, "question": "Why does the speaker need the man's decision quickly?", "options": ["To order appropriate supplies", "To make a reservation", "To calculate a discount", "To make a staffing decision"], "answer": "D" }
+          ]
+        },
+        {
+          "passage": "Questions 98-100:",
+          "image": "image/98-100.png",
+          "questions": [
+            { "id": "q98", "num": 98, "question": "Why does the speaker thank Kendall Construction?", "options": ["It provided free services.", "It designed a facility.", "It sponsored an exhibit.", "It completed a project early."], "answer": "D" },
+            { "id": "q99", "num": 99, "question": "Look at the graphic. Which exhibit is not a permanent one?", "options": ["Adventures on the Nile", "Modern Marvels", "Arabian Wonders", "Victorian Architecture"], "answer": "D" },
+            { "id": "q100", "num": 100, "question": "What are listeners asked to do?", "options": ["Donate to the museum", "Complete a questionnaire", "Take pictures of an exhibit", "Purchase tour tickets"], "answer": "B" }
+          ]
+        }
+      ]
+    }
+  ]
+};
+
+        let correctCount = 0;
+        let incorrectCount = 0;
+        const questionState = new Map();
+        let totalQuestionsCache = 0;
+
+        function loadTest() {
+            try {
+                document.getElementById('testTitle').textContent = '🎧 ' + questionsData.testTitle;
+                document.getElementById('testSubtitle').textContent = questionsData.timeLimit + ' - ' + getTotalQuestions() + ' Questions';
+                
+                document.getElementById('loadingContainer').style.display = 'none';
+                document.getElementById('questionsContainer').style.display = 'block';
+                document.getElementById('scorePanel').style.display = 'flex';
+                
+                generateQuestions();
+                updateScore();
+                
+            } catch (error) {
+                console.error('Error loading test:', error);
+                document.getElementById('loadingContainer').innerHTML = 
+                    '<div class="error-message">Error loading test data. Please refresh the page.</div>';
+            }
+        }
+
+        function getTotalQuestions() {
+            if (!questionsData || !questionsData.parts) return 0;
+            
+            if (totalQuestionsCache > 0) return totalQuestionsCache;
+            
+            var total = 0;
+            questionsData.parts.forEach(function(part) {
+                if (part.questions) {
+                    total += part.questions.length;
+                }
+                if (part.passages) {
+                    part.passages.forEach(function(passage) {
+                        if (passage.questions) {
+                            total += passage.questions.length;
+                        }
+                    });
+                }
+            });
+            totalQuestionsCache = total;
+            return total;
+        }
+
+        function generateQuestions() {
+            var container = document.getElementById('questionsContainer');
+            container.innerHTML = '';
+            
+            questionsData.parts.forEach(function(part, partIndex) {
+                var partHeader = document.createElement('div');
+                partHeader.className = 'passage';
+                partHeader.innerHTML = '<h2>Part ' + part.partNumber + ' - ' + part.title + '</h2>';
+                if (part.instructions) {
+                    partHeader.innerHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + part.instructions + '</p>';
+                }
+                container.appendChild(partHeader);
+                
+                if (part.questions) {
+                    part.questions.forEach(function(q) {
+                        var questionDiv = document.createElement('div');
+                        questionDiv.className = 'question-block';
+                        
+                        var optionsHTML = q.options.map(function(opt, idx) {
+                            var letter = String.fromCharCode(65 + idx);
+                            var optText = typeof opt === 'string' ? opt : opt.text;
+                            return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.correctAnswer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + optText + '</label></div>';
+                        }).join('');
+                        
+                        var questionHTML = '<span class="question-number">Question ' + q.id.replace('q', '') + '</span>';
+                        if (q.image && q.image !== '') {
+                            questionHTML += '<img src="' + q.image + '" alt="Question ' + q.id.replace('q', '') + '" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">';
+                        }
+                        questionHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
+                        
+                        questionDiv.innerHTML = questionHTML;
+                        
+                        container.appendChild(questionDiv);
+                    });
+                }
+                
+                if (part.passages) {
+                    part.passages.forEach(function(passage, passageIndex) {
+                        var passageDiv = document.createElement('div');
+                        passageDiv.className = 'passage';
+                        var passageHTML = '<h2>' + passage.passage + '</h2>';
+                        if (passage.image && passage.image !== '') {
+                            passageHTML += '<img src="' + passage.image + '" alt="' + passage.passage + '" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">';
+                        }
+                        passageDiv.innerHTML = passageHTML;
+                        container.appendChild(passageDiv);
+                        
+                        if (passage.questions) {
+                            passage.questions.forEach(function(q) {
+                                var questionDiv = document.createElement('div');
+                                questionDiv.className = 'question-block';
+                                
+                                var optionsHTML = q.options.map(function(opt, idx) {
+                                    var letter = String.fromCharCode(65 + idx);
+                                    return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.answer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + opt + '</label></div>';
+                                }).join('');
+                                
+                                var questionText = q.question ? '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p>' : '';
+                                questionDiv.innerHTML = '<span class="question-number">Question ' + q.num + '</span>' + questionText + '<div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
+                                
+                                container.appendChild(questionDiv);
+                            });
+                        }
+                        
+                        if (passageIndex < part.passages.length - 1) {
+                            var divider = document.createElement('div');
+                            divider.className = 'passage-divider';
+                            container.appendChild(divider);
+                        }
+                    });
+                }
+                
+                if (partIndex < questionsData.parts.length - 1) {
+                    var divider = document.createElement('div');
+                    divider.className = 'passage-divider';
+                    container.appendChild(divider);
+                }
+            });
+        }
+
+        function recomputeScore() {
+            var c = 0;
+            var i = 0;
+            for (var v of questionState.values()) {
+                if (v === true) c++;
+                else if (v === false) i++;
+            }
+            correctCount = c;
+            incorrectCount = i;
+        }
+
+        function lockQuestion(questionId) {
+            var options = document.querySelectorAll('.option input[name="' + questionId + '"]');
+            options.forEach(function(inp) {
+                var opt = inp.closest('.option');
+                if (opt) {
+                    opt.style.pointerEvents = 'none';
+                    opt.style.opacity = '0.7';
+                }
+            });
+        }
+
+        function selectAnswer(optionElement, questionId, correctAnswer) {
+            var input = optionElement.querySelector('input');
+            
+            // Clear previous selection if any
+            var allInputs = document.querySelectorAll('.option input[name="' + questionId + '"]');
+            allInputs.forEach(function(inp) {
+                var opt = inp.closest('.option');
+                opt.classList.remove('selected-correct', 'selected-incorrect');
+                inp.checked = false;
+            });
+            
+            // Check the clicked input
+            input.checked = true;
+            var selectedValue = input.value;
+            var feedbackDiv = document.getElementById('feedback-' + questionId);
+            
+            if (selectedValue === correctAnswer) {
+                optionElement.classList.add('selected-correct');
+                feedbackDiv.textContent = '✓ Correct!';
+                feedbackDiv.classList.remove('incorrect');
+                feedbackDiv.classList.add('correct');
+                questionState.set(questionId, true);
+                lockQuestion(questionId);
+            } else {
+                optionElement.classList.add('selected-incorrect');
+                feedbackDiv.textContent = '✗ Incorrect. Try again!';
+                feedbackDiv.classList.remove('correct');
+                feedbackDiv.classList.add('incorrect');
+                // Don't lock on incorrect answer - allow re-selection
+                // Remove from state if previously marked as incorrect
+                if (questionState.get(questionId) === false) {
+                    questionState.delete(questionId);
+                }
+            }
+            
+            feedbackDiv.classList.add('show');
+            recomputeScore();
+            updateScore();
+        }
+
+        function updateScore() {
+            document.getElementById('correctScore').textContent = correctCount;
+            document.getElementById('incorrectScore').textContent = incorrectCount;
+            document.getElementById('totalScore').textContent = (correctCount + incorrectCount) + '/' + getTotalQuestions();
+        }
+
+        function resetQuiz() {
+            correctCount = 0;
+            incorrectCount = 0;
+            questionState.clear();
+            
+            document.querySelectorAll('.option').forEach(opt => {
+                opt.classList.remove('selected-correct', 'selected-incorrect');
+                opt.style.pointerEvents = 'auto';
+                opt.style.opacity = '1';
+            });
+            
+            document.querySelectorAll('input[type="radio"]').forEach(radio => {
+                radio.checked = false;
+            });
+            
+            document.querySelectorAll('.answer-feedback').forEach(fb => {
+                fb.classList.remove('show', 'correct', 'incorrect');
+            });
+            
+            updateScore();
+        }
+
+        function toggleAudioPlayer() {
+            var audioPlayer = document.getElementById('audioPlayer');
+            var btn = audioPlayer.querySelector('.collapse-btn');
+            audioPlayer.classList.toggle('collapsed');
+            btn.textContent = audioPlayer.classList.contains('collapsed') ? '+' : '−';
+            
+            // Adjust body padding
+            if (audioPlayer.classList.contains('collapsed')) {
+                document.body.style.paddingTop = '60px';
+            } else {
+                document.body.style.paddingTop = '120px';
+            }
+        }
+
+        // Load test when page is ready
+        document.addEventListener('DOMContentLoaded', loadTest);
+    </script>
+</body>
+</html>
