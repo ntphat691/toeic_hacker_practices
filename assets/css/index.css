@@ -1,0 +1,159 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #8c9eef;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.header {
+  background: #8c9eef;
+  color: #1e2749;
+  padding: 40px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+.header p {
+  font-size: 1.1em;
+  opacity: 0.9;
+}
+
+.content {
+  padding: 40px;
+}
+
+.volume-section {
+  margin-bottom: 50px;
+}
+
+.volume-title {
+  font-size: 2em;
+  color: #667eea;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #667eea;
+}
+
+.volume-title {
+  color: #667eea;
+  border-color: #667eea;
+}
+
+.test-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.test-card {
+  background: #f8f9fa;
+  padding: 30px;
+  border-radius: 12px;
+  border: 2px solid #e9ecef;
+  transition: all 0.3s;
+}
+
+.test-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+}
+
+.test-card:hover {
+  border-color: #667eea;
+  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+}
+
+.test-card h3 {
+  font-size: 1.5em;
+  margin-bottom: 15px;
+}
+
+.test-card h3 {
+  color: #667eea;
+}
+
+.test-buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.btn {
+  flex: 1;
+  padding: 12px 15px;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.9em;
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s;
+  color: white;
+}
+
+.btn-listening {
+  background: #667eea;
+}
+
+.btn-listening:hover {
+  background: #5568d3;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+}
+
+.btn-reading {
+  background: #f5576c;
+}
+
+.btn-reading:hover {
+  background: #e4465b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+  border-top: 1px solid #e9ecef;
+  font-weight: 700;
+}
+
+.intro {
+  background: #f8f9fa;
+  padding: 25px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  border-left: 5px solid #667eea;
+}
+
+.intro h3 {
+  color: #667eea;
+  margin-bottom: 10px;
+  font-size: 1.4em;
+}
+
+.intro p {
+  color: #555;
+  line-height: 1.8;
+}

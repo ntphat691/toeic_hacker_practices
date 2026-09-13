@@ -14,30 +14,41 @@
         <p id="testSubtitle">Loading...</p>
       </div>
 
-      <div class="audio-player" id="audioPlayer">
-        <button class="collapse-btn" onclick="toggleAudioPlayer()">−</button>
-        <p>🎵 Listening Audio - Click play to start the test</p>
-        <audio controls>
-          <source src="audio/TEST 1.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
-        </audio>
-      </div>
+      <nav class="breadcrumb">
+        <div class="breadcrumb-trail">
+          <a href="../../index.html">🏠 Home</a>
+          <span class="breadcrumb-sep">/</span>
+          <a href="../../index.html#vol2">Hacker Volume 2</a>
+          <span class="breadcrumb-sep">/</span>
+          <span class="breadcrumb-current">Test 01 · Listening</span>
+        </div>
+        <div class="breadcrumb-nav">
+          <a href="ReadingTest01.html" class="breadcrumb-btn">📖 Reading</a>
+          <a href="../TEST02/ListeningTest02.html" class="breadcrumb-btn">Test 02 ›</a>
+        </div>
+      </nav>
 
-      <div class="score-panel" id="scorePanel" style="display: none;">
-        <div class="score-item">
-          <div class="score-label">Correct</div>
-          <div class="score-value correct" id="correctScore">0</div>
+      <nav class="part-nav" id="partNav"></nav>
+
+      <div class="bottom-bar">
+        <div class="score-panel" id="scorePanel" style="display: none;">
+          <div class="score-item">
+            <div class="score-label">Correct / Incorrect</div>
+            <div class="score-value"><span class="correct" id="correctScore">0</span><span class="score-sep">/</span><span class="incorrect" id="incorrectScore">0</span></div>
+          </div>
+          <div class="score-item">
+            <div class="score-label">Progress</div>
+            <div class="score-value total" id="totalScore">0/0</div>
+          </div>
+          <div class="score-item">
+            <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
+          </div>
         </div>
-        <div class="score-item">
-          <div class="score-label">Progress</div>
-          <div class="score-value total" id="totalScore">0/0</div>
-        </div>
-        <div class="score-item">
-          <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
-        </div>
-        <div class="score-item">
-          <div class="score-label">Incorrect</div>
-          <div class="score-value incorrect" id="incorrectScore">0</div>
+        <div class="audio-player">
+          <audio controls>
+            <source src="audio/TEST 1.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+          </audio>
         </div>
       </div>
 
@@ -54,7 +65,7 @@
 
     <script>
       const questionsData = {
-        "testTitle": "Hacker 1 New TOEIC Listening Test 01",
+        "testTitle": "TOEIC Listening Test 01",
         "timeLimit": "45 Minutes",
         "parts": [
           {

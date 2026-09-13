@@ -17,8 +17,18 @@ function initializeQuiz() {
   document.getElementById('scorePanel').style.display = 'flex';
   document.getElementById('questionsContainer').style.display = 'block';
 
+  renderPartNav();
   generateQuestions();
   updateScore();
+}
+
+function renderPartNav() {
+  var nav = document.getElementById('partNav');
+  if (!nav || !questionsData || !questionsData.parts) return;
+
+  nav.innerHTML = questionsData.parts.map(function (part) {
+    return '<a href="#part-' + part.partNumber + '">Part ' + part.partNumber + '</a>';
+  }).join('');
 }
 
 function getTotalQuestions() {
@@ -50,6 +60,7 @@ function generateQuestions() {
   questionsData.parts.forEach(function (part, partIndex) {
     var partHeader = document.createElement('div');
     partHeader.className = 'passage';
+    partHeader.id = 'part-' + part.partNumber;
     partHeader.innerHTML = '<h2>Part ' + part.partNumber + ' - ' + part.title + '</h2>';
     if (part.instructions) {
       partHeader.innerHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + part.instructions + '</p>';
@@ -57,6 +68,12 @@ function generateQuestions() {
     container.appendChild(partHeader);
 
     if (part.questions) {
+      var hasImages = part.questions.some(function (q) { return q.image; });
+      var questionsWrapper = hasImages ? container : document.createElement('div');
+      if (!hasImages) {
+        questionsWrapper.className = 'question-grid';
+      }
+
       part.questions.forEach(function (q) {
         var questionDiv = document.createElement('div');
         questionDiv.className = 'question-block';
@@ -68,8 +85,12 @@ function generateQuestions() {
 
         questionDiv.innerHTML = '<span class="question-number">Question ' + q.id.replace('q', '') + '</span><p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
 
-        container.appendChild(questionDiv);
+        questionsWrapper.appendChild(questionDiv);
       });
+
+      if (!hasImages) {
+        container.appendChild(questionsWrapper);
+      }
     }
 
     if (part.passages) {
@@ -87,6 +108,12 @@ function generateQuestions() {
         container.appendChild(passageDiv);
 
         if (passage.questions) {
+          var hasQImages = passage.questions.some(function (q) { return q.image; });
+          var questionsWrapper = hasQImages ? container : document.createElement('div');
+          if (!hasQImages) {
+            questionsWrapper.className = 'question-grid';
+          }
+
           passage.questions.forEach(function (q) {
             var questionDiv = document.createElement('div');
             questionDiv.className = 'question-block';
@@ -99,8 +126,12 @@ function generateQuestions() {
             var questionText = q.question ? '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p>' : '';
             questionDiv.innerHTML = '<span class="question-number">Question ' + q.num + '</span>' + questionText + '<div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
 
-            container.appendChild(questionDiv);
+            questionsWrapper.appendChild(questionDiv);
           });
+
+          if (!hasQImages) {
+            container.appendChild(questionsWrapper);
+          }
         }
 
         if (passageIndex < part.passages.length - 1) {

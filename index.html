@@ -1,211 +1,33 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOEIC Hacker Practice Tests</title>
-    <style>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-      }
-
-      body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: #667eea;
-        padding: 20px;
-        min-height: 100vh;
-      }
-
-      .container {
-        max-width: 1400px;
-        margin: 0 auto;
-        background: white;
-        border-radius: 15px;
-        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
-        overflow: hidden;
-      }
-
-      .header {
-        background: #667eea;
-        color: white;
-        padding: 40px;
-        text-align: center;
-      }
-
-      .header h1 {
-        font-size: 2.5em;
-        margin-bottom: 10px;
-      }
-
-      .header p {
-        font-size: 1.1em;
-        opacity: 0.9;
-      }
-
-      .content {
-        padding: 40px;
-      }
-
-      .volume-section {
-        margin-bottom: 50px;
-      }
-
-      .volume-title {
-        font-size: 2em;
-        color: #667eea;
-        margin-bottom: 20px;
-        padding-bottom: 10px;
-        border-bottom: 3px solid #667eea;
-      }
-
-      .volume-title {
-        color: #667eea;
-        border-color: #667eea;
-      }
-
-      .test-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-        gap: 20px;
-      }
-
-      .test-card {
-        background: #f8f9fa;
-        padding: 30px;
-        border-radius: 12px;
-        border: 2px solid #e9ecef;
-        transition: all 0.3s;
-      }
-
-      .test-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-      }
-
-      .test-card:hover {
-        border-color: #667eea;
-        box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
-      }
-
-      .test-card h3 {
-        font-size: 1.5em;
-        margin-bottom: 15px;
-      }
-
-      .test-card h3 {
-        color: #667eea;
-      }
-
-      .test-number {
-        display: inline-block;
-        width: 45px;
-        height: 45px;
-        line-height: 45px;
-        text-align: center;
-        border-radius: 50%;
-        font-size: 1.3em;
-        font-weight: bold;
-        margin-bottom: 10px;
-        color: white;
-      }
-
-      .test-card .test-number {
-        background: #667eea;
-      }
-
-      .test-buttons {
-        display: flex;
-        gap: 10px;
-        margin-top: 15px;
-      }
-
-      .btn {
-        flex: 1;
-        padding: 12px 15px;
-        border: none;
-        border-radius: 8px;
-        font-size: 0.9em;
-        font-weight: 600;
-        text-align: center;
-        text-decoration: none;
-        cursor: pointer;
-        transition: all 0.3s;
-        color: white;
-      }
-
-      .btn-listening {
-        background: #667eea;
-      }
-
-      .btn-listening:hover {
-        background: #5568d3;
-        transform: translateY(-2px);
-        box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
-      }
-
-      .btn-reading {
-        background: #f5576c;
-      }
-
-      .btn-reading:hover {
-        background: #e4465b;
-        transform: translateY(-2px);
-        box-shadow: 0 4px 15px rgba(245, 87, 108, 0.4);
-      }
-
-      .footer {
-        text-align: center;
-        padding: 20px;
-        color: #666;
-        border-top: 1px solid #e9ecef;
-        font-weight: 700;
-      }
-
-      .intro {
-        background: #f8f9fa;
-        padding: 25px;
-        border-radius: 10px;
-        margin-bottom: 30px;
-        border-left: 5px solid #667eea;
-      }
-
-      .intro h3 {
-        color: #667eea;
-        margin-bottom: 10px;
-        font-size: 1.4em;
-      }
-
-      .intro p {
-        color: #555;
-        line-height: 1.8;
-      }
-    </style>
+    <link rel="stylesheet" href="assets/css/index.css">
   </head>
   <body>
     <div class="container">
       <div class="header">
         <h1>🎧📖 TOEIC Hacker Practice Tests</h1>
-        <p>Combined Hacker 2 & Hacker 3 Practice Tests</p>
       </div>
 
       <div class="content">
         <div class="intro">
           <h3>📚 Welcome to TOEIC Hacker Practice</h3>
-          <p>This collection contains 20 full-length TOEIC Hacker practice tests (10 from Hacker 2 and 10 from Hacker 3) with both Listening and Reading sections. Each Listening
-            test includes 100 questions covering Part 1 (Photographs), Part 2 (Question-Response), Part 3 (Conversations), and Part 4 (Short Talks). Click on any test below to
-            start practicing.</p>
+          <p>
+            This collection contains 20 full-length TOEIC Hacker practice tests (10 from Hacker 2 and 10 from Hacker 3) with both Listening and Reading sections.<br />
+            Each Listening test includes 100 questions covering Part 1 (Photographs), Part 2 (Question-Response), Part 3 (Conversations), and Part 4 (Short Talks).<br />
+            Click on any test below to start practicing.
+          </p>
         </div>
 
         <!-- Hacker Volume 2 Section -->
-        <div class="volume-section">
+        <div class="volume-section" id="vol2">
           <h2 class="volume-title">📕 Hacker Volume 2 Practice Tests</h2>
           <div class="test-grid">
             <div class="test-card">
-              <div class="test-number">1</div>
-              <h3>TOEIC Test 01</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 01</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST01/ListeningTest01.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST01/ReadingTest01.html" class="btn btn-reading">📖 Reading</a>
@@ -213,9 +35,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">2</div>
-              <h3>TOEIC Test 02</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 02</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST02/ListeningTest02.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST02/ReadingTest02.html" class="btn btn-reading">📖 Reading</a>
@@ -223,9 +43,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">3</div>
-              <h3>TOEIC Test 03</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 03</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST03/ListeningTest03.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST03/ReadingTest03.html" class="btn btn-reading">📖 Reading</a>
@@ -233,9 +51,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">4</div>
-              <h3>TOEIC Test 04</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 04</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST04/ListeningTest04.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST04/ReadingTest04.html" class="btn btn-reading">📖 Reading</a>
@@ -243,9 +59,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">5</div>
-              <h3>TOEIC Test 05</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 05</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST05/ListeningTest05.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST05/ReadingTest05.html" class="btn btn-reading">📖 Reading</a>
@@ -253,9 +67,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">6</div>
-              <h3>TOEIC Test 06</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 06</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST06/ListeningTest06.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST06/ReadingTest06.html" class="btn btn-reading">📖 Reading</a>
@@ -263,9 +75,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">7</div>
-              <h3>TOEIC Test 07</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 07</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST07/ListeningTest07.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST07/ReadingTest07.html" class="btn btn-reading">📖 Reading</a>
@@ -273,9 +83,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">8</div>
-              <h3>TOEIC Test 08</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 08</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST08/ListeningTest08.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST08/ReadingTest08.html" class="btn btn-reading">📖 Reading</a>
@@ -283,9 +91,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">9</div>
-              <h3>TOEIC Test 09</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 09</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST09/ListeningTest09.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST09/ReadingTest09.html" class="btn btn-reading">📖 Reading</a>
@@ -293,9 +99,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">10</div>
-              <h3>TOEIC Test 10</h3>
-              <p>Hacker Volume 2</p>
+              <h3>Test 10</h3>
               <div class="test-buttons">
                 <a href="HackerVol2_Practice/TEST10/ListeningTest10.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol2_Practice/TEST10/ReadingTest10.html" class="btn btn-reading">📖 Reading</a>
@@ -305,13 +109,11 @@
         </div>
 
         <!-- Hacker Volume 3 Section -->
-        <div class="volume-section">
+        <div class="volume-section" id="vol3">
           <h2 class="volume-title">📘 Hacker Volume 3 Practice Tests</h2>
           <div class="test-grid">
             <div class="test-card">
-              <div class="test-number">1</div>
-              <h3>TOEIC Test 01</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 01</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST01/ListeningTest01.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST01/ReadingTest01.html" class="btn btn-reading">📖 Reading</a>
@@ -319,9 +121,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">2</div>
-              <h3>TOEIC Test 02</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 02</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST02/ListeningTest02.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST02/ReadingTest02.html" class="btn btn-reading">📖 Reading</a>
@@ -329,9 +129,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">3</div>
-              <h3>TOEIC Test 03</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 03</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST03/ListeningTest03.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST03/ReadingTest03.html" class="btn btn-reading">📖 Reading</a>
@@ -339,9 +137,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">4</div>
-              <h3>TOEIC Test 04</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 04</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST04/ListeningTest04.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST04/ReadingTest04.html" class="btn btn-reading">📖 Reading</a>
@@ -349,9 +145,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">5</div>
-              <h3>TOEIC Test 05</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 05</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST05/ListeningTest05.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST05/ReadingTest05.html" class="btn btn-reading">📖 Reading</a>
@@ -359,9 +153,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">6</div>
-              <h3>TOEIC Test 06</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 06</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST06/ListeningTest06.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST06/ReadingTest06.html" class="btn btn-reading">📖 Reading</a>
@@ -369,9 +161,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">7</div>
-              <h3>TOEIC Test 07</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 07</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST07/ListeningTest07.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST07/ReadingTest07.html" class="btn btn-reading">📖 Reading</a>
@@ -379,9 +169,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">8</div>
-              <h3>TOEIC Test 08</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 08</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST08/ListeningTest08.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST08/ReadingTest08.html" class="btn btn-reading">📖 Reading</a>
@@ -389,9 +177,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">9</div>
-              <h3>TOEIC Test 09</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 09</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST09/ListeningTest09.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST09/ReadingTest09.html" class="btn btn-reading">📖 Reading</a>
@@ -399,9 +185,7 @@
             </div>
 
             <div class="test-card">
-              <div class="test-number">10</div>
-              <h3>TOEIC Test 10</h3>
-              <p>Hacker Volume 3</p>
+              <h3>Test 10</h3>
               <div class="test-buttons">
                 <a href="HackerVol3_Practice/TEST10/ListeningTest10.html" class="btn btn-listening">🎧 Listening</a>
                 <a href="HackerVol3_Practice/TEST10/ReadingTest10.html" class="btn btn-reading">📖 Reading</a>

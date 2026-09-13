@@ -12,6 +12,7 @@ function loadTest() {
     document.getElementById('questionsContainer').style.display = 'block';
     document.getElementById('scorePanel').style.display = 'flex';
 
+    renderPartNav();
     generateQuestions();
     updateScore();
 
@@ -20,6 +21,15 @@ function loadTest() {
     document.getElementById('loadingContainer').innerHTML =
         '<div class="error-message">Error loading test data. Please refresh the page.</div>';
   }
+}
+
+function renderPartNav() {
+  var nav = document.getElementById('partNav');
+  if (!nav || !questionsData || !questionsData.parts) return;
+
+  nav.innerHTML = questionsData.parts.map(function (part) {
+    return '<a href="#part-' + part.partNumber + '">Part ' + part.partNumber + '</a>';
+  }).join('');
 }
 
 function getTotalQuestions() {
@@ -51,6 +61,7 @@ function generateQuestions() {
   questionsData.parts.forEach(function (part, partIndex) {
     var partHeader = document.createElement('div');
     partHeader.className = 'passage';
+    partHeader.id = 'part-' + part.partNumber;
     partHeader.innerHTML = '<h2>Part ' + part.partNumber + ' - ' + part.title + '</h2>';
     if (part.instructions) {
       partHeader.innerHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + part.instructions + '</p>';
@@ -58,6 +69,12 @@ function generateQuestions() {
     container.appendChild(partHeader);
 
     if (part.questions) {
+      var hasImages = part.questions.some(function (q) { return q.image; });
+      var questionsWrapper = hasImages ? container : document.createElement('div');
+      if (!hasImages) {
+        questionsWrapper.className = 'question-grid';
+      }
+
       part.questions.forEach(function (q) {
         var questionDiv = document.createElement('div');
         questionDiv.className = 'question-block';
@@ -68,16 +85,25 @@ function generateQuestions() {
           return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.correctAnswer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + optText + '</label></div>';
         }).join('');
 
-        var questionHTML = '<span class="question-number">Question ' + q.id.replace('q', '') + '</span>';
+        var questionNumberHTML = '<span class="question-number">Question ' + q.id.replace('q', '') + '</span>';
+        var questionBodyHTML = '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
+
         if (q.image && q.image !== '') {
-          questionHTML += '<img src="' + q.image + '" alt="Question ' + q.id.replace('q', '') + '" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">';
+          questionDiv.classList.add('with-image');
+          questionDiv.innerHTML =
+            questionNumberHTML +
+            '<div class="question-row"><div class="question-media"><img src="' + q.image + '" alt="Question ' + q.id.replace('q', '') + '"></div>' +
+            '<div class="question-content">' + questionBodyHTML + '</div></div>';
+        } else {
+          questionDiv.innerHTML = questionNumberHTML + questionBodyHTML;
         }
-        questionHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
 
-        questionDiv.innerHTML = questionHTML;
-
-        container.appendChild(questionDiv);
+        questionsWrapper.appendChild(questionDiv);
       });
+
+      if (!hasImages) {
+        container.appendChild(questionsWrapper);
+      }
     }
 
     if (part.passages) {
@@ -92,6 +118,12 @@ function generateQuestions() {
         container.appendChild(passageDiv);
 
         if (passage.questions) {
+          var hasQImages = passage.questions.some(function (q) { return q.image; });
+          var questionsWrapper = hasQImages ? container : document.createElement('div');
+          if (!hasQImages) {
+            questionsWrapper.className = 'question-grid';
+          }
+
           passage.questions.forEach(function (q) {
             var questionDiv = document.createElement('div');
             questionDiv.className = 'question-block';
@@ -104,8 +136,12 @@ function generateQuestions() {
             var questionText = q.question ? '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p>' : '';
             questionDiv.innerHTML = '<span class="question-number">Question ' + q.num + '</span>' + questionText + '<div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
 
-            container.appendChild(questionDiv);
+            questionsWrapper.appendChild(questionDiv);
           });
+
+          if (!hasQImages) {
+            container.appendChild(questionsWrapper);
+          }
         }
 
         if (passageIndex < part.passages.length - 1) {
@@ -212,20 +248,6 @@ function resetQuiz() {
   });
 
   updateScore();
-}
-
-function toggleAudioPlayer() {
-  var audioPlayer = document.getElementById('audioPlayer');
-  var btn = audioPlayer.querySelector('.collapse-btn');
-  audioPlayer.classList.toggle('collapsed');
-  btn.textContent = audioPlayer.classList.contains('collapsed') ? '+' : '−';
-
-  // Adjust body padding
-  if (audioPlayer.classList.contains('collapsed')) {
-    document.body.style.paddingTop = '60px';
-  } else {
-    document.body.style.paddingTop = '120px';
-  }
 }
 
 // Load test when page is ready
