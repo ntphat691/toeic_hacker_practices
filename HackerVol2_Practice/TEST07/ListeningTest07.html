@@ -1,604 +1,1018 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOEIC Listening - Full Practice Test</title>
     <link rel="stylesheet" href="../../assets/css/common.css">
     <link rel="stylesheet" href="../../assets/css/listening.css">
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <div class="header">
-            <h1 id="testTitle">🎧 TOEIC Listening Practice Test</h1>
-            <p id="testSubtitle">Loading...</p>
-        </div>
-        
-        <div class="audio-player" id="audioPlayer">
-            <button class="collapse-btn" onclick="toggleAudioPlayer()">−</button>
-            <p>🎵 Listening Audio - Click play to start the test</p>
-            <audio controls>
-                <source src="audio/TEST 7.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-        </div>
-        
-        <div class="score-panel" id="scorePanel" style="display: none;">
-            <div class="score-item">
-                <div class="score-label">Correct</div>
-                <div class="score-value correct" id="correctScore">0</div>
-            </div>
-            <div class="score-item">
-                <div class="score-label">Progress</div>
-                <div class="score-value total" id="totalScore">0/0</div>
-            </div>
-            <div class="score-item">
-                <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
-            </div>
-            <div class="score-item">
-                <div class="score-label">Incorrect</div>
-                <div class="score-value incorrect" id="incorrectScore">0</div>
-            </div>
-        </div>
+      <div class="header">
+        <h1 id="testTitle">🎧 TOEIC Listening Practice Test</h1>
+        <p id="testSubtitle">Loading...</p>
+      </div>
 
-        <div class="loading-container" id="loadingContainer">
-            <div class="loading-spinner"></div>
-            <div class="loading-text">Loading test data...</div>
-        </div>
+      <div class="audio-player" id="audioPlayer">
+        <button class="collapse-btn" onclick="toggleAudioPlayer()">−</button>
+        <p>🎵 Listening Audio - Click play to start the test</p>
+        <audio controls>
+          <source src="audio/TEST 7.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      </div>
 
-        <div class="content" id="questionsContainer" style="display: none;">
-            <!-- Questions will be dynamically generated here -->
+      <div class="score-panel" id="scorePanel" style="display: none;">
+        <div class="score-item">
+          <div class="score-label">Correct</div>
+          <div class="score-value correct" id="correctScore">0</div>
         </div>
-        <div class="footer">@phuongvu</div>
+        <div class="score-item">
+          <div class="score-label">Progress</div>
+          <div class="score-value total" id="totalScore">0/0</div>
+        </div>
+        <div class="score-item">
+          <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
+        </div>
+        <div class="score-item">
+          <div class="score-label">Incorrect</div>
+          <div class="score-value incorrect" id="incorrectScore">0</div>
+        </div>
+      </div>
+
+      <div class="loading-container" id="loadingContainer">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Loading test data...</div>
+      </div>
+
+      <div class="content" id="questionsContainer" style="display: none;">
+        <!-- Questions will be dynamically generated here -->
+      </div>
+      <div class="footer"></div>
     </div>
 
     <script>
-        const questionsData = {
-  "testTitle": "Hacker 7 New TOEIC Listening Test 07",
-  "timeLimit": "45 Minutes",
-  "parts": [
-    {
-      "partNumber": 1,
-      "title": "Photographs",
-      "instructions": "Choose the statement that best describes the picture.",
-      "questions": [
-        {
-          "id": "q1",
-          "question": "Look at the picture and choose the best description.",
-          "image": "image/1.png",
-          "options": [
-            {"text": "They are traveling along a road.", "value": "A"},
-            {"text": "They are removing their backpacks.", "value": "B"},
-            {"text": "They are biking down a path.", "value": "C"},
-            {"text": "They are walking near some trees.", "value": "D"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q2",
-          "question": "Look at the picture and choose the best description.",
-          "image": "image/2.png",
-          "options": [
-            {"text": "A man is typing on a keyboard.", "value": "A"},
-            {"text": "A man is leaning on an armrest.", "value": "B"},
-            {"text": "A woman is pushing a chair.", "value": "C"},
-            {"text": "A woman is pointing at a monitor.", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q3",
-          "question": "Look at the picture and choose the best description.",
-          "image": "image/3.png",
-          "options": [
-            {"text": "Some dirt is piled next to a shed.", "value": "A"},
-            {"text": "A worker is spraying a stream of water at the ground.", "value": "B"},
-            {"text": "A gardener has grasped a hose with both hands.", "value": "C"},
-            {"text": "A gardener is rinsing a tool near a flower bed.", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q4",
-          "question": "Look at the picture and choose the best description.",
-          "image": "image/4.png",
-          "options": [
-            {"text": "Some trucks are being loaded with goods.", "value": "A"},
-            {"text": "A garage door is being closed.", "value": "B"},
-            {"text": "Some lights are attached to the ceiling.", "value": "C"},
-            {"text": "A vehicle window is damaged.", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q5",
-          "question": "Look at the picture and choose the best description.",
-          "image": "image/5.png",
-          "options": [
-            {"text": "A river connects to a larger body of water.", "value": "A"},
-            {"text": "Both sides of a canal are bordered by structures.", "value": "B"},
-            {"text": "A boat is sailing under a footbridge.", "value": "C"},
-            {"text": "People are lined up to board a vessel.", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q6",
-          "question": "Look at the picture and choose the best description.",
-          "image": "image/6.png",
-          "options": [
-            {"text": "A fence blocks the entrance to a building.", "value": "A"},
-            {"text": "All pedestrians have cleared out of a public square.", "value": "B"},
-            {"text": "A group has gathered at the base of a lamppost.", "value": "C"},
-            {"text": "Some bicycles have been left unattended.", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        }
-      ]
-    },
-    {
-      "partNumber": 2,
-      "title": "Question-Response",
-      "instructions": "Listen to the question or statement and choose the best response.",
-      "questions": [
-        {
-          "id": "q7",
-          "question": "Who can register for the business Spanish class?",
-          "options": [
-            {"text": "Anyone interested may sign up.", "value": "A"},
-            {"text": "It's right by the cash register.", "value": "B"},
-            {"text": "Kendra is our newest instructor.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q8",
-          "question": "Which of our clients will have to pay increased fees?",
-          "options": [
-            {"text": "They all will.", "value": "A"},
-            {"text": "I processed the payment.", "value": "B"},
-            {"text": "Because of rising costs.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q9",
-          "question": "Have you considered switching to a different bank?",
-          "options": [
-            {"text": "Just a $50 cash withdrawal, please.", "value": "A"},
-            {"text": "You'd better let the accountant know.", "value": "B"},
-            {"text": "I like my current one well enough.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q10",
-          "question": "Let's take a walk through the park.",
-          "options": [
-            {"text": "I'll go grab my jacket.", "value": "A"},
-            {"text": "It's underneath that tree.", "value": "B"},
-            {"text": "About two miles.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q11",
-          "question": "I don't know how to fill out the new time sheet.",
-          "options": [
-            {"text": "I think I saw it on your desk.", "value": "A"},
-            {"text": "Ask Sue to give you a hand.", "value": "B"},
-            {"text": "My friend showed me around.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q12",
-          "question": "Where did you decide to hold the fundraising banquet?",
-          "options": [
-            {"text": "A few options are being discussed.", "value": "A"},
-            {"text": "Most of the guests have arrived.", "value": "B"},
-            {"text": "It will take place next Saturday.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q13",
-          "question": "How much will it cost to have this skirt altered?",
-          "options": [
-            {"text": "That color suits you.", "value": "A"},
-            {"text": "All items of clothing are on sale.", "value": "B"},
-            {"text": "There's no charge for that.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q14",
-          "question": "Is North Road closed off for street repairs?",
-          "options": [
-            {"text": "Yes, until next week.", "value": "A"},
-            {"text": "No, the shop is on Leland Drive.", "value": "B"},
-            {"text": "That is the quickest route.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q15",
-          "question": "Wouldn't you rather have a first class seat for the flight?",
-          "options": [
-            {"text": "No, I wanted coffee instead.", "value": "A"},
-            {"text": "I've already arrived at the Gimpo airport.", "value": "B"},
-            {"text": "Yes, but it's too expensive.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q16",
-          "question": "Why are you dissatisfied with these eyeglasses?",
-          "options": [
-            {"text": "We manufacture commercial lenses.", "value": "A"},
-            {"text": "Don't you think the frames are too large?", "value": "B"},
-            {"text": "Customers seem to be happy with the results.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q17",
-          "question": "Is the new line of sportswear going to be launched on schedule?",
-          "options": [
-            {"text": "About two months ago.", "value": "A"},
-            {"text": "It is very popular with consumers.", "value": "B"},
-            {"text": "The launch has been pushed back.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q18",
-          "question": "Apparently, Abby from the human resources department was promoted.",
-          "options": [
-            {"text": "I hadn't heard about the outing.", "value": "A"},
-            {"text": "Mr. Richard has named her regional director.", "value": "B"},
-            {"text": "They're promoting a new product.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q19",
-          "question": "Where do you want to get together to plan our backpacking trip?",
-          "options": [
-            {"text": "I don't have a preference.", "value": "A"},
-            {"text": "Our gear must be packed.", "value": "B"},
-            {"text": "Don't you think we should camp for a few nights?", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q20",
-          "question": "Why don't we carpool to the office from now on?",
-          "options": [
-            {"text": "I usually drive to work.", "value": "A"},
-            {"text": "There are vehicles parked along the street.", "value": "B"},
-            {"text": "That would save us gas money.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q21",
-          "question": "When will my raise go into effect?",
-          "options": [
-            {"text": "I'd like to go in, too.", "value": "A"},
-            {"text": "The show begins at 5 p.m.", "value": "B"},
-            {"text": "Within a week or so.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q22",
-          "question": "Aren't suitcases supposed to be stored in overhead compartments?",
-          "options": [
-            {"text": "Small ones can be kept under the seats.", "value": "A"},
-            {"text": "The airline has misplaced my luggage.", "value": "B"},
-            {"text": "The store is still open.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q23",
-          "question": "Employees receive a commission on every appliance that they sell.",
-          "options": [
-            {"text": "That model is one of our top sellers.", "value": "A"},
-            {"text": "That's a great incentive for workers.", "value": "B"},
-            {"text": "Actually, we visited a local dealership.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q24",
-          "question": "How long can I use this transit pass?",
-          "options": [
-            {"text": "You can buy it at the ticket office.", "value": "A"},
-            {"text": "It's good for two more weeks.", "value": "B"},
-            {"text": "Transfer at Stanford Station.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q25",
-          "question": "Has anyone confirmed tonight's dinner reservations at Denarii Bistro?",
-          "options": [
-            {"text": "Sure, I can make some food for us.", "value": "A"},
-            {"text": "The restaurant on Elm Street.", "value": "B"},
-            {"text": "Didn't your secretary contact the restaurant?", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q26",
-          "question": "The CEO offered you a position as a sales manager, didn't she?",
-          "options": [
-            {"text": "I really appreciate your offer.", "value": "A"},
-            {"text": "No, that's just a rumor.", "value": "B"},
-            {"text": "I plan to host the corporate executives.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q27",
-          "question": "What time will the volunteers show up for the event?",
-          "options": [
-            {"text": "At the main entrance.", "value": "A"},
-            {"text": "I'll have to check with Ann.", "value": "B"},
-            {"text": "There are 30 expected guests.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q28",
-          "question": "Please set up two additional workspaces.",
-          "options": [
-            {"text": "I'll take care of that now.", "value": "A"},
-            {"text": "OK, but subtract the sum from the bill.", "value": "B"},
-            {"text": "Everyone had his or her own station.", "value": "C"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q29",
-          "question": "Whose fountain pen is sitting on the front desk?",
-          "options": [
-            {"text": "Sign your name on the register.", "value": "A"},
-            {"text": "I've never seen it before.", "value": "B"},
-            {"text": "You may sit anywhere you'd like.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q30",
-          "question": "Are you going to paint the kitchen yourself or hire a contractor?",
-          "options": [
-            {"text": "The same color as the living room.", "value": "A"},
-            {"text": "Put it next to the refrigerator.", "value": "B"},
-            {"text": "I'm too busy these days.", "value": "C"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q31",
-          "question": "Did you buy the watch we saw at the department store yesterday?",
-          "options": [
-            {"text": "I will deliver it soon.", "value": "A"},
-            {"text": "I couldn't resist.", "value": "B"},
-            {"text": "Yes, I thought it was.", "value": "C"}
-          ],
-          "correctAnswer": "B"
-        }
-      ]
-    },
-    {
-      "partNumber": 3,
-      "title": "Conversations",
-      "instructions": "Listen to the conversation and answer the three questions for each conversation.",
-      "passages": [
-        {
-          "passage": "Questions 32-34:",
-          "questions": [
-            { "id": "q32", "num": 32, "question": "Where most likely are the speakers?", "options": ["At a car dealership", "At a gas station", "At an auto mechanic shop", "At a rental agency"], "answer": "D" },
-            { "id": "q33", "num": 33, "question": "What does the man ask the woman about?", "options": ["Whether a vehicle was damaged", "Why an agreement was not signed", "How much refueling costs", "What features a car has"], "answer": "A" },
-            { "id": "q34", "num": 34, "question": "Why is the woman being charged extra?", "options": ["She did not arrive on time.", "She requested a cleaning service.", "She did not refill the gas tank.", "She agreed to an upgrade."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 35-37:",
-          "questions": [
-            { "id": "q35", "num": 35, "question": "What does the man say about the book fair?", "options": ["It was held at a local library.", "It was featured in a major magazine.", "It provided reading materials to kids.", "It had a lower turnout than anticipated."], "answer": "D" },
-            { "id": "q36", "num": 36, "question": "Why does the man say, \"Do you have any clue as to why she didn't\"?", "options": ["He is concerned about a proposal.", "He is curious about an advertising decision.", "He feels a cost to be reasonable.", "He thinks a choice should be reconsidered."], "answer": "B" },
-            { "id": "q37", "num": 37, "question": "What was Ms. Gabbert unable to do?", "options": ["Devote more funds for an event", "Meet with a financial consultant", "Participate in a company event", "Review a budgetary document"], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 38-40:",
-          "questions": [
-            { "id": "q38", "num": 38, "question": "What did the woman do last Thursday?", "options": ["Wrote an article", "Created a social media profile", "Interviewed a local chef", "Hosted an opening event"], "answer": "A" },
-            { "id": "q39", "num": 39, "question": "According to the man, what did Lima Kitchen recently do?", "options": ["Developed an online page", "Started business operations", "Offered discount coupons", "Remodeled a dining area"], "answer": "B" },
-            { "id": "q40", "num": 40, "question": "What does the man mean when he says, \"maybe something similar is in order\"?", "options": ["He is encouraging more commercials.", "He wants some renovations done.", "He is promoting another article.", "He wants to try different food styles."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 41-43:",
-          "questions": [
-            { "id": "q41", "num": 41, "question": "What are the speakers mainly discussing?", "options": ["The benefits of employee training", "The effects of increased competition", "The details of new regulations", "The possibility of expansion"], "answer": "D" },
-            { "id": "q42", "num": 42, "question": "Why is Allen concerned?", "options": ["He has received multiple complaints.", "He does not want to lose customers.", "He is unable to afford some equipment.", "He could not find a moving company."], "answer": "B" },
-            { "id": "q43", "num": 43, "question": "What does the woman recommend?", "options": ["Ordering mechanical equipment", "Stopping by a vacant facility", "Buying a nearby property", "Constructing more branches"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 44-46:",
-          "questions": [
-            { "id": "q44", "num": 44, "question": "What does the man want to do?", "options": ["Enroll in a class", "Apply for an internship", "Speak with a lawyer", "Tour an institute campus"], "answer": "A" },
-            { "id": "q45", "num": 45, "question": "What did the man do this morning?", "options": ["Submitted a registration form", "Contacted an instructor", "Visited an online page", "Checked a class schedule"], "answer": "C" },
-            { "id": "q46", "num": 46, "question": "What will the woman probably do next?", "options": ["Confirm an account number", "Set up some appointments", "Process a fee payment", "Hand over some documents"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 47-49:",
-          "questions": [
-            { "id": "q47", "num": 47, "question": "Where do the speakers most likely work?", "options": ["At a supermarket", "At an advertising firm", "At a movie production company", "At a donut shop"], "answer": "D" },
-            { "id": "q48", "num": 48, "question": "Why is the woman concerned?", "options": ["A sale is not drawing customers.", "A commercial lacks some information.", "A video is longer than anticipated.", "A store interior is not fully prepared."], "answer": "B" },
-            { "id": "q49", "num": 49, "question": "What does the woman mean when she says, \"I think that's what we need to do at this point\"?", "options": ["She wants to remove a segment.", "She thinks a film crew should be hired.", "She is ready to start a promotion.", "She would like to release multiple videos."], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 50-52:",
-          "questions": [
-            { "id": "q50", "num": 50, "question": "Who most likely is the man?", "options": ["A fashion designer", "A customer service representative", "A Web site developer", "A post office worker"], "answer": "B" },
-            { "id": "q51", "num": 51, "question": "According to the man, what did the woman fail to do?", "options": ["Pay a shipping fee", "Input a correct detail", "Submit a receipt", "Log in to a Web page"], "answer": "B" },
-            { "id": "q52", "num": 52, "question": "According to the man, what should the woman do with a code?", "options": ["Include it with an order", "Share it with an employee", "Present it to a manager", "Write it on a billing statement"], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 53-55:",
-          "questions": [
-            { "id": "q53", "num": 53, "question": "What does the woman say about her work?", "options": ["It can be stressful at times.", "It is very technical in nature.", "It requires regular business trips.", "It involves frequent movements."], "answer": "D" },
-            { "id": "q54", "num": 54, "question": "What type of business does the woman work in?", "options": ["A clothing distributor", "A footwear factory", "A medical facility", "A retail store"], "answer": "B" },
-            { "id": "q55", "num": 55, "question": "What does the man suggest the woman do?", "options": ["Seek out a physical therapist", "Consider alternative professions", "Discuss a situation with a supervisor", "Request some additional safety equipment"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 56-58:",
-          "questions": [
-            { "id": "q56", "num": 56, "question": "What issue does the man mention?", "options": ["A Web site is experiencing a glitch.", "A scheduling conflict has occurred.", "A job opening has received little interest.", "An application was submitted after a due date."], "answer": "C" },
-            { "id": "q57", "num": 57, "question": "What does the woman offer to do?", "options": ["Coordinate with an online firm's staff", "Redesign a social media site", "Arrange an appointment with a recruiter", "Review programmer applications"], "answer": "A" },
-            { "id": "q58", "num": 58, "question": "What does the woman ask the man to do?", "options": ["Edit a recruitment posting", "Lead an upcoming meeting", "Post some information online", "Give her an update this afternoon"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 59-61:",
-          "questions": [
-            { "id": "q59", "num": 59, "question": "What is implied about First United Bank?", "options": ["It specializes in helping small businesses.", "It offers loans to all new members.", "It recently launched some new services.", "It advertises in a publication."], "answer": "D" },
-            { "id": "q60", "num": 60, "question": "Why is the man seeking a loan?", "options": ["To invest in a store expansion", "To purchase some equipment", "To pay for machinery repairs", "To hire more workers at a facility"], "answer": "B" },
-            { "id": "q61", "num": 61, "question": "What does Jessica tell the man to do?", "options": ["Initiate an application process", "Wait for better rates", "Submit personal identification", "Determine a loan amount"], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 62-64:",
-          "questions": [
-            { "id": "q62", "num": 62, "question": "Who most likely is the man?", "options": ["A marketing manager", "A television host", "A company president", "A luggage designer"], "answer": "B" },
-            { "id": "q63", "num": 63, "question": "What is unique about the ES32 suitcase?", "options": ["Its fabric options", "Its portability", "Its accessories", "Its durability"], "answer": "C" },
-            { "id": "q64", "num": 64, "question": "What will probably happen in October?", "options": ["A product will be updated.", "A bag line will be introduced.", "A discount will be discontinued.", "A suitcase will be recalled."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 65-67:",
-          "image": "image/65-67.png",
-          "questions": [
-            { "id": "q65", "num": 65, "question": "What is the conversation mainly about?", "options": ["An incorrect charge", "A return policy", "A damaged garment", "An employee discount"], "answer": "A" },
-            { "id": "q66", "num": 66, "question": "What does the man offer to do?", "options": ["Exchange some clothing", "Provide a voucher", "Mark down an item", "Print out a new receipt"], "answer": "B" },
-            { "id": "q67", "num": 67, "question": "Look at the graphic. What brand does the woman want to return?", "options": ["Wriggly", "JPX", "Kent", "Teton"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 68-71:",
-          "image": "image/68-71.png",
-          "questions": [
-            { "id": "q68", "num": 68, "question": "Why is the performance being held?", "options": ["To celebrate an album release", "To raise funds for an organization", "To commemorate an anniversary", "To honor the reopening of a hall"], "answer": "B" },
-            { "id": "q69", "num": 69, "question": "Look at the graphic. What information is incorrectly delivered by the man?", "options": ["The performer's name", "The show time", "The section letter", "The seat number"], "answer": "C" },
-            { "id": "q70", "num": 70, "question": "What are audience members not permitted to do?", "options": ["Bring beverages into the auditorium", "Take pictures of the performance", "Turn on their cell phones in the hall", "Visit the snack bar during the show"], "answer": "B" }
-          ]
-        }
-      ]
-    },
-    {
-      "partNumber": 4,
-      "title": "Short Talks",
-      "instructions": "Listen to the short talk and answer the three questions.",
-      "passages": [
-        {
-          "passage": "Questions 71-73:",
-          "questions": [
-            { "id": "q71", "num": 71, "question": "According to the speaker, what did the speaker receive?", "options": ["A script", "Some photographs", "Some charts", "An event program"], "answer": "A" },
-            { "id": "q72", "num": 72, "question": "What does the speaker recommend?", "options": ["Discussing a new investment strategy", "Including graphics in a presentation", "Checking the accuracy of some data", "Increasing the length of a speech"], "answer": "B" },
-            { "id": "q73", "num": 73, "question": "Why is Carol Wilkins unavailable on June 14?", "options": ["She will be attending a workshop.", "She will be meeting with a supervisor.", "She will be taking a business trip.", "She will be giving a lecture."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 74-76:",
-          "questions": [
-            { "id": "q74", "num": 74, "question": "Where is the talk most likely taking place?", "options": ["In an appliance store", "In a shopping mall", "In a repair shop", "In a convention center"], "answer": "D" },
-            { "id": "q75", "num": 75, "question": "According to the speaker, what is a feature of the Clear Flow XS?", "options": ["It has a lower retail price.", "It is self-cleaning.", "It has a large capacity.", "It is energy efficient."], "answer": "D" },
-            { "id": "q76", "num": 76, "question": "What does the speaker mean when he says, \"I'll go over that in detail soon\"?", "options": ["He does not have enough time for a demonstration.", "He will not provide pricing information immediately.", "He would like to explain the company's warranty now.", "He wants to focus on an aspect of the product's design."], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 77-79:",
-          "questions": [
-            { "id": "q77", "num": 77, "question": "What is being advertised?", "options": ["Landscaping services", "Financial products", "Luxury homes", "Lakefront land"], "answer": "D" },
-            { "id": "q78", "num": 78, "question": "What added benefit is available to buyers?", "options": ["Free property inspections", "Access to public utilities", "Special financing", "Professional consultations"], "answer": "B" },
-            { "id": "q79", "num": 79, "question": "According to the speaker, why should listeners contact the office?", "options": ["To request images of a site", "To gain entry to a building", "To arrange a tour of a location", "To receive directions to a lake"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 80-82:",
-          "questions": [
-            { "id": "q80", "num": 80, "question": "Where are the listeners?", "options": ["At a senior facility", "At a public school", "At a community center", "At a medical clinic"], "answer": "A" },
-            { "id": "q81", "num": 81, "question": "What is mentioned about volunteers?", "options": ["They will work on weekdays only.", "They will plan various events.", "They have received certification.", "They have watched a video."], "answer": "B" },
-            { "id": "q82", "num": 82, "question": "What will the speaker most likely do next?", "options": ["Update a schedule", "Distribute documents", "Give a presentation", "Explain assignments"], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 83-85:",
-          "questions": [
-            { "id": "q83", "num": 83, "question": "What problem does the speaker mention?", "options": ["A service center will be closed.", "Insufficient workers will be available.", "A workshop has been rescheduled.", "Customer complaints have been increasing."], "answer": "B" },
-            { "id": "q84", "num": 84, "question": "What are the listeners asked to do?", "options": ["Inform staff members of a policy", "Deal with an emergency situation", "Cancel approved leaves", "Work some overtime this week"], "answer": "A" },
-            { "id": "q85", "num": 85, "question": "Why does the speaker say, \"Don't misunderstand me, though\"?", "options": ["To correct her previous statement", "To introduce an additional detail", "To confirm a decision", "To provide another reason for a change"], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 86-88:",
-          "questions": [
-            { "id": "q86", "num": 86, "question": "What did the speaker do this morning?", "options": ["Posted an advertisement for an open position", "Met with the manager of another resort", "Read a memo from a company executive", "Assigned staff members to new roles"], "answer": "C" },
-            { "id": "q87", "num": 87, "question": "What is mentioned about the mentorship program?", "options": ["It has been used at a headquarters office.", "It will require extensive staff training.", "It has been successful at other companies.", "It will ensure there are many candidates for promotion."], "answer": "D" },
-            { "id": "q88", "num": 88, "question": "What does the speaker ask the listeners to do?", "options": ["Conduct performance evaluations", "Review a list of candidates for promotion", "Develop a manual for management trainees", "Recommend participants for a program"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 89-91:",
-          "questions": [
-            { "id": "q89", "num": 89, "question": "According to the speaker, what did Marsha Summers do?", "options": ["Appeared on programs by television networks", "Arranged a domestic business trip", "Wrote an article for a popular magazine", "Conducted marine science research"], "answer": "A" },
-            { "id": "q90", "num": 90, "question": "What will the speaker ask Ms. Summers about?", "options": ["A media organization", "A fundraising event", "An environmental group", "A business venture"], "answer": "C" },
-            { "id": "q91", "num": 91, "question": "What does the speaker recommend listeners do?", "options": ["Make a donation", "Purchase a publication", "Download a schedule", "Post a question"], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 92-94:",
-          "image": "image/92-94.png",
-          "questions": [
-            { "id": "q92", "num": 92, "question": "Look at the graphic. What time will Benny Stein be permitted to board the aircraft?", "options": ["At 10:00 a.m.", "At 10:10 a.m.", "At 10:25 a.m.", "At 10:30 a.m."], "answer": "B" },
-            { "id": "q93", "num": 93, "question": "Why has Flight 382 been delayed?", "options": ["It has a mechanical problem.", "It is being refueled.", "It has not arrived yet.", "It is being cleaned."], "answer": "A" },
-            { "id": "q94", "num": 94, "question": "What will happen at 11 a.m.?", "options": ["An aircraft will depart.", "A technician will be contacted.", "An announcement will be made.", "A repair will be completed."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 95-97:",
-          "image": "image/95-97.png",
-          "questions": [
-            { "id": "q95", "num": 95, "question": "Why will some neighborhoods temporarily lose power?", "options": ["A system will be improved.", "A storm damaged power lines.", "A safety inspection is needed.", "A plant requires repairs."], "answer": "A" },
-            { "id": "q96", "num": 96, "question": "Look at the graphic. When will an outage occur in a commercial neighborhood?", "options": ["On August 11", "On August 12", "On August 13", "On August 14"], "answer": "B" },
-            { "id": "q97", "num": 97, "question": "According to the speaker, why should a listener call the customer service department?", "options": ["To make a utility payment", "To request a service upgrade", "To confirm an outage schedule", "To report an electrical problem"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 98-100:",
-          "image": "image/98-100.png",
-          "questions": [
-            { "id": "q98", "num": 98, "question": "What assignment was the listener given?", "options": ["Scheduling an exercise class", "Organizing a company event", "Arranging a business trip", "Promoting a sports competition"], "answer": "B" },
-            { "id": "q99", "num": 99, "question": "What does the man suggest the listener do?", "options": ["Change a schedule", "Reserve a venue", "Contact an assistant", "Cancel a trip"], "answer": "A" },
-            { "id": "q100", "num": 100, "question": "Look at the graphic. Where is the sign most likely located?", "options": ["In Baker Park", "In Pine Park", "In Taylor Park", "In Riverview Park"], "answer": "A" }
-          ]
-        }
-      ]
-    }
-  ]
-};
+      const questionsData = {
+        "testTitle": "Hacker 7 New TOEIC Listening Test 07",
+        "timeLimit": "45 Minutes",
+        "parts": [
+          {
+            "partNumber": 1,
+            "title": "Photographs",
+            "instructions": "Choose the statement that best describes the picture.",
+            "questions": [
+              {
+                "id": "q1",
+                "question": "Look at the picture and choose the best description.",
+                "image": "image/1.png",
+                "options": [
+                  {"text": "They are traveling along a road.", "value": "A"},
+                  {"text": "They are removing their backpacks.", "value": "B"},
+                  {"text": "They are biking down a path.", "value": "C"},
+                  {"text": "They are walking near some trees.", "value": "D"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q2",
+                "question": "Look at the picture and choose the best description.",
+                "image": "image/2.png",
+                "options": [
+                  {"text": "A man is typing on a keyboard.", "value": "A"},
+                  {"text": "A man is leaning on an armrest.", "value": "B"},
+                  {"text": "A woman is pushing a chair.", "value": "C"},
+                  {"text": "A woman is pointing at a monitor.", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q3",
+                "question": "Look at the picture and choose the best description.",
+                "image": "image/3.png",
+                "options": [
+                  {"text": "Some dirt is piled next to a shed.", "value": "A"},
+                  {"text": "A worker is spraying a stream of water at the ground.", "value": "B"},
+                  {"text": "A gardener has grasped a hose with both hands.", "value": "C"},
+                  {"text": "A gardener is rinsing a tool near a flower bed.", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q4",
+                "question": "Look at the picture and choose the best description.",
+                "image": "image/4.png",
+                "options": [
+                  {"text": "Some trucks are being loaded with goods.", "value": "A"},
+                  {"text": "A garage door is being closed.", "value": "B"},
+                  {"text": "Some lights are attached to the ceiling.", "value": "C"},
+                  {"text": "A vehicle window is damaged.", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q5",
+                "question": "Look at the picture and choose the best description.",
+                "image": "image/5.png",
+                "options": [
+                  {"text": "A river connects to a larger body of water.", "value": "A"},
+                  {"text": "Both sides of a canal are bordered by structures.", "value": "B"},
+                  {"text": "A boat is sailing under a footbridge.", "value": "C"},
+                  {"text": "People are lined up to board a vessel.", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q6",
+                "question": "Look at the picture and choose the best description.",
+                "image": "image/6.png",
+                "options": [
+                  {"text": "A fence blocks the entrance to a building.", "value": "A"},
+                  {"text": "All pedestrians have cleared out of a public square.", "value": "B"},
+                  {"text": "A group has gathered at the base of a lamppost.", "value": "C"},
+                  {"text": "Some bicycles have been left unattended.", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              }
+            ]
+          },
+          {
+            "partNumber": 2,
+            "title": "Question-Response",
+            "instructions": "Listen to the question or statement and choose the best response.",
+            "questions": [
+              {
+                "id": "q7",
+                "question": "Who can register for the business Spanish class?",
+                "options": [
+                  {"text": "Anyone interested may sign up.", "value": "A"},
+                  {"text": "It's right by the cash register.", "value": "B"},
+                  {"text": "Kendra is our newest instructor.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q8",
+                "question": "Which of our clients will have to pay increased fees?",
+                "options": [
+                  {"text": "They all will.", "value": "A"},
+                  {"text": "I processed the payment.", "value": "B"},
+                  {"text": "Because of rising costs.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q9",
+                "question": "Have you considered switching to a different bank?",
+                "options": [
+                  {"text": "Just a $50 cash withdrawal, please.", "value": "A"},
+                  {"text": "You'd better let the accountant know.", "value": "B"},
+                  {"text": "I like my current one well enough.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q10",
+                "question": "Let's take a walk through the park.",
+                "options": [
+                  {"text": "I'll go grab my jacket.", "value": "A"},
+                  {"text": "It's underneath that tree.", "value": "B"},
+                  {"text": "About two miles.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q11",
+                "question": "I don't know how to fill out the new time sheet.",
+                "options": [
+                  {"text": "I think I saw it on your desk.", "value": "A"},
+                  {"text": "Ask Sue to give you a hand.", "value": "B"},
+                  {"text": "My friend showed me around.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q12",
+                "question": "Where did you decide to hold the fundraising banquet?",
+                "options": [
+                  {"text": "A few options are being discussed.", "value": "A"},
+                  {"text": "Most of the guests have arrived.", "value": "B"},
+                  {"text": "It will take place next Saturday.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q13",
+                "question": "How much will it cost to have this skirt altered?",
+                "options": [
+                  {"text": "That color suits you.", "value": "A"},
+                  {"text": "All items of clothing are on sale.", "value": "B"},
+                  {"text": "There's no charge for that.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q14",
+                "question": "Is North Road closed off for street repairs?",
+                "options": [
+                  {"text": "Yes, until next week.", "value": "A"},
+                  {"text": "No, the shop is on Leland Drive.", "value": "B"},
+                  {"text": "That is the quickest route.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q15",
+                "question": "Wouldn't you rather have a first class seat for the flight?",
+                "options": [
+                  {"text": "No, I wanted coffee instead.", "value": "A"},
+                  {"text": "I've already arrived at the Gimpo airport.", "value": "B"},
+                  {"text": "Yes, but it's too expensive.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q16",
+                "question": "Why are you dissatisfied with these eyeglasses?",
+                "options": [
+                  {"text": "We manufacture commercial lenses.", "value": "A"},
+                  {"text": "Don't you think the frames are too large?", "value": "B"},
+                  {"text": "Customers seem to be happy with the results.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q17",
+                "question": "Is the new line of sportswear going to be launched on schedule?",
+                "options": [
+                  {"text": "About two months ago.", "value": "A"},
+                  {"text": "It is very popular with consumers.", "value": "B"},
+                  {"text": "The launch has been pushed back.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q18",
+                "question": "Apparently, Abby from the human resources department was promoted.",
+                "options": [
+                  {"text": "I hadn't heard about the outing.", "value": "A"},
+                  {"text": "Mr. Richard has named her regional director.", "value": "B"},
+                  {"text": "They're promoting a new product.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q19",
+                "question": "Where do you want to get together to plan our backpacking trip?",
+                "options": [
+                  {"text": "I don't have a preference.", "value": "A"},
+                  {"text": "Our gear must be packed.", "value": "B"},
+                  {"text": "Don't you think we should camp for a few nights?", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q20",
+                "question": "Why don't we carpool to the office from now on?",
+                "options": [
+                  {"text": "I usually drive to work.", "value": "A"},
+                  {"text": "There are vehicles parked along the street.", "value": "B"},
+                  {"text": "That would save us gas money.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q21",
+                "question": "When will my raise go into effect?",
+                "options": [
+                  {"text": "I'd like to go in, too.", "value": "A"},
+                  {"text": "The show begins at 5 p.m.", "value": "B"},
+                  {"text": "Within a week or so.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q22",
+                "question": "Aren't suitcases supposed to be stored in overhead compartments?",
+                "options": [
+                  {"text": "Small ones can be kept under the seats.", "value": "A"},
+                  {"text": "The airline has misplaced my luggage.", "value": "B"},
+                  {"text": "The store is still open.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q23",
+                "question": "Employees receive a commission on every appliance that they sell.",
+                "options": [
+                  {"text": "That model is one of our top sellers.", "value": "A"},
+                  {"text": "That's a great incentive for workers.", "value": "B"},
+                  {"text": "Actually, we visited a local dealership.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q24",
+                "question": "How long can I use this transit pass?",
+                "options": [
+                  {"text": "You can buy it at the ticket office.", "value": "A"},
+                  {"text": "It's good for two more weeks.", "value": "B"},
+                  {"text": "Transfer at Stanford Station.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q25",
+                "question": "Has anyone confirmed tonight's dinner reservations at Denarii Bistro?",
+                "options": [
+                  {"text": "Sure, I can make some food for us.", "value": "A"},
+                  {"text": "The restaurant on Elm Street.", "value": "B"},
+                  {"text": "Didn't your secretary contact the restaurant?", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q26",
+                "question": "The CEO offered you a position as a sales manager, didn't she?",
+                "options": [
+                  {"text": "I really appreciate your offer.", "value": "A"},
+                  {"text": "No, that's just a rumor.", "value": "B"},
+                  {"text": "I plan to host the corporate executives.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q27",
+                "question": "What time will the volunteers show up for the event?",
+                "options": [
+                  {"text": "At the main entrance.", "value": "A"},
+                  {"text": "I'll have to check with Ann.", "value": "B"},
+                  {"text": "There are 30 expected guests.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q28",
+                "question": "Please set up two additional workspaces.",
+                "options": [
+                  {"text": "I'll take care of that now.", "value": "A"},
+                  {"text": "OK, but subtract the sum from the bill.", "value": "B"},
+                  {"text": "Everyone had his or her own station.", "value": "C"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q29",
+                "question": "Whose fountain pen is sitting on the front desk?",
+                "options": [
+                  {"text": "Sign your name on the register.", "value": "A"},
+                  {"text": "I've never seen it before.", "value": "B"},
+                  {"text": "You may sit anywhere you'd like.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q30",
+                "question": "Are you going to paint the kitchen yourself or hire a contractor?",
+                "options": [
+                  {"text": "The same color as the living room.", "value": "A"},
+                  {"text": "Put it next to the refrigerator.", "value": "B"},
+                  {"text": "I'm too busy these days.", "value": "C"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q31",
+                "question": "Did you buy the watch we saw at the department store yesterday?",
+                "options": [
+                  {"text": "I will deliver it soon.", "value": "A"},
+                  {"text": "I couldn't resist.", "value": "B"},
+                  {"text": "Yes, I thought it was.", "value": "C"}
+                ],
+                "correctAnswer": "B"
+              }
+            ]
+          },
+          {
+            "partNumber": 3,
+            "title": "Conversations",
+            "instructions": "Listen to the conversation and answer the three questions for each conversation.",
+            "passages": [
+              {
+                "passage": "Questions 32-34:",
+                "questions": [
+                  {
+                    "id": "q32",
+                    "num": 32,
+                    "question": "Where most likely are the speakers?",
+                    "options": ["At a car dealership", "At a gas station", "At an auto mechanic shop", "At a rental agency"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q33",
+                    "num": 33,
+                    "question": "What does the man ask the woman about?",
+                    "options": ["Whether a vehicle was damaged", "Why an agreement was not signed", "How much refueling costs", "What features a car has"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q34",
+                    "num": 34,
+                    "question": "Why is the woman being charged extra?",
+                    "options": ["She did not arrive on time.", "She requested a cleaning service.", "She did not refill the gas tank.", "She agreed to an upgrade."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 35-37:",
+                "questions": [
+                  {
+                    "id": "q35",
+                    "num": 35,
+                    "question": "What does the man say about the book fair?",
+                    "options": ["It was held at a local library.", "It was featured in a major magazine.", "It provided reading materials to kids.", "It had a lower turnout than anticipated."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q36",
+                    "num": 36,
+                    "question": "Why does the man say, \"Do you have any clue as to why she didn't\"?",
+                    "options": ["He is concerned about a proposal.", "He is curious about an advertising decision.", "He feels a cost to be reasonable.", "He thinks a choice should be reconsidered."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q37",
+                    "num": 37,
+                    "question": "What was Ms. Gabbert unable to do?",
+                    "options": ["Devote more funds for an event", "Meet with a financial consultant", "Participate in a company event", "Review a budgetary document"],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 38-40:",
+                "questions": [
+                  {
+                    "id": "q38",
+                    "num": 38,
+                    "question": "What did the woman do last Thursday?",
+                    "options": ["Wrote an article", "Created a social media profile", "Interviewed a local chef", "Hosted an opening event"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q39",
+                    "num": 39,
+                    "question": "According to the man, what did Lima Kitchen recently do?",
+                    "options": ["Developed an online page", "Started business operations", "Offered discount coupons", "Remodeled a dining area"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q40",
+                    "num": 40,
+                    "question": "What does the man mean when he says, \"maybe something similar is in order\"?",
+                    "options": ["He is encouraging more commercials.", "He wants some renovations done.", "He is promoting another article.", "He wants to try different food styles."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 41-43:",
+                "questions": [
+                  {
+                    "id": "q41",
+                    "num": 41,
+                    "question": "What are the speakers mainly discussing?",
+                    "options": ["The benefits of employee training", "The effects of increased competition", "The details of new regulations", "The possibility of expansion"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q42",
+                    "num": 42,
+                    "question": "Why is Allen concerned?",
+                    "options": ["He has received multiple complaints.", "He does not want to lose customers.", "He is unable to afford some equipment.", "He could not find a moving company."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q43",
+                    "num": 43,
+                    "question": "What does the woman recommend?",
+                    "options": ["Ordering mechanical equipment", "Stopping by a vacant facility", "Buying a nearby property", "Constructing more branches"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 44-46:",
+                "questions": [
+                  {
+                    "id": "q44",
+                    "num": 44,
+                    "question": "What does the man want to do?",
+                    "options": ["Enroll in a class", "Apply for an internship", "Speak with a lawyer", "Tour an institute campus"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q45",
+                    "num": 45,
+                    "question": "What did the man do this morning?",
+                    "options": ["Submitted a registration form", "Contacted an instructor", "Visited an online page", "Checked a class schedule"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q46",
+                    "num": 46,
+                    "question": "What will the woman probably do next?",
+                    "options": ["Confirm an account number", "Set up some appointments", "Process a fee payment", "Hand over some documents"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 47-49:",
+                "questions": [
+                  {
+                    "id": "q47",
+                    "num": 47,
+                    "question": "Where do the speakers most likely work?",
+                    "options": ["At a supermarket", "At an advertising firm", "At a movie production company", "At a donut shop"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q48",
+                    "num": 48,
+                    "question": "Why is the woman concerned?",
+                    "options": ["A sale is not drawing customers.", "A commercial lacks some information.", "A video is longer than anticipated.", "A store interior is not fully prepared."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q49",
+                    "num": 49,
+                    "question": "What does the woman mean when she says, \"I think that's what we need to do at this point\"?",
+                    "options": ["She wants to remove a segment.", "She thinks a film crew should be hired.", "She is ready to start a promotion.", "She would like to release multiple videos."],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 50-52:",
+                "questions": [
+                  {
+                    "id": "q50",
+                    "num": 50,
+                    "question": "Who most likely is the man?",
+                    "options": ["A fashion designer", "A customer service representative", "A Web site developer", "A post office worker"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q51",
+                    "num": 51,
+                    "question": "According to the man, what did the woman fail to do?",
+                    "options": ["Pay a shipping fee", "Input a correct detail", "Submit a receipt", "Log in to a Web page"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q52",
+                    "num": 52,
+                    "question": "According to the man, what should the woman do with a code?",
+                    "options": ["Include it with an order", "Share it with an employee", "Present it to a manager", "Write it on a billing statement"],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 53-55:",
+                "questions": [
+                  {
+                    "id": "q53",
+                    "num": 53,
+                    "question": "What does the woman say about her work?",
+                    "options": ["It can be stressful at times.", "It is very technical in nature.", "It requires regular business trips.", "It involves frequent movements."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q54",
+                    "num": 54,
+                    "question": "What type of business does the woman work in?",
+                    "options": ["A clothing distributor", "A footwear factory", "A medical facility", "A retail store"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q55",
+                    "num": 55,
+                    "question": "What does the man suggest the woman do?",
+                    "options": ["Seek out a physical therapist", "Consider alternative professions", "Discuss a situation with a supervisor", "Request some additional safety equipment"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 56-58:",
+                "questions": [
+                  {
+                    "id": "q56",
+                    "num": 56,
+                    "question": "What issue does the man mention?",
+                    "options": ["A Web site is experiencing a glitch.", "A scheduling conflict has occurred.", "A job opening has received little interest.", "An application was submitted after a due date."],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q57",
+                    "num": 57,
+                    "question": "What does the woman offer to do?",
+                    "options": ["Coordinate with an online firm's staff", "Redesign a social media site", "Arrange an appointment with a recruiter", "Review programmer applications"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q58",
+                    "num": 58,
+                    "question": "What does the woman ask the man to do?",
+                    "options": ["Edit a recruitment posting", "Lead an upcoming meeting", "Post some information online", "Give her an update this afternoon"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 59-61:",
+                "questions": [
+                  {
+                    "id": "q59",
+                    "num": 59,
+                    "question": "What is implied about First United Bank?",
+                    "options": ["It specializes in helping small businesses.", "It offers loans to all new members.", "It recently launched some new services.", "It advertises in a publication."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q60",
+                    "num": 60,
+                    "question": "Why is the man seeking a loan?",
+                    "options": ["To invest in a store expansion", "To purchase some equipment", "To pay for machinery repairs", "To hire more workers at a facility"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q61",
+                    "num": 61,
+                    "question": "What does Jessica tell the man to do?",
+                    "options": ["Initiate an application process", "Wait for better rates", "Submit personal identification", "Determine a loan amount"],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 62-64:",
+                "questions": [
+                  {
+                    "id": "q62",
+                    "num": 62,
+                    "question": "Who most likely is the man?",
+                    "options": ["A marketing manager", "A television host", "A company president", "A luggage designer"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q63",
+                    "num": 63,
+                    "question": "What is unique about the ES32 suitcase?",
+                    "options": ["Its fabric options", "Its portability", "Its accessories", "Its durability"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q64",
+                    "num": 64,
+                    "question": "What will probably happen in October?",
+                    "options": ["A product will be updated.", "A bag line will be introduced.", "A discount will be discontinued.", "A suitcase will be recalled."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 65-67:",
+                "image": "image/65-67.png",
+                "questions": [
+                  {
+                    "id": "q65",
+                    "num": 65,
+                    "question": "What is the conversation mainly about?",
+                    "options": ["An incorrect charge", "A return policy", "A damaged garment", "An employee discount"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q66",
+                    "num": 66,
+                    "question": "What does the man offer to do?",
+                    "options": ["Exchange some clothing", "Provide a voucher", "Mark down an item", "Print out a new receipt"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q67",
+                    "num": 67,
+                    "question": "Look at the graphic. What brand does the woman want to return?",
+                    "options": ["Wriggly", "JPX", "Kent", "Teton"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 68-71:",
+                "image": "image/68-71.png",
+                "questions": [
+                  {
+                    "id": "q68",
+                    "num": 68,
+                    "question": "Why is the performance being held?",
+                    "options": ["To celebrate an album release", "To raise funds for an organization", "To commemorate an anniversary", "To honor the reopening of a hall"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q69",
+                    "num": 69,
+                    "question": "Look at the graphic. What information is incorrectly delivered by the man?",
+                    "options": ["The performer's name", "The show time", "The section letter", "The seat number"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q70",
+                    "num": 70,
+                    "question": "What are audience members not permitted to do?",
+                    "options": ["Bring beverages into the auditorium", "Take pictures of the performance", "Turn on their cell phones in the hall", "Visit the snack bar during the show"],
+                    "answer": "B"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partNumber": 4,
+            "title": "Short Talks",
+            "instructions": "Listen to the short talk and answer the three questions.",
+            "passages": [
+              {
+                "passage": "Questions 71-73:",
+                "questions": [
+                  {
+                    "id": "q71",
+                    "num": 71,
+                    "question": "According to the speaker, what did the speaker receive?",
+                    "options": ["A script", "Some photographs", "Some charts", "An event program"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q72",
+                    "num": 72,
+                    "question": "What does the speaker recommend?",
+                    "options": ["Discussing a new investment strategy", "Including graphics in a presentation", "Checking the accuracy of some data", "Increasing the length of a speech"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q73",
+                    "num": 73,
+                    "question": "Why is Carol Wilkins unavailable on June 14?",
+                    "options": ["She will be attending a workshop.", "She will be meeting with a supervisor.", "She will be taking a business trip.", "She will be giving a lecture."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 74-76:",
+                "questions": [
+                  {
+                    "id": "q74",
+                    "num": 74,
+                    "question": "Where is the talk most likely taking place?",
+                    "options": ["In an appliance store", "In a shopping mall", "In a repair shop", "In a convention center"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q75",
+                    "num": 75,
+                    "question": "According to the speaker, what is a feature of the Clear Flow XS?",
+                    "options": ["It has a lower retail price.", "It is self-cleaning.", "It has a large capacity.", "It is energy efficient."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q76",
+                    "num": 76,
+                    "question": "What does the speaker mean when he says, \"I'll go over that in detail soon\"?",
+                    "options": ["He does not have enough time for a demonstration.", "He will not provide pricing information immediately.", "He would like to explain the company's warranty now.", "He wants to focus on an aspect of the product's design."],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 77-79:",
+                "questions": [
+                  {
+                    "id": "q77",
+                    "num": 77,
+                    "question": "What is being advertised?",
+                    "options": ["Landscaping services", "Financial products", "Luxury homes", "Lakefront land"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q78",
+                    "num": 78,
+                    "question": "What added benefit is available to buyers?",
+                    "options": ["Free property inspections", "Access to public utilities", "Special financing", "Professional consultations"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q79",
+                    "num": 79,
+                    "question": "According to the speaker, why should listeners contact the office?",
+                    "options": ["To request images of a site", "To gain entry to a building", "To arrange a tour of a location", "To receive directions to a lake"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 80-82:",
+                "questions": [
+                  {
+                    "id": "q80",
+                    "num": 80,
+                    "question": "Where are the listeners?",
+                    "options": ["At a senior facility", "At a public school", "At a community center", "At a medical clinic"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q81",
+                    "num": 81,
+                    "question": "What is mentioned about volunteers?",
+                    "options": ["They will work on weekdays only.", "They will plan various events.", "They have received certification.", "They have watched a video."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q82",
+                    "num": 82,
+                    "question": "What will the speaker most likely do next?",
+                    "options": ["Update a schedule", "Distribute documents", "Give a presentation", "Explain assignments"],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 83-85:",
+                "questions": [
+                  {
+                    "id": "q83",
+                    "num": 83,
+                    "question": "What problem does the speaker mention?",
+                    "options": ["A service center will be closed.", "Insufficient workers will be available.", "A workshop has been rescheduled.", "Customer complaints have been increasing."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q84",
+                    "num": 84,
+                    "question": "What are the listeners asked to do?",
+                    "options": ["Inform staff members of a policy", "Deal with an emergency situation", "Cancel approved leaves", "Work some overtime this week"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q85",
+                    "num": 85,
+                    "question": "Why does the speaker say, \"Don't misunderstand me, though\"?",
+                    "options": ["To correct her previous statement", "To introduce an additional detail", "To confirm a decision", "To provide another reason for a change"],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 86-88:",
+                "questions": [
+                  {
+                    "id": "q86",
+                    "num": 86,
+                    "question": "What did the speaker do this morning?",
+                    "options": ["Posted an advertisement for an open position", "Met with the manager of another resort", "Read a memo from a company executive", "Assigned staff members to new roles"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q87",
+                    "num": 87,
+                    "question": "What is mentioned about the mentorship program?",
+                    "options": ["It has been used at a headquarters office.", "It will require extensive staff training.", "It has been successful at other companies.", "It will ensure there are many candidates for promotion."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q88",
+                    "num": 88,
+                    "question": "What does the speaker ask the listeners to do?",
+                    "options": ["Conduct performance evaluations", "Review a list of candidates for promotion", "Develop a manual for management trainees", "Recommend participants for a program"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 89-91:",
+                "questions": [
+                  {
+                    "id": "q89",
+                    "num": 89,
+                    "question": "According to the speaker, what did Marsha Summers do?",
+                    "options": ["Appeared on programs by television networks", "Arranged a domestic business trip", "Wrote an article for a popular magazine", "Conducted marine science research"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q90",
+                    "num": 90,
+                    "question": "What will the speaker ask Ms. Summers about?",
+                    "options": ["A media organization", "A fundraising event", "An environmental group", "A business venture"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q91",
+                    "num": 91,
+                    "question": "What does the speaker recommend listeners do?",
+                    "options": ["Make a donation", "Purchase a publication", "Download a schedule", "Post a question"],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 92-94:",
+                "image": "image/92-94.png",
+                "questions": [
+                  {
+                    "id": "q92",
+                    "num": 92,
+                    "question": "Look at the graphic. What time will Benny Stein be permitted to board the aircraft?",
+                    "options": ["At 10:00 a.m.", "At 10:10 a.m.", "At 10:25 a.m.", "At 10:30 a.m."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q93",
+                    "num": 93,
+                    "question": "Why has Flight 382 been delayed?",
+                    "options": ["It has a mechanical problem.", "It is being refueled.", "It has not arrived yet.", "It is being cleaned."],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q94",
+                    "num": 94,
+                    "question": "What will happen at 11 a.m.?",
+                    "options": ["An aircraft will depart.", "A technician will be contacted.", "An announcement will be made.", "A repair will be completed."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 95-97:",
+                "image": "image/95-97.png",
+                "questions": [
+                  {
+                    "id": "q95",
+                    "num": 95,
+                    "question": "Why will some neighborhoods temporarily lose power?",
+                    "options": ["A system will be improved.", "A storm damaged power lines.", "A safety inspection is needed.", "A plant requires repairs."],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q96",
+                    "num": 96,
+                    "question": "Look at the graphic. When will an outage occur in a commercial neighborhood?",
+                    "options": ["On August 11", "On August 12", "On August 13", "On August 14"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q97",
+                    "num": 97,
+                    "question": "According to the speaker, why should a listener call the customer service department?",
+                    "options": ["To make a utility payment", "To request a service upgrade", "To confirm an outage schedule", "To report an electrical problem"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 98-100:",
+                "image": "image/98-100.png",
+                "questions": [
+                  {
+                    "id": "q98",
+                    "num": 98,
+                    "question": "What assignment was the listener given?",
+                    "options": ["Scheduling an exercise class", "Organizing a company event", "Arranging a business trip", "Promoting a sports competition"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q99",
+                    "num": 99,
+                    "question": "What does the man suggest the listener do?",
+                    "options": ["Change a schedule", "Reserve a venue", "Contact an assistant", "Cancel a trip"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q100",
+                    "num": 100,
+                    "question": "Look at the graphic. Where is the sign most likely located?",
+                    "options": ["In Baker Park", "In Pine Park", "In Taylor Park", "In Riverview Park"],
+                    "answer": "A"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      };
     </script>
     <script src="../../assets/js/listening.js"></script>
-</body>
+  </body>
 </html>

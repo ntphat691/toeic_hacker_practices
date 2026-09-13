@@ -1,594 +1,1014 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TOEIC Reading Test 10</title>
     <link rel="stylesheet" href="../../assets/css/common.css">
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <div class="header">
-            <h1 id="testTitle">📚 TOEIC Reading Practice Test</h1>
-            <p id="testSubtitle">Loading...</p>
-        </div>
-        
-        <div class="score-panel" id="scorePanel" style="display: none;">
-            <div class="score-item">
-                <div class="score-label">Correct</div>
-                <div class="score-value correct" id="correctScore">0</div>
-            </div>
-            <div class="score-item">
-                <div class="score-label">Progress</div>
-                <div class="score-value total" id="totalScore">0/0</div>
-            </div>
-            <div class="score-item">
-                <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
-            </div>
-            <div class="score-item">
-                <div class="score-label">Incorrect</div>
-                <div class="score-value incorrect" id="incorrectScore">0</div>
-            </div>
-        </div>
+      <div class="header">
+        <h1 id="testTitle">📚 TOEIC Reading Practice Test</h1>
+        <p id="testSubtitle">Loading...</p>
+      </div>
 
-        <div class="loading-container" id="loadingContainer">
-            <div class="loading-spinner"></div>
-            <div class="loading-text">Loading test data...</div>
+      <div class="score-panel" id="scorePanel" style="display: none;">
+        <div class="score-item">
+          <div class="score-label">Correct</div>
+          <div class="score-value correct" id="correctScore">0</div>
         </div>
+        <div class="score-item">
+          <div class="score-label">Progress</div>
+          <div class="score-value total" id="totalScore">0/0</div>
+        </div>
+        <div class="score-item">
+          <button class="reset-btn" onclick="resetQuiz()">🔄 Reset Quiz</button>
+        </div>
+        <div class="score-item">
+          <div class="score-label">Incorrect</div>
+          <div class="score-value incorrect" id="incorrectScore">0</div>
+        </div>
+      </div>
 
-        <div class="content" id="questionsContainer" style="display: none;">
-            <!-- Questions will be dynamically generated here -->
-        </div>
-        <div class="footer">@phuongvu</div>
+      <div class="loading-container" id="loadingContainer">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Loading test data...</div>
+      </div>
+
+      <div class="content" id="questionsContainer" style="display: none;">
+        <!-- Questions will be dynamically generated here -->
+      </div>
+      <div class="footer"></div>
     </div>
 
     <script>
-        const questionsData = {
-  "testTitle": "Hacker 10 New TOEIC Reading Test 10",
-  "timeLimit": "75 Minutes",
-  "parts": [
-    {
-      "partNumber": 5,
-      "title": "Incomplete Sentences",
-      "instructions": "Select the best answer (A), (B), (C), or (D) to complete each statement.",
-      "questions": [
-        {
-          "id": "q101",
-          "question": "High-end goods sold at Barton Jewelry are rarely offered at a discount, although a few items are ------- marked down for clearance.",
-          "options": [
-            {"text": "occasionally", "value": "A"},
-            {"text": "externally", "value": "B"},
-            {"text": "previously", "value": "C"},
-            {"text": "initially", "value": "D"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q102",
-          "question": "------- tests must be done on all medications before they are offered for use by the general public.",
-          "options": [
-            {"text": "Rigorous", "value": "A"},
-            {"text": "Rigorousness", "value": "B"},
-            {"text": "Rigor", "value": "C"},
-            {"text": "Rigorously", "value": "D"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q103",
-          "question": "After Jennifer Barnes ------- completed her commercial driver's license application, she was able to drive a delivery truck.",
-          "options": [
-            {"text": "successful", "value": "A"},
-            {"text": "succeeded", "value": "B"},
-            {"text": "succeeding", "value": "C"},
-            {"text": "successfully", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "q104",
-          "question": "Magnum Airlines began expanding its service five years ago and now ------- several daily flights throughout Eastern Europe.",
-          "options": [
-            {"text": "categorizes", "value": "A"},
-            {"text": "operates", "value": "B"},
-            {"text": "imparts", "value": "C"},
-            {"text": "multiplies", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q105",
-          "question": "The train for Somerville ------- on schedule tomorrow even though bad weather is expected.",
-          "options": [
-            {"text": "left", "value": "A"},
-            {"text": "leaving", "value": "B"},
-            {"text": "will leave", "value": "C"},
-            {"text": "has left", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q106",
-          "question": "Employees may not use the hotel's main entrance and must pass ------- a side door located near the back of the building.",
-          "options": [
-            {"text": "over", "value": "A"},
-            {"text": "to", "value": "B"},
-            {"text": "of", "value": "C"},
-            {"text": "through", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "q107",
-          "question": "Worker evaluation forms should be submitted to Ann James in the personnel department ------- the week.",
-          "options": [
-            {"text": "due to", "value": "A"},
-            {"text": "within", "value": "B"},
-            {"text": "now that", "value": "C"},
-            {"text": "between", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q108",
-          "question": "Management may offer permanent positions to some of the employees ------- as temporary staff on the last project.",
-          "options": [
-            {"text": "hire", "value": "A"},
-            {"text": "hires", "value": "B"},
-            {"text": "hired", "value": "C"},
-            {"text": "hiring", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q109",
-          "question": "Pacific Cable News did not proceed with acquiring a rival network when its shareholders expressed ------- to the plan.",
-          "options": [
-            {"text": "oppose", "value": "A"},
-            {"text": "opposed", "value": "B"},
-            {"text": "opposedly", "value": "C"},
-            {"text": "opposition", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "q110",
-          "question": "The employee handbook states the human resources director is ------- for reviewing job applications.",
-          "options": [
-            {"text": "reasonable", "value": "A"},
-            {"text": "genuine", "value": "B"},
-            {"text": "responsible", "value": "C"},
-            {"text": "applicable", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q111",
-          "question": "Visitors to Vedan Mountain are attracted by its remote location, which is ------- 25 miles away from the nearest city.",
-          "options": [
-            {"text": "approximate", "value": "A"},
-            {"text": "approximating", "value": "B"},
-            {"text": "approximation", "value": "C"},
-            {"text": "approximately", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "q112",
-          "question": "Additional doctors will be assigned to the Operham medical ------- next month to help run a new rehabilitation wing.",
-          "options": [
-            {"text": "territory", "value": "A"},
-            {"text": "facility", "value": "B"},
-            {"text": "exercise", "value": "C"},
-            {"text": "discussion", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q113",
-          "question": "Since the cost of materials in Malaysia is relatively -------, Ms. Amarna decided to establish her factory there.",
-          "options": [
-            {"text": "affordable", "value": "A"},
-            {"text": "logical", "value": "B"},
-            {"text": "potential", "value": "C"},
-            {"text": "induced", "value": "D"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q114",
-          "question": "The central terminal's current ticketing counters will ------- be replaced by automatic machines.",
-          "options": [
-            {"text": "gradually", "value": "A"},
-            {"text": "comparatively", "value": "B"},
-            {"text": "tragically", "value": "C"},
-            {"text": "expectantly", "value": "D"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q115",
-          "question": "Freidrich Clinic keeps all medical details completely ------- and does not release records to any third party without prior consent.",
-          "options": [
-            {"text": "confident", "value": "A"},
-            {"text": "confidentially", "value": "B"},
-            {"text": "confidentiality", "value": "C"},
-            {"text": "confidential", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "q116",
-          "question": "There was ------- any merchandise left at the end of Vanita Apparel's popular annual coat sale this year.",
-          "options": [
-            {"text": "loosely", "value": "A"},
-            {"text": "hardly", "value": "B"},
-            {"text": "mostly", "value": "C"},
-            {"text": "extremely", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q117",
-          "question": "------- Paris is one of the world's most popular tourist destinations is unsurprising since it has so much amazing art and culture.",
-          "options": [
-            {"text": "In light of", "value": "A"},
-            {"text": "The fact that", "value": "B"},
-            {"text": "In keeping with", "value": "C"},
-            {"text": "Under the condition that", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q118",
-          "question": "Hooper Incorporated is ------- its internal management structure in order to improve communication among departments.",
-          "options": [
-            {"text": "recalling", "value": "A"},
-            {"text": "representing", "value": "B"},
-            {"text": "reorganizing", "value": "C"},
-            {"text": "returning", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q119",
-          "question": "The examination for the Ministry of Foreign Affairs this year was ------- a difficult test that only 10 percent of the test takers passed.",
-          "options": [
-            {"text": "how", "value": "A"},
-            {"text": "such", "value": "B"},
-            {"text": "so", "value": "C"},
-            {"text": "else", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q120",
-          "question": "Critically ill patients requiring constant ------- must be confined in the hospital's intensive care unit on the second floor of the building.",
-          "options": [
-            {"text": "observes", "value": "A"},
-            {"text": "observant", "value": "B"},
-            {"text": "observe", "value": "C"},
-            {"text": "observation", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        },
-        {
-          "id": "q121",
-          "question": "Students may make a ------- for a transfer to a different department of study but must provide the school's dean of admissions with a valid reason.",
-          "options": [
-            {"text": "distinction", "value": "A"},
-            {"text": "request", "value": "B"},
-            {"text": "formation", "value": "C"},
-            {"text": "concern", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q122",
-          "question": "Starting next month, Alouette's chief accountant ------- all requests for cash expenditures of $1,000 or more.",
-          "options": [
-            {"text": "approved", "value": "A"},
-            {"text": "has approved", "value": "B"},
-            {"text": "has to approve", "value": "C"},
-            {"text": "will be approved", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q123",
-          "question": "Bedford Airlines and the Concord Hotel chain have a partnership with ------- and sell holiday packages to a variety of global destinations.",
-          "options": [
-            {"text": "no", "value": "A"},
-            {"text": "each other", "value": "B"},
-            {"text": "other", "value": "C"},
-            {"text": "even", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q124",
-          "question": "According to a report on work practices, people today spend ------- hours at the office than they ever did before.",
-          "options": [
-            {"text": "longest", "value": "A"},
-            {"text": "length", "value": "B"},
-            {"text": "longer", "value": "C"},
-            {"text": "lengthen", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q125",
-          "question": "Questions about Nedester televisions and ------- products can be directed to the company through their Web page.",
-          "options": [
-            {"text": "related", "value": "A"},
-            {"text": "relation", "value": "B"},
-            {"text": "relate", "value": "C"},
-            {"text": "relatively", "value": "D"}
-          ],
-          "correctAnswer": "A"
-        },
-        {
-          "id": "q126",
-          "question": "Envelopes must be properly sealed ------- dropping them into the mailbox, as the post office is not accountable for lost documents.",
-          "options": [
-            {"text": "among", "value": "A"},
-            {"text": "before", "value": "B"},
-            {"text": "beside", "value": "C"},
-            {"text": "while", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q127",
-          "question": "Speed-Ex Electronics was asked to make certain that all equipment for the new branch ------- by the end of June.",
-          "options": [
-            {"text": "will deliver", "value": "A"},
-            {"text": "is delivered", "value": "B"},
-            {"text": "delivering", "value": "C"},
-            {"text": "deliver", "value": "D"}
-          ],
-          "correctAnswer": "B"
-        },
-        {
-          "id": "q128",
-          "question": "The editors of The Pine Journal go through all the articles before printing to check for errors and factual -------.",
-          "options": [
-            {"text": "investigations", "value": "A"},
-            {"text": "installments", "value": "B"},
-            {"text": "discrepancies", "value": "C"},
-            {"text": "gratuities", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q129",
-          "question": "The city has plans to ------- local parks by planting more trees and flowers to make the areas look nicer.",
-          "options": [
-            {"text": "certify", "value": "A"},
-            {"text": "officiate", "value": "B"},
-            {"text": "revitalize", "value": "C"},
-            {"text": "aggregate", "value": "D"}
-          ],
-          "correctAnswer": "C"
-        },
-        {
-          "id": "q130",
-          "question": "After working for many years as a police officer, Paul Stone ------- his career experience to start up a personal security company for high-profile executives.",
-          "options": [
-            {"text": "kept after", "value": "A"},
-            {"text": "followed up", "value": "B"},
-            {"text": "pointed out", "value": "C"},
-            {"text": "drew on", "value": "D"}
-          ],
-          "correctAnswer": "D"
-        }
-      ]
-    },
-    {
-      "partNumber": 6,
-      "title": "Text Completion",
-      "instructions": "Select the answer choice that correctly completes the text.",
-      "passages": [
-        {
-          "passage": "Questions 131-134 refer to the following announcement:",
-          "text": "A neighborhood gathering will take place at the community center next Thursday evening. This must be resolved as soon as possible because of the sharp increase in the number of cars using that street. Other issues on the agenda include the garbage collection schedule. You may familiarize yourself with these issues on our Web site. Please arrive punctually to ensure that we have enough time to address everything.",
-          "image": "image/131-134.png",
-          "questions": [
-            { "id": "q131", "num": 131, "question": "A neighborhood gathering ------- at the community center next Thursday evening.", "options": ["took place", "will take place", "has taken place", "to take place"], "answer": "B" },
-            { "id": "q132", "num": 132, "question": "This must be resolved as soon as possible because of the sharp ------- in the number of cars using that street.", "options": ["increase", "prohibition", "advance", "exchange"], "answer": "A" },
-            { "id": "q133", "num": 133, "question": "Other issues on the agenda include the garbage collection schedule.", "options": ["We appreciate your having taken the time...", "You may familiarize yourself with these issues on our Web site.", "It is our decision to provide alternative routes...", "Your decisions have made our community..."], "answer": "B" },
-            { "id": "q134", "num": 134, "question": "Please arrive ------- to ensure that we have enough time to address everything.", "options": ["punctuality", "punctual", "punctualities", "punctually"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 135-138 refer to the following e-mail:",
-          "text": "I have been hard at work trying to finalize a sales proposal. Although I have the file on my hard drive, the printed one is especially important. I haven't had the time to add these notes into the electronic file. Unless I can get that particular copy back, I'll have to go over the one I have. It's essential that we secure the Acton as a customer.",
-          "image": "image/135-138.png",
-          "questions": [
-            { "id": "q135", "num": 135, "question": "...I have been hard at work trying to finalize a sales -------.", "options": ["propose", "proposed", "proposal", "prepositional"], "answer": "C" },
-            { "id": "q136", "num": 136, "question": "Although I have the file on my hard drive, the printed one is especially important.", "options": ["Please make sure that the final draft is sent...", "Acton's order must be shipped out...", "They are unwilling to agree to the deal...", "I haven't had the time to add these notes into the electronic file."], "answer": "D" },
-            { "id": "q137", "num": 137, "question": "------- I can get that particular copy back, I'll have to go over the one I have.", "options": ["Though", "Whoever", "Whether", "Unless"], "answer": "D" },
-            { "id": "q138", "num": 138, "question": "It's essential that we secure the Acton as a -------.", "options": ["developer", "vendor", "supplier", "customer"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 139-142 refer to the following letter:",
-          "text": "Rarely make use of such services because the employees are usually unhelpful. The employee I spoke to, Patrick Kelley, immediately understood my problem. He was well informed and assured me that he had encountered issues similar to mine before. He suggested I let their technicians take a look at it as soon as possible. Mr. Kelley showed me some of the finest service that I have received in my life.",
-          "image": "image/139-142.png",
-          "questions": [
-            { "id": "q139", "num": 139, "question": "...rarely make use of such services because the employees are usually -------.", "options": ["secretive", "unhelpful", "enthusiastic", "supportive"], "answer": "B" },
-            { "id": "q140", "num": 140, "question": "The employee I spoke to, Patrick Kelley, ------- understood my problem.", "options": ["visibly", "partially", "plausibly", "immediately"], "answer": "D" },
-            { "id": "q141", "num": 141, "question": "He was well informed and assured me that he had encountered issues similar to mine before.", "options": ["He told me he would have to direct my call...", "He suggested I let their technicians take a look at it as soon as possible.", "It is not the responsibility of the manufacturer...", "He highly recommended that I visit a local branch..."], "answer": "B" },
-            { "id": "q142", "num": 142, "question": "Mr. Kelley showed me some of the finest service that I ------- in my life.", "options": ["receives", "will be receiving", "have received", "to receive"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 143-146 refer to the following advertisement:",
-          "text": "Nursing homes far from city life and at a considerable distance from family and friends. We therefore help residents to maintain a healthy degree of social interaction. Stimulating activities each day including exercise classes, games, and musical performances. These go a long way toward improving their quality of life. Benefiting from the daily care and attention our staff provides.",
-          "image": "image/143-146.png",
-          "questions": [
-            { "id": "q143", "num": 143, "question": "...nursing homes far from city life and at a considerable ------- from family and friends.", "options": ["distance", "distant", "distancing", "distantly"], "answer": "A" },
-            { "id": "q144", "num": 144, "question": "We therefore help residents to ------- a healthy degree of social interaction.", "options": ["recommend", "maintain", "require", "evaluate"], "answer": "B" },
-            { "id": "q145", "num": 145, "question": "...stimulating activities each day including exercise classes, games, and musical performances.", "options": ["These go a long way toward improving their quality of life.", "Our center is located far from the hectic urban landscape.", "Families may also consider alternative types of physical therapy.", "Some of our patients are not permitted to leave the facility."], "answer": "A" },
-            { "id": "q146", "num": 146, "question": "...benefiting from the daily ------- and attention our staff provides.", "options": ["burden", "influence", "care", "caution"], "answer": "C" }
-          ]
-        }
-      ]
-    },
-    {
-      "partNumber": 7,
-      "title": "Reading Comprehension",
-      "instructions": "Select the best answer for each question.",
-      "passages": [
-        {
-          "passage": "Questions 147-148 refer to the following e-mail:",
-          "image": "image/147-178.png",
-          "questions": [
-            { "id": "q147", "num": 147, "question": "What is the purpose of the e-mail?", "options": ["To ask how to set up a new account", "To explain a problem with an online service", "To request a transfer of funds", "To report the possibility of a security threat"], "answer": "B" },
-            { "id": "q148", "num": 148, "question": "What does Ms. Herald require from Burgundy Capital?", "options": ["A security code", "A banking card", "An account statement", "A balance confirmation"], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 149-150 refer to the following text message chain:",
-          "image": "image/149-150.png",
-          "questions": [
-            { "id": "q149", "num": 149, "question": "Which company has Mr. Roach been asked to represent?", "options": ["Grant Industries", "Brighton Industrials", "Cromwell Holdings", "Astoria Enterprises"], "answer": "B" },
-            { "id": "q150", "num": 150, "question": "At 11:34 a.m., what does Mr. Roach mean when he writes, \"That's perfect for me as well\"?", "options": ["A lunchtime meeting fits into his schedule.", "A case can be dealt with right away.", "An appointment for Thursday morning is suitable.", "A client can drop by his office anytime in the morning."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 151-152 refer to the following information:",
-          "image": "image/151-152.png",
-          "questions": [
-            { "id": "q151", "num": 151, "question": "Which scheduled speaker will discuss student interns?", "options": ["Simon Gleason", "Ming Chao", "Gwen Carter", "Padma Singh"], "answer": "D" },
-            { "id": "q152", "num": 152, "question": "What is suggested about the conference?", "options": ["It includes a social event in the evening.", "It continues for a second day.", "It is held in the Student Union building.", "Its activities take place on four different floors."], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 153-154 refer to the following information:",
-          "image": "image/153-154.png",
-          "questions": [
-            { "id": "q153", "num": 153, "question": "Where would the information most likely appear?", "options": ["A promotional poster", "An equipment manual", "An employee handbook", "An insurance policy"], "answer": "C" },
-            { "id": "q154", "num": 154, "question": "What is indicated in the information?", "options": ["Some expensive items require special permission to buy.", "Call records may be needed to subtract some charges.", "Expenses related to home ownership are completely tax-deductible.", "The cost of insuring property can be completely recovered."], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 155-157 refer to the following e-mail:",
-          "image": "image/155-157.png",
-          "questions": [
-            { "id": "q155", "num": 155, "question": "What is NOT a purpose of the e-mail?", "options": ["To acknowledge receipt of an inquiry", "To request additional details about a client", "To describe career options for a student", "To offer information regarding a service"], "answer": "C" },
-            { "id": "q156", "num": 156, "question": "Where do Ms. Gatineau's tutoring sessions take place?", "options": ["In the student's house", "In an office in downtown Edmonton", "At the student's school", "At the University of Eastern Canada"], "answer": "B" },
-            { "id": "q157", "num": 157, "question": "What will Mr. Harcourt be discussing in the future?", "options": ["Grading systems", "Class schedules", "Tuition payment", "Test scores"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 158-160 refer to the following announcement:",
-          "image": "image/158-160.png",
-          "questions": [
-            { "id": "q158", "num": 158, "question": "What is indicated about the exhibition?", "options": ["It is open only on weekdays.", "It will last for one week.", "It was paid for by the Ministry of Culture.", "It is free for DAFA instructors."], "answer": "D" },
-            { "id": "q159", "num": 159, "question": "What is mentioned about Annie O'Dell?", "options": ["She is a staff member at the DAFA.", "She will present awards to art students.", "She is exhibiting her pieces for the first time.", "She has worked as an artist for many years."], "answer": "D" },
-            { "id": "q160", "num": 160, "question": "What is NOT an event scheduled for the exhibition?", "options": ["Tours of the exhibit", "A movie screening", "An opening reception", "A display of sculptures"], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 161-163 refer to the following notice:",
-          "image": "image/161-163.png",
-          "questions": [
-            { "id": "q161", "num": 161, "question": "What is the purpose of the notice?", "options": ["To announce the relocation of a facility", "To clarify a policy concerning lunch breaks", "To inform employees of survey results", "To apprise staff of a pending renovation"], "answer": "D" },
-            { "id": "q162", "num": 162, "question": "Where can employees check food options?", "options": ["In the lobby of the Superion Building", "Next to the cafeteria's main entrance", "On a bulletin board on the sixth floor", "On the company's intranet site"], "answer": "D" },
-            { "id": "q163", "num": 163, "question": "In which of the positions marked,,, and does the following sentence best belong? \"We agree with you that it is necessary to offer a variety of meal options to suit everyone.\"", "options": ["", "", "", ""], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 164-167 refer to the following article:",
-          "image": "image/164-167.png",
-          "questions": [
-            { "id": "q164", "num": 164, "question": "Why was the article written?", "options": ["To describe business trends in a region", "To report on sales of mobile phones", "To profile the goals of a CEO", "To announce plans for a new facility"], "answer": "D" },
-            { "id": "q165", "num": 165, "question": "How does First Global plan to finance its newest project?", "options": ["By selling company shares", "By bringing in a partner", "By increasing its line of credit", "By relying on past profits"], "answer": "D" },
-            { "id": "q166", "num": 166, "question": "What does the article suggest about First Global?", "options": ["Factory working conditions are below standards.", "Manufacturing will not grow as much as expected.", "Smartphone manufacturers buy their products.", "Expanding into Asia will be a new experience for them."], "answer": "C" },
-            { "id": "q167", "num": 167, "question": "In which of the positions marked,,, and does the following sentence best belong? \"This increase in output will help the company keep up with the strong demand for smartphones.\"", "options": ["", "", "", ""], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 168-171 refer to the following online chat:",
-          "image": "image/168-171.png",
-          "questions": [
-            { "id": "q168", "num": 168, "question": "What is mainly being discussed?", "options": ["Scheduled tests for an online store's payment system", "Products to feature in a special promotion", "Images for a retail site taken by a professional", "Types of models to hire for an upcoming photoshoot"], "answer": "C" },
-            { "id": "q169", "num": 169, "question": "At 1:38, what does Ms. Swenson mean when she writes \"give him another shot at it\"?", "options": ["She may hire Mr. Blake to develop an online shop.", "She will ask a photographer to retake some sample pictures.", "She may use the photos sent to her e-mail account.", "She will try to make a reservation at an establishment."], "answer": "B" },
-            { "id": "q170", "num": 170, "question": "What is true about Ms. Swenson?", "options": ["She manages sales at a home accessory store.", "She also thinks that models should be used.", "She has contacted other freelance photographers.", "She wants to make a retail store more comfortable."], "answer": "B" },
-            { "id": "q171", "num": 171, "question": "What most likely is Ms. Orbison's job?", "options": ["Payment system developer", "Corporate image consultant", "Store merchandise buyer", "Web graphics designer"], "answer": "A" }
-          ]
-        },
-        {
-          "passage": "Questions 172-175 refer to the following e-mail:",
-          "image": "image/172-175.png",
-          "questions": [
-            { "id": "q172", "num": 172, "question": "Why did Ms. Andrews write the e-mail?", "options": ["To inform a colleague about a schedule", "To request changes to a reservation", "To ask about hotel facilities", "To summarize the results of a meeting"], "answer": "A" },
-            { "id": "q173", "num": 173, "question": "What is NOT mentioned in the e-mail?", "options": ["A lunch has been scheduled with a superior.", "The hotel has already confirmed a reservation.", "The start of a project has been postponed.", "Meetings will take place at a head office."], "answer": "C" },
-            { "id": "q174", "num": 174, "question": "Why is Ms. Krakowski coming to the hotel?", "options": ["It is convenient for the visitors.", "She will be speaking at a conference there.", "It is located close to her office.", "She wants to try a new restaurant."], "answer": "A" },
-            { "id": "q175", "num": 175, "question": "What information does Ms. Andrews require of Mr. Pinkerton?", "options": ["A seat assignment", "A contact number", "A meeting agenda", "A preferred date"], "answer": "D" }
-          ]
-        },
-        {
-          "passage": "Questions 176-180 refer to the following article and e-mail:",
-          "image": "image/176-180.png",
-          "questions": [
-            { "id": "q176", "num": 176, "question": "What is NOT mentioned as an option the Lamingtons considered when facing bankruptcy?", "options": ["Putting some property up for sale", "Renting out some land", "Taking on employees", "Applying for a bank loan"], "answer": "D" },
-            { "id": "q177", "num": 177, "question": "What does the article say about Lamington Ranch?", "options": ["It has changed ownership on numerous occasions.", "It was inspired by a similar community in another country.", "It is used exclusively for raising agricultural animals.", "It is completely environmentally friendly."], "answer": "B" },
-            { "id": "q178", "num": 178, "question": "Why was the e-mail written?", "options": ["To request a subscription renewal", "To ask for an in person meeting", "To point out a mistake in an article", "To express interest in joining a cooperative"], "answer": "B" },
-            { "id": "q179", "num": 179, "question": "What does Mr. Carver indicate about the Lamingtons?", "options": ["They have motivated him to start a business.", "They have become quite popular in Israel.", "They could benefit from some free publicity.", "They receive many offers of investment."], "answer": "C" },
-            { "id": "q180", "num": 180, "question": "What will Mr. Carver most likely do if his request is granted?", "options": ["Hire a photographer", "Visit Masterton", "Cancel some appointments", "Move to Wellington"], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 181-185 refer to the following e-mail:",
-          "image": "image/181-185.png",
-          "questions": [
-            { "id": "q181", "num": 181, "question": "What is the purpose of the e-mail?", "options": ["To extend some helpful advice", "To outline the details of a program", "To identify needs for a luncheon", "To discuss an upcoming lecture"], "answer": "A" },
-            { "id": "q182", "num": 182, "question": "In the e-mail, the word \"Since\" in paragraph 2, line 2, is closest in meaning to", "options": ["Although", "Because", "Even if", "So that"], "answer": "B" },
-            { "id": "q183", "num": 183, "question": "According to the e-mail, what should Mr. Flores do with his emergency information?", "options": ["Write it down in a list on his desk", "Save it in his cell phone", "Create a memo on his tablet", "Distribute it among family members"], "answer": "D" },
-            { "id": "q184", "num": 184, "question": "Who is welcome to visit the Career Development Center?", "options": ["Professionals in the field of human resources", "Employed and retired adults", "University students looking for jobs", "Faculty members seeking a promotion"], "answer": "B" },
-            { "id": "q185", "num": 185, "question": "What is indicated about Mr. Flores?", "options": ["He will assist Dr. Rhodes with her lecture.", "He has a lunch meeting in Durgan Hall.", "He can attend an event on Thursday for free.", "He requires more than one ticket."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 186-190 refer to the following schedule:",
-          "image": "image/186-190.png",
-          "questions": [
-            { "id": "q186", "num": 186, "question": "What has Mr. Chang been scheduled to do?", "options": ["Provide loan consultations", "Discuss financing for small businesses", "Give a talk on matters pertaining to law", "Lead a discussion on attracting customer"], "answer": "C" },
-            { "id": "q187", "num": 187, "question": "What is true about the Business 101 seminar?", "options": ["It includes an activity led by a sponsoring organization.", "It is exclusively for members of a business association.", "It will be held at a group's headquarters in Pittsburgh.", "It will allow companies to recruit new staff."], "answer": "A" },
-            { "id": "q188", "num": 188, "question": "What is mentioned about Mr. Ashley?", "options": ["He has attended PBA events in the past.", "He is familiar with the subject of a seminar.", "He has been in the banking industry for decades.", "He plans to distribute promotional material."], "answer": "B" },
-            { "id": "q189", "num": 189, "question": "What can be inferred about Ms. Castle?", "options": ["She employs over two dozen staff members.", "Her store is expanding to a second location.", "She plans to hold classes at her establishment.", "Her estimated expenses exceed her requested loan amount."], "answer": "C" },
-            { "id": "q190", "num": 190, "question": "What is suggested about Ms. Castle's loan application?", "options": ["It is missing some required information.", "It will be evaluated by Mr. Ashley.", "It was completed during a seminar.", "It must be mailed in by October 10."], "answer": "B" }
-          ]
-        },
-        {
-          "passage": "Questions 191-195 refer to the following e-mail and invitation:",
-          "image": "image/191-195.png",
-          "questions": [
-            { "id": "q191", "num": 191, "question": "What is NOT indicated about Meredith Fashion Institute's event?", "options": ["It is held yearly at a school ground.", "It includes a meal for participants.", "It coincides with the launch of a brand.", "It charges visitors a fee to gain entrance."], "answer": "C" },
-            { "id": "q192", "num": 192, "question": "What does Ms. Cruise say that she appreciates about the event?", "options": ["Profits from it will go toward helping aspiring designers.", "It will help amateur photographers gain some much-needed publicity.", "She will not have to bring her own equipment to it.", "It will provide her with an opportunity to display some work."], "answer": "A" },
-            { "id": "q193", "num": 193, "question": "Why does Ms. Cruise want to set up a booth?", "options": ["To interview a potential assistant", "To register arriving guests", "To get a chance to recover some costs", "To have an area for taking short breaks"], "answer": "C" },
-            { "id": "q194", "num": 194, "question": "What is true about Melvin Lee?", "options": ["He provided entertainment for an event.", "He teaches a class in fashion at MFI.", "He attended the same school as Ms. Rowlands.", "He has helped style models for a magazine."], "answer": "D" },
-            { "id": "q195", "num": 195, "question": "What does Ms. Rowlands mention about the fashion models at MFI's event?", "options": ["They are more colorful than those of previous seasons.", "They hardly reflected the chosen theme of an event.", "They may be sold at clothing stores in the future.", "They were quickly adopted by leading fashion designers."], "answer": "C" }
-          ]
-        },
-        {
-          "passage": "Questions 196-200 refer to the following advertisement:",
-          "image": "image/196-200.png",
-          "questions": [
-            { "id": "q196", "num": 196, "question": "What is NOT mentioned about PFS?", "options": ["They provide product information online.", "They install fire alarms in clients' homes.", "They adhere to standards set by the city.", "They provide their services in several states."], "answer": "D" },
-            { "id": "q197", "num": 197, "question": "In the advertisement, the word \"executed\" in paragraph 1, line 4, is closest in meaning to", "options": ["expected", "measured", "completed", "selected"], "answer": "C" },
-            { "id": "q198", "num": 198, "question": "What is suggested about the sprinklers Ms. Pierce wants in the lobby?", "options": ["They are more expensive than most other systems.", "They will replace older versions of the same type.", "They must be specially ordered by PFS from a supplier.", "They are not as likely to activate unintentionally."], "answer": "D" },
-            { "id": "q199", "num": 199, "question": "Which system did PFS install in the spa lobby?", "options": ["Pre-action", "Wet pipe", "Dry pipe", "Deluge"], "answer": "B" },
-            { "id": "q200", "num": 200, "question": "What is Ms. Pierce entitled to?", "options": ["A coupon for a free sprinkler", "A full refund on one system", "A problem resolution within two days", "A complimentary safety inspection"], "answer": "C" }
-          ]
-        }
-      ]
-    }
-  ]
-};
+      const questionsData = {
+        "testTitle": "Hacker 10 New TOEIC Reading Test 10",
+        "timeLimit": "75 Minutes",
+        "parts": [
+          {
+            "partNumber": 5,
+            "title": "Incomplete Sentences",
+            "instructions": "Select the best answer (A), (B), (C), or (D) to complete each statement.",
+            "questions": [
+              {
+                "id": "q101",
+                "question": "High-end goods sold at Barton Jewelry are rarely offered at a discount, although a few items are ------- marked down for clearance.",
+                "options": [
+                  {"text": "occasionally", "value": "A"},
+                  {"text": "externally", "value": "B"},
+                  {"text": "previously", "value": "C"},
+                  {"text": "initially", "value": "D"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q102",
+                "question": "------- tests must be done on all medications before they are offered for use by the general public.",
+                "options": [
+                  {"text": "Rigorous", "value": "A"},
+                  {"text": "Rigorousness", "value": "B"},
+                  {"text": "Rigor", "value": "C"},
+                  {"text": "Rigorously", "value": "D"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q103",
+                "question": "After Jennifer Barnes ------- completed her commercial driver's license application, she was able to drive a delivery truck.",
+                "options": [
+                  {"text": "successful", "value": "A"},
+                  {"text": "succeeded", "value": "B"},
+                  {"text": "succeeding", "value": "C"},
+                  {"text": "successfully", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              },
+              {
+                "id": "q104",
+                "question": "Magnum Airlines began expanding its service five years ago and now ------- several daily flights throughout Eastern Europe.",
+                "options": [
+                  {"text": "categorizes", "value": "A"},
+                  {"text": "operates", "value": "B"},
+                  {"text": "imparts", "value": "C"},
+                  {"text": "multiplies", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q105",
+                "question": "The train for Somerville ------- on schedule tomorrow even though bad weather is expected.",
+                "options": [
+                  {"text": "left", "value": "A"},
+                  {"text": "leaving", "value": "B"},
+                  {"text": "will leave", "value": "C"},
+                  {"text": "has left", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q106",
+                "question": "Employees may not use the hotel's main entrance and must pass ------- a side door located near the back of the building.",
+                "options": [
+                  {"text": "over", "value": "A"},
+                  {"text": "to", "value": "B"},
+                  {"text": "of", "value": "C"},
+                  {"text": "through", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              },
+              {
+                "id": "q107",
+                "question": "Worker evaluation forms should be submitted to Ann James in the personnel department ------- the week.",
+                "options": [
+                  {"text": "due to", "value": "A"},
+                  {"text": "within", "value": "B"},
+                  {"text": "now that", "value": "C"},
+                  {"text": "between", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q108",
+                "question": "Management may offer permanent positions to some of the employees ------- as temporary staff on the last project.",
+                "options": [
+                  {"text": "hire", "value": "A"},
+                  {"text": "hires", "value": "B"},
+                  {"text": "hired", "value": "C"},
+                  {"text": "hiring", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q109",
+                "question": "Pacific Cable News did not proceed with acquiring a rival network when its shareholders expressed ------- to the plan.",
+                "options": [
+                  {"text": "oppose", "value": "A"},
+                  {"text": "opposed", "value": "B"},
+                  {"text": "opposedly", "value": "C"},
+                  {"text": "opposition", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              },
+              {
+                "id": "q110",
+                "question": "The employee handbook states the human resources director is ------- for reviewing job applications.",
+                "options": [
+                  {"text": "reasonable", "value": "A"},
+                  {"text": "genuine", "value": "B"},
+                  {"text": "responsible", "value": "C"},
+                  {"text": "applicable", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q111",
+                "question": "Visitors to Vedan Mountain are attracted by its remote location, which is ------- 25 miles away from the nearest city.",
+                "options": [
+                  {"text": "approximate", "value": "A"},
+                  {"text": "approximating", "value": "B"},
+                  {"text": "approximation", "value": "C"},
+                  {"text": "approximately", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              },
+              {
+                "id": "q112",
+                "question": "Additional doctors will be assigned to the Operham medical ------- next month to help run a new rehabilitation wing.",
+                "options": [
+                  {"text": "territory", "value": "A"},
+                  {"text": "facility", "value": "B"},
+                  {"text": "exercise", "value": "C"},
+                  {"text": "discussion", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q113",
+                "question": "Since the cost of materials in Malaysia is relatively -------, Ms. Amarna decided to establish her factory there.",
+                "options": [
+                  {"text": "affordable", "value": "A"},
+                  {"text": "logical", "value": "B"},
+                  {"text": "potential", "value": "C"},
+                  {"text": "induced", "value": "D"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q114",
+                "question": "The central terminal's current ticketing counters will ------- be replaced by automatic machines.",
+                "options": [
+                  {"text": "gradually", "value": "A"},
+                  {"text": "comparatively", "value": "B"},
+                  {"text": "tragically", "value": "C"},
+                  {"text": "expectantly", "value": "D"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q115",
+                "question": "Freidrich Clinic keeps all medical details completely ------- and does not release records to any third party without prior consent.",
+                "options": [
+                  {"text": "confident", "value": "A"},
+                  {"text": "confidentially", "value": "B"},
+                  {"text": "confidentiality", "value": "C"},
+                  {"text": "confidential", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              },
+              {
+                "id": "q116",
+                "question": "There was ------- any merchandise left at the end of Vanita Apparel's popular annual coat sale this year.",
+                "options": [
+                  {"text": "loosely", "value": "A"},
+                  {"text": "hardly", "value": "B"},
+                  {"text": "mostly", "value": "C"},
+                  {"text": "extremely", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q117",
+                "question": "------- Paris is one of the world's most popular tourist destinations is unsurprising since it has so much amazing art and culture.",
+                "options": [
+                  {"text": "In light of", "value": "A"},
+                  {"text": "The fact that", "value": "B"},
+                  {"text": "In keeping with", "value": "C"},
+                  {"text": "Under the condition that", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q118",
+                "question": "Hooper Incorporated is ------- its internal management structure in order to improve communication among departments.",
+                "options": [
+                  {"text": "recalling", "value": "A"},
+                  {"text": "representing", "value": "B"},
+                  {"text": "reorganizing", "value": "C"},
+                  {"text": "returning", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q119",
+                "question": "The examination for the Ministry of Foreign Affairs this year was ------- a difficult test that only 10 percent of the test takers passed.",
+                "options": [
+                  {"text": "how", "value": "A"},
+                  {"text": "such", "value": "B"},
+                  {"text": "so", "value": "C"},
+                  {"text": "else", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q120",
+                "question": "Critically ill patients requiring constant ------- must be confined in the hospital's intensive care unit on the second floor of the building.",
+                "options": [
+                  {"text": "observes", "value": "A"},
+                  {"text": "observant", "value": "B"},
+                  {"text": "observe", "value": "C"},
+                  {"text": "observation", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              },
+              {
+                "id": "q121",
+                "question": "Students may make a ------- for a transfer to a different department of study but must provide the school's dean of admissions with a valid reason.",
+                "options": [
+                  {"text": "distinction", "value": "A"},
+                  {"text": "request", "value": "B"},
+                  {"text": "formation", "value": "C"},
+                  {"text": "concern", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q122",
+                "question": "Starting next month, Alouette's chief accountant ------- all requests for cash expenditures of $1,000 or more.",
+                "options": [
+                  {"text": "approved", "value": "A"},
+                  {"text": "has approved", "value": "B"},
+                  {"text": "has to approve", "value": "C"},
+                  {"text": "will be approved", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q123",
+                "question": "Bedford Airlines and the Concord Hotel chain have a partnership with ------- and sell holiday packages to a variety of global destinations.",
+                "options": [
+                  {"text": "no", "value": "A"},
+                  {"text": "each other", "value": "B"},
+                  {"text": "other", "value": "C"},
+                  {"text": "even", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q124",
+                "question": "According to a report on work practices, people today spend ------- hours at the office than they ever did before.",
+                "options": [
+                  {"text": "longest", "value": "A"},
+                  {"text": "length", "value": "B"},
+                  {"text": "longer", "value": "C"},
+                  {"text": "lengthen", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q125",
+                "question": "Questions about Nedester televisions and ------- products can be directed to the company through their Web page.",
+                "options": [
+                  {"text": "related", "value": "A"},
+                  {"text": "relation", "value": "B"},
+                  {"text": "relate", "value": "C"},
+                  {"text": "relatively", "value": "D"}
+                ],
+                "correctAnswer": "A"
+              },
+              {
+                "id": "q126",
+                "question": "Envelopes must be properly sealed ------- dropping them into the mailbox, as the post office is not accountable for lost documents.",
+                "options": [
+                  {"text": "among", "value": "A"},
+                  {"text": "before", "value": "B"},
+                  {"text": "beside", "value": "C"},
+                  {"text": "while", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q127",
+                "question": "Speed-Ex Electronics was asked to make certain that all equipment for the new branch ------- by the end of June.",
+                "options": [
+                  {"text": "will deliver", "value": "A"},
+                  {"text": "is delivered", "value": "B"},
+                  {"text": "delivering", "value": "C"},
+                  {"text": "deliver", "value": "D"}
+                ],
+                "correctAnswer": "B"
+              },
+              {
+                "id": "q128",
+                "question": "The editors of The Pine Journal go through all the articles before printing to check for errors and factual -------.",
+                "options": [
+                  {"text": "investigations", "value": "A"},
+                  {"text": "installments", "value": "B"},
+                  {"text": "discrepancies", "value": "C"},
+                  {"text": "gratuities", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q129",
+                "question": "The city has plans to ------- local parks by planting more trees and flowers to make the areas look nicer.",
+                "options": [
+                  {"text": "certify", "value": "A"},
+                  {"text": "officiate", "value": "B"},
+                  {"text": "revitalize", "value": "C"},
+                  {"text": "aggregate", "value": "D"}
+                ],
+                "correctAnswer": "C"
+              },
+              {
+                "id": "q130",
+                "question": "After working for many years as a police officer, Paul Stone ------- his career experience to start up a personal security company for high-profile executives.",
+                "options": [
+                  {"text": "kept after", "value": "A"},
+                  {"text": "followed up", "value": "B"},
+                  {"text": "pointed out", "value": "C"},
+                  {"text": "drew on", "value": "D"}
+                ],
+                "correctAnswer": "D"
+              }
+            ]
+          },
+          {
+            "partNumber": 6,
+            "title": "Text Completion",
+            "instructions": "Select the answer choice that correctly completes the text.",
+            "passages": [
+              {
+                "passage": "Questions 131-134 refer to the following announcement:",
+                "text": "A neighborhood gathering will take place at the community center next Thursday evening. This must be resolved as soon as possible because of the sharp increase in the number of cars using that street. Other issues on the agenda include the garbage collection schedule. You may familiarize yourself with these issues on our Web site. Please arrive punctually to ensure that we have enough time to address everything.",
+                "image": "image/131-134.png",
+                "questions": [
+                  {
+                    "id": "q131",
+                    "num": 131,
+                    "question": "A neighborhood gathering ------- at the community center next Thursday evening.",
+                    "options": ["took place", "will take place", "has taken place", "to take place"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q132",
+                    "num": 132,
+                    "question": "This must be resolved as soon as possible because of the sharp ------- in the number of cars using that street.",
+                    "options": ["increase", "prohibition", "advance", "exchange"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q133",
+                    "num": 133,
+                    "question": "Other issues on the agenda include the garbage collection schedule.",
+                    "options": ["We appreciate your having taken the time...", "You may familiarize yourself with these issues on our Web site.", "It is our decision to provide alternative routes...", "Your decisions have made our community..."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q134",
+                    "num": 134,
+                    "question": "Please arrive ------- to ensure that we have enough time to address everything.",
+                    "options": ["punctuality", "punctual", "punctualities", "punctually"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 135-138 refer to the following e-mail:",
+                "text": "I have been hard at work trying to finalize a sales proposal. Although I have the file on my hard drive, the printed one is especially important. I haven't had the time to add these notes into the electronic file. Unless I can get that particular copy back, I'll have to go over the one I have. It's essential that we secure the Acton as a customer.",
+                "image": "image/135-138.png",
+                "questions": [
+                  {
+                    "id": "q135",
+                    "num": 135,
+                    "question": "...I have been hard at work trying to finalize a sales -------.",
+                    "options": ["propose", "proposed", "proposal", "prepositional"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q136",
+                    "num": 136,
+                    "question": "Although I have the file on my hard drive, the printed one is especially important.",
+                    "options": ["Please make sure that the final draft is sent...", "Acton's order must be shipped out...", "They are unwilling to agree to the deal...", "I haven't had the time to add these notes into the electronic file."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q137",
+                    "num": 137,
+                    "question": "------- I can get that particular copy back, I'll have to go over the one I have.",
+                    "options": ["Though", "Whoever", "Whether", "Unless"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q138",
+                    "num": 138,
+                    "question": "It's essential that we secure the Acton as a -------.",
+                    "options": ["developer", "vendor", "supplier", "customer"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 139-142 refer to the following letter:",
+                "text": "Rarely make use of such services because the employees are usually unhelpful. The employee I spoke to, Patrick Kelley, immediately understood my problem. He was well informed and assured me that he had encountered issues similar to mine before. He suggested I let their technicians take a look at it as soon as possible. Mr. Kelley showed me some of the finest service that I have received in my life.",
+                "image": "image/139-142.png",
+                "questions": [
+                  {
+                    "id": "q139",
+                    "num": 139,
+                    "question": "...rarely make use of such services because the employees are usually -------.",
+                    "options": ["secretive", "unhelpful", "enthusiastic", "supportive"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q140",
+                    "num": 140,
+                    "question": "The employee I spoke to, Patrick Kelley, ------- understood my problem.",
+                    "options": ["visibly", "partially", "plausibly", "immediately"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q141",
+                    "num": 141,
+                    "question": "He was well informed and assured me that he had encountered issues similar to mine before.",
+                    "options": ["He told me he would have to direct my call...", "He suggested I let their technicians take a look at it as soon as possible.", "It is not the responsibility of the manufacturer...", "He highly recommended that I visit a local branch..."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q142",
+                    "num": 142,
+                    "question": "Mr. Kelley showed me some of the finest service that I ------- in my life.",
+                    "options": ["receives", "will be receiving", "have received", "to receive"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 143-146 refer to the following advertisement:",
+                "text": "Nursing homes far from city life and at a considerable distance from family and friends. We therefore help residents to maintain a healthy degree of social interaction. Stimulating activities each day including exercise classes, games, and musical performances. These go a long way toward improving their quality of life. Benefiting from the daily care and attention our staff provides.",
+                "image": "image/143-146.png",
+                "questions": [
+                  {
+                    "id": "q143",
+                    "num": 143,
+                    "question": "...nursing homes far from city life and at a considerable ------- from family and friends.",
+                    "options": ["distance", "distant", "distancing", "distantly"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q144",
+                    "num": 144,
+                    "question": "We therefore help residents to ------- a healthy degree of social interaction.",
+                    "options": ["recommend", "maintain", "require", "evaluate"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q145",
+                    "num": 145,
+                    "question": "...stimulating activities each day including exercise classes, games, and musical performances.",
+                    "options": ["These go a long way toward improving their quality of life.", "Our center is located far from the hectic urban landscape.", "Families may also consider alternative types of physical therapy.", "Some of our patients are not permitted to leave the facility."],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q146",
+                    "num": 146,
+                    "question": "...benefiting from the daily ------- and attention our staff provides.",
+                    "options": ["burden", "influence", "care", "caution"],
+                    "answer": "C"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "partNumber": 7,
+            "title": "Reading Comprehension",
+            "instructions": "Select the best answer for each question.",
+            "passages": [
+              {
+                "passage": "Questions 147-148 refer to the following e-mail:",
+                "image": "image/147-178.png",
+                "questions": [
+                  {
+                    "id": "q147",
+                    "num": 147,
+                    "question": "What is the purpose of the e-mail?",
+                    "options": ["To ask how to set up a new account", "To explain a problem with an online service", "To request a transfer of funds", "To report the possibility of a security threat"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q148",
+                    "num": 148,
+                    "question": "What does Ms. Herald require from Burgundy Capital?",
+                    "options": ["A security code", "A banking card", "An account statement", "A balance confirmation"],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 149-150 refer to the following text message chain:",
+                "image": "image/149-150.png",
+                "questions": [
+                  {
+                    "id": "q149",
+                    "num": 149,
+                    "question": "Which company has Mr. Roach been asked to represent?",
+                    "options": ["Grant Industries", "Brighton Industrials", "Cromwell Holdings", "Astoria Enterprises"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q150",
+                    "num": 150,
+                    "question": "At 11:34 a.m., what does Mr. Roach mean when he writes, \"That's perfect for me as well\"?",
+                    "options": ["A lunchtime meeting fits into his schedule.", "A case can be dealt with right away.", "An appointment for Thursday morning is suitable.", "A client can drop by his office anytime in the morning."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 151-152 refer to the following information:",
+                "image": "image/151-152.png",
+                "questions": [
+                  {
+                    "id": "q151",
+                    "num": 151,
+                    "question": "Which scheduled speaker will discuss student interns?",
+                    "options": ["Simon Gleason", "Ming Chao", "Gwen Carter", "Padma Singh"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q152",
+                    "num": 152,
+                    "question": "What is suggested about the conference?",
+                    "options": ["It includes a social event in the evening.", "It continues for a second day.", "It is held in the Student Union building.", "Its activities take place on four different floors."],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 153-154 refer to the following information:",
+                "image": "image/153-154.png",
+                "questions": [
+                  {
+                    "id": "q153",
+                    "num": 153,
+                    "question": "Where would the information most likely appear?",
+                    "options": ["A promotional poster", "An equipment manual", "An employee handbook", "An insurance policy"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q154",
+                    "num": 154,
+                    "question": "What is indicated in the information?",
+                    "options": ["Some expensive items require special permission to buy.", "Call records may be needed to subtract some charges.", "Expenses related to home ownership are completely tax-deductible.", "The cost of insuring property can be completely recovered."],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 155-157 refer to the following e-mail:",
+                "image": "image/155-157.png",
+                "questions": [
+                  {
+                    "id": "q155",
+                    "num": 155,
+                    "question": "What is NOT a purpose of the e-mail?",
+                    "options": ["To acknowledge receipt of an inquiry", "To request additional details about a client", "To describe career options for a student", "To offer information regarding a service"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q156",
+                    "num": 156,
+                    "question": "Where do Ms. Gatineau's tutoring sessions take place?",
+                    "options": ["In the student's house", "In an office in downtown Edmonton", "At the student's school", "At the University of Eastern Canada"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q157",
+                    "num": 157,
+                    "question": "What will Mr. Harcourt be discussing in the future?",
+                    "options": ["Grading systems", "Class schedules", "Tuition payment", "Test scores"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 158-160 refer to the following announcement:",
+                "image": "image/158-160.png",
+                "questions": [
+                  {
+                    "id": "q158",
+                    "num": 158,
+                    "question": "What is indicated about the exhibition?",
+                    "options": ["It is open only on weekdays.", "It will last for one week.", "It was paid for by the Ministry of Culture.", "It is free for DAFA instructors."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q159",
+                    "num": 159,
+                    "question": "What is mentioned about Annie O'Dell?",
+                    "options": ["She is a staff member at the DAFA.", "She will present awards to art students.", "She is exhibiting her pieces for the first time.", "She has worked as an artist for many years."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q160",
+                    "num": 160,
+                    "question": "What is NOT an event scheduled for the exhibition?",
+                    "options": ["Tours of the exhibit", "A movie screening", "An opening reception", "A display of sculptures"],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 161-163 refer to the following notice:",
+                "image": "image/161-163.png",
+                "questions": [
+                  {
+                    "id": "q161",
+                    "num": 161,
+                    "question": "What is the purpose of the notice?",
+                    "options": ["To announce the relocation of a facility", "To clarify a policy concerning lunch breaks", "To inform employees of survey results", "To apprise staff of a pending renovation"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q162",
+                    "num": 162,
+                    "question": "Where can employees check food options?",
+                    "options": ["In the lobby of the Superion Building", "Next to the cafeteria's main entrance", "On a bulletin board on the sixth floor", "On the company's intranet site"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q163",
+                    "num": 163,
+                    "question": "In which of the positions marked,,, and does the following sentence best belong? \"We agree with you that it is necessary to offer a variety of meal options to suit everyone.\"",
+                    "options": ["", "", "", ""],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 164-167 refer to the following article:",
+                "image": "image/164-167.png",
+                "questions": [
+                  {
+                    "id": "q164",
+                    "num": 164,
+                    "question": "Why was the article written?",
+                    "options": ["To describe business trends in a region", "To report on sales of mobile phones", "To profile the goals of a CEO", "To announce plans for a new facility"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q165",
+                    "num": 165,
+                    "question": "How does First Global plan to finance its newest project?",
+                    "options": ["By selling company shares", "By bringing in a partner", "By increasing its line of credit", "By relying on past profits"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q166",
+                    "num": 166,
+                    "question": "What does the article suggest about First Global?",
+                    "options": ["Factory working conditions are below standards.", "Manufacturing will not grow as much as expected.", "Smartphone manufacturers buy their products.", "Expanding into Asia will be a new experience for them."],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q167",
+                    "num": 167,
+                    "question": "In which of the positions marked,,, and does the following sentence best belong? \"This increase in output will help the company keep up with the strong demand for smartphones.\"",
+                    "options": ["", "", "", ""],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 168-171 refer to the following online chat:",
+                "image": "image/168-171.png",
+                "questions": [
+                  {
+                    "id": "q168",
+                    "num": 168,
+                    "question": "What is mainly being discussed?",
+                    "options": ["Scheduled tests for an online store's payment system", "Products to feature in a special promotion", "Images for a retail site taken by a professional", "Types of models to hire for an upcoming photoshoot"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q169",
+                    "num": 169,
+                    "question": "At 1:38, what does Ms. Swenson mean when she writes \"give him another shot at it\"?",
+                    "options": ["She may hire Mr. Blake to develop an online shop.", "She will ask a photographer to retake some sample pictures.", "She may use the photos sent to her e-mail account.", "She will try to make a reservation at an establishment."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q170",
+                    "num": 170,
+                    "question": "What is true about Ms. Swenson?",
+                    "options": ["She manages sales at a home accessory store.", "She also thinks that models should be used.", "She has contacted other freelance photographers.", "She wants to make a retail store more comfortable."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q171",
+                    "num": 171,
+                    "question": "What most likely is Ms. Orbison's job?",
+                    "options": ["Payment system developer", "Corporate image consultant", "Store merchandise buyer", "Web graphics designer"],
+                    "answer": "A"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 172-175 refer to the following e-mail:",
+                "image": "image/172-175.png",
+                "questions": [
+                  {
+                    "id": "q172",
+                    "num": 172,
+                    "question": "Why did Ms. Andrews write the e-mail?",
+                    "options": ["To inform a colleague about a schedule", "To request changes to a reservation", "To ask about hotel facilities", "To summarize the results of a meeting"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q173",
+                    "num": 173,
+                    "question": "What is NOT mentioned in the e-mail?",
+                    "options": ["A lunch has been scheduled with a superior.", "The hotel has already confirmed a reservation.", "The start of a project has been postponed.", "Meetings will take place at a head office."],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q174",
+                    "num": 174,
+                    "question": "Why is Ms. Krakowski coming to the hotel?",
+                    "options": ["It is convenient for the visitors.", "She will be speaking at a conference there.", "It is located close to her office.", "She wants to try a new restaurant."],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q175",
+                    "num": 175,
+                    "question": "What information does Ms. Andrews require of Mr. Pinkerton?",
+                    "options": ["A seat assignment", "A contact number", "A meeting agenda", "A preferred date"],
+                    "answer": "D"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 176-180 refer to the following article and e-mail:",
+                "image": "image/176-180.png",
+                "questions": [
+                  {
+                    "id": "q176",
+                    "num": 176,
+                    "question": "What is NOT mentioned as an option the Lamingtons considered when facing bankruptcy?",
+                    "options": ["Putting some property up for sale", "Renting out some land", "Taking on employees", "Applying for a bank loan"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q177",
+                    "num": 177,
+                    "question": "What does the article say about Lamington Ranch?",
+                    "options": ["It has changed ownership on numerous occasions.", "It was inspired by a similar community in another country.", "It is used exclusively for raising agricultural animals.", "It is completely environmentally friendly."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q178",
+                    "num": 178,
+                    "question": "Why was the e-mail written?",
+                    "options": ["To request a subscription renewal", "To ask for an in person meeting", "To point out a mistake in an article", "To express interest in joining a cooperative"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q179",
+                    "num": 179,
+                    "question": "What does Mr. Carver indicate about the Lamingtons?",
+                    "options": ["They have motivated him to start a business.", "They have become quite popular in Israel.", "They could benefit from some free publicity.", "They receive many offers of investment."],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q180",
+                    "num": 180,
+                    "question": "What will Mr. Carver most likely do if his request is granted?",
+                    "options": ["Hire a photographer", "Visit Masterton", "Cancel some appointments", "Move to Wellington"],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 181-185 refer to the following e-mail:",
+                "image": "image/181-185.png",
+                "questions": [
+                  {
+                    "id": "q181",
+                    "num": 181,
+                    "question": "What is the purpose of the e-mail?",
+                    "options": ["To extend some helpful advice", "To outline the details of a program", "To identify needs for a luncheon", "To discuss an upcoming lecture"],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q182",
+                    "num": 182,
+                    "question": "In the e-mail, the word \"Since\" in paragraph 2, line 2, is closest in meaning to",
+                    "options": ["Although", "Because", "Even if", "So that"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q183",
+                    "num": 183,
+                    "question": "According to the e-mail, what should Mr. Flores do with his emergency information?",
+                    "options": ["Write it down in a list on his desk", "Save it in his cell phone", "Create a memo on his tablet", "Distribute it among family members"],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q184",
+                    "num": 184,
+                    "question": "Who is welcome to visit the Career Development Center?",
+                    "options": ["Professionals in the field of human resources", "Employed and retired adults", "University students looking for jobs", "Faculty members seeking a promotion"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q185",
+                    "num": 185,
+                    "question": "What is indicated about Mr. Flores?",
+                    "options": ["He will assist Dr. Rhodes with her lecture.", "He has a lunch meeting in Durgan Hall.", "He can attend an event on Thursday for free.", "He requires more than one ticket."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 186-190 refer to the following schedule:",
+                "image": "image/186-190.png",
+                "questions": [
+                  {
+                    "id": "q186",
+                    "num": 186,
+                    "question": "What has Mr. Chang been scheduled to do?",
+                    "options": ["Provide loan consultations", "Discuss financing for small businesses", "Give a talk on matters pertaining to law", "Lead a discussion on attracting customer"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q187",
+                    "num": 187,
+                    "question": "What is true about the Business 101 seminar?",
+                    "options": ["It includes an activity led by a sponsoring organization.", "It is exclusively for members of a business association.", "It will be held at a group's headquarters in Pittsburgh.", "It will allow companies to recruit new staff."],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q188",
+                    "num": 188,
+                    "question": "What is mentioned about Mr. Ashley?",
+                    "options": ["He has attended PBA events in the past.", "He is familiar with the subject of a seminar.", "He has been in the banking industry for decades.", "He plans to distribute promotional material."],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q189",
+                    "num": 189,
+                    "question": "What can be inferred about Ms. Castle?",
+                    "options": ["She employs over two dozen staff members.", "Her store is expanding to a second location.", "She plans to hold classes at her establishment.", "Her estimated expenses exceed her requested loan amount."],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q190",
+                    "num": 190,
+                    "question": "What is suggested about Ms. Castle's loan application?",
+                    "options": ["It is missing some required information.", "It will be evaluated by Mr. Ashley.", "It was completed during a seminar.", "It must be mailed in by October 10."],
+                    "answer": "B"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 191-195 refer to the following e-mail and invitation:",
+                "image": "image/191-195.png",
+                "questions": [
+                  {
+                    "id": "q191",
+                    "num": 191,
+                    "question": "What is NOT indicated about Meredith Fashion Institute's event?",
+                    "options": ["It is held yearly at a school ground.", "It includes a meal for participants.", "It coincides with the launch of a brand.", "It charges visitors a fee to gain entrance."],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q192",
+                    "num": 192,
+                    "question": "What does Ms. Cruise say that she appreciates about the event?",
+                    "options": ["Profits from it will go toward helping aspiring designers.", "It will help amateur photographers gain some much-needed publicity.", "She will not have to bring her own equipment to it.", "It will provide her with an opportunity to display some work."],
+                    "answer": "A"
+                  },
+                  {
+                    "id": "q193",
+                    "num": 193,
+                    "question": "Why does Ms. Cruise want to set up a booth?",
+                    "options": ["To interview a potential assistant", "To register arriving guests", "To get a chance to recover some costs", "To have an area for taking short breaks"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q194",
+                    "num": 194,
+                    "question": "What is true about Melvin Lee?",
+                    "options": ["He provided entertainment for an event.", "He teaches a class in fashion at MFI.", "He attended the same school as Ms. Rowlands.", "He has helped style models for a magazine."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q195",
+                    "num": 195,
+                    "question": "What does Ms. Rowlands mention about the fashion models at MFI's event?",
+                    "options": ["They are more colorful than those of previous seasons.", "They hardly reflected the chosen theme of an event.", "They may be sold at clothing stores in the future.", "They were quickly adopted by leading fashion designers."],
+                    "answer": "C"
+                  }
+                ]
+              },
+              {
+                "passage": "Questions 196-200 refer to the following advertisement:",
+                "image": "image/196-200.png",
+                "questions": [
+                  {
+                    "id": "q196",
+                    "num": 196,
+                    "question": "What is NOT mentioned about PFS?",
+                    "options": ["They provide product information online.", "They install fire alarms in clients' homes.", "They adhere to standards set by the city.", "They provide their services in several states."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q197",
+                    "num": 197,
+                    "question": "In the advertisement, the word \"executed\" in paragraph 1, line 4, is closest in meaning to",
+                    "options": ["expected", "measured", "completed", "selected"],
+                    "answer": "C"
+                  },
+                  {
+                    "id": "q198",
+                    "num": 198,
+                    "question": "What is suggested about the sprinklers Ms. Pierce wants in the lobby?",
+                    "options": ["They are more expensive than most other systems.", "They will replace older versions of the same type.", "They must be specially ordered by PFS from a supplier.", "They are not as likely to activate unintentionally."],
+                    "answer": "D"
+                  },
+                  {
+                    "id": "q199",
+                    "num": 199,
+                    "question": "Which system did PFS install in the spa lobby?",
+                    "options": ["Pre-action", "Wet pipe", "Dry pipe", "Deluge"],
+                    "answer": "B"
+                  },
+                  {
+                    "id": "q200",
+                    "num": 200,
+                    "question": "What is Ms. Pierce entitled to?",
+                    "options": ["A coupon for a free sprinkler", "A full refund on one system", "A problem resolution within two days", "A complimentary safety inspection"],
+                    "answer": "C"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      };
     </script>
     <script src="../../assets/js/reading.js"></script>
-</body>
+  </body>
 </html>
