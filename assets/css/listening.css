@@ -1,9 +1,0 @@
-.audio-player {
-  flex: 1 1 0;
-  min-width: 0;
-}
-
-.audio-player audio {
-  width: 100%;
-  display: block;
-}

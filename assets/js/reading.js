@@ -63,7 +63,7 @@ function generateQuestions() {
     partHeader.id = 'part-' + part.partNumber;
     partHeader.innerHTML = '<h2>Part ' + part.partNumber + ' - ' + part.title + '</h2>';
     if (part.instructions) {
-      partHeader.innerHTML += '<p style="margin-bottom: 15px; line-height: 1.6;">' + part.instructions + '</p>';
+      partHeader.innerHTML += '<p class="question-text">' + part.instructions + '</p>';
     }
     container.appendChild(partHeader);
 
@@ -83,7 +83,7 @@ function generateQuestions() {
           return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.correctAnswer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + opt.text + '</label></div>';
         }).join('');
 
-        questionDiv.innerHTML = '<span class="question-number">Question ' + q.id.replace('q', '') + '</span><p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
+        questionDiv.innerHTML = '<span class="question-number">Question ' + String(q.id).replace('q', '') + '</span><p class="question-text">' + q.question + '</p><div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
 
         questionsWrapper.appendChild(questionDiv);
       });
@@ -99,7 +99,7 @@ function generateQuestions() {
         passageDiv.className = 'passage';
         var passageHTML = '<h2>' + passage.passage + '</h2>';
         if (passage.image && passage.image !== '') {
-          passageHTML += '<img src="' + passage.image + '" alt="' + passage.passage + '" style="max-width: 100%; height: auto; margin: 20px 0; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">';
+          passageHTML += '<img src="' + passage.image + '" alt="' + passage.passage + '" class="passage-image">';
         }
         if (passage.text && passage.text !== '') {
           passageHTML += '<div class="passage-text">' + passage.text + '</div>';
@@ -123,7 +123,7 @@ function generateQuestions() {
               return '<div class="option" onclick="selectAnswer(this, \'' + q.id + '\', \'' + q.answer + '\')"><input type="radio" name="' + q.id + '" value="' + letter + '" id="' + q.id + letter + '"><label for="' + q.id + letter + '">(' + letter + ') ' + opt + '</label></div>';
             }).join('');
 
-            var questionText = q.question ? '<p style="margin-bottom: 15px; line-height: 1.6;">' + q.question + '</p>' : '';
+            var questionText = q.question ? '<p class="question-text">' + q.question + '</p>' : '';
             questionDiv.innerHTML = '<span class="question-number">Question ' + q.num + '</span>' + questionText + '<div class="options">' + optionsHTML + '</div><div class="answer-feedback" id="feedback-' + q.id + '"></div>';
 
             questionsWrapper.appendChild(questionDiv);
@@ -201,10 +201,7 @@ function selectAnswer(optionElement, questionId, correctAnswer) {
     feedbackDiv.classList.remove('correct');
     feedbackDiv.classList.add('incorrect');
     // Don't lock on incorrect answer - allow re-selection
-    // Remove from state if previously marked as incorrect
-    if (questionState.get(questionId) === false) {
-      questionState.delete(questionId);
-    }
+    questionState.set(questionId, false);
   }
 
   feedbackDiv.classList.add('show');

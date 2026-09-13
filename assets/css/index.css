@@ -7,7 +7,7 @@
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #8c9eef;
-  padding: 20px;
+  padding: 15px;
   min-height: 100vh;
 }
 
@@ -23,7 +23,7 @@ body {
 .header {
   background: #8c9eef;
   color: #1e2749;
-  padding: 40px;
+  padding: 15px;
   text-align: center;
 }
 
@@ -38,11 +38,11 @@ body {
 }
 
 .content {
-  padding: 40px;
+  padding: 15px;
 }
 
 .volume-section {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .volume-title {
@@ -53,11 +53,6 @@ body {
   border-bottom: 3px solid #667eea;
 }
 
-.volume-title {
-  color: #667eea;
-  border-color: #667eea;
-}
-
 .test-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -66,7 +61,7 @@ body {
 
 .test-card {
   background: #f8f9fa;
-  padding: 30px;
+  padding: 15px;
   border-radius: 12px;
   border: 2px solid #e9ecef;
   transition: all 0.3s;
@@ -74,20 +69,13 @@ body {
 
 .test-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-}
-
-.test-card:hover {
   border-color: #667eea;
-  box-shadow: 0 8px 25px rgba(102, 126, 234, 0.3);
+  box-shadow: 0 8px 15px rgba(102, 126, 234, 0.3);
 }
 
 .test-card h3 {
   font-size: 1.5em;
   margin-bottom: 15px;
-}
-
-.test-card h3 {
   color: #667eea;
 }
 
@@ -133,7 +121,7 @@ body {
 
 .footer {
   text-align: center;
-  padding: 20px;
+  padding: 15px;
   color: #666;
   border-top: 1px solid #e9ecef;
   font-weight: 700;
@@ -141,9 +129,9 @@ body {
 
 .intro {
   background: #f8f9fa;
-  padding: 25px;
+  padding: 15px;
   border-radius: 10px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   border-left: 5px solid #667eea;
 }
 
