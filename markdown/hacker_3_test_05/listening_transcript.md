@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `미국식 발음 → 호주식 발음`
-Who is waiting for you in your office?
+7. `미국식 발음 → 호주식 발음` Who is waiting for you in your office?
 (A) Mr. Sanders took the file.
 (B) To wait in line.
 (C) A friend from college.
 
-8. `영국식 발음 → 캐나다식 발음`
-Will you be able to contact me later?
+8. `영국식 발음 → 캐나다식 발음` Will you be able to contact me later?
 (A) My assistant can go with them.
 (B) Yes, I’ll do so at three.
 (C) No, I don’t see the waiter.
 
-9. `호주식 발음 → 미국식 발음`
-Where would you like to sit for the concert?
+9. `호주식 발음 → 미국식 발음` Where would you like to sit for the concert?
 (A) In the back row.
 (B) A local band performed.
 (C) No, I probably wouldn’t.
 
-10. `영국식 발음 → 호주식 발음`
-You live on the east side of town, don’t you?
+10. `영국식 발음 → 호주식 발음` You live on the east side of town, don’t you?
 (A) The eastern highway is blocked off.
 (B) I did for a few years.
 (C) I lost the key to the house.
 
-11. `캐나다식 발음 → 미국식 발음`
-Should we renew our lease or relocate the boutique?
+11. `캐나다식 발음 → 미국식 발음` Should we renew our lease or relocate the boutique?
 (A) Not according to our rental agreement.
 (B) It’s a fashionable store.
 (C) I want to stay in this space.
 
-12. `영국식 발음 → 캐나다식 발음`
-Which of those bags is yours?
+12. `영국식 발음 → 캐나다식 발음` Which of those bags is yours?
 (A) Use the overhead compartment.
 (B) Mine is in the closet.
 (C) You’ll need a luggage voucher.
 
-13. `미국식 발음 → 호주식 발음`
-What day is your dentist appointment on?
+13. `미국식 발음 → 호주식 발음` What day is your dentist appointment on?
 (A) For a regular check-up.
 (B) I wrote it down in my calendar.
 (C) He is only available during the day.
 
-14. `캐나다식 발음 → 미국식 발음`
-Am I allowed to bring a beverage into the theater?
+14. `캐나다식 발음 → 미국식 발음` Am I allowed to bring a beverage into the theater?
 (A) It’s not permitted.
 (B) We are sitting close to the stage.
 (C) I’ll get some coffee.
 
-15. `호주식 발음 → 영국식 발음`
-Which employees need to attend tomorrow’s training?
+15. `호주식 발음 → 영국식 발음` Which employees need to attend tomorrow’s training?
 (A) Only people from the accounting department.
 (B) At an employment agency.
 (C) I’m happy to oversee it.
 
-16. `캐나다식 발음 → 영국식 발음`
-Could you change the bulb for this lamp?
+16. `캐나다식 발음 → 영국식 발음` Could you change the bulb for this lamp?
 (A) Sure, you can turn the TV on.
 (B) Yes, but not immediately.
 (C) All of the records we modified.
 
-17. `호주식 발음 → 미국식 발음`
-How do you suggest improving this manuscript?
+17. `호주식 발음 → 미국식 발음` How do you suggest improving this manuscript?
 (A) The author made a public appearance.
 (B) Let’s shorten it by 25 percent.
 (C) Well, Novak recommends Midway Bistro.
 
-18. `캐나다식 발음 → 영국식 발음`
-When was the projector in the conference room fixed?
+18. `캐나다식 발음 → 영국식 발음` When was the projector in the conference room fixed?
 (A) I will arrange a conference call.
 (B) They repaired it a week ago.
 (C) Details of the project are posted on the wall.
 
-19. `미국식 발음 → 캐나다식 발음`
-Do you want to stop by the history museum?
+19. `미국식 발음 → 캐나다식 발음` Do you want to stop by the history museum?
 (A) So long as it’s free.
 (B) When we stopped by the campus.
 (C) The Aztec exhibit was the highlight.
 
-20. `영국식 발음 → 호주식 발음`
-When does the hotel restaurant normally open?
+20. `영국식 발음 → 호주식 발음` When does the hotel restaurant normally open?
 (A) Breakfast is served beginning at 6 a.m.
 (B) Are you open to driving?
 (C) I think the buffet is quite good.
 
-21. `캐나다식 발음 → 미국식 발음`
-Why haven’t we received any of the new monitors?
+21. `캐나다식 발음 → 미국식 발음` Why haven’t we received any of the new monitors?
 (A) I’ll check on the order’s status.
 (B) My manager received similar instructions.
 (C) They have touchscreens as well.
 
-22. `호주식 발음 → 미국식 발음`
-Our firm is having a new logo designed.
+22. `호주식 발음 → 미국식 발음` Our firm is having a new logo designed.
 (A) Yes, I often buy that brand.
 (B) Hopefully, it will be appealing.
 (C) Ken has resigned from his position.
 
-23. `영국식 발음 → 캐나다식 발음`
-Didn’t Alan already proofread the newsletter that will be shared with gym members?
+23. `영국식 발음 → 캐나다식 발음` Didn’t Alan already proofread the newsletter that will be shared with gym members?
 (A) We typically e-mail it out once per month.
 (B) Read the proposal whenever you can.
 (C) The draft is still being completed.
 
-24. `미국식 발음 → 호주식 발음`
-Payroll mistakes should be reported to Ms. Colt, right?
+24. `미국식 발음 → 호주식 발음` Payroll mistakes should be reported to Ms. Colt, right?
 (A) Yes, take a souvenir.
 (B) We were paid yesterday.
 (C) No, Mr. Yang handles them.
 
-25. `호주식 발음 → 영국식 발음`
-The CEO has decided to step down in late October.
+25. `호주식 발음 → 영국식 발음` The CEO has decided to step down in late October.
 (A) An executive officer.
 (B) You’ve made the right decision.
 (C) He’ll be difficult to replace.
 
-26. `캐나다식 발음 → 영국식 발음`
-Are you still in Atlanta, or has your train left the station?
+26. `캐나다식 발음 → 영국식 발음` Are you still in Atlanta, or has your train left the station?
 (A) I’m heading to Denver now.
 (B) I think I’ll go to Atlanta for vacation.
 (C) Really? My friend is from there.
 
-27. `미국식 발음 → 캐나다식 발음`
-Some of the shelves by the registers look low on merchandise.
+27. `미국식 발음 → 캐나다식 발음` Some of the shelves by the registers look low on merchandise.
 (A) Yes, from our warehouse in Ohio.
 (B) Shelves will be installed soon.
 (C) They’ll be stocked now that we have more goods.
 
-28. `호주식 발음 → 영국식 발음`
-Are you able to troubleshoot computer problems?
+28. `호주식 발음 → 영국식 발음` Are you able to troubleshoot computer problems?
 (A) That depends on the issue.
 (B) You’ve been no trouble at all.
 (C) The laptops are for business use only.
 
-29. `호주식 발음 → 미국식 발음`
-Why did the diners return these appetizers to the kitchen?
+29. `호주식 발음 → 미국식 발음` Why did the diners return these appetizers to the kitchen?
 (A) Do you provide full refunds?
 (B) My favorite dish is the mushroom pasta.
 (C) Some of the chicken seems undercooked.
 
-30. `캐나다식 발음 → 영국식 발음`
-Where can I find a copy of the annual budget?
+30. `캐나다식 발음 → 영국식 발음` Where can I find a copy of the annual budget?
 (A) You should talk to someone in the finance team.
 (B) It was completed in April.
 (C) We brought in over $20 million last year.
 
-31. `미국식 발음 → 호주식 발음`
-But I thought Ms. Stein had to postpone her flight to Mexico City.
+31. `미국식 발음 → 호주식 발음` But I thought Ms. Stein had to postpone her flight to Mexico City.
 (A) Airport shuttles leave every hour.
 (B) That was before her plans were updated.
 (C) Actually, the function went longer than expected.

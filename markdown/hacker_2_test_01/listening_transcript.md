@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `캐나다식 발음 → 미국식 발음`
-How many people are we expecting for our performances on Sunday?
+7. `캐나다식 발음 → 미국식 발음` How many people are we expecting for our performances on Sunday?
 (A) 100 for each show.
 (B) They’ll be here at 8.
 (C) We’ve performed it many times.
 
-8. `영국식 발음 → 캐나다식 발음`
-Brad, can you set up the dining room for a dinner?
+8. `영국식 발음 → 캐나다식 발음` Brad, can you set up the dining room for a dinner?
 (A) Yes, it was delicious.
 (B) Not particularly.
 (C) Sure, in a bit.
 
-9. `미국식 발음 → 호주식 발음`
-Who moved the boxes from the front door?
+9. `미국식 발음 → 호주식 발음` Who moved the boxes from the front door?
 (A) I’m sure it’s in the back room.
 (B) I’ll do it right after the snow stops.
 (C) I saw Issac doing it this morning.
 
-10. `캐나다식 발음 → 영국식 발음`
-My medical check-up is at 4:40, but I won’t finish work until 5 today.
+10. `캐나다식 발음 → 영국식 발음` My medical check-up is at 4:40, but I won’t finish work until 5 today.
 (A) At Queens Hospital.
 (B) That’s a problem.
 (C) You need to make sure you’re qualified.
 
-11. `호주식 발음 → 영국식 발음`
-Would you prefer to rent a sedan or a larger vehicle?
+11. `호주식 발음 → 영국식 발음` Would you prefer to rent a sedan or a larger vehicle?
 (A) I’ve run out of gas.
 (B) The rental fee is negotiable.
 (C) We require a van to fit everyone.
 
-12. `미국식 발음 → 호주식 발음`
-Why has our director been out of the office all morning?
+12. `미국식 발음 → 호주식 발음` Why has our director been out of the office all morning?
 (A) Around seven o’clock.
 (B) She’s attending a workshop.
 (C) Yes, your directions were useful.
 
-13. `영국식 발음 → 호주식 발음`
-Does the cleaning service send us monthly bills?
+13. `영국식 발음 → 호주식 발음` Does the cleaning service send us monthly bills?
 (A) Yes, on the 1st.
 (B) It’s fine to pay with a credit card.
 (C) I spent $50 last month.
 
-14. `캐나다식 발음 → 미국식 발음`
-When do you want me to restock the shelves?
+14. `캐나다식 발음 → 미국식 발음` When do you want me to restock the shelves?
 (A) No, I think it is on the bottom shelf.
 (B) Before taking your lunch break.
 (C) In the storage room.
 
-15. `호주식 발음 → 영국식 발음`
-How often do you go to Tokyo on business trips?
+15. `호주식 발음 → 영국식 발음` How often do you go to Tokyo on business trips?
 (A) It’s an event occurring in Tokyo.
 (B) An agent will plan the trip.
 (C) We no longer have a branch in that city.
 
-16. `미국식 발음 → 호주식 발음`
-Who should I submit my employment application to?
+16. `미국식 발음 → 호주식 발음` Who should I submit my employment application to?
 (A) The woman behind the reception desk.
 (B) You should include a résumé and cover letter.
 (C) The position won’t be vacant for another two weeks.
 
-17. `영국식 발음 → 캐나다식 발음`
-Why don’t we ask the baker to recommend a high quality bread flour?
+17. `영국식 발음 → 캐나다식 발음` Why don’t we ask the baker to recommend a high quality bread flour?
 (A) No, we’ve already arrived.
 (B) I bought some cakes.
 (C) Yes, that would be helpful.
 
-18. `미국식 발음 → 캐나다식 발음`
-Would you organize the museum’s charity luncheon?
+18. `미국식 발음 → 캐나다식 발음` Would you organize the museum’s charity luncheon?
 (A) We received a generous donation.
 (B) It would be my pleasure.
 (C) No, I don’t need a ride.
 
-19. `영국식 발음 → 호주식 발음`
-You’ve reserved your seat for the concert already, haven’t you?
+19. `영국식 발음 → 호주식 발음` You’ve reserved your seat for the concert already, haven’t you?
 (A) I should be ready by 6 p.m.
 (B) I’m going to do it now.
 (C) No, it’ll be my first time playing there.
 
-20. `캐나다식 발음 → 영국식 발음`
-What is the company’s reason for recalling the vehicle?
+20. `캐나다식 발음 → 영국식 발음` What is the company’s reason for recalling the vehicle?
 (A) No, I didn’t receive a full refund.
 (B) Consumers are reporting faulty brakes.
 (C) They should be brought back to the store.
 
-21. `호주식 발음 → 미국식 발음`
-The conference on business strategies is going to be postponed.
+21. `호주식 발음 → 미국식 발음` The conference on business strategies is going to be postponed.
 (A) Across from the convention center.
 (B) That strategy was very effective.
 (C) Oh, I didn’t know that.
 
-22. `캐나다식 발음 → 영국식 발음`
-Where did you put our flight tickets to Vancouver?
+22. `캐나다식 발음 → 영국식 발음` Where did you put our flight tickets to Vancouver?
 (A) I left them in my desk drawer.
 (B) We need to hurry to catch the flight.
 (C) I made a reservation this morning.
 
-23. `미국식 발음 → 영국식 발음`
-Didn’t the guests in Suite 234 request room service?
+23. `미국식 발음 → 영국식 발음` Didn’t the guests in Suite 234 request room service?
 (A) The kitchen staff will know.
 (B) They have checked in.
 (C) It’s bigger than I had expected.
 
-24. `호주식 발음 → 미국식 발음`
-Which shirts are currently on sale?
+24. `호주식 발음 → 미국식 발음` Which shirts are currently on sale?
 (A) Yes, 75 percent off.
 (B) All of the ones on this rack.
 (C) Let’s go shopping at the Riverton Mall.
 
-25. `캐나다식 발음 → 미국식 발음`
-Why do you want to return this table?
+25. `캐나다식 발음 → 미국식 발음` Why do you want to return this table?
 (A) Thanks. I’ll exchange it later.
 (B) My turn is coming up next.
 (C) It’s too big for my living room.
 
-26. `영국식 발음 → 캐나다식 발음`
-I’ve decided which apartment I’m going to lease when I move to Madrid.
+26. `영국식 발음 → 캐나다식 발음` I’ve decided which apartment I’m going to lease when I move to Madrid.
 (A) I knew you were unhappy with your landlord.
 (B) Great, that’s one major decision.
 (C) They’re trying to sell their house.
 
-27. `캐나다식 발음 → 미국식 발음`
-When will we leave for the company picnic?
+27. `캐나다식 발음 → 미국식 발음` When will we leave for the company picnic?
 (A) At 10:45 this morning.
 (B) I went to work yesterday.
 (C) At the Central Park subway station.
 
-28. `호주식 발음 → 미국식 발음`
-Should we stay at the beach or head back to the hotel?
+28. `호주식 발음 → 미국식 발음` Should we stay at the beach or head back to the hotel?
 (A) Some extra beach towels.
 (B) OK, if you’re done swimming.
 (C) Let’s relax here a bit longer.
 
-29. `캐나다식 발음 → 영국식 발음`
-Hasn’t the technician fixed our network yet?
+29. `캐나다식 발음 → 영국식 발음` Hasn’t the technician fixed our network yet?
 (A) We met him at the networking event.
 (B) No, he’s still working on it.
 (C) I’m glad we solved it together.
 
-30. `미국식 발음 → 호주식 발음`
-Do you know who the woman delivering the welcome address is?
+30. `미국식 발음 → 호주식 발음` Do you know who the woman delivering the welcome address is?
 (A) Yes, it was delivered to my home last week.
 (B) Her name is Kate Wong, the event organizer.
 (C) I think it’s on Seventeenth Street.
 
-31. `영국식 발음 → 호주식 발음`
-The Boston Herald reports that the Eastwood Public Library is closed for renovations.
+31. `영국식 발음 → 호주식 발음` The Boston Herald reports that the Eastwood Public Library is closed for renovations.
 (A) Have you completed the report?
 (B) I have to renew my card next month.
 (C) Really? When will it reopen?

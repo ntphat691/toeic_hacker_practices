@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 미국식 발음`
-What is everyone going to do after dinner?
+7. `호주식 발음 → 미국식 발음` What is everyone going to do after dinner?
 (A) We’ll probably see a film.
 (B) The winner was declared.
 (C) They had a late lunch.
 
-8. `영국식 발음 → 호주식 발음`
-What did it cost to have your tablet fixed?
+8. `영국식 발음 → 호주식 발음` What did it cost to have your tablet fixed?
 (A) Go to aisle three for tablets.
 (B) This furniture is broken.
 (C) I was charged 50 Euros.
 
-9. `미국식 발음 → 캐나다식 발음`
-Where’s the research manager?
+9. `미국식 발음 → 캐나다식 발음` Where’s the research manager?
 (A) Have you checked the lab?
 (B) Set them over there.
 (C) She’s a skilled manager.
 
-10. `영국식 발음 → 호주식 발음`
-How long is the drive from here to Catalina?
+10. `영국식 발음 → 호주식 발음` How long is the drive from here to Catalina?
 (A) I’m taking my car.
 (B) About half a day.
 (C) It gets good mileage.
 
-11. `캐나다식 발음 → 영국식 발음`
-Which bus company should we book for our next trip?
+11. `캐나다식 발음 → 영국식 발음` Which bus company should we book for our next trip?
 (A) I’ll change our booking time.
 (B) Something more affordable than last time.
 (C) One of the best travel guidebooks I bought.
 
-12. `호주식 발음 → 미국식 발음`
-When is the assistant director returning?
+12. `호주식 발음 → 미국식 발음` When is the assistant director returning?
 (A) Let me know if you need assistance.
 (B) She supervises our team.
 (C) Either this week or next week.
 
-13. `영국식 발음 → 캐나다식 발음`
-Who was selected to oversee the Marlow project?
+13. `영국식 발음 → 캐나다식 발음` Who was selected to oversee the Marlow project?
 (A) That has yet to be announced.
 (B) They’re excited for the opportunity.
 (C) The president finally chose a venue.
 
-14. `미국식 발음 → 호주식 발음`
-Why did you buy so many boxes of paper?
+14. `미국식 발음 → 호주식 발음` Why did you buy so many boxes of paper?
 (A) There was a sale at the store.
 (B) On the other receipt.
 (C) I forgot to stop by.
 
-15. `캐나다식 발음 → 영국식 발음`
-Andria will send copies of the budget to us.
+15. `캐나다식 발음 → 영국식 발음` Andria will send copies of the budget to us.
 (A) Expenses for this quarter.
 (B) Rent has not increased lately.
 (C) When will we receive them?
 
-16. `호주식 발음 → 영국식 발음`
-How quickly can your team revise this fiscal report?
+16. `호주식 발음 → 영국식 발음` How quickly can your team revise this fiscal report?
 (A) Your timing was perfect.
 (B) It’s the quickest way to the arena.
 (C) You’ll have the final draft by tomorrow.
 
-17. `미국식 발음 → 캐나다식 발음`
-We’re extremely pleased with your work on this assignment.
+17. `미국식 발음 → 캐나다식 발음` We’re extremely pleased with your work on this assignment.
 (A) I no longer work there.
 (B) Thank you. I’m quite proud of it myself.
 (C) That’s an excellent suggestion.
 
-18. `캐나다식 발음 → 미국식 발음`
-Why don’t you consult someone from technical assistance?
+18. `캐나다식 발음 → 미국식 발음` Why don’t you consult someone from technical assistance?
 (A) I probably should.
 (B) No, I don’t see him.
 (C) It’s technically wrong.
 
-19. `영국식 발음 → 호주식 발음`
-You’ve visited this city in the past, right?
+19. `영국식 발음 → 호주식 발음` You’ve visited this city in the past, right?
 (A) My friend will be here in June.
 (B) It’s past the library.
 (C) On several occasions, actually.
 
-20. `미국식 발음 → 영국식 발음`
-Who can deposit these checks at the bank for me?
+20. `미국식 발음 → 영국식 발음` Who can deposit these checks at the bank for me?
 (A) Do you need them deposited today?
 (B) Into the company account.
 (C) Another teller needs to be hired.
 
-21. `호주식 발음 → 미국식 발음`
-It’s not the best time for employees to go on holiday.
+21. `호주식 발음 → 미국식 발음` It’s not the best time for employees to go on holiday.
 (A) Yes, an orientation for employees.
 (B) You’re right. A lot of orders are coming in.
 (C) I spent it with my family.
 
-22. `캐나다식 발음 → 영국식 발음`
-Why is the train to Bern running behind schedule?
+22. `캐나다식 발음 → 영국식 발음` Why is the train to Bern running behind schedule?
 (A) It will be delivered today, though.
 (B) There’s a problem on the tracks.
 (C) We should leave at once.
 
-23. `호주식 발음 → 영국식 발음`
-Why don’t you share your research findings on Monday?
+23. `호주식 발음 → 영국식 발음` Why don’t you share your research findings on Monday?
 (A) I studied economics in college.
 (B) To assess consumer opinions.
 (C) Oh, the data won’t be compiled by then.
 
-24. `미국식 발음 → 캐나다식 발음`
-Does your store offer refunds and exchanges?
+24. `미국식 발음 → 캐나다식 발음` Does your store offer refunds and exchanges?
 (A) Only under certain circumstances.
 (B) It sells electronic equipment.
 (C) We exchanged business cards.
 
-25. `캐나다식 발음 → 미국식 발음`
-You haven’t seen my notebook around here, have you?
+25. `캐나다식 발음 → 미국식 발음` You haven’t seen my notebook around here, have you?
 (A) Pick up some pens as well.
 (B) You haven’t been around these days.
 (C) The one with the yellow cover?
 
-26. `영국식 발음 → 호주식 발음`
-Please don’t order a dish with nuts in it.
+26. `영국식 발음 → 호주식 발음` Please don’t order a dish with nuts in it.
 (A) I’ll make sure they go in order.
 (B) Pistachios are my favorite nut.
 (C) Oh, I forgot you were allergic.
 
-27. `캐나다식 발음 → 미국식 발음`
-Do you want to pack up the living room first or start with the bathroom?
+27. `캐나다식 발음 → 미국식 발음` Do you want to pack up the living room first or start with the bathroom?
 (A) We still don’t have boxes.
 (B) It’s in the next room.
 (C) She has to move very soon.
 
-28. `호주식 발음 → 미국식 발음`
-Should we edit the photos on the computer?
+28. `호주식 발음 → 미국식 발음` Should we edit the photos on the computer?
 (A) Everyone met the photographer.
 (B) That requires special software.
 (C) It is my new camera.
 
-29. `영국식 발음 → 캐나다식 발음`
-Am I supposed to lock up the building before I leave?
+29. `영국식 발음 → 캐나다식 발음` Am I supposed to lock up the building before I leave?
 (A) The custodian takes care of that.
 (B) We can look for it later.
 (C) It’s on the left side of the structure.
 
-30. `캐나다식 발음 → 영국식 발음`
-Should I proofread this manual, or have you already reviewed it?
+30. `캐나다식 발음 → 영국식 발음` Should I proofread this manual, or have you already reviewed it?
 (A) Each division has a different handbook.
 (B) Actually, can you have Cole do it?
 (C) Let’s watch a preview first.
 
-31. `호주식 발음 → 미국식 발음`
-Didn’t you take an excursion during your vacation?
+31. `호주식 발음 → 미국식 발음` Didn’t you take an excursion during your vacation?
 (A) We took a day trip to Crete.
 (B) Well, what would you like to do?
 (C) The hotel staff will book one for us.

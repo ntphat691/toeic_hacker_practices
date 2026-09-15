@@ -254,8 +254,7 @@ The Robinson Library offers complimentary alerts to members who have registered 
 (D) check
 146. (A) periodical and tapes. iSl W (B) The library will add up the cost of the books that are purchased. Upon return of the material, the
 (C) borrower will have to pay a late fee. As per the decision of the library
-(D) management, alerts will be canceled,
-<<MISSING>>
+(D) management, alerts will be canceled, <<MISSING>>
 
 Questions 147=148 refer to the following notice.
 

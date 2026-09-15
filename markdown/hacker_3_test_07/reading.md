@@ -195,8 +195,7 @@ To: Mimi O'Hare <mohare_1 @mymail.ca> From: Super Wash Center <customersupport@s
 (D) You did not have enough money on your card to cover the cost.
 134. (A) what
 (B) every
-(C) some of
-<<MISSING>>
+(C) some of <<MISSING>>
 
 Questions 135-138 refer to the following article.
 

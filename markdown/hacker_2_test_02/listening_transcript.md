@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `영국식 발음 → 호주식 발음`
-Who proofread these documents?
+7. `영국식 발음 → 호주식 발음` Who proofread these documents?
 (A) The copy editor.
 (B) Some customer surveys.
 (C) Mr. Kinsley can come.
 
-8. `캐나다식 발음 → 영국식 발음`
-Why is the company hiring more employees?
+8. `캐나다식 발음 → 영국식 발음` Why is the company hiring more employees?
 (A) I’ll accompany you.
 (B) The personnel department.
 (C) There are many upcoming projects.
 
-9. `영국식 발음 → 호주식 발음`
-Where did you get your hair cut?
+9. `영국식 발음 → 호주식 발음` Where did you get your hair cut?
 (A) It really suits you.
 (B) Just a short trim, please.
 (C) At the place on State Street.
 
-10. `미국식 발음 → 캐나다식 발음`
-Can’t the deadline be extended by a day?
+10. `미국식 발음 → 캐나다식 발음` Can’t the deadline be extended by a day?
 (A) Decreased enrollment.
 (B) Unfortunately not.
 (C) Last Monday.
 
-11. `영국식 발음 → 미국식 발음`
-My furniture was delivered this morning.
+11. `영국식 발음 → 미국식 발음` My furniture was delivered this morning.
 (A) What did you order?
 (B) For my redecorated bedroom.
 (C) They will be shipped soon.
 
-12. `캐나다식 발음 → 호주식 발음`
-Do you know how to use this new oven?
+12. `캐나다식 발음 → 호주식 발음` Do you know how to use this new oven?
 (A) It didn’t cost much.
 (B) When we return from dinner.
 (C) Sure, let me show you how.
 
-13. `미국식 발음 → 캐나다식 발음`
-Putting this bookcase together was fairly easy, wasn’t it?
+13. `미국식 발음 → 캐나다식 발음` Putting this bookcase together was fairly easy, wasn’t it?
 (A) It wasn’t there when I looked.
 (B) Yes, it only took 10 minutes.
 (C) My personal collection of novels.
 
-14. `호주식 발음 → 미국식 발음`
-Would you be able to mail this parcel today?
+14. `호주식 발음 → 미국식 발음` Would you be able to mail this parcel today?
 (A) Of course.
 (B) I checked my mail last night.
 (C) Sorry, the luncheon was yesterday.
 
-15. `미국식 발음 → 캐나다식 발음`
-How did you do on your exams last semester?
+15. `미국식 발음 → 캐나다식 발음` How did you do on your exams last semester?
 (A) For biology and history.
 (B) I did well. Thanks for asking.
 (C) It lasted longer than I thought.
 
-16. `캐나다식 발음 → 미국식 발음`
-Are travel expenses covered by our firm?
+16. `캐나다식 발음 → 미국식 발음` Are travel expenses covered by our firm?
 (A) Only airfare and accommodations.
 (B) We’re a manufacturing company.
 (C) That’s quite expensive.
 
-17. `영국식 발음 → 호주식 발음`
-The demonstration of our new product went extremely well this morning.
+17. `영국식 발음 → 호주식 발음` The demonstration of our new product went extremely well this morning.
 (A) The expo continues throughout the week.
 (B) A limited number of products are still available.
 (C) Yes, the director seemed impressed.
 
-18. `미국식 발음 → 캐나다식 발음`
-The gym should replace these cycling machines, shouldn’t it?
+18. `미국식 발음 → 캐나다식 발음` The gym should replace these cycling machines, shouldn’t it?
 (A) Sam would rather walk there instead.
 (B) They don’t seem very old to me.
 (C) Those are the membership rates.
 
-19. `호주식 발음 → 영국식 발음`
-When do I need to return this manual to you?
+19. `호주식 발음 → 영국식 발음` When do I need to return this manual to you?
 (A) I expect to speak at a seminar.
 (B) He’ll look at the instructions.
 (C) By noon at the latest.
 
-20. `캐나다식 발음 → 미국식 발음`
-Do you want me to look over our budget figures?
+20. `캐나다식 발음 → 미국식 발음` Do you want me to look over our budget figures?
 (A) Over 100 attendees.
 (B) Thanks. That would help a lot.
 (C) To the accounting division.
 
-21. `호주식 발음 → 영국식 발음`
-Who will be in charge of organizing the safety drill?
+21. `호주식 발음 → 영국식 발음` Who will be in charge of organizing the safety drill?
 (A) Either Angela or Mathew.
 (B) They won’t go.
 (C) Actually, it’s still too large.
 
-22. `미국식 발음 → 캐나다식 발음`
-Have you met our new board chairman?
+22. `미국식 발음 → 캐나다식 발음` Have you met our new board chairman?
 (A) No, it wasn’t posted on the bulletin board.
 (B) We were introduced this morning.
 (C) These chairs are very comfortable.
 
-23. `호주식 발음 → 영국식 발음`
-Which store did you just stop at?
+23. `호주식 발음 → 영국식 발음` Which store did you just stop at?
 (A) A boutique called Taylor Apparel.
 (B) I usually do my shopping on weekends.
 (C) You did a wonderful job.
 
-24. `미국식 발음 → 호주식 발음`
-Why do you plan to leave so early?
+24. `미국식 발음 → 호주식 발음` Why do you plan to leave so early?
 (A) At 5 o’clock, precisely.
 (B) Yes, as soon as possible.
 (C) My tennis club plays today.
 
-25. `영국식 발음 → 캐나다식 발음`
-Shall we meet the investors at the construction site or in our office?
+25. `영국식 발음 → 캐나다식 발음` Shall we meet the investors at the construction site or in our office?
 (A) They want to tour the location.
 (B) His office is the door on your left.
 (C) I’ll have the contractor come as well.
 
-26. `캐나다식 발음 → 영국식 발음`
-Where would you like me to file all of these old business reports?
+26. `캐나다식 발음 → 영국식 발음` Where would you like me to file all of these old business reports?
 (A) John printed the company documents.
 (B) They’re profiles on past clients.
 (C) In the white cabinet.
 
-27. `캐나다식 발음 → 미국식 발음`
-What was the conference about?
+27. `캐나다식 발음 → 미국식 발음` What was the conference about?
 (A) It was held in Mexico City.
 (B) Yes, we want to go.
 (C) Advertising methods.
 
-28. `영국식 발음 → 캐나다식 발음`
-These pamphlets need to be put into envelopes.
+28. `영국식 발음 → 캐나다식 발음` These pamphlets need to be put into envelopes.
 (A) I’ll get some from the supply room.
 (B) I bought them at the stationery store.
 (C) Thanks, but I don’t need any more.
 
-29. `영국식 발음 → 호주식 발음`
-How can I make a payment for my cable service?
+29. `영국식 발음 → 호주식 발음` How can I make a payment for my cable service?
 (A) She’s not able to pay it this afternoon.
 (B) You can do that on our Web site.
 (C) Yes, more than 50 channels.
 
-30. `호주식 발음 → 미국식 발음`
-Would you like a hand contacting our donors?
+30. `호주식 발음 → 미국식 발음` Would you like a hand contacting our donors?
 (A) At the previous fundraiser.
 (B) Patrick is helping me.
 (C) The contract was completed.
 
-31. `호주식 발음 → 미국식 발음`
-The color of that carpet sample seems far too bright.
+31. `호주식 발음 → 미국식 발음` The color of that carpet sample seems far too bright.
 (A) After we spread them around the room.
 (B) Some rugs for our main reception area.
 (C) Would you like to see something a bit darker?

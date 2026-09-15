@@ -173,8 +173,7 @@ The next time you're in downtown Houston and would like a taste of Asia, visit S
 (D) directions
 132. (A) Our chefs use exotic seasonings in all of our grilled food. being refurbished.
 (C) We serve a wide range of popular Asian cuisine every day.
-(D) Our food is delicious but limited to seafood selections.
-<<MISSING>>
+(D) Our food is delicious but limited to seafood selections. <<MISSING>>
 133. (A) prepares
 (B) prepared
 (C) is prepared
@@ -223,8 +222,7 @@ June 21 Magnum Insurance 337 Deerborne Avenue Banff, Alberta, T2N 4S5 Canada Dea
 142. (A) score
 142. (B) estimate
 (C) history
-(D) receipt
-<<MISSING>>
+(D) receipt <<MISSING>>
 
 Questions 143-146 refer to the following memo.
 
@@ -236,8 +234,7 @@ Questions 143-146 refer to the following memo.
 (D) ignore
 144. (A) A provisional copy of this handbook will be distributed at the next meeting. v.r»y.- IT w (B) Your comments on the revised manual were very much appreciated.
 (C) A copy of the article may be found in last month's company newsletter.
-(D) We are glad that everyone is now up-to-date on our meeting schedule.
-<<MISSING>>
+(D) We are glad that everyone is now up-to-date on our meeting schedule. <<MISSING>>
 145. (A) establish
 (B) established
 (C) establishing
@@ -378,13 +375,11 @@ O Corrine Dealba 4:32 p.m. Hi everyone. So, it sounds like Osment Industrial is 
 163. At 4:38 p.m., what does Mr. Wong mean when he writes, "That works perfectly for me"?
 (A) He has no problems with his vehicle.
 (B) He accepts the offer of a ride to an office. (0) He is confident he can meet a deadline.
-(D) He feels a presentation needs to be shortened.
-<<MISSING>>
+(D) He feels a presentation needs to be shortened. <<MISSING>>
 164. What might Ms. Pearson do on Tuesday afternoon?
 (A) Assist Ms. Dealba with a presentation
 (B) Take charge of a gardening firm's office (0) Do a job in her coworker's absence
-(D) Pick a colleague up from Bleeker Street
-<<MISSING>>
+(D) Pick a colleague up from Bleeker Street <<MISSING>>
 
 Questions 165-167 refer to the following letter.
 

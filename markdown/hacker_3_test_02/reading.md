@@ -473,11 +473,7 @@ Check out hundreds of sample publications on our site and take a tour of our des
 (B) Settle invoices
 (C) Print out documents
 (D) Find branch listings
-175. In which of the positions marked [1], [2], lUl [3], and [4] does the following sentence best belong? "If you're uncertain about your layout and design skills, you don't have to do it at all."
-<<MISSING>>
-<<MISSING>>
-<<MISSING>>
-<<MISSING>>
+175. In which of the positions marked [1], [2], lUl [3], and [4] does the following sentence best belong? "If you're uncertain about your layout and design skills, you don't have to do it at all." <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 
 Questions 176-180 refer to the following notice and e-mail.
 

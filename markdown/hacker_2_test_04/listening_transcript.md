@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `영국식 발음 → 캐나다식 발음`
-Where’s the nearest ticket office?
+7. `영국식 발음 → 캐나다식 발음` Where’s the nearest ticket office?
 (A) Across from the bookstore.
 (B) My office supervisor.
 (C) From 9 a.m. to 7 p.m.
 
-8. `캐나다식 발음 → 미국식 발음`
-How soon will the brochure be completed?
+8. `캐나다식 발음 → 미국식 발음` How soon will the brochure be completed?
 (A) Within an hour.
 (B) Those parts have been deleted.
 (C) From the bookshelf behind you.
 
-9. `영국식 발음 → 캐나다식 발음`
-Are you looking to buy car insurance?
+9. `영국식 발음 → 캐나다식 발음` Are you looking to buy car insurance?
 (A) The car needs some spare parts.
 (B) Look in the trunk first.
 (C) Thanks, but I already have full coverage.
 
-10. `호주식 발음 → 미국식 발음`
-You booked a hotel room for your vacation, right?
+10. `호주식 발음 → 미국식 발음` You booked a hotel room for your vacation, right?
 (A) For six nights, please.
 (B) We had a great trip.
 (C) Actually, I’m staying at my friend’s.
 
-11. `캐나다식 발음 → 호주식 발음`
-Hasn’t Judy already restocked Aisle 5?
+11. `캐나다식 발음 → 호주식 발음` Hasn’t Judy already restocked Aisle 5?
 (A) A shipment of merchandise.
 (B) She’s still not done.
 (C) They’re ready to order.
 
-12. `캐나다식 발음 → 영국식 발음`
-Do you want to see the late show or the one at four?
+12. `캐나다식 발음 → 영국식 발음` Do you want to see the late show or the one at four?
 (A) Near the Welmoore Theater.
 (B) Sure, that sounds fine.
 (C) What time does the late one start?
 
-13. `호주식 발음 → 영국식 발음`
-That was an interesting seminar, wasn’t it?
+13. `호주식 발음 → 영국식 발음` That was an interesting seminar, wasn’t it?
 (A) Yes, it was better than I expected.
 (B) I’m not interested, thanks.
 (C) No, I don’t think I can attend.
 
-14. `미국식 발음 → 호주식 발음`
-How many desks were delivered this morning?
+14. `미국식 발음 → 호주식 발음` How many desks were delivered this morning?
 (A) That may be a good idea.
 (B) Just put them in that room.
 (C) Ten, I believe.
 
-15. `캐나다식 발음 → 영국식 발음`
-Do you plan on advertising your company?
+15. `캐나다식 발음 → 영국식 발음` Do you plan on advertising your company?
 (A) April was the busiest month.
 (B) Yes, we will run TV commercials.
 (C) I checked the building plans.
 
-16. `영국식 발음 → 캐나다식 발음`
-When did you find out that the clients want to renew the contract?
+16. `영국식 발음 → 캐나다식 발음` When did you find out that the clients want to renew the contract?
 (A) During a business lunch.
 (B) You must sign an agreement.
 (C) My contact information.
 
-17. `호주식 발음 → 미국식 발음`
-Who’s the woman sitting next to the manager?
+17. `호주식 발음 → 미국식 발음` Who’s the woman sitting next to the manager?
 (A) I’ve never seen her before.
 (B) She will set the table.
 (C) Yes, I can manage it.
 
-18. `영국식 발음 → 호주식 발음`
-Lisa needs some help finishing these reports.
+18. `영국식 발음 → 호주식 발음` Lisa needs some help finishing these reports.
 (A) Have you received a copy yet?
 (B) No, I will do it by myself.
 (C) I can give her a hand with that.
 
-19. `미국식 발음 → 캐나다식 발음`
-Why aren’t we beginning the discussion now?
+19. `미국식 발음 → 캐나다식 발음` Why aren’t we beginning the discussion now?
 (A) I don’t know when it is.
 (B) I’ll schedule it for tomorrow.
 (C) We’re waiting for Helen.
 
-20. `미국식 발음 → 호주식 발음`
-Do you want to stay longer, or would you rather leave now?
+20. `미국식 발음 → 호주식 발음` Do you want to stay longer, or would you rather leave now?
 (A) She had to go to a meeting.
 (B) I’d better head home.
 (C) Stronger than we expected.
 
-21. `영국식 발음 → 캐나다식 발음`
-Which local restaurant serves the best Italian food?
+21. `영국식 발음 → 캐나다식 발음` Which local restaurant serves the best Italian food?
 (A) I need to get some rest tonight.
 (B) The servings are pretty large.
 (C) My favorite is Mario’s, on Zacks Street.
 
-22. `호주식 발음 → 영국식 발음`
-Who was promoted to the departmental director position?
+22. `호주식 발음 → 영국식 발음` Who was promoted to the departmental director position?
 (A) We haven’t been informed yet.
 (B) Yes, we received the directions by e-mail.
 (C) I agree. She really deserves it.
 
-23. `캐나다식 발음 → 미국식 발음`
-What was your impression of the house that we toured?
+23. `캐나다식 발음 → 미국식 발음` What was your impression of the house that we toured?
 (A) The back yard was impressive.
 (B) Tours start near the entrance.
 (C) I’ll be home all day.
 
-24. `미국식 발음 → 영국식 발음`
-Why didn’t I receive reimbursement for my business trip?
+24. `미국식 발음 → 영국식 발음` Why didn’t I receive reimbursement for my business trip?
 (A) My business has grown this year.
 (B) I don’t believe so, sorry.
 (C) You missed the deadline.
 
-25. `호주식 발음 → 미국식 발음`
-It’s quite cold in the mountains, so bring warm clothing.
+25. `호주식 발음 → 미국식 발음` It’s quite cold in the mountains, so bring warm clothing.
 (A) Then I’ll bring a coat.
 (B) Thanks, I’m honored as well.
 (C) Who called for me?
 
-26. `미국식 발음 → 호주식 발음`
-Could you cancel my subscription over the phone?
+26. `미국식 발음 → 호주식 발음` Could you cancel my subscription over the phone?
 (A) They had to cancel the seminar.
 (B) Certainly. But it will take a few minutes.
 (C) Here’s a magazine to read.
 
-27. `캐나다식 발음 → 미국식 발음`
-Would you prefer the larger suitcase?
+27. `캐나다식 발음 → 미국식 발음` Would you prefer the larger suitcase?
 (A) I haven’t packed for my trip.
 (B) Isn’t it difficult to carry around?
 (C) No, we only have one size.
 
-28. `캐나다식 발음 → 영국식 발음`
-Have invitations been sent to the staff for the awards banquet?
+28. `캐나다식 발음 → 영국식 발음` Have invitations been sent to the staff for the awards banquet?
 (A) It is toward the back of the hall.
 (B) We will mail them out this afternoon.
 (C) A buffet style dinner.
 
-29. `미국식 발음 → 호주식 발음`
-What country are you going to visit for your next vacation?
+29. `미국식 발음 → 호주식 발음` What country are you going to visit for your next vacation?
 (A) Just for two or three weeks.
 (B) Looks like we’ve got visitors.
 (C) I’m having a hard time deciding.
 
-30. `영국식 발음 → 호주식 발음`
-Some of the employees would benefit from a workshop.
+30. `영국식 발음 → 호주식 발음` Some of the employees would benefit from a workshop.
 (A) It was an instructive event.
 (B) There is a shop across the street.
 (C) In that case, let’s arrange one.
 
-31. `영국식 발음 → 캐나다식 발음`
-This computer comes with the software installed, doesn’t it?
+31. `영국식 발음 → 캐나다식 발음` This computer comes with the software installed, doesn’t it?
 (A) Every model in our store does.
 (B) We do free equipment installation.
 (C) Our technician has finished the repairs.

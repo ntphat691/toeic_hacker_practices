@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `캐나다식 발음 → 미국식 발음`
-It isn’t time for the training session yet, is it?
+7. `캐나다식 발음 → 미국식 발음` It isn’t time for the training session yet, is it?
 (A) We have another half an hour.
 (B) Ms. Rodriguez is leading it.
 (C) I believe it’s in the meeting room.
 
-8. `미국식 발음 → 캐나다식 발음`
-Would you mind trading seats with me?
+8. `미국식 발음 → 캐나다식 발음` Would you mind trading seats with me?
 (A) Sure, no problem at all.
 (B) Oh, up near the stage.
 (C) For a trading firm.
 
-9. `미국식 발음 → 호주식 발음`
-What do you want me to bring you from the cafeteria?
+9. `미국식 발음 → 호주식 발음` What do you want me to bring you from the cafeteria?
 (A) I enjoy working as a cook.
 (B) Whatever you’re eating.
 (C) I brought it back yesterday.
 
-10. `캐나다식 발음 → 미국식 발음`
-Have you decided on a venue for the marketing convention?
+10. `캐나다식 발음 → 미국식 발음` Have you decided on a venue for the marketing convention?
 (A) The market is a major tourist attraction.
 (B) Yes, but not very much.
 (C) I can’t find anything suitable.
 
-11. `영국식 발음 → 호주식 발음`
-Do you know when our rehearsal is supposed to begin?
+11. `영국식 발음 → 호주식 발음` Do you know when our rehearsal is supposed to begin?
 (A) We’ll start at noon.
 (B) The lead actress is Julie Stone.
 (C) It will be our rehearsal.
 
-12. `캐나다식 발음 → 미국식 발음`
-Haven’t you worked as a corporate lawyer?
+12. `캐나다식 발음 → 미국식 발음` Haven’t you worked as a corporate lawyer?
 (A) Where is the law office?
 (B) Only for a few years.
 (C) Let’s visit the headquarters.
 
-13. `영국식 발음 → 호주식 발음`
-Who do I need to speak with about canceling my reservation?
+13. `영국식 발음 → 호주식 발음` Who do I need to speak with about canceling my reservation?
 (A) The resort was just opened.
 (B) You need to call our booking department.
 (C) I have confirmed your stay.
 
-14. `캐나다식 발음 → 영국식 발음`
-Why is the videoconference equipment turned on?
+14. `캐나다식 발음 → 영국식 발음` Why is the videoconference equipment turned on?
 (A) It was a very informative conference.
 (B) For another couple of hours.
 (C) The IT team is conducting a test on it.
 
-15. `호주식 발음 → 영국식 발음`
-Where should I go to photocopy these forms?
+15. `호주식 발음 → 영국식 발음` Where should I go to photocopy these forms?
 (A) The print shop down the block.
 (B) They need 10 pages.
 (C) No, sign on the dotted line.
 
-16. `미국식 발음 → 호주식 발음`
-Which cities will Ms. Arden be visiting during her upcoming trip?
+16. `미국식 발음 → 호주식 발음` Which cities will Ms. Arden be visiting during her upcoming trip?
 (A) At a recent meeting.
 (B) Everyone had a lot of fun.
 (C) I haven’t seen her itinerary.
 
-17. `영국식 발음 → 캐나다식 발음`
-How did you learn to speak German so well?
+17. `영국식 발음 → 캐나다식 발음` How did you learn to speak German so well?
 (A) The speaker was very engaging.
 (B) By taking classes in college.
 (C) We didn’t earn much.
 
-18. `호주식 발음 → 영국식 발음`
-Where do you want to store these boxes of paper?
+18. `호주식 발음 → 영국식 발음` Where do you want to store these boxes of paper?
 (A) For the office printers.
 (B) I sent out for them.
 (C) In the reception area for now.
 
-19. `캐나다식 발음 → 미국식 발음`
-When should I print out the contract for you to review?
+19. `캐나다식 발음 → 미국식 발음` When should I print out the contract for you to review?
 (A) He will sign the contract.
 (B) Anytime this afternoon.
 (C) No problem, just pick it up.
 
-20. `호주식 발음 → 영국식 발음`
-These tables will have to be set for the banquet.
+20. `호주식 발음 → 영국식 발음` These tables will have to be set for the banquet.
 (A) Yes, I’m planning to come.
 (B) Try adjusting the settings.
 (C) How long will that task take?
 
-21. `미국식 발음 → 캐나다식 발음`
-Aren’t you conducting a safety inspection next week?
+21. `미국식 발음 → 캐나다식 발음` Aren’t you conducting a safety inspection next week?
 (A) Yes, we got a good evaluation.
 (B) He works as a conductor.
 (C) I’ll have to check my schedule.
 
-22. `영국식 발음 → 호주식 발음`
-Amy Tran is planning to travel overseas to consult clients, isn’t she?
+22. `영국식 발음 → 호주식 발음` Amy Tran is planning to travel overseas to consult clients, isn’t she?
 (A) He’s our most loyal client.
 (B) That’s right. She’s going to Chile.
 (C) The test results still haven’t come.
 
-23. `캐나다식 발음 → 미국식 발음`
-I can drop you off at the airport this weekend.
+23. `캐나다식 발음 → 미국식 발음` I can drop you off at the airport this weekend.
 (A) Only if it’s convenient for you.
 (B) Yes, from my travel agent.
 (C) The files are quite important.
 
-24. `호주식 발음 → 미국식 발음`
-We require receipts for all exchanges.
+24. `호주식 발음 → 미국식 발음` We require receipts for all exchanges.
 (A) To inquire about an event.
 (B) You’ll be pleased with this item.
 (C) OK. I have mine with me.
 
-25. `영국식 발음 → 호주식 발음`
-Do you want help analyzing the data you collected?
+25. `영국식 발음 → 호주식 발음` Do you want help analyzing the data you collected?
 (A) No, Pete took care of that yesterday.
 (B) Mr. Mack will distribute the programs.
 (C) They’re from the questionnaires.
 
-26. `캐나다식 발음 → 영국식 발음`
-Why did you decide to rename your company?
+26. `캐나다식 발음 → 영국식 발음` Why did you decide to rename your company?
 (A) Customers really like that product.
 (B) The previous name seemed outdated.
 (C) It sells custom jewelry.
 
-27. `미국식 발음 → 캐나다식 발음`
-Should I close the window, or do you want it open?
+27. `미국식 발음 → 캐나다식 발음` Should I close the window, or do you want it open?
 (A) Well, it is quite hot in here.
 (B) I want to see it too.
 (C) It’s very close to my apartment.
 
-28. `영국식 발음 → 호주식 발음`
-Could you put together a short presentation for the auto expo?
+28. `영국식 발음 → 호주식 발음` Could you put together a short presentation for the auto expo?
 (A) The car is fully automatic.
 (B) Just put them in the showroom.
 (C) I think so, but not until Monday.
 
-29. `미국식 발음 → 캐나다식 발음`
-What did the realtor say about the condominium?
+29. `미국식 발음 → 캐나다식 발음` What did the realtor say about the condominium?
 (A) A property management firm.
 (B) No serious offers have been made on it.
 (C) The one located in Woodrow Tower.
 
-30. `호주식 발음 → 미국식 발음`
-When is the office dress code going to go into effect?
+30. `호주식 발음 → 미국식 발음` When is the office dress code going to go into effect?
 (A) Let’s discuss that at the morning meeting.
 (B) Salespeople must wear black shirts.
 (C) Our business address has not changed.
 
-31. `영국식 발음 → 캐나다식 발음`
-The warehouse equipment has to be upgraded soon.
+31. `영국식 발음 → 캐나다식 발음` The warehouse equipment has to be upgraded soon.
 (A) They know where to go.
 (B) The show should begin soon.
 (C) But the forklift is only a year old.

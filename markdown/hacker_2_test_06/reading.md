@@ -231,8 +231,7 @@ To: Margo Sloane <msloane@bowenassociates.com> From: Jan Fitch <jfitch@bowenasso
 (D) checked
 142. (A) Meanwhile, we will order the equipment from another supplier. v (B) As a result, we had no choice but to announce a new opening date.
 (C) Unfortunately, the items from Mr. Sampson will be delayed again.
-(D) In other words, we will be able to get what we need on time.
-<<MISSING>>
+(D) In other words, we will be able to get what we need on time. <<MISSING>>
 
 Questions 143-146 refer to the following information.
 
@@ -246,16 +245,14 @@ _____ Newly hired employees will be placed in positions best suited to their edu
 144. (A) just
 144. (B) complete
 (C) equal
-(D) alike
-<<MISSING>>
+(D) alike <<MISSING>>
 145. (A) provide the needed support. w (B) Pleasing our customers is just < the company's many goals. The number of employees on c
 (C) payroll is likely to decrease. There is an increasing need for
 (D) who have already had training.
 146. (A)
-146. (B) 
+146. (B)
 (C)
-(D) On the other hand
-<<MISSING>>
+(D) On the other hand <<MISSING>>
 
 Questions 147-148 refer to the following memo.
 

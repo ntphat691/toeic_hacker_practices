@@ -208,10 +208,9 @@ TO: Randy Huffington <r.huffington@megadelta.com> FROM: Olivia Cottrell <o_cottr
 (C) purchased is still under warranty, (t was already repaired at least or
 (D) the past year.
 138. (A)
-138. (B) 
+138. (B)
 (C)
-(D)
-<<MISSING>>
+(D) <<MISSING>>
 
 Questions 139-142 refer to the following instruction.
 
@@ -581,8 +580,7 @@ Big Success Magazine Leadership Course Registration Form By registering for this
 192. What most likely is Mr. Marcoux having difficulty doing?
 (A) Winning over its strongest competitor
 (B) Completing Big Success Magazine's course (0) Selling his skateboards over the Internet
-(D) Registering for the entrepreneur conference
-<<MISSING>>
+(D) Registering for the entrepreneur conference <<MISSING>>
 193. What is suggested about Ms. Maille?
 (A) She has recently gone into business for herself.
 (B) She was not entirely satisfied with an online course.

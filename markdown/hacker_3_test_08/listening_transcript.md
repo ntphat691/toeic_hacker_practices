@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `캐나다식 발음 → 미국식 발음`
-When would it be convenient for you to have dinner?
+7. `캐나다식 발음 → 미국식 발음` When would it be convenient for you to have dinner?
 (A) I can meet at 7 o’clock.
 (B) Yes, we definitely have.
 (C) At the new sushi restaurant.
 
-8. `영국식 발음 → 호주식 발음`
-Hasn’t Ms. Kramer’s plane already landed?
+8. `영국식 발음 → 호주식 발음` Hasn’t Ms. Kramer’s plane already landed?
 (A) Her passport hasn’t expired.
 (B) It gets in soon.
 (C) She has plain black luggage.
 
-9. `캐나다식 발음 → 영국식 발음`
-Why am I getting so many advertisements in my e-mail?
+9. `캐나다식 발음 → 영국식 발음` Why am I getting so many advertisements in my e-mail?
 (A) We get a lot of packages too.
 (B) I prefer the other commercial.
 (C) Have you tried unsubscribing from mailing lists?
 
-10. `호주식 발음 → 영국식 발음`
-What’s the price of bananas at the grocery store?
+10. `호주식 발음 → 영국식 발음` What’s the price of bananas at the grocery store?
 (A) A worker will restock the store shelves.
 (B) According to this flyer, 50¢ each.
 (C) Most of this fruit is still not ripe.
 
-11. `미국식 발음 → 호주식 발음`
-You can join us on the corporate retreat, can’t you?
+11. `미국식 발음 → 호주식 발음` You can join us on the corporate retreat, can’t you?
 (A) I may.
 (B) I joined the gym as well.
 (C) We were treated to cocktails.
 
-12. `캐나다식 발음 → 미국식 발음`
-Where did you work during the first half of your career?
+12. `캐나다식 발음 → 미국식 발음` Where did you work during the first half of your career?
 (A) Primarily at Champlain Law Office.
 (B) Throughout most of the last decade.
 (C) My superior makes the hiring decisions.
 
-13. `미국식 발음 → 캐나다식 발음`
-Who is getting beverages for the social gathering?
+13. `미국식 발음 → 캐나다식 발음` Who is getting beverages for the social gathering?
 (A) This drink is quite delicious.
 (B) Sorry, but how do I get there?
 (C) Nancy and Ben will bring something.
 
-14. `영국식 발음 → 호주식 발음`
-Should we try to renegotiate the price or switch suppliers?
+14. `영국식 발음 → 호주식 발음` Should we try to renegotiate the price or switch suppliers?
 (A) Give him the lease agreement.
 (B) Our supply is low.
 (C) I’m fine with either strategy.
 
-15. `캐나다식 발음 → 미국식 발음`
-Has a band been booked for the event?
+15. `캐나다식 발음 → 미국식 발음` Has a band been booked for the event?
 (A) Concert tickets are $20 each.
 (B) At a nearby venue.
 (C) A jazz group is going to perform.
 
-16. `영국식 발음 → 호주식 발음`
-Which products have been discounted?
+16. `영국식 발음 → 호주식 발음` Which products have been discounted?
 (A) Everything in Aisle 4.
 (B) A special promotion.
 (C) Yes, I have an account.
 
-17. `캐나다식 발음 → 미국식 발음`
-When should we inform the audience about upcoming shows?
+17. `캐나다식 발음 → 미국식 발음` When should we inform the audience about upcoming shows?
 (A) There’s an intermission in 30 minutes.
 (B) In the main auditorium.
 (C) Over 30 of the people here.
 
-18. `호주식 발음 → 미국식 발음`
-Why haven’t you ever owned a vehicle?
+18. `호주식 발음 → 미국식 발음` Why haven’t you ever owned a vehicle?
 (A) Bring it to the automotive shop.
 (B) My city has a great public transit system.
 (C) I guess we can drive.
 
-19. `영국식 발음 → 호주식 발음`
-Please don’t forget to give me the files I requested.
+19. `영국식 발음 → 호주식 발음` Please don’t forget to give me the files I requested.
 (A) Don’t worry about the ticket.
 (B) You should pile the supplies in the corner.
 (C) I wrote myself a reminder.
 
-20. `캐나다식 발음 → 영국식 발음`
-How did the conference attendees like your lecture about social media?
+20. `캐나다식 발음 → 영국식 발음` How did the conference attendees like your lecture about social media?
 (A) Their Web site is due for upgrades.
 (B) By heading to Conference Room 1.
 (C) Overall, it was a success.
 
-21. `미국식 발음 → 캐나다식 발음`
-Are all the servers required to wear a uniform?
+21. `미국식 발음 → 캐나다식 발음` Are all the servers required to wear a uniform?
 (A) They served snacks this afternoon.
 (B) It is standard procedure.
 (C) I think your outfit looks very nice.
 
-22. `미국식 발음 → 호주식 발음`
-Should we order one or two desks for the office?
+22. `미국식 발음 → 호주식 발음` Should we order one or two desks for the office?
 (A) I’m undecided.
 (B) I will wait in the office.
 (C) There are three lamps.
 
-23. `영국식 발음 → 캐나다식 발음`
-Wouldn’t you rather share a taxi to save money?
+23. `영국식 발음 → 캐나다식 발음` Wouldn’t you rather share a taxi to save money?
 (A) We only accept cash.
 (B) I’m riding with some friends.
 (C) Taxes are going to increase.
 
-24. `호주식 발음 → 영국식 발음`
-We’re not sure how to make copies on this odd paper size.
+24. `호주식 발음 → 영국식 발음` We’re not sure how to make copies on this odd paper size.
 (A) The tray has to be adjusted.
 (B) You have a good idea.
 (C) Our hats come in one size.
 
-25. `캐나다식 발음 → 미국식 발음`
-A representative must inspect our factory in China, right?
+25. `캐나다식 발음 → 미국식 발음` A representative must inspect our factory in China, right?
 (A) Some of the labor regulations.
 (B) That won’t be necessary.
 (C) Yes, across from the plant.
 
-26. `호주식 발음 → 영국식 발음`
-Do you know what the fastest route downtown is?
+26. `호주식 발음 → 영국식 발음` Do you know what the fastest route downtown is?
 (A) Take Sonny Street.
 (B) Oh, just set them down.
 (C) I know how they feel.
 
-27. `미국식 발음 → 캐나다식 발음`
-Will the architect be able to stop by for a consultation today?
+27. `미국식 발음 → 캐나다식 발음` Will the architect be able to stop by for a consultation today?
 (A) Well, the building has modern furnishings.
 (B) A tour of the architecture in Delaware.
 (C) Her assistant made an appointment for 3 p.m.
 
-28. `영국식 발음 → 호주식 발음`
-How can I access my online bank account while I’m overseas?
+28. `영국식 발음 → 호주식 발음` How can I access my online bank account while I’m overseas?
 (A) Our financial institution has expanded.
 (B) Just log in using your normal information.
 (C) You’ll thoroughly enjoy traveling abroad.
 
-29. `미국식 발음 → 캐나다식 발음`
-What is the plan for replacing Ms. Jenkins after her retirement?
+29. `미국식 발음 → 캐나다식 발음` What is the plan for replacing Ms. Jenkins after her retirement?
 (A) We’re hoping to hire internally.
 (B) Formal attire is required at the party.
 (C) She’s been with us for 30 years.
 
-30. `호주식 발음 → 미국식 발음`
-This rental space is very conveniently located.
+30. `호주식 발음 → 미국식 발음` This rental space is very conveniently located.
 (A) It’s on top of the microwave.
 (B) I have a feeling it’s overpriced.
 (C) No, another parking space.
 
-31. `영국식 발음 → 캐나다식 발음`
-Are you willing to write a reference letter on my behalf?
+31. `영국식 발음 → 캐나다식 발음` Are you willing to write a reference letter on my behalf?
 (A) All the résumés were left in that folder.
 (B) If you don’t need one until next week.
 (C) Yes, both reference manuals.

@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 미국식 발음`
-When did you start seeking another job?
+7. `호주식 발음 → 미국식 발음` When did you start seeking another job?
 (A) A few days ago.
 (B) It’s a good start.
 (C) At the employment agency.
 
-8. `영국식 발음 → 캐나다식 발음`
-How long did medical school take for you to complete?
+8. `영국식 발음 → 캐나다식 발음` How long did medical school take for you to complete?
 (A) I’m glad they’re finally done.
 (B) Dr. Robinson is my physician.
 (C) Almost six years.
 
-9. `캐나다식 발음 → 미국식 발음`
-What date should we get together?
+9. `캐나다식 발음 → 미국식 발음` What date should we get together?
 (A) Let me get a table.
 (B) We left on July 21.
 (C) I’m not really sure.
 
-10. `영국식 발음 → 호주식 발음`
-Who left these tools out all night?
+10. `영국식 발음 → 호주식 발음` Who left these tools out all night?
 (A) Yes, put them in here.
 (B) The entire evening.
 (C) I did.
 
-11. `미국식 발음 → 영국식 발음`
-Was the moving company willing to reschedule on short notice?
+11. `미국식 발음 → 영국식 발음` Was the moving company willing to reschedule on short notice?
 (A) I appreciate your being so flexible.
 (B) It fortunately was.
 (C) By moving the furniture.
 
-12. `호주식 발음 → 미국식 발음`
-Don’t you want to apply to become the department head?
+12. `호주식 발음 → 미국식 발음` Don’t you want to apply to become the department head?
 (A) Toward the head of the line.
 (B) A late departure time.
 (C) I don’t feel ready for it.
 
-13. `캐나다식 발음 → 영국식 발음`
-How did tennis with Mitch go on Monday?
+13. `캐나다식 발음 → 영국식 발음` How did tennis with Mitch go on Monday?
 (A) Youth tennis courses are popular.
 (B) We both enjoyed it.
 (C) Can he drive on Tuesday instead?
 
-14. `호주식 발음 → 영국식 발음`
-Why is the CEO leaving early?
+14. `호주식 발음 → 영국식 발음` Why is the CEO leaving early?
 (A) He has to take part in a workshop.
 (B) Probably around 8:30.
 (C) His name is Steve Erickson.
 
-15. `미국식 발음 → 캐나다식 발음`
-I plan to purchase a house later this fall.
+15. `미국식 발음 → 캐나다식 발음` I plan to purchase a house later this fall.
 (A) I want to see your place once you move.
 (B) In the bedroom.
 (C) The blueprints have gone missing.
 
-16. `캐나다식 발음 → 미국식 발음`
-What event did you and Jonas go to last weekend?
+16. `캐나다식 발음 → 미국식 발음` What event did you and Jonas go to last weekend?
 (A) There’s a fashion show tomorrow.
 (B) We saw a concert in New Jersey.
 (C) He decided to.
 
-17. `호주식 발음 → 영국식 발음`
-Aren’t we operating a booth at the agricultural convention?
+17. `호주식 발음 → 영국식 발음` Aren’t we operating a booth at the agricultural convention?
 (A) Our overseas operations.
 (B) There weren’t any spaces available.
 (C) Driving would be more convenient.
 
-18. `캐나다식 발음 → 미국식 발음`
-Have you enrolled in a photography class yet?
+18. `캐나다식 발음 → 미국식 발음` Have you enrolled in a photography class yet?
 (A) Glass items should be recycled.
 (B) He takes nice pictures.
 (C) Yes, it begins tomorrow.
 
-19. `호주식 발음 → 영국식 발음`
-I’m supposed to film a video of the guest speaker, right?
+19. `호주식 발음 → 영국식 발음` I’m supposed to film a video of the guest speaker, right?
 (A) You can use this equipment.
 (B) The video was very well produced.
 (C) I suppose we’ll require a vehicle.
 
-20. `영국식 발음 → 캐나다식 발음`
-The gym on Halifax Road is now open.
+20. `영국식 발음 → 캐나다식 발음` The gym on Halifax Road is now open.
 (A) Just close the door.
 (B) I’ll stop by later today.
 (C) No, I canceled my membership.
 
-21. `미국식 발음 → 호주식 발음`
-Why don’t we update the information on our Web site?
+21. `미국식 발음 → 호주식 발음` Why don’t we update the information on our Web site?
 (A) You can order it online.
 (B) The site on Oak Street.
 (C) Yes, that’s long overdue.
 
-22. `캐나다식 발음 → 영국식 발음`
-The fabric for the new curtain will arrive very soon.
+22. `캐나다식 발음 → 영국식 발음` The fabric for the new curtain will arrive very soon.
 (A) That’s good to know.
 (B) The window in the kitchen.
 (C) The shuttle bus hasn’t arrived.
 
-23. `호주식 발음 → 미국식 발음`
-When must my existing credit card balance be paid?
+23. `호주식 발음 → 미국식 발음` When must my existing credit card balance be paid?
 (A) I believe I’ve been overcharged.
 (B) You gave me those cards.
 (C) By the end of the month.
 
-24. `영국식 발음 → 캐나다식 발음`
-Is Brandon still taking his break, or did he return to work?
+24. `영국식 발음 → 캐나다식 발음` Is Brandon still taking his break, or did he return to work?
 (A) We took Flight 362.
 (B) I still need supplies.
 (C) He’s at his desk right now.
 
-25. `호주식 발음 → 영국식 발음`
-We should hold a training session for new employees.
+25. `호주식 발음 → 영국식 발음` We should hold a training session for new employees.
 (A) All former personnel.
 (B) I’ve already organized one.
 (C) Basic software skills.
 
-26. `영국식 발음 → 호주식 발음`
-Is the marketing presentation going to be completed by Friday?
+26. `영국식 발음 → 호주식 발음` Is the marketing presentation going to be completed by Friday?
 (A) We’re actually ahead of schedule.
 (B) I didn’t attend the seminar.
 (C) Wilbur’s Supermarket has specials every day.
 
-27. `캐나다식 발음 → 미국식 발음`
-Will you take care of the office plants or should I ask Karen to do it?
+27. `캐나다식 발음 → 미국식 발음` Will you take care of the office plants or should I ask Karen to do it?
 (A) A pot of flowers.
 (B) I’d be happy to help.
 (C) I’ll be more careful next time.
 
-28. `호주식 발음 → 미국식 발음`
-Where can I set up a workstation?
+28. `호주식 발음 → 미국식 발음` Where can I set up a workstation?
 (A) The statue has been erected.
 (B) I thought you were assigned to another division.
 (C) Anytime after lunch.
 
-29. `영국식 발음 → 캐나다식 발음`
-The sales forecast has changed due to the shortage of raw materials.
+29. `영국식 발음 → 캐나다식 발음` The sales forecast has changed due to the shortage of raw materials.
 (A) It’s a pretty short documentary.
 (B) I just heard the weather forecast.
 (C) By how much?
 
-30. `캐나다식 발음 → 영국식 발음`
-Are your current sneakers as comfortable as your previous pair?
+30. `캐나다식 발음 → 영국식 발음` Are your current sneakers as comfortable as your previous pair?
 (A) I’d say they’re fairly similar.
 (B) This color suits you better.
 (C) She bought them yesterday.
 
-31. `호주식 발음 → 미국식 발음`
-Which type of cake should we bring to Louis’s birthday party?
+31. `호주식 발음 → 미국식 발음` Which type of cake should we bring to Louis’s birthday party?
 (A) He was very pleased with the gift.
 (B) Yes, try the ice cream too.
 (C) I had to choose last time.

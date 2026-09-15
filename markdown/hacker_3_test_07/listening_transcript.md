@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `미국식 발음 → 호주식 발음`
-When can I buy tickets for a semi-final game?
+7. `미국식 발음 → 호주식 발음` When can I buy tickets for a semi-final game?
 (A) No, I’m fine.
 (B) Right now, the score is tied.
 (C) The first week of June.
 
-8. `캐나다식 발음 → 영국식 발음`
-What’s included in the gift bag for visitors?
+8. `캐나다식 발음 → 영국식 발음` What’s included in the gift bag for visitors?
 (A) Thank you for the present.
 (B) Items displaying our company’s name.
 (C) Give Kevin a few more plates.
 
-9. `미국식 발음 → 캐나다식 발음`
-How long will it take to reach the ski resort?
+9. `미국식 발음 → 캐나다식 발음` How long will it take to reach the ski resort?
 (A) About four hours.
 (B) My winter break is almost over.
 (C) Take the next freeway exit.
 
-10. `호주식 발음 → 미국식 발음`
-Who is going to talk first at the economics forum?
+10. `호주식 발음 → 미국식 발음` Who is going to talk first at the economics forum?
 (A) It begins at 9:30 tomorrow morning.
 (B) The president of the research firm.
 (C) Yes, I’ve got the transcript here.
 
-11. `영국식 발음 → 호주식 발음`
-Can’t we go to the theater later in the week?
+11. `영국식 발음 → 호주식 발음` Can’t we go to the theater later in the week?
 (A) It’s not my second visit.
 (B) A new play by a local writer.
 (C) No, we reserved seats for this evening.
 
-12. `미국식 발음 → 캐나다식 발음`
-Has the package been delivered yet?
+12. `미국식 발음 → 캐나다식 발음` Has the package been delivered yet?
 (A) There is no charge for delivery.
 (B) Check with the other receptionist.
 (C) I ordered it online.
 
-13. `영국식 발음 → 캐나다식 발음`
-What’s the matter with your briefcase?
+13. `영국식 발음 → 캐나다식 발음` What’s the matter with your briefcase?
 (A) That’s very interesting.
 (B) Juice was spilled on it.
 (C) My car is fine.
 
-14. `영국식 발음 → 호주식 발음`
-How would you like to spend the afternoon?
+14. `영국식 발음 → 호주식 발음` How would you like to spend the afternoon?
 (A) If you’d like to.
 (B) Because I spent too much money.
 (C) I haven’t given it much thought.
 
-15. `영국식 발음 → 미국식 발음`
-Should we distribute awards to staff now or after dinner?
+15. `영국식 발음 → 미국식 발음` Should we distribute awards to staff now or after dinner?
 (A) Not everyone has arrived yet.
 (B) I’ll have the tomato soup.
 (C) Our main distribution center.
 
-16. `미국식 발음 → 캐나다식 발음`
-Mr. Willis from the payroll department called for me, right?
+16. `미국식 발음 → 캐나다식 발음` Mr. Willis from the payroll department called for me, right?
 (A) All the supplies have been paid for.
 (B) Here’s my extension number.
 (C) No, he was looking for Andrea.
 
-17. `캐나다식 발음 → 영국식 발음`
-Are employees cataloging complaints that we receive from customers?
+17. `캐나다식 발음 → 영국식 발음` Are employees cataloging complaints that we receive from customers?
 (A) It’s the product catalog.
 (B) That’s what I’ve been told.
 (C) Only a few workers were disappointed.
 
-18. `미국식 발음 → 호주식 발음`
-Don’t purchases over €75 qualify for free shipping?
+18. `미국식 발음 → 호주식 발음` Don’t purchases over €75 qualify for free shipping?
 (A) Payments can be made over the phone.
 (B) Take these parcels as well.
 (C) We no longer offer that service.
 
-19. `호주식 발음 → 영국식 발음`
-When can you update the bulletin board?
+19. `호주식 발음 → 영국식 발음` When can you update the bulletin board?
 (A) Generally, Steven takes care of it.
 (B) The most up-to-date medications.
 (C) We upgraded the network last month.
 
-20. `영국식 발음 → 캐나다식 발음`
-Mr. Adams, where should we discuss the Ford Project?
+20. `영국식 발음 → 캐나다식 발음` Mr. Adams, where should we discuss the Ford Project?
 (A) As soon as I return from my meeting.
 (B) The second-floor conference room isn’t being used.
 (C) Everyone is pleased with the project.
 
-21. `미국식 발음 → 캐나다식 발음`
-Supervisors must strictly adhere to established regulations.
+21. `미국식 발음 → 캐나다식 발음` Supervisors must strictly adhere to established regulations.
 (A) The store was established a decade ago.
 (B) What about in special circumstances?
 (C) Management provided lunch.
 
-22. `영국식 발음 → 호주식 발음`
-Did Ms. LaPlante request extra towels and pillows, or just pillows?
+22. `영국식 발음 → 호주식 발음` Did Ms. LaPlante request extra towels and pillows, or just pillows?
 (A) Because I’m going to the pool.
 (B) Additional interns.
 (C) She’d like both.
 
-23. `캐나다식 발음 → 미국식 발음`
-Have you had a chance to train the new waitress?
+23. `캐나다식 발음 → 미국식 발음` Have you had a chance to train the new waitress?
 (A) Not as of yet.
 (B) No, we’d better head to Platform 2.
 (C) There’s a chance it might snow.
 
-24. `영국식 발음 → 캐나다식 발음`
-Are you aware that we can’t use our normal route to work?
+24. `영국식 발음 → 캐나다식 발음` Are you aware that we can’t use our normal route to work?
 (A) There’s a way to fix the device.
 (B) You’ll find them quite useful.
 (C) Yes, a lane is being added to Highway 43.
 
-25. `미국식 발음 → 호주식 발음`
-Which of these printers has wireless capabilities?
+25. `미국식 발음 → 호주식 발음` Which of these printers has wireless capabilities?
 (A) As far as I know, that’s right.
 (B) A small section of wire.
 (C) They all do.
 
-26. `호주식 발음 → 영국식 발음`
-None of our guests have dietary restrictions, do they?
+26. `호주식 발음 → 영국식 발음` None of our guests have dietary restrictions, do they?
 (A) We’ve been granted restricted access.
 (B) Those details are written on this sheet.
 (C) None of the vehicles.
 
-27. `캐나다식 발음 → 미국식 발음`
-Some of this produce is beginning to spoil.
+27. `캐나다식 발음 → 미국식 발음` Some of this produce is beginning to spoil.
 (A) I just started this week.
 (B) Factory production levels.
 (C) Please replace it with fresh vegetables.
 
-28. `캐나다식 발음 → 영국식 발음`
-Why didn’t you ask me for a ride from the airport?
+28. `캐나다식 발음 → 영국식 발음` Why didn’t you ask me for a ride from the airport?
 (A) I made other arrangements.
 (B) I asked for a window seat.
 (C) At the international airport.
 
-29. `호주식 발음 → 미국식 발음`
-This wristwatch has to be engraved with a client’s name.
+29. `호주식 발음 → 미국식 발음` This wristwatch has to be engraved with a client’s name.
 (A) My wrist still hurts.
 (B) OK, but it can’t be done until tomorrow.
 (C) Yes, watch out for the beam.
 
-30. `캐나다식 발음 → 영국식 발음`
-Why don’t I ask the engineers to improve this prototype?
+30. `캐나다식 발음 → 영국식 발음` Why don’t I ask the engineers to improve this prototype?
 (A) No, we don’t own any.
 (B) Tell them to apply our feedback.
 (C) Research and development costs.
 
-31. `미국식 발음 → 호주식 발음`
-These machines ought to be unloaded immediately.
+31. `미국식 발음 → 호주식 발음` These machines ought to be unloaded immediately.
 (A) We should order them soon.
 (B) Do you mean the dishwashers?
 (C) All downloads are free of charge.

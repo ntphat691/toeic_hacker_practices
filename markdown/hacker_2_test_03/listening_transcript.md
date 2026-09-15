@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 미국식 발음`
-What food do you want to eat for dinner tonight?
+7. `호주식 발음 → 미국식 발음` What food do you want to eat for dinner tonight?
 (A) Something spicy.
 (B) He usually eats pizza on Tuesdays.
 (C) Yes, I like that restaurant.
 
-8. `영국식 발음 → 캐나다식 발음`
-Could you please e-mail me the analysis?
+8. `영국식 발음 → 캐나다식 발음` Could you please e-mail me the analysis?
 (A) Can I send it in an hour?
 (B) Because it’s not finished yet.
 (C) Only twelve pages.
 
-9. `호주식 발음 → 영국식 발음`
-Who owns that blue minivan parked across the street?
+9. `호주식 발음 → 영국식 발음` Who owns that blue minivan parked across the street?
 (A) Parking is free on weekends.
 (B) From the motor show last month.
 (C) That would be me.
 
-10. `미국식 발음 → 캐나다식 발음`
-When is the press conference going to get underway?
+10. `미국식 발음 → 캐나다식 발음` When is the press conference going to get underway?
 (A) Once the mayor arrives.
 (B) The deadline was yesterday.
 (C) In the building’s central lobby.
 
-11. `영국식 발음 → 호주식 발음`
-Would you like to go to the international film festival with me?
+11. `영국식 발음 → 호주식 발음` Would you like to go to the international film festival with me?
 (A) The tickets are 30 dollars per day.
 (B) I can’t, unless I finish my project early.
 (C) The movie’s subtitles weren’t very accurate or natural.
 
-12. `영국식 발음 → 캐나다식 발음`
-Which television program will the CEO be appearing on this evening?
+12. `영국식 발음 → 캐나다식 발음` Which television program will the CEO be appearing on this evening?
 (A) I prefer listening to the radio to watching TV.
 (B) It’s called Finance Today.
 (C) I think the topic is very appealing.
 
-13. `호주식 발음 → 미국식 발음`
-The C34 tablet is scheduled to launch in June.
+13. `호주식 발음 → 미국식 발음` The C34 tablet is scheduled to launch in June.
 (A) Can their appointment be rescheduled?
 (B) She will fix my computer today.
 (C) I believe it will be very popular.
 
-14. `캐나다식 발음 → 영국식 발음`
-Did the technical assistant ever meet with you?
+14. `캐나다식 발음 → 영국식 발음` Did the technical assistant ever meet with you?
 (A) Some technical support.
 (B) Sure, I’ll help you.
 (C) Not yet.
 
-15. `미국식 발음 → 캐나다식 발음`
-Isn’t Alice transferring to the New Orleans branch?
+15. `미국식 발음 → 캐나다식 발음` Isn’t Alice transferring to the New Orleans branch?
 (A) That’s what I’ve heard.
 (B) She knows his extension number.
 (C) Yes, I’d appreciate that.
 
-16. `호주식 발음 → 영국식 발음`
-When is our connecting flight going to begin boarding?
+16. `호주식 발음 → 영국식 발음` When is our connecting flight going to begin boarding?
 (A) I’ll inform the board members.
 (B) We left it at the gate.
 (C) At 11:45 a.m.
 
-17. `호주식 발음 → 미국식 발음`
-You finished writing your speech for the shareholders meeting, didn’t you?
+17. `호주식 발음 → 미국식 발음` You finished writing your speech for the shareholders meeting, didn’t you?
 (A) I still need to revise it.
 (B) I’m not sure everyone heard me.
 (C) He’s giving a speech this year.
 
-18. `캐나다식 발음 → 미국식 발음`
-Are Patrick and Dennis coming to the company fundraiser?
+18. `캐나다식 발음 → 미국식 발음` Are Patrick and Dennis coming to the company fundraiser?
 (A) No, they haven’t gotten a receipt.
 (B) It’s unlikely, since they’re busy planning another event.
 (C) I think they’re getting raises.
 
-19. `영국식 발음 → 호주식 발음`
-Who is in charge of the hiring process for the new sales manager?
+19. `영국식 발음 → 호주식 발음` Who is in charge of the hiring process for the new sales manager?
 (A) Ms. Foster expected a much higher price.
 (B) It hasn’t been decided yet.
 (C) Your application has been approved.
 
-20. `미국식 발음 → 캐나다식 발음`
-Will Jeff be going to the annual artists’ convention in Seattle?
+20. `미국식 발음 → 캐나다식 발음` Will Jeff be going to the annual artists’ convention in Seattle?
 (A) It’s at the Belleville Hall.
 (B) The presentation was very informative.
 (C) No, not this year.
 
-21. `미국식 발음 → 호주식 발음`
-There seems to be something wrong with the printer.
+21. `미국식 발음 → 호주식 발음` There seems to be something wrong with the printer.
 (A) No, it’s over there in the corner.
 (B) I’ll take a look at it.
 (C) I have the document.
 
-22. `캐나다식 발음 → 미국식 발음`
-Where is the best place to buy a suit and tie for my job interview next week?
+22. `캐나다식 발음 → 미국식 발음` Where is the best place to buy a suit and tie for my job interview next week?
 (A) For a graduation ceremony tomorrow.
 (B) There’s a store on East Street.
 (C) That one looks really great on you.
 
-23. `영국식 발음 → 호주식 발음`
-Why is Dr. Flanders late for my appointment?
+23. `영국식 발음 → 호주식 발음` Why is Dr. Flanders late for my appointment?
 (A) He is examining another patient.
 (B) After I complete medical school.
 (C) Sorry, I’ll be late for the meeting.
 
-24. `캐나다식 발음 → 영국식 발음`
-How long have you had your cell phone?
+24. `캐나다식 발음 → 영국식 발음` How long have you had your cell phone?
 (A) I got a call from my manager.
 (B) Yes, I’ve lived here for a long time.
 (C) I purchased it earlier this year.
 
-25. `미국식 발음 → 캐나다식 발음`
-Are you still searching for a gym, or have you found one you like?
+25. `미국식 발음 → 캐나다식 발음` Are you still searching for a gym, or have you found one you like?
 (A) Both options sound great.
 (B) I gained 10 kilograms since last year.
 (C) Unfortunately, I’m still looking.
 
-26. `미국식 발음 → 호주식 발음`
-When will the holiday party take place?
+26. `미국식 발음 → 호주식 발음` When will the holiday party take place?
 (A) It’s going to be quite a celebration.
 (B) The last week of December.
 (C) At a hotel near our office.
 
-27. `호주식 발음 → 영국식 발음`
-Where are the blueprints for the shopping center we’re designing?
+27. `호주식 발음 → 영국식 발음` Where are the blueprints for the shopping center we’re designing?
 (A) Actually, it’s from an online shopping mall.
 (B) I agree with your plan.
 (C) One of the other architects might know.
 
-28. `영국식 발음 → 캐나다식 발음`
-I just noticed that my passport will expire at the beginning of February.
+28. `영국식 발음 → 캐나다식 발음` I just noticed that my passport will expire at the beginning of February.
 (A) Make sure you renew it before you go to Spain.
 (B) It’s located just past the courthouse.
 (C) She arrived in Virginia in January.
 
-29. `미국식 발음 → 호주식 발음`
-Weren’t customers notified about the increase in subscription rates?
+29. `미국식 발음 → 호주식 발음` Weren’t customers notified about the increase in subscription rates?
 (A) Sales decreased by over 10 percent.
 (B) I’m curious about that as well.
 (C) This is the latest edition.
 
-30. `캐나다식 발음 → 미국식 발음`
-What made you decide to become a veterinarian?
+30. `캐나다식 발음 → 미국식 발음` What made you decide to become a veterinarian?
 (A) I would like to be a doctor.
 (B) I love working with animals.
 (C) It took about eight years.
 
-31. `영국식 발음 → 호주식 발음`
-But I thought the sketches for the new fashion line were finished.
+31. `영국식 발음 → 호주식 발음` But I thought the sketches for the new fashion line were finished.
 (A) Try them on before making a decision.
 (B) We’ve been selling them for quite a while.
 (C) Well, they’ll be done tomorrow.

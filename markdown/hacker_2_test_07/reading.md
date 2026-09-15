@@ -255,8 +255,7 @@ The GizmoTech Technology Showcase will be held at Somerset Hall on Friday, Octob
 146. (A) get
 146. (B) getting
 (C) gotten
-(D) got
-<<MISSING>>
+(D) got <<MISSING>>
 
 Questions 147-148 refer to the following form,
 

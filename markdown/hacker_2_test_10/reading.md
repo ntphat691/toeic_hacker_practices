@@ -190,8 +190,7 @@ To: Denise Brooks <dbrooks@atland.com> From: Nelson Lee <nlee@atland.com> Subjec
 (D) prepositional
 136. (A) Please make sure that the final draft is thing in the morning.
 (C) They are unwilling to agree to the deal unless we revise it.
-(D) I haven't had the time to add these notes into the electronic file.
-<<MISSING>>
+(D) I haven't had the time to add these notes into the electronic file. <<MISSING>>
 137. (A) Though
 (B) Whoever
 (C) Whether
@@ -238,10 +237,8 @@ Seattle New Light Nursing Home We're Here to Help Many elderly people find thems
 (D) to leave the facility.
 146. (A)
 (B)
-146. (C) 
-(D)
-<<MISSING>>
-<<MISSING>>
+146. (C)
+(D) <<MISSING>> <<MISSING>>
 
 Questions 147-148 refer to the following e-mail.
 

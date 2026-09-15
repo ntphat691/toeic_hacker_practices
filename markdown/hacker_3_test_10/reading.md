@@ -202,8 +202,7 @@ To: Talia Moroz <talia.moroz@homemail.com> From: Miles Kaufmann <m.kaufmann@cold
 (A) lists
 138. (B) listing
 (C) listed
-(D) to list
-<<MISSING>>
+(D) to list <<MISSING>>
 
 Questions 139-142 refer to the following e-mail.
 
@@ -244,8 +243,7 @@ CALL FOR PAPERS The Department of Sociology at the University of Northern Wiscon
 (A) Prior to 146.
 146. (B) During
 (C) Despite
-(D) Up until
-<<MISSING>>
+(D) Up until <<MISSING>>
 
 Questions 147-148 refer to the following text message.
 

@@ -189,8 +189,7 @@ September 18 Dear Ms. Murillo, Thank you for inquiring about our services for ob
 (D) Henceforth
 134. (A) documents are lost. iSl w (B) There is no record c in that country. You can then select
 (C) office nearest you. The office in your ar
-(D) last year.
-<<MISSING>>
+(D) last year. <<MISSING>>
 
 Questions 135-138 refer to the following letter.
 
@@ -511,8 +510,7 @@ Payment details: Please send the invoice to Daniel Lowe, our accounts manager, a
 180. What will happen on April 8?
 (A) Items will be left with a security officer.
 (B) An invoice will be sent to a customer. (0) Mr. Foley will make a phone call.
-(D) A workplace will close for the day.
-<<MISSING>>
+(D) A workplace will close for the day. <<MISSING>>
 
 Questions 181-185 refer to the following letter and e-mail.
 

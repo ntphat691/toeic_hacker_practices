@@ -1,6 +1,5 @@
 # TEST 05 Answer Keys
 
-
 ```
 001 (C) 002 (B) 003 (D) 004 (B) 005 (B)
 006 (A) 007 (C) 008 (B) 009 (B) 010 (B)
@@ -64,152 +63,127 @@
 
 ### PART 2
 
-7. `미국식 발음 → 캐나다식 발음`
-When are you planning to revise the schedule?
+7. `미국식 발음 → 캐나다식 발음` When are you planning to revise the schedule?
 (A) If you can help me.
 (B) A daily work plan.
 (C) Later this afternoon.
 
-8. `영국식 발음 → 캐나다식 발음`
-Who posted the recent announcement?
+8. `영국식 발음 → 캐나다식 발음` Who posted the recent announcement?
 (A) About a meeting.
 (B) The secretary did.
 (C) Yes, it’s on the bulletin board.
 
-9. `호주식 발음 → 미국식 발음`
-How do you usually get to the mall?
+9. `호주식 발음 → 미국식 발음` How do you usually get to the mall?
 (A) Only about 30 minutes.
 (B) I take a taxi.
 (C) To return some shoes.
 
-10. `영국식 발음 → 호주식 발음`
-Excuse me. Is this seat taken?
+10. `영국식 발음 → 호주식 발음` Excuse me. Is this seat taken?
 (A) It’s not very comfortable.
 (B) I don’t think so.
 (C) Please take only one pamphlet.
 
-11. `캐나다식 발음 → 미국식 발음`
-A holiday promotion is being offered now, right?
+11. `캐나다식 발음 → 미국식 발음` A holiday promotion is being offered now, right?
 (A) The correct confirmation code.
 (B) Yes, I was promoted.
 (C) No, it starts this weekend.
 
-12. `영국식 발음 → 캐나다식 발음`
-Where is the new art gallery going to be opened?
+12. `영국식 발음 → 캐나다식 발음` Where is the new art gallery going to be opened?
 (A) We close daily at 10 p.m.
 (B) In SoHo, most likely.
 (C) Art school was a great experience.
 
-13. `미국식 발음 → 호주식 발음`
-How long are these batteries supposed to last?
+13. `미국식 발음 → 호주식 발음` How long are these batteries supposed to last?
 (A) Up to four months.
 (B) No, it was the first one I bought.
 (C) For my digital camera.
 
-14. `캐나다식 발음 → 미국식 발음`
-Can you meet Mr. Lee at the train station?
+14. `캐나다식 발음 → 미국식 발음` Can you meet Mr. Lee at the train station?
 (A) You’d better hurry then.
 (B) Sorry, but my car is out of gas.
 (C) We trained for six weeks.
 
-15. `호주식 발음 → 영국식 발음`
-What company are you writing for now?
+15. `호주식 발음 → 영국식 발음` What company are you writing for now?
 (A) The Leland Publishing Firm.
 (B) I sent him an e-mail about that.
 (C) I’m not sure they received the letter.
 
-16. `캐나다식 발음 → 영국식 발음`
-Have you been to the Thai restaurant next to the subway station?
+16. `캐나다식 발음 → 영국식 발음` Have you been to the Thai restaurant next to the subway station?
 (A) Sure. I can recommend several.
 (B) A chef will be arriving shortly.
 (C) Not yet, but I’d like to go.
 
-17. `호주식 발음 → 미국식 발음`
-Why aren’t employees getting bonuses this quarter?
+17. `호주식 발음 → 미국식 발음` Why aren’t employees getting bonuses this quarter?
 (A) Yes, sometime in December.
 (B) Because the company can’t afford it.
 (C) A promotion as well.
 
-18. `캐나다식 발음 → 영국식 발음`
-When do you expect to begin staff evaluations?
+18. `캐나다식 발음 → 영국식 발음` When do you expect to begin staff evaluations?
 (A) Oh, probably not until next Monday.
 (B) I’ll be leaving at 7 o’clock.
 (C) We don’t expect any problems.
 
-19. `미국식 발음 → 캐나다식 발음`
-Who was the keynote speaker at the agricultural conference?
+19. `미국식 발음 → 캐나다식 발음` Who was the keynote speaker at the agricultural conference?
 (A) Mr. Lowe is talking to some clients.
 (B) The owner of an organic farm.
 (C) At an agricultural association.
 
-20. `영국식 발음 → 호주식 발음`
-The flavors in the main dish are a bit too strong.
+20. `영국식 발음 → 호주식 발음` The flavors in the main dish are a bit too strong.
 (A) I agree. They’re not to my taste.
 (B) These dishes must be rinsed off very well.
 (C) When will you graduate from culinary school?
 
-21. `캐나다식 발음 → 미국식 발음`
-When did you begin accepting applications for the analysis job?
+21. `캐나다식 발음 → 미국식 발음` When did you begin accepting applications for the analysis job?
 (A) Through the newspaper review.
 (B) Not long ago.
 (C) An important research grant.
 
-22. `호주식 발음 → 미국식 발음`
-This business plan summary turned out extremely well.
+22. `호주식 발음 → 미국식 발음` This business plan summary turned out extremely well.
 (A) Yes, it’s very thorough.
 (B) Why does it keep turning off?
 (C) The planning committee is running late.
 
-23. `영국식 발음 → 캐나다식 발음`
-Why don’t we have the staff outing at the end of May?
+23. `영국식 발음 → 캐나다식 발음` Why don’t we have the staff outing at the end of May?
 (A) We didn’t take any time off.
 (B) Have they handed them out yet?
 (C) I think we should have it later.
 
-24. `미국식 발음 → 호주식 발음`
-Hasn’t the museum put up some additional displays?
+24. `미국식 발음 → 호주식 발음` Hasn’t the museum put up some additional displays?
 (A) I’ve never seen this play.
 (B) This is a great exhibition.
 (C) They’re being set up at the moment.
 
-25. `호주식 발음 → 영국식 발음`
-The ferry departs from the pier at 5 p.m. precisely.
+25. `호주식 발음 → 영국식 발음` The ferry departs from the pier at 5 p.m. precisely.
 (A) You’ll have to ask the ticketing agent.
 (B) That’s only an hour from now.
 (C) An announcement for passengers.
 
-26. `캐나다식 발음 → 영국식 발음`
-The benefit concert was quite impressive, wasn’t it?
+26. `캐나다식 발음 → 영국식 발음` The benefit concert was quite impressive, wasn’t it?
 (A) I’m looking forward to it also.
 (B) It was well-organized.
 (C) We are concerned about it too.
 
-27. `미국식 발음 → 캐나다식 발음`
-Aren’t there still people waiting to be interviewed?
+27. `미국식 발음 → 캐나다식 발음` Aren’t there still people waiting to be interviewed?
 (A) There are two candidates in the lobby.
 (B) A magazine writer interviewed us.
 (C) I saw it on the news last night.
 
-28. `호주식 발음 → 영국식 발음`
-Can I get you anything to eat or drink?
+28. `호주식 발음 → 영국식 발음` Can I get you anything to eat or drink?
 (A) On the back of the menu.
 (B) Actually, I’ll wait until my friend arrives.
 (C) No, the lounge was very neat.
 
-29. `호주식 발음 → 미국식 발음`
-Has the supply store’s delivery van been repaired?
+29. `호주식 발음 → 미국식 발음` Has the supply store’s delivery van been repaired?
 (A) Yes, and it is already being used again.
 (B) It has lots of storage space.
 (C) Well, delivery will cost extra.
 
-30. `캐나다식 발음 → 영국식 발음`
-We need to hire professionals to clean the windows.
+30. `캐나다식 발음 → 영국식 발음` We need to hire professionals to clean the windows.
 (A) They sent us a billing statement.
 (B) Hang the sign a bit higher.
 (C) I’ll inquire about services.
 
-31. `미국식 발음 → 호주식 발음`
-Can you speak with Ms. Tanner, or should I call her?
+31. `미국식 발음 → 호주식 발음` Can you speak with Ms. Tanner, or should I call her?
 (A) I can’t remember what it’s called.
 (B) I think I’ll just send her an e-mail.
 (C) The contract information is in this file.

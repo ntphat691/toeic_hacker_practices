@@ -1,6 +1,5 @@
 # TEST 07 Answer Keys
 
-
 ```
 001 (A) 002 (B) 003 (B) 004 (C) 005 (B)
 006 (D) 007 (A) 008 (A) 009 (C) 010 (A)
@@ -64,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 미국식 발음`
-Who can register for the business Spanish class?
+7. `호주식 발음 → 미국식 발음` Who can register for the business Spanish class?
 (A) Anyone interested may sign up.
 (B) It’s right by the cash register.
 (C) Kendra is our newest instructor.
 
-8. `캐나다식 발음 → 영국식 발음`
-Which of our clients will have to pay increased fees?
+8. `캐나다식 발음 → 영국식 발음` Which of our clients will have to pay increased fees?
 (A) They all will.
 (B) I processed the payment.
 (C) Because of rising costs.
 
-9. `미국식 발음 → 영국식 발음`
-Have you considered switching to a different bank?
+9. `미국식 발음 → 영국식 발음` Have you considered switching to a different bank?
 (A) Just a $50 cash withdrawal, please.
 (B) You’d better let the accountant know.
 (C) I like my current one well enough.
 
-10. `캐나다식 발음 → 미국식 발음`
-Let’s take a walk through the park.
+10. `캐나다식 발음 → 미국식 발음` Let’s take a walk through the park.
 (A) I’ll go grab my jacket.
 (B) It’s underneath that tree.
 (C) About two miles.
 
-11. `영국식 발음 → 캐나다식 발음`
-I don’t know how to fill out the new time sheet.
+11. `영국식 발음 → 캐나다식 발음` I don’t know how to fill out the new time sheet.
 (A) I think I saw it on your desk.
 (B) Ask Sue to give you a hand.
 (C) My friend showed me around.
 
-12. `호주식 발음 → 미국식 발음`
-Where did you decide to hold the fundraising banquet?
+12. `호주식 발음 → 미국식 발음` Where did you decide to hold the fundraising banquet?
 (A) A few options are being discussed.
 (B) Most of the guests have arrived.
 (C) It will take place next Saturday.
 
-13. `영국식 발음 → 캐나다식 발음`
-How much will it cost to have this skirt altered?
+13. `영국식 발음 → 캐나다식 발음` How much will it cost to have this skirt altered?
 (A) That color suits you.
 (B) All items of clothing are on sale.
 (C) There’s no charge for that.
 
-14. `호주식 발음 → 영국식 발음`
-Is North Road closed off for street repairs?
+14. `호주식 발음 → 영국식 발음` Is North Road closed off for street repairs?
 (A) Yes, until next week.
 (B) No, the shop is on Leland Drive.
 (C) That is the quickest route.
 
-15. `미국식 발음 → 캐나다식 발음`
-Wouldn’t you rather have a first class seat for the flight?
+15. `미국식 발음 → 캐나다식 발음` Wouldn’t you rather have a first class seat for the flight?
 (A) No, I wanted coffee instead.
 (B) I’ve already arrived at the Gimpo airport.
 (C) Yes, but it’s too expensive.
 
-16. `호주식 발음 → 미국식 발음`
-Why are you dissatisfied with these eyeglasses?
+16. `호주식 발음 → 미국식 발음` Why are you dissatisfied with these eyeglasses?
 (A) We manufacture commercial lenses.
 (B) Don’t you think the frames are too large?
 (C) Customers seem to be happy with the results.
 
-17. `영국식 발음 → 호주식 발음`
-Is the new line of sportswear going to be launched on schedule?
+17. `영국식 발음 → 호주식 발음` Is the new line of sportswear going to be launched on schedule?
 (A) About two months ago.
 (B) It is very popular with consumers.
 (C) The launch has been pushed back.
 
-18. `미국식 발음 → 캐나다식 발음`
-Apparently, Abby from the human resources department was promoted.
+18. `미국식 발음 → 캐나다식 발음` Apparently, Abby from the human resources department was promoted.
 (A) I hadn’t heard about the outing.
 (B) Mr. Richard has named her regional director.
 (C) They’re promoting a new product.
 
-19. `호주식 발음 → 영국식 발음`
-Where do you want to get together to plan our backpacking trip?
+19. `호주식 발음 → 영국식 발음` Where do you want to get together to plan our backpacking trip?
 (A) I don’t have a preference.
 (B) Our gear must be packed.
 (C) Don’t you think we should camp for a few nights?
 
-20. `캐나다식 발음 → 미국식 발음`
-Why don’t we carpool to the office from now on?
+20. `캐나다식 발음 → 미국식 발음` Why don’t we carpool to the office from now on?
 (A) I usually drive to work.
 (B) There are vehicles parked along the street.
 (C) That would save us gas money.
 
-21. `영국식 발음 → 캐나다식 발음`
-When will my raise go into effect?
+21. `영국식 발음 → 캐나다식 발음` When will my raise go into effect?
 (A) I’d like to go in, too.
 (B) The show begins at 5 p.m.
 (C) Within a week or so.
 
-22. `미국식 발음 → 호주식 발음`
-Aren’t suitcases supposed to be stored in overhead compartments?
+22. `미국식 발음 → 호주식 발음` Aren’t suitcases supposed to be stored in overhead compartments?
 (A) Small ones can be kept under the seats.
 (B) The airline has misplaced my luggage.
 (C) The store is still open.
 
-23. `호주식 발음 → 영국식 발음`
-Employees receive a commission on every appliance that they sell.
+23. `호주식 발음 → 영국식 발음` Employees receive a commission on every appliance that they sell.
 (A) That model is one of our top sellers.
 (B) That’s a great incentive for workers.
 (C) Actually, we visited a local dealership.
 
-24. `미국식 발음 → 캐나다식 발음`
-How long can I use this transit pass?
+24. `미국식 발음 → 캐나다식 발음` How long can I use this transit pass?
 (A) You can buy it at the ticket office.
 (B) It’s good for two more weeks.
 (C) Transfer at Stanford Station.
 
-25. `호주식 발음 → 캐나다식 발음`
-Has anyone confirmed tonight’s dinner reservations at Denarii Bistro?
+25. `호주식 발음 → 캐나다식 발음` Has anyone confirmed tonight’s dinner reservations at Denarii Bistro?
 (A) Sure, I can make some food for us.
 (B) The restaurant on Elm Street.
 (C) Didn’t your secretary contact the restaurant?
 
-26. `영국식 발음 → 호주식 발음`
-The CEO offered you a position as a sales manager, didn’t she?
+26. `영국식 발음 → 호주식 발음` The CEO offered you a position as a sales manager, didn’t she?
 (A) I really appreciate your offer.
 (B) No, that’s just a rumor.
 (C) I plan to host the corporate executives.
 
-27. `캐나다식 발음 → 미국식 발음`
-What time will the volunteers show up for the event?
+27. `캐나다식 발음 → 미국식 발음` What time will the volunteers show up for the event?
 (A) At the main entrance.
 (B) I’ll have to check with Ann.
 (C) There are 30 expected guests.
 
-28. `영국식 발음 → 캐나다식 발음`
-Please set up two additional workspaces.
+28. `영국식 발음 → 캐나다식 발음` Please set up two additional workspaces.
 (A) I’ll take care of that now.
 (B) OK, but subtract the sum from the bill.
 (C) Everyone had his or her own station.
 
-29. `호주식 발음 → 미국식 발음`
-Whose fountain pen is sitting on the front desk?
+29. `호주식 발음 → 미국식 발음` Whose fountain pen is sitting on the front desk?
 (A) Sign your name on the register.
 (B) I’ve never seen it before.
 (C) You may sit anywhere you’d like.
 
-30. `영국식 발음 → 캐나다식 발음`
-Are you going to paint the kitchen yourself or hire a contractor?
+30. `영국식 발음 → 캐나다식 발음` Are you going to paint the kitchen yourself or hire a contractor?
 (A) The same color as the living room.
 (B) Put it next to the refrigerator.
 (C) I’m too busy these days.
 
-31. `호주식 발음 → 미국식 발음`
-Did you buy the watch we saw at the department store yesterday?
+31. `호주식 발음 → 미국식 발음` Did you buy the watch we saw at the department store yesterday?
 (A) I will deliver it soon.
 (B) I couldn’t resist.
 (C) Yes, I thought it was.

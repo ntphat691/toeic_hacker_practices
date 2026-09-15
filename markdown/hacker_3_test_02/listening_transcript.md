@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `캐나다식 발음 → 미국식 발음`
-When will the clients arrive?
+7. `캐나다식 발음 → 미국식 발음` When will the clients arrive?
 (A) They most likely will.
 (B) The building lobby.
 (C) No later than 3 o’clock.
 
-8. `영국식 발음 → 호주식 발음`
-Which of these shirts do you think I should buy?
+8. `영국식 발음 → 호주식 발음` Which of these shirts do you think I should buy?
 (A) You should wrap them.
 (B) My preference is the brown one.
 (C) Yes, it’s the perfect size.
 
-9. `미국식 발음 → 캐나다식 발음`
-Will my transportation costs be reimbursed?
+9. `미국식 발음 → 캐나다식 발음` Will my transportation costs be reimbursed?
 (A) We stopped in Venice.
 (B) If you hand in the receipts.
 (C) I’ll look in my purse.
 
-10. `호주식 발음 → 영국식 발음`
-Do you know who was named the new lead engineer?
+10. `호주식 발음 → 영국식 발음` Do you know who was named the new lead engineer?
 (A) I can’t recall the restaurant’s name.
 (B) Someone was recruited from outside the firm.
 (C) Mr. Vans placed the order.
 
-11. `캐나다식 발음 → 미국식 발음`
-How did your meeting with the investment adviser turn out?
+11. `캐나다식 발음 → 미국식 발음` How did your meeting with the investment adviser turn out?
 (A) That’s what I’d recommend.
 (B) It was canceled at the last minute.
 (C) The meat is in the refrigerator.
 
-12. `호주식 발음 → 영국식 발음`
-Where should I visit with my family?
+12. `호주식 발음 → 영국식 발음` Where should I visit with my family?
 (A) That’s right. We spent a weekend there.
 (B) A clerk at Midwestern Travel Agency.
 (C) The Cayman Islands are popular.
 
-13. `미국식 발음 → 캐나다식 발음`
-Who volunteered for our community service event?
+13. `미국식 발음 → 캐나다식 발음` Who volunteered for our community service event?
 (A) Thanks for offering your time.
 (B) The event was a major success.
 (C) Why don’t you ask our boss about that?
 
-14. `호주식 발음 → 영국식 발음`
-A taxi is coming for me at 7 a.m .
+14. `호주식 발음 → 영국식 발음` A taxi is coming for me at 7 a.m .
 (A) Sure, taxes are due on April 15th.
 (B) You’ll have to be up very early, then.
 (C) Sometime this morning.
 
-15. `미국식 발음 → 호주식 발음`
-Who’s responsible for promoting the technology expo?
+15. `미국식 발음 → 호주식 발음` Who’s responsible for promoting the technology expo?
 (A) The response was very positive.
 (B) Mr. Graves hasn’t selected anyone yet.
 (C) That seems like a reasonable deadline.
 
-16. `영국식 발음 → 호주식 발음`
-I have an appointment with Mr. Khan in 10 minutes.
+16. `영국식 발음 → 호주식 발음` I have an appointment with Mr. Khan in 10 minutes.
 (A) Yes, he’s been expecting you.
 (B) I’ve been appointed team leader.
 (C) We were too busy at the time.
 
-17. `캐나다식 발음 → 영국식 발음`
-Why are there only three candidates for our job opening?
+17. `캐나다식 발음 → 영국식 발음` Why are there only three candidates for our job opening?
 (A) Oh, Drake has the other résumés.
 (B) No, I haven’t found a job yet.
 (C) We will open another location.
 
-18. `영국식 발음 → 호주식 발음`
-This evening’s press conference has been rescheduled.
+18. `영국식 발음 → 호주식 발음` This evening’s press conference has been rescheduled.
 (A) When our collection was announced.
 (B) You have to push this button.
 (C) I wonder why there’s a delay.
 
-19. `미국식 발음 → 캐나다식 발음`
-Don’t we have an insufficient number of brochures?
+19. `미국식 발음 → 캐나다식 발음` Don’t we have an insufficient number of brochures?
 (A) My team won’t be attending the seminar.
 (B) I designed some of them myself.
 (C) This lighting is insufficient.
 
-20. `영국식 발음 → 미국식 발음`
-Why don’t we ask if the flight attendant has headphones?
+20. `영국식 발음 → 미국식 발음` Why don’t we ask if the flight attendant has headphones?
 (A) We don’t want to go to that convention.
 (B) An economy class seat.
 (C) I don’t need any right now.
 
-21. `캐나다식 발음 → 호주식 발음`
-Aren’t special permits required in order to park here?
+21. `캐나다식 발음 → 호주식 발음` Aren’t special permits required in order to park here?
 (A) Yes, those changes are necessary.
 (B) The outing was held at Hawthorne Park.
 (C) This lot is open to the public.
 
-22. `미국식 발음 → 캐나다식 발음`
-What organization are we partnering with?
+22. `미국식 발음 → 캐나다식 발음` What organization are we partnering with?
 (A) It’s been nice working with you.
 (B) Actually, I organized the party.
 (C) An environmental research institute.
 
-23. `호주식 발음 → 미국식 발음`
-When was an inspection last conducted at your establishment?
+23. `호주식 발음 → 미국식 발음` When was an inspection last conducted at your establishment?
 (A) Just over a month ago, I believe.
 (B) The inspector left the message.
 (C) I looked at it closely.
 
-24. `미국식 발음 → 호주식 발음`
-How does going out for dinner next week sound to you?
+24. `미국식 발음 → 호주식 발음` How does going out for dinner next week sound to you?
 (A) I usually bring my lunch to work.
 (B) Let me check my schedule.
 (C) I had a great time.
 
-25. `영국식 발음 → 캐나다식 발음`
-A celebrity spokesperson has finally been selected for the company.
+25. `영국식 발음 → 캐나다식 발음` A celebrity spokesperson has finally been selected for the company.
 (A) Well, each person should get one.
 (B) I was told this place is famous.
 (C) Yes, Joseph mentioned that earlier.
 
-26. `영국식 발음 → 호주식 발음`
-Have Sam and Janie registered for the accounting workshop?
+26. `영국식 발음 → 호주식 발음` Have Sam and Janie registered for the accounting workshop?
 (A) These are the proper forms.
 (B) One of the accounts is low on money.
 (C) They’ll do so after lunch.
 
-27. `캐나다식 발음 → 영국식 발음`
-Was Jones Industries or Peters Manufacturing contracted to produce our shoe line?
+27. `캐나다식 발음 → 영국식 발음` Was Jones Industries or Peters Manufacturing contracted to produce our shoe line?
 (A) Our contract expires soon.
 (B) Clients waited in line for several hours.
 (C) A different one was chosen.
 
-28. `호주식 발음 → 미국식 발음`
-Curtis is joining us for a picnic on Saturday, right?
+28. `호주식 발음 → 미국식 발음` Curtis is joining us for a picnic on Saturday, right?
 (A) The weather was nice on Sunday.
 (B) Did you bring some snacks?
 (C) That’s why we planned it for the morning.
 
-29. `영국식 발음 → 캐나다식 발음`
-Are you going to forward the memo to personnel, or should I do that?
+29. `영국식 발음 → 캐나다식 발음` Are you going to forward the memo to personnel, or should I do that?
 (A) It’s up to you.
 (B) The entire human resources division.
 (C) It discusses the new leave policy.
 
-30. `호주식 발음 → 미국식 발음`
-What could be the cause of our company’s recent drop in sales?
+30. `호주식 발음 → 미국식 발음` What could be the cause of our company’s recent drop in sales?
 (A) Because I dropped a platter.
 (B) Shoppers’ buying habits are changing.
 (C) The sails were torn by the strong winds.
 
-31. `캐나다식 발음 → 미국식 발음`
-The business center is scheduled to be remodeled this fall.
+31. `캐나다식 발음 → 미국식 발음` The business center is scheduled to be remodeled this fall.
 (A) I heard the project could cost millions.
 (B) Here’s the spring catalog.
 (C) We already sent her the outline.

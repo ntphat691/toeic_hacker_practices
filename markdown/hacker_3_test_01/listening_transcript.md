@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `캐나다식 발음 → 미국식 발음`
-Where did you put the annual shareholder report?
+7. `캐나다식 발음 → 미국식 발음` Where did you put the annual shareholder report?
 (A) The reporter from the Arlington Times.
 (B) It’s in this folder.
 (C) I finished drafting it yesterday.
 
-8. `영국식 발음 → 캐나다식 발음`
-What is the topic of your presentation?
+8. `영국식 발음 → 캐나다식 발음` What is the topic of your presentation?
 (A) I’ll most likely speak at 10 a.m.
 (B) Most of the presenters have departed.
 (C) Our new line of products.
 
-9. `캐나다식 발음 → 미국식 발음`
-Did you ever e-mail our manager about the budget?
+9. `캐나다식 발음 → 미국식 발음` Did you ever e-mail our manager about the budget?
 (A) I’m going to deal with that.
 (B) The CEO missed the luncheon.
 (C) Every box should be mailed now.
 
-10. `호주식 발음 → 영국식 발음`
-How do I get to the nearest gas station?
+10. `호주식 발음 → 영국식 발음` How do I get to the nearest gas station?
 (A) Yes, it’s open today.
 (B) Let me get a map.
 (C) You can fill up the tank.
 
-11. `캐나다식 발음 → 미국식 발음`
-Why don’t you sign up for a course?
+11. `캐나다식 발음 → 미국식 발음` Why don’t you sign up for a course?
 (A) I already signed them.
 (B) For enrolling at Farrell University.
 (C) I’ll think about it.
 
-12. `미국식 발음 → 호주식 발음`
-We’ll be leaving for the beach shortly.
+12. `미국식 발음 → 호주식 발음` We’ll be leaving for the beach shortly.
 (A) Do I have time to use the restroom?
 (B) A towel and a swimsuit.
 (C) I believe Bob also left then.
 
-13. `영국식 발음 → 호주식 발음`
-Who’s going to pick up dinner tonight?
+13. `영국식 발음 → 호주식 발음` Who’s going to pick up dinner tonight?
 (A) In 20 minutes.
 (B) Thanks. The food is very good.
 (C) We are having it delivered.
 
-14. `캐나다식 발음 → 미국식 발음`
-When is the sale at Hayes Department Store ending?
+14. `캐나다식 발음 → 미국식 발음` When is the sale at Hayes Department Store ending?
 (A) It goes until Sunday.
 (B) The sail has a small tear.
 (C) Begin when you can.
 
-15. `영국식 발음 → 캐나다식 발음`
-Which wireless keyboard should I get?
+15. `영국식 발음 → 캐나다식 발음` Which wireless keyboard should I get?
 (A) Yes, I should do that.
 (B) This one is highly recommended.
 (C) There’s a power outlet over there.
 
-16. `미국식 발음 → 호주식 발음`
-Why can’t we stay at Casa Resort during our trip?
+16. `미국식 발음 → 호주식 발음` Why can’t we stay at Casa Resort during our trip?
 (A) Because we plan to send it.
 (B) You’ll need to copy your passport.
 (C) It is fully booked.
 
-17. `캐나다식 발음 → 영국식 발음`
-Are you working or taking time off over the holidays?
+17. `캐나다식 발음 → 영국식 발음` Are you working or taking time off over the holidays?
 (A) Try taking the bus.
 (B) I’ll be putting in overtime.
 (C) Oh, I’ve never traveled there before.
 
-18. `호주식 발음 → 영국식 발음`
-Should the layout of the bakery be rearranged?
+18. `호주식 발음 → 영국식 발음` Should the layout of the bakery be rearranged?
 (A) Mike has laid out the documents.
 (B) Across from the bread section.
 (C) That’d be too difficult.
 
-19. `영국식 발음 → 호주식 발음`
-How soon can you scan all of these images?
+19. `영국식 발음 → 호주식 발음` How soon can you scan all of these images?
 (A) Are you in a hurry?
 (B) The scanner is on the 6th floor.
 (C) Sorry for arriving a bit late.
 
-20. `캐나다식 발음 → 영국식 발음`
-Which is the best airline to take to Orlando, Heights Air or Wide Sky?
+20. `캐나다식 발음 → 영국식 발음` Which is the best airline to take to Orlando, Heights Air or Wide Sky?
 (A) Personally, I prefer the steak.
 (B) My airfare was quite cheap.
 (C) There’s not much difference.
 
-21. `호주식 발음 → 미국식 발음`
-Who is overseeing marketing for the television show?
+21. `호주식 발음 → 미국식 발음` Who is overseeing marketing for the television show?
 (A) Either Matilda or Gregory.
 (B) I saw the forms last night.
 (C) A person from our group made the map.
 
-22. `캐나다식 발음 → 영국식 발음`
-Is Stan going to meet his project deadline?
+22. `캐나다식 발음 → 영국식 발음` Is Stan going to meet his project deadline?
 (A) A lot of tasks still have to be completed.
 (B) No, he didn’t go there.
 (C) January 12 of last year.
 
-23. `미국식 발음 → 영국식 발음`
-Tuition is predicted to increase next semester.
+23. `미국식 발음 → 영국식 발음` Tuition is predicted to increase next semester.
 (A) The classes were surprisingly challenging.
 (B) The cost of education is already too high.
 (C) College faculty and administrators.
 
-24. `호주식 발음 → 미국식 발음`
-When will I receive the concert tickets that I purchased online?
+24. `호주식 발음 → 미국식 발음` When will I receive the concert tickets that I purchased online?
 (A) It’ll be held at Davis Hall.
 (B) You can print them out immediately.
 (C) The concert should last at least an hour.
 
-25. `미국식 발음 → 캐나다식 발음`
-Would you like to sit at a table near the window?
+25. `미국식 발음 → 캐나다식 발음` Would you like to sit at a table near the window?
 (A) A more private spot would be great.
 (B) Put the plate on the table.
 (C) Please be seated.
 
-26. `영국식 발음 → 호주식 발음`
-Pamela has been taking French lessons for her trip, hasn’t she?
+26. `영국식 발음 → 호주식 발음` Pamela has been taking French lessons for her trip, hasn’t she?
 (A) I went to Paris last year.
 (B) She is fluent in Spanish.
 (C) That’s news to me.
 
-27. `캐나다식 발음 → 미국식 발음`
-We’ve concluded that we need to hire four accountants for tax season.
+27. `캐나다식 발음 → 미국식 발음` We’ve concluded that we need to hire four accountants for tax season.
 (A) Well, our staff seems to enjoy their gifts.
 (B) Can we afford to do that?
 (C) The hiring process for our firm.
 
-28. `호주식 발음 → 영국식 발음`
-Have you heard about our product recall?
+28. `호주식 발음 → 영국식 발음` Have you heard about our product recall?
 (A) No, I’ll take this item instead.
 (B) Call him back after the interview.
 (C) Yes, Ms. Jones informed me this morning.
 
-29. `미국식 발음 → 호주식 발음`
-Didn’t somebody tell the driver to show up here at noon?
+29. `미국식 발음 → 호주식 발음` Didn’t somebody tell the driver to show up here at noon?
 (A) Someone must have dropped them.
 (B) Didn’t you make the reservation?
 (C) I’ll show you around the new house.
 
-30. `영국식 발음 → 캐나다식 발음`
-Maria intends to redecorate her living room.
+30. `영국식 발음 → 캐나다식 발음` Maria intends to redecorate her living room.
 (A) Thanks. I did it myself.
 (B) I actually like how it looks right now.
 (C) We made plans for a vacation.
 
-31. `미국식 발음 → 호주식 발음`
-The road in front of our office was just repaved, right?
+31. `미국식 발음 → 호주식 발음` The road in front of our office was just repaved, right?
 (A) A little over a week ago.
 (B) Lyndale Avenue is about a block away.
 (C) On the back of the receipt.

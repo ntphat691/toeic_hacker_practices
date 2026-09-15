@@ -1,6 +1,5 @@
 # TEST 10 Answer Keys
 
-
 ```
 001 (D) 002 (A) 003 (D) 004 (B) 005 (A)
 006 (C) 007 (C) 008 (A) 009 (C) 010 (B)
@@ -64,152 +63,127 @@
 
 ### PART 2
 
-7. `영국식 발음 → 호주식 발음`
-Who represented our firm at the recent expo?
+7. `영국식 발음 → 호주식 발음` Who represented our firm at the recent expo?
 (A) It was held in Chicago.
 (B) Mr. Dawkins will be going.
 (C) The head of the marketing department.
 
-8. `캐나다식 발음 → 미국식 발음`
-You’re going to the welcoming party for the new interns, right?
+8. `캐나다식 발음 → 미국식 발음` You’re going to the welcoming party for the new interns, right?
 (A) Everyone from our team will be there.
 (B) I’m glad it has been going well.
 (C) I sent out invitations last week.
 
-9. `호주식 발음 → 미국식 발음`
-What problem are you having with the cash machine?
+9. `호주식 발음 → 미국식 발음` What problem are you having with the cash machine?
 (A) We accept checks too.
 (B) The maintenance person has one.
 (C) My debit card was rejected.
 
-10. `캐나다식 발음 → 영국식 발음`
-Hasn’t Ben decided on a vacation destination?
+10. `캐나다식 발음 → 영국식 발음` Hasn’t Ben decided on a vacation destination?
 (A) No, we stayed in Brisbane.
 (B) I don’t believe so.
 (C) A vacation package.
 
-11. `호주식 발음 → 영국식 발음`
-Jamie, would you schedule me an appointment with the director?
+11. `호주식 발음 → 영국식 발음` Jamie, would you schedule me an appointment with the director?
 (A) Yes, let me draw you a map.
 (B) Your reservation was canceled.
 (C) I’ll get on it right away.
 
-12. `미국식 발음 → 캐나다식 발음`
-You have this shirt also available in small, don’t you?
+12. `미국식 발음 → 캐나다식 발음` You have this shirt also available in small, don’t you?
 (A) Actually, that size is sold out.
 (B) I often visit this mall.
 (C) The red dress is cheaper.
 
-13. `미국식 발음 → 호주식 발음`
-When will the acquisition be announced?
+13. `미국식 발음 → 호주식 발음` When will the acquisition be announced?
 (A) Not for another week.
 (B) The merger was very profitable.
 (C) I start the position tomorrow.
 
-14. `캐나다식 발음 → 영국식 발음`
-Is someone sitting here, or can I take this chair?
+14. `캐나다식 발음 → 영국식 발음` Is someone sitting here, or can I take this chair?
 (A) I’ve been there before.
 (B) It will take about an hour.
 (C) My friend is using it, I’m afraid.
 
-15. `호주식 발음 → 미국식 발음`
-Who’s receiving the Employee of the Month Award?
+15. `호주식 발음 → 미국식 발음` Who’s receiving the Employee of the Month Award?
 (A) Later this evening.
 (B) Mr. Kenichi, most likely.
 (C) Just forward them to me.
 
-16. `캐나다식 발음 → 영국식 발음`
-Why don’t you buy an extra monitor for your computer?
+16. `캐나다식 발음 → 영국식 발음` Why don’t you buy an extra monitor for your computer?
 (A) I already bought tickets for that.
 (B) I’d like that, but my budget is too tight.
 (C) That sounds like a good bargain.
 
-17. `호주식 발음 → 미국식 발음`
-Did we get the results from last week’s audit?
+17. `호주식 발음 → 미국식 발음` Did we get the results from last week’s audit?
 (A) You’re right. It’s pretty odd.
 (B) Yes, it’s occurring in the auditorium.
 (C) We’ll receive them later today.
 
-18. `캐나다식 발음 → 영국식 발음`
-When did Amit originally establish his business?
+18. `캐나다식 발음 → 영국식 발음` When did Amit originally establish his business?
 (A) The store opens at 8 a.m .
 (B) A little over two years ago.
 (C) Just around the corner.
 
-19. `미국식 발음 → 캐나다식 발음`
-Which of these briefcases should I buy?
+19. `미국식 발음 → 캐나다식 발음` Which of these briefcases should I buy?
 (A) They’re both very nice.
 (B) Yes, to replace my old one.
 (C) Thanks. I got them online.
 
-20. `영국식 발음 → 호주식 발음`
-Which applicant do you think we should hire?
+20. `영국식 발음 → 호주식 발음` Which applicant do you think we should hire?
 (A) It depends on the interview results.
 (B) Several people have applied for the position.
 (C) The company is opening a new branch.
 
-21. `호주식 발음 → 미국식 발음`
-Everyone seemed to enjoy the gathering last night.
+21. `호주식 발음 → 미국식 발음` Everyone seemed to enjoy the gathering last night.
 (A) At George’s house in the country.
 (B) A reservation for three nights.
 (C) Yes, they had a good time.
 
-22. `캐나다식 발음 → 미국식 발음`
-Why don’t we take a 10-minute coffee break?
+22. `캐나다식 발음 → 미국식 발음` Why don’t we take a 10-minute coffee break?
 (A) Can you wait half an hour?
 (B) He has been coughing all day.
 (C) About two days ago.
 
-23. `영국식 발음 → 호주식 발음`
-A customer accidentally left her purse at the register.
+23. `영국식 발음 → 호주식 발음` A customer accidentally left her purse at the register.
 (A) You can sign up online.
 (B) Place it under the counter for now.
 (C) There are some on the display rack.
 
-24. `영국식 발음 → 캐나다식 발음`
-How did everything go at the real estate convention in Shanghai?
+24. `영국식 발음 → 캐나다식 발음` How did everything go at the real estate convention in Shanghai?
 (A) Property values remain the same.
 (B) I made some business connections.
 (C) Near the downtown convention center.
 
-25. `미국식 발음 → 호주식 발음`
-Should we rearrange the layout of the shop?
+25. `미국식 발음 → 호주식 발음` Should we rearrange the layout of the shop?
 (A) This is her favorite boutique.
 (B) Yes, a few of them.
 (C) I’d rather not.
 
-26. `캐나다식 발음 → 영국식 발음`
-Why aren’t the salespeople at their desks?
+26. `캐나다식 발음 → 영국식 발음` Why aren’t the salespeople at their desks?
 (A) Let’s have the sales team help.
 (B) Some additional telemarketers.
 (C) They are in the conference room.
 
-27. `호주식 발음 → 미국식 발음`
-Landscapers are going to plant rose bushes out front this morning.
+27. `호주식 발음 → 미국식 발음` Landscapers are going to plant rose bushes out front this morning.
 (A) Why wasn’t I informed sooner?
 (B) Yesterday afternoon.
 (C) The gardening course has a fee.
 
-28. `미국식 발음 → 호주식 발음`
-Haven’t you already been accepted to a college?
+28. `미국식 발음 → 호주식 발음` Haven’t you already been accepted to a college?
 (A) Here are your course materials.
 (B) Yes, it’s been filled out.
 (C) Quite a few, actually.
 
-29. `영국식 발음 → 캐나다식 발음`
-Beginning next month, all personnel will be required to use security badges.
+29. `영국식 발음 → 캐나다식 발음` Beginning next month, all personnel will be required to use security badges.
 (A) We’d better notify the employees soon then.
 (B) The president is obligated to attend.
 (C) State safety regulations.
 
-30. `미국식 발음 → 캐나다식 발음`
-Aren’t our subscription levels continuing to increase?
+30. `미국식 발음 → 캐나다식 발음` Aren’t our subscription levels continuing to increase?
 (A) You have to refill your prescription.
 (B) According to the head accountant.
 (C) I’m continuing to review applications.
 
-31. `호주식 발음 → 영국식 발음`
-What did the manufacturer do when you asked for a refund?
+31. `호주식 발음 → 영국식 발음` What did the manufacturer do when you asked for a refund?
 (A) One of the warehouses at the factory.
 (B) They accommodated my request.
 (C) We changed the return policy.
@@ -315,7 +289,6 @@ W: Do you mean the enclosure near the back exit on Lee Drive or the one at the i
 M: I’m talking about the latter one.
 
 ### PART 4
-
 
 Questions 71-73 refer to the following announcement.
 `호주식 발음`

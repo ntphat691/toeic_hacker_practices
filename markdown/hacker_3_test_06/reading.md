@@ -2,7 +2,6 @@ I TEST 06
 
 ### PART 5
 
-
 ### PART 6
 
 § PART 7
@@ -206,10 +205,7 @@ Questions 135-138 refer to the following e-mail.
 (B) have arrived
 (C) will be arriving
 (D) arrived
-136. <<MISSING>>
-<<MISSING>>
-<<MISSING>>
-<<MISSING>>
+136. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 137. (A) I didn't expect project to be delayed by Wm as much as one week.
 (B) As soon as the items are ready, send them immediately.
 (C) Unfortunately, I will be out of the office next week due to a conference.

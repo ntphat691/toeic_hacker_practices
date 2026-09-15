@@ -92,7 +92,7 @@ Select the best answer and mark the corresponding letter (A), (B), (C), or (D) o
 (C) minor
 (D) critical
 
-114.  who still wish to submit applications after the deadline must pay a $45 late fee in order to be considered.
+114. who still wish to submit applications after the deadline must pay a $45 late fee in order to be considered.
 (A) Anyone
 (B) Those
 (C) Though
@@ -176,7 +176,7 @@ Select the best answer and mark the corresponding letter (A), (B), (C), or (D) o
 (C) deliberation
 (D) recognition
 
-128.  having television stations across the state, the American Media Corporation owns several magazines and newspapers.
+128. having television stations across the state, the American Media Corporation owns several magazines and newspapers.
 (A) Besides
 (B) Rather
 (C) Among

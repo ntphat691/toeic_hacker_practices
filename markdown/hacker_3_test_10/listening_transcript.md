@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 영국식 발음`
-Where can I find the milk and sugar?
+7. `호주식 발음 → 영국식 발음` Where can I find the milk and sugar?
 (A) Just behind you.
 (B) Low-fat milk, please.
 (C) Let’s find a hat for you.
 
-8. `미국식 발음 → 캐나다식 발음`
-When is the grant proposal due?
+8. `미국식 발음 → 캐나다식 발음` When is the grant proposal due?
 (A) Yes, that’s the deadline.
 (B) I propose that we try.
 (C) Not until next Tuesday.
 
-9. `미국식 발음 → 호주식 발음`
-Who requested an adjustable computer chair?
+9. `미국식 발음 → 호주식 발음` Who requested an adjustable computer chair?
 (A) The charts have been modified.
 (B) Kendra, the new bookkeeper.
 (C) My laptop webcam.
 
-10. `영국식 발음 → 캐나다식 발음`
-What are you conducting a study on?
+10. `영국식 발음 → 캐나다식 발음` What are you conducting a study on?
 (A) Consumer spending.
 (B) In the research laboratory.
 (C) I could use an assistant.
 
-11. `영국식 발음 → 호주식 발음`
-Which of the bicycles on the rack is yours?
+11. `영국식 발음 → 호주식 발음` Which of the bicycles on the rack is yours?
 (A) They usually bike to work.
 (B) The purple one.
 (C) You can go for a ride.
 
-12. `캐나다식 발음 → 미국식 발음`
-Who is in charge of the division?
+12. `캐나다식 발음 → 미국식 발음` Who is in charge of the division?
 (A) Divide the materials in half.
 (B) You’ll be charged a small fee.
 (C) That would be Barney Richards.
 
-13. `호주식 발음 → 영국식 발음`
-Ms. Moore’s farewell celebration is coming up.
+13. `호주식 발음 → 영국식 발음` Ms. Moore’s farewell celebration is coming up.
 (A) We are all going to miss you.
 (B) Yes. It’s on Saturday.
 (C) She’s doing well. Thanks for asking.
 
-14. `미국식 발음 → 캐나다식 발음`
-Which day do you want to depart for England?
+14. `미국식 발음 → 캐나다식 발음` Which day do you want to depart for England?
 (A) Either May 17 or 18.
 (B) I want to leave from Incheon Airport.
 (C) It was quite a short trip.
 
-15. `영국식 발음 → 호주식 발음`
-How many company T-shirts have to be ordered?
+15. `영국식 발음 → 호주식 발음` How many company T-shirts have to be ordered?
 (A) Six or seven pencils.
 (B) Fill in this order form.
 (C) One for each team member.
 
-16. `호주식 발음 → 미국식 발음`
-We had to move the meal indoors because of the rainy weather.
+16. `호주식 발음 → 미국식 발음` We had to move the meal indoors because of the rainy weather.
 (A) This door leads to the staircase.
 (B) Oh, that’s too bad.
 (C) That umbrella appears to be broken.
 
-17. `캐나다식 발음 → 미국식 발음`
-Where did Andre get his camera lens?
+17. `캐나다식 발음 → 미국식 발음` Where did Andre get his camera lens?
 (A) He’s going to buy a digital camera.
 (B) Probably from an online seller.
 (C) It can take very sharp images.
 
-18. `영국식 발음 → 호주식 발음`
-Have the accountants been assigned tasks?
+18. `영국식 발음 → 호주식 발음` Have the accountants been assigned tasks?
 (A) You’ll have to ask Akiko.
 (B) We can’t account for the decrease.
 (C) I have signed the contract.
 
-19. `캐나다식 발음 → 영국식 발음`
-Some of the performers are in their dressing rooms, aren’t they?
+19. `캐나다식 발음 → 영국식 발음` Some of the performers are in their dressing rooms, aren’t they?
 (A) The dressing isn’t good.
 (B) That’s what I heard.
 (C) They aren’t on the shelf.
 
-20. `미국식 발음 → 호주식 발음`
-Our plant is experiencing some mechanical failures.
+20. `미국식 발음 → 호주식 발음` Our plant is experiencing some mechanical failures.
 (A) The applicant is very experienced.
 (B) From a professional mechanic.
 (C) That’s the third time this year.
 
-21. `영국식 발음 → 캐나다식 발음`
-When is the corporate fund-raising event?
+21. `영국식 발음 → 캐나다식 발음` When is the corporate fund-raising event?
 (A) Let me get back to you about that.
 (B) The goal is to raise a lot of money.
 (C) Volunteers must cooperate.
 
-22. `호주식 발음 → 미국식 발음`
-Can I get a quote for having new windows installed?
+22. `호주식 발음 → 미국식 발음` Can I get a quote for having new windows installed?
 (A) Your home needs to be inspected first.
 (B) No, I’ll print you a new receipt.
 (C) It was damaged during a storm.
 
-23. `캐나다식 발음 → 영국식 발음`
-How about introducing yourself to our yoga instructor?
+23. `캐나다식 발음 → 영국식 발음` How about introducing yourself to our yoga instructor?
 (A) I met him earlier.
 (B) Our school is open throughout the year.
 (C) The introduction is being rewritten.
 
-24. `영국식 발음 → 캐나다식 발음`
-Should I take the call from the client or the marketing director first?
+24. `영국식 발음 → 캐나다식 발음` Should I take the call from the client or the marketing director first?
 (A) OK, you talk to him.
 (B) I’m on call until 8 o’clock.
 (C) Answer the client on Line 3.
 
-25. `미국식 발음 → 호주식 발음`
-Do you want me to shovel the snow on the sidewalk?
+25. `미국식 발음 → 호주식 발음` Do you want me to shovel the snow on the sidewalk?
 (A) If you can spare the time.
 (B) I guess it’s snowing in Boston.
 (C) I just walked here.
 
-26. `캐나다식 발음 → 영국식 발음`
-Can’t I get refreshments from this vending machine?
+26. `캐나다식 발음 → 영국식 발음` Can’t I get refreshments from this vending machine?
 (A) Most of the vendors have their own stalls.
 (B) Some of the guests are getting thirsty.
 (C) The last time I checked, it was out of order.
 
-27. `호주식 발음 → 미국식 발음`
-My car has been fixed, so we can pick it up this afternoon.
+27. `호주식 발음 → 미국식 발음` My car has been fixed, so we can pick it up this afternoon.
 (A) My sedan has leather seats.
 (B) Let’s go at around 1:30.
 (C) Apparently, we mixed up the files.
 
-28. `미국식 발음 → 호주식 발음`
-The sink faucet in the staff room is leaking, isn’t it?
+28. `미국식 발음 → 호주식 발음` The sink faucet in the staff room is leaking, isn’t it?
 (A) No, we haven’t got any room.
 (B) Yes, there’s ink all over the desk.
 (C) The problem has been resolved.
 
-29. `영국식 발음 → 캐나다식 발음`
-Wendell, are you ready to assemble this bookshelf?
+29. `영국식 발음 → 캐나다식 발음` Wendell, are you ready to assemble this bookshelf?
 (A) I’ll grab the instruction manual.
 (B) Next to the door.
 (C) Once the game concluded.
 
-30. `미국식 발음 → 캐나다식 발음`
-Would you rather sit here in the front row or further back?
+30. `미국식 발음 → 캐나다식 발음` Would you rather sit here in the front row or further back?
 (A) It’s a good fit.
 (B) I don’t know where he is.
 (C) Let’s sit close to the screen.
 
-31. `호주식 발음 → 영국식 발음`
-Why were you asked to revise the employee handbook?
+31. `호주식 발음 → 영국식 발음` Why were you asked to revise the employee handbook?
 (A) Because the train is at the platform.
 (B) An explanation was missing from Section 24.
 (C) Give me the latest version.

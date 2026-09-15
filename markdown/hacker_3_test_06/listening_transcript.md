@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `영국식 발음 → 호주식 발음`
-Whose eyeglasses are these?
+7. `영국식 발음 → 호주식 발음` Whose eyeglasses are these?
 (A) A new prescription.
 (B) Classes are held weekly.
 (C) They look like Mira’s.
 
-8. `미국식 발음 → 캐나다식 발음`
-When will Unit 23 be vacated?
+8. `미국식 발음 → 캐나다식 발음` When will Unit 23 be vacated?
 (A) A lease for a rental space.
 (B) The tenant moved out yesterday.
 (C) In that apartment complex.
 
-9. `캐나다식 발음 → 미국식 발음`
-Where can I find a restaurant nearby?
+9. `캐나다식 발음 → 미국식 발음` Where can I find a restaurant nearby?
 (A) Washburn Café is at the end of the block.
 (B) Just for a quick bite to eat.
 (C) I was able to find my license.
 
-10. `호주식 발음 → 영국식 발음`
-You work at Riley Industries, don’t you?
+10. `호주식 발음 → 영국식 발음` You work at Riley Industries, don’t you?
 (A) That’s correct.
 (B) Her shift will be starting soon.
 (C) No, I don’t have those tools.
 
-11. `호주식 발음 → 미국식 발음`
-Who told you about this art festival?
+11. `호주식 발음 → 미국식 발음` Who told you about this art festival?
 (A) One of my coworkers.
 (B) It runs pretty late.
 (C) My art teacher is from Spain.
 
-12. `미국식 발음 → 캐나다식 발음`
-Where will actress Marie Lawson be signing autographs?
+12. `미국식 발음 → 캐나다식 발음` Where will actress Marie Lawson be signing autographs?
 (A) She appeared in a television drama.
 (B) You can write your name here.
 (C) At the Guthrie Theater.
 
-13. `캐나다식 발음 → 영국식 발음`
-Will you place an event program on each chair?
+13. `캐나다식 발음 → 영국식 발음` Will you place an event program on each chair?
 (A) Dr. Delahanty’s sitting in this row.
 (B) The event was in Rome.
 (C) I can do it in a minute.
 
-14. `미국식 발음 → 호주식 발음`
-Has Mr. Harrison forwarded you the memo about holiday bonuses?
+14. `미국식 발음 → 호주식 발음` Has Mr. Harrison forwarded you the memo about holiday bonuses?
 (A) No, he never asked about the costumes.
 (B) I just received it.
 (C) It’ll be shut down over the holidays.
 
-15. `캐나다식 발음 → 영국식 발음`
-The speech was very informative, don’t you think so?
+15. `캐나다식 발음 → 영국식 발음` The speech was very informative, don’t you think so?
 (A) I’m giving one at 5 p.m.
 (B) When will it most likely start?
 (C) The lecturer was quite knowledgeable.
 
-16. `미국식 발음 → 캐나다식 발음`
-Is Crystal Spa still in business?
+16. `미국식 발음 → 캐나다식 발음` Is Crystal Spa still in business?
 (A) Some of these business cards.
 (B) We’re here until June 24.
 (C) You’ll have to check its Web site.
 
-17. `호주식 발음 → 영국식 발음`
-This budget report seems to have some numerical errors.
+17. `호주식 발음 → 영국식 발음` This budget report seems to have some numerical errors.
 (A) He works at a pharmaceutical company.
 (B) Can you point them out to me?
 (C) I’m having a problem with my phone.
 
-18. `캐나다식 발음 → 미국식 발음`
-Haven’t you already thrown out the garbage?
+18. `캐나다식 발음 → 미국식 발음` Haven’t you already thrown out the garbage?
 (A) An updated recycling policy.
 (B) Park it in the garage.
 (C) Only half of it.
 
-19. `호주식 발음 → 영국식 발음`
-The path to Mount Cape is this way.
+19. `호주식 발음 → 영국식 발음` The path to Mount Cape is this way.
 (A) He’s heading our way.
 (B) With my hiking gear.
 (C) Are you positive about that?
 
-20. `영국식 발음 → 호주식 발음`
-What materials have been prepared for the trade fair?
+20. `영국식 발음 → 호주식 발음` What materials have been prepared for the trade fair?
 (A) Someone else is handling that.
 (B) The fares are reasonable.
 (C) Yes, a booth has been reserved.
 
-21. `미국식 발음 → 캐나다식 발음`
-How often are performance reviews held?
+21. `미국식 발음 → 캐나다식 발음` How often are performance reviews held?
 (A) Hold on. I’ll give you a tour.
 (B) The counters are washed every day.
 (C) Usually once per year.
 
-22. `영국식 발음 → 미국식 발음`
-Which assignment should I prioritize next?
+22. `영국식 발음 → 미국식 발음` Which assignment should I prioritize next?
 (A) Before I get home.
 (B) I agree. You should.
 (C) Please edit this press release.
 
-23. `캐나다식 발음 → 호주식 발음`
-The lounge area is located on the ground floor, isn’t it?
+23. `캐나다식 발음 → 호주식 발음` The lounge area is located on the ground floor, isn’t it?
 (A) Yes, down the hall from the elevator.
 (B) No, the floors have been mopped.
 (C) The lounge is spacious.
 
-24. `캐나다식 발음 → 영국식 발음`
-Why are you returning this monitor?
+24. `캐나다식 발음 → 영국식 발음` Why are you returning this monitor?
 (A) Keep monitoring the situation.
 (B) I’m interested in something larger.
 (C) Whenever you get back.
 
-25. `호주식 발음 → 미국식 발음`
-When will the company merger be officially announced?
+25. `호주식 발음 → 미국식 발음` When will the company merger be officially announced?
 (A) I have a question about the new regulation.
 (B) With another manufacturing firm.
 (C) At the shareholder meeting.
 
-26. `영국식 발음 → 호주식 발음`
-Does this cruise ship feature live entertainment?
+26. `영국식 발음 → 호주식 발음` Does this cruise ship feature live entertainment?
 (A) It’s an entertaining radio program.
 (B) This pamphlet should say.
 (C) Passengers require boarding passes.
 
-27. `캐나다식 발음 → 영국식 발음`
-The spare bedroom needs to be cleaned out.
+27. `캐나다식 발음 → 영국식 발음` The spare bedroom needs to be cleaned out.
 (A) Have James give you a hand.
 (B) A double mattress.
 (C) The kitchen looks clean to me.
 
-28. `호주식 발음 → 미국식 발음`
-Would you rather keep your reward points, or use them for a room upgrade?
+28. `호주식 발음 → 미국식 발음` Would you rather keep your reward points, or use them for a room upgrade?
 (A) Well, the banquet was rather long.
 (B) Both resorts have views of the mountains.
 (C) I’ll save them for my next visit.
 
-29. `캐나다식 발음 → 영국식 발음`
-I can put in some overtime this evening.
+29. `캐나다식 발음 → 영국식 발음` I can put in some overtime this evening.
 (A) Go ahead and set them here.
 (B) Patrick offered to make some desserts.
 (C) Let’s discuss the matter later this afternoon.
 
-30. `영국식 발음 → 캐나다식 발음`
-Would you like some milk in your tea as well?
+30. `영국식 발음 → 캐나다식 발음` Would you like some milk in your tea as well?
 (A) I ordered coffee.
 (B) We provide tea and snacks to clients.
 (C) I don’t like the new menus.
 
-31. `미국식 발음 → 호주식 발음`
-How will we transport the furniture to the new office?
+31. `미국식 발음 → 호주식 발음` How will we transport the furniture to the new office?
 (A) Let’s meet near the exit.
 (B) They tested out the same chairs.
 (C) It comes fully furnished.

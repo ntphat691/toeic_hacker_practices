@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 영국식 발음`
-How do you feel about this article?
+7. `호주식 발음 → 영국식 발음` How do you feel about this article?
 (A) To review the editorial.
 (B) I think so too.
 (C) It is extremely impressive.
 
-8. `미국식 발음 → 호주식 발음`
-What movie are you going to see?
+8. `미국식 발음 → 호주식 발음` What movie are you going to see?
 (A) At the cinema on Camus Drive.
 (B) I bought the tickets already.
 (C) The one starring Claire Holt.
 
-9. `캐나다식 발음 → 영국식 발음`
-Have you read through the manual yet?
+9. `캐나다식 발음 → 영국식 발음` Have you read through the manual yet?
 (A) I found out through my secretary.
 (B) Yes, you can take it.
 (C) It appears to be automatic.
 
-10. `영국식 발음 → 캐나다식 발음`
-Can we have our glasses of wine refilled?
+10. `영국식 발음 → 캐나다식 발음` Can we have our glasses of wine refilled?
 (A) No, I don’t wear glasses.
 (B) I didn’t see who spilled it.
 (C) Sure, right away.
 
-11. `호주식 발음 → 미국식 발음`
-When did you last have a chance to communicate with Mr. Lin?
+11. `호주식 발음 → 미국식 발음` When did you last have a chance to communicate with Mr. Lin?
 (A) Friday works for me too.
 (B) I ran into him today.
 (C) We discussed our workflow.
 
-12. `영국식 발음 → 캐나다식 발음`
-How can we increase our sales volume this quarter?
+12. `영국식 발음 → 캐나다식 발음` How can we increase our sales volume this quarter?
 (A) Try to lower the seat.
 (B) I agree. It’s very loud.
 (C) By hiring more telemarketers.
 
-13. `캐나다식 발음 → 미국식 발음`
-Your café offers a vegetarian soup, doesn’t it?
+13. `캐나다식 발음 → 미국식 발음` Your café offers a vegetarian soup, doesn’t it?
 (A) You must be thinking of another place.
 (B) Could I have a cup of coffee?
 (C) All soups are made fresh daily.
 
-14. `영국식 발음 → 캐나다식 발음`
-There are several interns starting next Thursday.
+14. `영국식 발음 → 캐나다식 발음` There are several interns starting next Thursday.
 (A) The Internet isn’t currently working.
 (B) Please make sure their work areas are ready.
 (C) Why is the inspection beginning so late?
 
-15. `호주식 발음 → 미국식 발음`
-Are the safety measures clear, or should I further explain them?
+15. `호주식 발음 → 미국식 발음` Are the safety measures clear, or should I further explain them?
 (A) I understand them perfectly.
 (B) Someone should clear out the lockers.
 (C) I took the room’s measurements.
 
-16. `캐나다식 발음 → 호주식 발음`
-How about I drive you to the amusement park?
+16. `캐나다식 발음 → 호주식 발음` How about I drive you to the amusement park?
 (A) Oh, about three or four times.
 (B) Aren’t you riding with other friends?
 (C) I thought it was a lot of fun.
 
-17. `캐나다식 발음 → 영국식 발음`
-What am I supposed to do with these packages?
+17. `캐나다식 발음 → 영국식 발음` What am I supposed to do with these packages?
 (A) Yes, I suppose so.
 (B) They belong in Sandy Dawson’s office.
 (C) The parcel arrived yesterday.
 
-18. `영국식 발음 → 호주식 발음`
-Who should be put in charge of creating our spring collection?
+18. `영국식 발음 → 호주식 발음` Who should be put in charge of creating our spring collection?
 (A) The fashion show is this coming summer.
 (B) Most of the clothing is too big for me.
 (C) I suggest bringing in an outside designer.
 
-19. `미국식 발음 → 캐나다식 발음`
-Won’t the staff be meeting later in the week?
+19. `미국식 발음 → 캐나다식 발음` Won’t the staff be meeting later in the week?
 (A) They’re slightly understaffed.
 (B) Mr. Gimple didn’t make it.
 (C) I’ll ask about that this afternoon.
 
-20. `호주식 발음 → 미국식 발음`
-Where will the second restroom be built?
+20. `호주식 발음 → 미국식 발음` Where will the second restroom be built?
 (A) The architect has the floor plans.
 (B) Some building supplies.
 (C) It should be finished by tomorrow.
 
-21. `영국식 발음 → 캐나다식 발음`
-We’re getting many customer complaints lately.
+21. `영국식 발음 → 캐나다식 발음` We’re getting many customer complaints lately.
 (A) We’ve gone through customs.
 (B) So I’ve heard.
 (C) There wasn’t much rain today.
 
-22. `호주식 발음 → 영국식 발음`
-Do patients typically check in at the reception desk?
+22. `호주식 발음 → 영국식 발음` Do patients typically check in at the reception desk?
 (A) We appreciate her patience.
 (B) That desk is quite nice.
 (C) Unless they’re instructed otherwise.
 
-23. `미국식 발음 → 호주식 발음`
-The modified surveys were e-mailed to consumers, weren’t they?
+23. `미국식 발음 → 호주식 발음` The modified surveys were e-mailed to consumers, weren’t they?
 (A) That’s what I was told.
 (B) Questions about the company.
 (C) Here is my e-mail address.
 
-24. `영국식 발음 → 캐나다식 발음`
-Who is the more qualified candidate, Jordan Fink or Erin Manifold?
+24. `영국식 발음 → 캐나다식 발음` Who is the more qualified candidate, Jordan Fink or Erin Manifold?
 (A) During the next interview.
 (B) Their résumés are comparable.
 (C) The quality of this item is poor.
 
-25. `호주식 발음 → 영국식 발음`
-I’m confused about how to prepare for the product launch.
+25. `호주식 발음 → 영국식 발음` I’m confused about how to prepare for the product launch.
 (A) Follow these directions.
 (B) It was attended by the press.
 (C) I don’t understand the novel either.
 
-26. `캐나다식 발음 → 미국식 발음`
-Why did you ask Kurt to organize the building tour?
+26. `캐나다식 발음 → 미국식 발음` Why did you ask Kurt to organize the building tour?
 (A) You can register near the entrance.
 (B) Guided tours are free.
 (C) He’s led them in the past.
 
-27. `영국식 발음 → 호주식 발음`
-Where does the firm intend to open another branch?
+27. `영국식 발음 → 호주식 발음` Where does the firm intend to open another branch?
 (A) It hasn’t been trimmed.
 (B) A few possibilities are being considered.
 (C) The president is from San Francisco.
 
-28. `캐나다식 발음 → 미국식 발음`
-One more person must be named to the executive council.
+28. `캐나다식 발음 → 미국식 발음` One more person must be named to the executive council.
 (A) I got great advice from my attorney.
 (B) Can anyone be appointed?
 (C) You must make the booking in advance.
 
-29. `미국식 발음 → 영국식 발음`
-Doesn’t your photography studio specialize in portraits?
+29. `미국식 발음 → 영국식 발음` Doesn’t your photography studio specialize in portraits?
 (A) All of the pictures have been framed.
 (B) We perform a wide array of services.
 (C) Our studio is in Las Vegas.
 
-30. `호주식 발음 → 미국식 발음`
-Why haven’t any of these posters been placed in the storefront?
+30. `호주식 발음 → 미국식 발음` Why haven’t any of these posters been placed in the storefront?
 (A) Beside the information booth.
 (B) OK, but contact the store first.
 (C) I was wondering the same thing.
 
-31. `캐나다식 발음 → 영국식 발음`
-Are you interested in going for a short walk before our lunch break ends?
+31. `캐나다식 발음 → 영국식 발음` Are you interested in going for a short walk before our lunch break ends?
 (A) As long as we have enough time.
 (B) No, I’ve been there once.
 (C) A brief meal with coworkers.

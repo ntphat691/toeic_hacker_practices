@@ -245,10 +245,7 @@ Questions 143-146 refer to the following notice.
 
 |f!I OS! Notice of Homeowner's Association Dues Increase At its last meeting, the board was asked to consider increasing the dues slightly. _____ deliberations on this request, they proposed raising fees by $25 a month, from $375 to $400, effective July 1. To the board, this action is justified for several reasons. First, the additional funds will contribute to important _____ , such as the installation of a new security system in the parking garage next year. Second, they will cover the rising cost of natural gas. The timing of the dues increase seems reasonable _____ there has not been one in four years. Tenants are invited to vote on the proposal at the Homeowner's Association meeting in June. Jordan Roper Accounting Manager Homeowner's Association
 
-143. <<MISSING>>
-<<MISSING>>
-<<MISSING>>
-<<MISSING>>
+143. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 144. (A) evaluations
 (B) experiences
 (C) eliminations

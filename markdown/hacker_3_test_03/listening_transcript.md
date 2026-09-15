@@ -63,152 +63,127 @@
 
 ### PART 2
 
-7. `미국식 발음 → 호주식 발음`
-When are you heading to the medical convention?
+7. `미국식 발음 → 호주식 발음` When are you heading to the medical convention?
 (A) We’ve got a booth on the third floor.
 (B) I’m departing on June 14.
 (C) About twenty minutes from downtown.
 
-8. `캐나다식 발음 → 미국식 발음`
-Who manages our corporate acquisitions?
+8. `캐나다식 발음 → 미국식 발음` Who manages our corporate acquisitions?
 (A) If everyone cooperates.
 (B) He managed to arrive on time.
 (C) That’s the director’s responsibility.
 
-9. `영국식 발음 → 호주식 발음`
-Currently, a train ticket to Barcelona costs 40 Euros.
+9. `영국식 발음 → 호주식 발음` Currently, a train ticket to Barcelona costs 40 Euros.
 (A) I’ll take one, please.
 (B) Luggage is stored separately.
 (C) The exchange rate in Europe.
 
-10. `미국식 발음 → 캐나다식 발음`
-Is Klein Avenue closed down throughout the weekend?
+10. `미국식 발음 → 캐나다식 발음` Is Klein Avenue closed down throughout the weekend?
 (A) No, I don’t own a truck any longer.
 (B) Throughout the main hallway.
 (C) Yes, a section has to be repaved.
 
-11. `영국식 발음 → 호주식 발음`
-Would you care to check your coat?
+11. `영국식 발음 → 호주식 발음` Would you care to check your coat?
 (A) Yes, it’s my boat.
 (B) Thanks, but I’m OK.
 (C) Write the check to Drew Howard.
 
-12. `영국식 발음 → 캐나다식 발음`
-How often does your firm conduct quality control tests?
+12. `영국식 발음 → 캐나다식 발음` How often does your firm conduct quality control tests?
 (A) Every January and July.
 (B) There are three more spots.
 (C) I suggest using the remote control.
 
-13. `호주식 발음 → 미국식 발음`
-Doesn’t the bank have a smartphone application?
+13. `호주식 발음 → 미국식 발음` Doesn’t the bank have a smartphone application?
 (A) The bank has a location nearby.
 (B) You can download it for free.
 (C) A cover letter must be submitted with it.
 
-14. `영국식 발음 → 캐나다식 발음`
-Where should we go to eat dinner following the screening?
+14. `영국식 발음 → 캐나다식 발음` Where should we go to eat dinner following the screening?
 (A) Probably around 8 p.m.
 (B) I don’t know where deliveries go.
 (C) I was thinking of having Latin food.
 
-15. `미국식 발음 → 캐나다식 발음`
-Why were you late for the consultation yesterday?
+15. `미국식 발음 → 캐나다식 발음` Why were you late for the consultation yesterday?
 (A) There was heavy traffic on the highway.
 (B) Don’t worry. She’ll be on time.
 (C) By at least fifteen minutes or so.
 
-16. `호주식 발음 → 영국식 발음`
-Should we rent a car while we’re in Morocco or rely on cabs?
+16. `호주식 발음 → 영국식 발음` Should we rent a car while we’re in Morocco or rely on cabs?
 (A) He’s very reliable.
 (B) I’d rather have a vehicle.
 (C) I bought one while living in New York.
 
-17. `미국식 발음 → 캐나다식 발음`
-Which spare bookcase do you want moved into your office?
+17. `미국식 발음 → 캐나다식 발음` Which spare bookcase do you want moved into your office?
 (A) Whichever binder isn’t being used.
 (B) A few movers just showed up.
 (C) The one with lots of shelves.
 
-18. `호주식 발음 → 미국식 발음`
-Does this pair of jeans come in black as well?
+18. `호주식 발음 → 미국식 발음` Does this pair of jeans come in black as well?
 (A) Every pair of sunglasses.
 (B) Only blue ones are available.
 (C) Come over after work.
 
-19. `영국식 발음 → 캐나다식 발음`
-Benson Lawn Care has excellent customer service.
+19. `영국식 발음 → 캐나다식 발음` Benson Lawn Care has excellent customer service.
 (A) What a great company logo!
 (B) I’ve read about it on the Internet.
 (C) At the customer service desk.
 
-20. `호주식 발음 → 미국식 발음`
-How far from your house is Sharper Mall?
+20. `호주식 발음 → 미국식 발음` How far from your house is Sharper Mall?
 (A) Well, I’d like to go shopping.
 (B) From noon until 1 o’clock.
 (C) Let me check a map quickly.
 
-21. `캐나다식 발음 → 미국식 발음`
-When do you expect to hire a permanent assistant?
+21. `캐나다식 발음 → 미국식 발음` When do you expect to hire a permanent assistant?
 (A) It’ll be permanently installed.
 (B) I’m waiting for approval.
 (C) The help is much appreciated.
 
-22. `영국식 발음 → 호주식 발음`
-The mayor is giving a speech today in the town square.
+22. `영국식 발음 → 호주식 발음` The mayor is giving a speech today in the town square.
 (A) I’m glad you decided to give a lecture.
 (B) I heard it’ll cover education funding.
 (C) If I have enough time.
 
-23. `호주식 발음 → 영국식 발음`
-Who created the notice that’s hanging in the front window?
+23. `호주식 발음 → 영국식 발음` Who created the notice that’s hanging in the front window?
 (A) A sign was put up there?
 (B) I registered to receive e-mail notifications.
 (C) We can hang them next to the door.
 
-24. `영국식 발음 → 캐나다식 발음`
-Why haven’t you unpacked your belongings yet?
+24. `영국식 발음 → 캐나다식 발음` Why haven’t you unpacked your belongings yet?
 (A) Because the price tag was removed.
 (B) I was meeting with a colleague.
 (C) No, we haven’t done it yet.
 
-25. `미국식 발음 → 호주식 발음`
-Has the singer Jeff Bloom agreed to perform at our charity event?
+25. `미국식 발음 → 호주식 발음` Has the singer Jeff Bloom agreed to perform at our charity event?
 (A) Cash donations are preferred.
 (B) Some musicians were playing along the street.
 (C) It appears that he can participate.
 
-26. `캐나다식 발음 → 미국식 발음`
-The heat in the office can be turned down, can’t it?
+26. `캐나다식 발음 → 미국식 발음` The heat in the office can be turned down, can’t it?
 (A) I’m not sure who can adjust it.
 (B) Yes, both of these sheets.
 (C) The rack is a bit too high.
 
-27. `호주식 발음 → 영국식 발음`
-We need to send out the wedding invitations for Ms. Lang and her fiancé.
+27. `호주식 발음 → 영국식 발음` We need to send out the wedding invitations for Ms. Lang and her fiancé.
 (A) The ceremony is in Hall A.
 (B) No, Mr. Cho is not invited.
 (C) I totally forgot about that.
 
-28. `영국식 발음 → 캐나다식 발음`
-What’s the problem with the flyers we printed for the seminar?
+28. `영국식 발음 → 캐나다식 발음` What’s the problem with the flyers we printed for the seminar?
 (A) There is a stack of printer paper over there.
 (B) Everything seems fine.
 (C) I’m flying into Madrid for the seminar.
 
-29. `캐나다식 발음 → 미국식 발음`
-Do you think we should buy a new refrigerator?
+29. `캐나다식 발음 → 미국식 발음` Do you think we should buy a new refrigerator?
 (A) Our current one still works well.
 (B) Across from the break room.
 (C) No, I think they’re next to the stoves.
 
-30. `호주식 발음 → 미국식 발음`
-Should I order a filing cabinet with a single drawer or one with three?
+30. `호주식 발음 → 미국식 발음` Should I order a filing cabinet with a single drawer or one with three?
 (A) Extra storage is always helpful.
 (B) In the top drawer.
 (C) Most of the documents are in there.
 
-31. `영국식 발음 → 호주식 발음`
-While Peter is editing the slide show, we should rehearse the rest of the presentation.
+31. `영국식 발음 → 호주식 발음` While Peter is editing the slide show, we should rehearse the rest of the presentation.
 (A) Why don’t you go first?
 (B) Everyone found it relaxing.
 (C) The editor likes the manuscript.

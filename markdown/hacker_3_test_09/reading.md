@@ -186,8 +186,7 @@ March 15 Dear Mr. Weber, I would like to thank you for your comprehensive _____ 
 (D)they
 134. (A) importance to the university. ^ (B) I honestly believe you are my mos successful guest speaker to date. My sessions lasted longer than tb
 (C) ones. There were some points that I too
-(D) issue with.
-<<MISSING>>
+(D) issue with. <<MISSING>>
 
 Questions 135-138 refer to the following memo.
 
@@ -220,16 +219,14 @@ Farmer's Market Rules of Operation for All Vendors The market opens to the publi
 (D) no later
 140. (A) Those who do not comply with them may lose their vending license. ^ (B) You may request an application form if you are interested.
 (C) Some of the food items have been identified as top sellers.
-(D) We believe the status of our regular vendors has changed.
-<<MISSING>>
+(D) We believe the status of our regular vendors has changed. <<MISSING>>
 141. (A) design
 (B) location (O) merchandise
 (D) dimension
 142. (A) Meanwhile
 142. (B) Fortunately
 (C) Therefore
-(D) Regardless
-<<MISSING>>
+(D) Regardless <<MISSING>>
 
 Questions 143-146 refer to the following article.
 

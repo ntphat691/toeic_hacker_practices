@@ -1,6 +1,5 @@
 # TEST 06 Answer Keys
 
-
 ```
 001 (B) 002 (B) 003 (A) 004 (C) 005 (C)
 006 (B) 007 (C) 008 (A) 009 (B) 010 (C)
@@ -64,152 +63,127 @@
 
 ### PART 2
 
-7. `호주식 발음 → 영국식 발음`
-How far is the drive to Los Angeles?
+7. `호주식 발음 → 영국식 발음` How far is the drive to Los Angeles?
 (A) I’ve lived there for a long time.
 (B) We decided to ride together.
 (C) It’s about 50 kilometers from here.
 
-8. `캐나다식 발음 → 미국식 발음`
-What assignment were you given?
+8. `캐나다식 발음 → 미국식 발음` What assignment were you given?
 (A) Proofreading some articles.
 (B) Sam was appointed to the position.
 (C) There is still a lot to do.
 
-9. `미국식 발음 → 캐나다식 발음`
-The train to Milan has already left.
+9. `미국식 발음 → 캐나다식 발음` The train to Milan has already left.
 (A) A round-trip ticket, please.
 (B) When is the next one?
 (C) Arrival times are listed on the board.
 
-10. `영국식 발음 → 호주식 발음`
-Where will the workshop be conducted?
+10. `영국식 발음 → 호주식 발음` Where will the workshop be conducted?
 (A) Right after lunch.
 (B) Yes, I thought it was interesting.
 (C) In meeting room four.
 
-11. `미국식 발음 → 호주식 발음`
-Is Ms. Landrey going to wait for us in the lobby or come up to the office?
+11. `미국식 발음 → 호주식 발음` Is Ms. Landrey going to wait for us in the lobby or come up to the office?
 (A) I think she’ll meet us in the lobby.
 (B) The lady in the blue jacket.
 (C) She can ask the waiter about the specials.
 
-12. `캐나다식 발음 → 미국식 발음`
-I was wondering if you have an available room for two nights.
+12. `캐나다식 발음 → 미국식 발음` I was wondering if you have an available room for two nights.
 (A) Yes, this is the hotel’s Web site.
 (B) There are no more vacancies, sorry.
 (C) To pay for the accommodations.
 
-13. `영국식 발음 → 캐나다식 발음`
-Would you like to go on an island tour?
+13. `영국식 발음 → 캐나다식 발음` Would you like to go on an island tour?
 (A) That would be a lot of fun.
 (B) We walked down the beach.
 (C) They should take the boat.
 
-14. `호주식 발음 → 미국식 발음`
-Who can I talk to about this faulty product?
+14. `호주식 발음 → 미국식 발음` Who can I talk to about this faulty product?
 (A) What’s the phone number?
 (B) I’ll call a manager over.
 (C) All our devices come with a warranty.
 
-15. `캐나다식 발음 → 영국식 발음`
-Is Ms. Yoon going to make an announcement?
+15. `캐나다식 발음 → 영국식 발음` Is Ms. Yoon going to make an announcement?
 (A) I already told her about them.
 (B) No, someone else made the coffee.
 (C) Yes, within the next hour.
 
-16. `미국식 발음 → 캐나다식 발음`
-I should talk with a financial advisor.
+16. `미국식 발음 → 캐나다식 발음` I should talk with a financial advisor.
 (A) I can recommend someone to you.
 (B) It was a profitable investment.
 (C) Let’s talk about the party later.
 
-17. `호주식 발음 → 영국식 발음`
-Why did the organizer cancel the seminar?
+17. `호주식 발음 → 영국식 발음` Why did the organizer cancel the seminar?
 (A) Not enough people signed up.
 (B) He’ll need to get a refund.
 (C) Two weeks after the event.
 
-18. `캐나다식 발음 → 미국식 발음`
-This is the final edition of the journal, isn’t it?
+18. `캐나다식 발음 → 미국식 발음` This is the final edition of the journal, isn’t it?
 (A) Yes, we finally arrived.
 (B) A new addition to the team.
 (C) Yes, it’s the last one.
 
-19. `호주식 발음 → 영국식 발음`
-When does your new fitness class start?
+19. `호주식 발음 → 영국식 발음` When does your new fitness class start?
 (A) I witnessed an accident.
 (B) At Macy’s Gym.
 (C) I decided not to take it.
 
-20. `영국식 발음 → 호주식 발음`
-How many of these files do you need to copy?
+20. `영국식 발음 → 호주식 발음` How many of these files do you need to copy?
 (A) Just fill out this information card.
 (B) All of them, actually.
 (C) No, it’s the original copy.
 
-21. `미국식 발음 → 캐나다식 발음`
-Wouldn’t it take less time if we sent the letters by courier?
+21. `미국식 발음 → 캐나다식 발음` Wouldn’t it take less time if we sent the letters by courier?
 (A) Yes, but have you considered the cost?
 (B) I’m sending them the goods.
 (C) They only have carry-on luggage.
 
-22. `영국식 발음 → 미국식 발음`
-The last article Michael wrote was very entertaining.
+22. `영국식 발음 → 미국식 발음` The last article Michael wrote was very entertaining.
 (A) I can’t wait to read the next one.
 (B) Yes, I can write that story for you.
 (C) It only lasted a few minutes.
 
-23. `호주식 발음 → 캐나다식 발음`
-Who’s conducting the quarterly team meeting?
+23. `호주식 발음 → 캐나다식 발음` Who’s conducting the quarterly team meeting?
 (A) It hasn’t been working for several days.
 (B) From 9 o’clock until noon.
 (C) Weren’t you asked to do it?
 
-24. `미국식 발음 → 호주식 발음`
-Don’t you normally use a travel agent to arrange business trips?
+24. `미국식 발음 → 호주식 발음` Don’t you normally use a travel agent to arrange business trips?
 (A) No, it has been canceled.
 (B) I usually book tickets online.
 (C) To inspect the new production plant.
 
-25. `영국식 발음 → 캐나다식 발음`
-Have you been to the company’s new offices yet?
+25. `영국식 발음 → 캐나다식 발음` Have you been to the company’s new offices yet?
 (A) We have been to that cinema.
 (B) These records are old.
 (C) I visited them yesterday.
 
-26. `호주식 발음 → 영국식 발음`
-Would you like some help with your suitcase, ma’am?
+26. `호주식 발음 → 영국식 발음` Would you like some help with your suitcase, ma’am?
 (A) I’ll help Matt around noon.
 (B) Be sure to bring enough clothes.
 (C) That won’t be necessary.
 
-27. `미국식 발음 → 호주식 발음`
-As far as I know, this lot doesn’t require a parking pass.
+27. `미국식 발음 → 호주식 발음` As far as I know, this lot doesn’t require a parking pass.
 (A) Why are there markings on the contract?
 (B) Really? I always thought it did.
 (C) The valet is retrieving your vehicle.
 
-28. `캐나다식 발음 → 영국식 발음`
-How did the new employees’ training go for everyone?
+28. `캐나다식 발음 → 영국식 발음` How did the new employees’ training go for everyone?
 (A) Because it’s raining outside.
 (B) To learn about our computer systems.
 (C) There haven’t been any problems yet.
 
-29. `호주식 발음 → 미국식 발음`
-Do you need someone to pick you up at the airport?
+29. `호주식 발음 → 미국식 발음` Do you need someone to pick you up at the airport?
 (A) I picked out a second necktie.
 (B) No, the flight was very affordable.
 (C) Oh, I’ll just find a taxi there.
 
-30. `영국식 발음 → 캐나다식 발음`
-Where can I sign up for the tour?
+30. `영국식 발음 → 캐나다식 발음` Where can I sign up for the tour?
 (A) Do you mean the one of the factory?
 (B) Sign at the bottom of the contract.
 (C) We should hire a guide.
 
-31. `캐나다식 발음 → 미국식 발음`
-The Spanish clothing firm requested more marketing services, right?
+31. `캐나다식 발음 → 미국식 발음` The Spanish clothing firm requested more marketing services, right?
 (A) Isn’t the company based in Portugal?
 (B) The fashion show features new designers.
 (C) We have fewer staff now than before.
@@ -320,7 +294,6 @@ M: I couldn’t find a spot on West Street, so I parked in front of the store on
 W: But that’s a no parking zone. There’s a parking lot just down the street, um, next to the café. You should move your car there right away.
 
 ### PART 4
-
 
 Questions 71-73 refer to the following announcement.
 `영국식 발음`
