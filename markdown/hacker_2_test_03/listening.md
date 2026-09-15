@@ -2,19 +2,13 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -24,9 +18,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -79,10 +71,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 31. Mark your answer on your answer sheet.
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. Where most likely does the woman work?
 (A) At a frame shop
@@ -96,8 +85,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) A picture has been misplaced.
 (D) An item is not ready yet.
 
-34. When will the man most likely visit the
-business?
+34. When will the man most likely visit the business?
 (A) This afternoon
 (B) Tomorrow morning
 (C) Tomorrow evening
@@ -145,14 +133,11 @@ business?
 (C) At a travel agency
 (D) At a community center
 
-42. What does the man mean when he says,
-lljl "Actually, I'm not supposed to"?
+42. What does the man mean when he says, "Actually, I'm not supposed to"?
 (A) He has to get permission from a superior.
-(B) He is prohibited from accepting tips
-from guests.
+(B) He is prohibited from accepting tips from guests.
 (C) He is unable to transfer a phone call.
-(D) He cannot complete a registration
-process.
+(D) He cannot complete a registration process.
 
 43. What is indicated in the brochure?
 (A) Departure times
@@ -178,15 +163,13 @@ process.
 (C) By placing them on a USB disk
 (D) By copying them to a computer
 
-47. Why does the woman want to place an
-order?
+47. Why does the woman want to place an order?
 (A) Some equipment no longer works.
 (B) Some products were recently released.
 (C) Some items are in short supply.
 (D) Some materials have been lost.
 
-48. What does the man mean when he says,
-^ "I've got good news for you"?
+48. What does the man mean when he says, "I've got good news for you"?
 (A) A special deal is available.
 (B) A membership can be upgraded.
 (C) A complimentary gift will be sent.
@@ -202,19 +185,15 @@ order?
 (A) To arrange for an apartment showing
 (B) To check the status of a rental space
 (C) To change an upcoming meeting date
-(D) To inquire about accommodation
-options
+(D) To inquire about accommodation options
 
-51. According to the man, why has a task been
-delayed?
+51. According to the man, why has a task been delayed?
 (A) A crew of workers is progressing slowly.
-(B) An employee made an incorrect
-purchase.
+(B) An employee made an incorrect purchase.
 (C) Some units are still under construction.
 (D) A tenant has canceled a lease.
 
-52. What does the man imply about the
-apartment?
+52. What does the man imply about the apartment?
 (A) It has been vacant for two months.
 (B) It will be painted multiple colors.
 (C) It currently has an occupant.
@@ -226,8 +205,7 @@ apartment?
 (C) At a light bulb manufacturer
 (D) At an electric utility company
 
-54. Why does the woman reject the man's first
-slogan idea?
+54. Why does the woman reject the man's first slogan idea?
 (A) It is not particularly memorable.
 (B) It uses overly complex wording.
 (C) It could be considered offensive.
@@ -245,8 +223,7 @@ slogan idea?
 (C) A purchase receipt
 (D) A banner design
 
-57. Why does the woman say, "one with a blue
-^ and green stripe along the bottom"?
+57. Why does the woman say, "one with a blue and green stripe along the bottom"?
 (A) To offer a recommendation
 (B) To propose a color scheme
 (C) To confirm a past order
@@ -258,8 +235,7 @@ slogan idea?
 (C) Repair some equipment
 (D) Lead the man to a display
 
-59. What does the man say about the
-brochure?
+59. What does the man say about the brochure?
 (A) It features some photographs.
 (B) It needs a minor change.
 (C) It will be unveiled online.
@@ -271,8 +247,7 @@ brochure?
 (C) Provide a paper copy
 (D) Get supplies from her office
 
-61. What will the man probably do before
-lunch?
+61. What will the man probably do before lunch?
 (A) Add text to a brochure
 (B) Register for a trade show
 (C) Distribute some handouts
@@ -295,6 +270,7 @@ lunch?
 (B) It is offering a promotion right now.
 (C) It is busy on weekends.
 (D) It is not able to accept reservations.
+
 Employee Directory
 Department
 Head Name
@@ -321,16 +297,15 @@ Olivia Mendez
 66. What problem does the man mention?
 (A) An overtime request was denied.
 (B) A monthly amount was exceeded.
-(C) An official document was not
-submitted.
+(C) An official document was not submitted.
 (D) A printing problem was found.
 
-67. Look at the graphic. Which extension will
-||| the woman probably call?
+67. Look at the graphic. Which extension will the woman probably call?
 (A) 2341
 (B)2502
 (C) 2008
 (D) 2729
+
 Comment Card
 Client: Barbra Shannon
 Job Site: Monroe Department Store
@@ -346,22 +321,19 @@ X
 Cleanliness
 X
 
-68. Why does the man want to hold a
-meeting?
+68. Why does the man want to hold a meeting?
 (A) To introduce new crew members
 (B) To discuss a funding shortage
 (C) To announce a business partnership
 (D) To go over a future project
 
-69. Look at the graphic. Which topic will the
-ft man address?
+69. Look at the graphic. Which topic will the ft man address?
 (A) Communicating effectively
 (B) Being professional
 (C) Arriving on time
 (D) Being clean
 
-70. What will the woman probably do in the
-afternoon?
+70. What will the woman probably do in the afternoon?
 (A) Draft a client questionnaire
 (B) Post a message on a Web site
 (C) Review additional comment cards
@@ -369,20 +341,15 @@ afternoon?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
-71. Why is traffic heavy on the Bayport
-Bridge?
+71. Why is traffic heavy on the Bayport Bridge?
 (A) An accident has occurred.
 (B) An entrance has been closed.
 (C) Repair work is being performed.
 (D) An expressway is inaccessible.
 
-72. When will traffic in the city return to
-normal?
+72. When will traffic in the city return to normal?
 (A) In 20 minutes
 (B) In 40 minutes
 (C) In one hour
@@ -406,8 +373,7 @@ normal?
 (C) A discounted membership
 (D) An inexpensive software program
 
-76. What does the speaker request that
-listeners do?
+76. What does the speaker request that listeners do?
 (A) Write down their contact information
 (B) Create a system account
 (C) Review some reports
@@ -437,29 +403,25 @@ listeners do?
 (C) A sporting goods store
 (D) An athletic association
 
-81. Why does the speaker say, "No questions
-HI asked"?
+81. Why does the speaker say, "No questions HI asked"?
 (A) To clarify a part of an error
 (B) To emphasize an aspect of a policy
 (C) To encourage listeners to learn more
 (D) To point out a benefit of a membership
 
-82. How long can customers use rental
-equipment?
+82. How long can customers use rental equipment?
 (A) For two days
 (B) For one week
 (C) For two weeks
 (D) For one month
 
 83. What is the purpose of the talk?
-(A) To promote a waste management
-system
+(A) To promote a waste management system
 (B) To announce a project development
 (C) To ask listeners to make donations
 (D) To provide instructions to volunteers
 
-84. What does the speaker mean when she
-^ says, "the park is quite large"?
+84. What does the speaker mean when she says, "the park is quite large"?
 (A) An event will have sufficient space.
 (B) A task will take a while to complete.
 (C) A tour will cover a sizeable area.
@@ -483,8 +445,7 @@ system
 (C) A financial adviser
 (D) A corporate executive
 
-88. According to the speaker, what will Harvest
-Supermarkets do this year?
+88. According to the speaker, what will Harvest Supermarkets do this year?
 (A) Open several new locations
 (B) Discontinue a popular product line
 (C) Move its headquarters to another state
@@ -507,6 +468,7 @@ Supermarkets do this year?
 (B) Hang some paintings
 (C) Watch a presentation
 (D) Go to another center
+
 Arrivals Terminal
 Exit 1
 Exit 2
@@ -527,16 +489,15 @@ Taxi Stand
 93. What does the speaker offer to do?
 (A) Fulfill a customer's special request
 (B) Explain an ongoing renovation project
-(C) Send a reservation confirmation by
-e-mail
+(C) Send a reservation confirmation by e-mail
 (D) Provide a complimentary upgrade
 
-94. Look at the graphic. Which exit does the
-jll shuttle bus stop at?
+94. Look at the graphic. Which exit does the shuttle bus stop at?
 (A) Exit 1
 (B) Exit 2
 (C) Exit 3
 (D) Exit 4
+
 Sales Revenues
 $800,000
 $750,000
@@ -545,8 +506,7 @@ $650,000
 $600,000
 April May June July August
 
-95. Look at the graphic. When was the new
-|||| refrigerator model released?
+95. Look at the graphic. When was the new refrigerator model released?
 (A) April
 (B) May
 (C)June
@@ -563,7 +523,8 @@ April May June July August
 (B) A team meeting will be held.
 (C) A salesperson will be promoted.
 (D) A board member will resign.
-m Central Bank Credit Card
+
+Central Bank Credit Card
 34343-9282
 Beth Harkins
 July 6
@@ -589,8 +550,7 @@ Hillside Hotel
 (C) To open a branch office
 (D) To observe a product test
 
-99. Look at the graphic. Which transaction
-[||} does the speaker want to discuss?
+99. Look at the graphic. Which transaction does the speaker want to discuss?
 (A) 00320
 (B)00321
 (C) 00322

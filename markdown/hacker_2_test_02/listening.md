@@ -2,20 +2,23 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English.
+This section is divided into four parts and will take approximately 45 minutes to complete.
+Do not mark the answers in your test book.
+Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book.
+These statements will not be printed and will only be spoken one time.
+Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+
+The statement that best describes the picture is (B), "The man is sitting at the desk."
+So, you should mark letter (B) on the answer sheet.
+
 1.
 2.
 3.
@@ -25,65 +28,42 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English.
+They will not be printed and will only be spoken one time.
 Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
-
 8. Mark your answer on your answer sheet.
-
 9. Mark your answer on your answer sheet.
-
 10. Mark your answer on your answer sheet.
-
 11. Mark your answer on your answer sheet.
-
 12. Mark your answer on your answer sheet.
-
 13. Mark your answer on your answer sheet.
-
 14. Mark your answer on your answer sheet.
-
 15. Mark your answer on your answer sheet.
-
 16. Mark your answer on your answer sheet.
-
 17. Mark your answer on your answer sheet.
-
 18. Mark your answer on your answer sheet.
-
 19. Mark your answer on your answer sheet.
-
 20. Mark your answer on your answer sheet.
-
 21. Mark your answer on your answer sheet.
-
 22. Mark your answer on your answer sheet.
-
-23. Mark your answer on your answer sheet,
-
+23. Mark your answer on your answer sheet.
 24. Mark your answer on your answer sheet.
-
 25. Mark your answer on your answer sheet.
-
 26. Mark your answer on your answer sheet.
-
 27. Mark your answer on your answer sheet.
-
 28. Mark your answer on your answer sheet.
-
 29. Mark your answer on your answer sheet.
-
 30. Mark your answer on your answer sheet.
-
 31. Mark your answer on your answer sheet.
+
 ### PART 3
 
 Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+These conversations will not be printed and will only be spoken one time.
+For each conversation, you will be asked to answer three questions.
+Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. What event is taking place?
 (A) A business seminar
@@ -91,8 +71,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) A charity function
 (D) A shareholders' meeting
 
-33. What information does the man ask the
-woman for?
+33. What information does the man ask the woman for?
 (A) Her company's name
 (B) Her work address
 (C) Her seat number

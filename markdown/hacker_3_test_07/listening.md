@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. What task has the woman been assigned?
 (A) Planning an event
@@ -92,8 +81,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) Arranging rides for staff
 (D) Promoting a competition
 
-33. What does the man request the woman
-do?
+33. What does the man request the woman do?
 (A) Lead a team-building exercise
 (B) Consider a different date
 (C) Speak to a department head
@@ -117,8 +105,7 @@ do?
 (C) The length of a performance
 (D) The price of a ticket
 
-37. What does the man say about Andy
-Baker?
+37. What does the man say about Andy Baker?
 (A) He will meet with investors.
 (B) He attended a cinema opening.
 (C) He will respond to some inquiries.
@@ -130,15 +117,13 @@ Baker?
 (C) At a real estate office
 (D) At shopping center
 
-39. What does the man suggest the woman
-do?
+39. What does the man suggest the woman do?
 (A) Bring a device to a business
 (B) Restart a machine
 (C) Install some software
 (D) Replace a laptop component
 
-40. What does the man mean when he says,
-^ "let me transfer you to Robert now"?
+40. What does the man mean when he says, ^ "let me transfer you to Robert now"?
 (A) He has to get approval from a superior.
 (B) He is unfamiliar with a product model,
 (C) He has to leave for a workshop.
@@ -162,8 +147,7 @@ do?
 (C) Edited a policy manual
 (D) Submitted a written complaint
 
-44. Where does the conversation probably
-take place?
+44. Where does the conversation probably take place?
 (A) At a department store
 (B) At a library
 (C) At an accounting office
@@ -187,15 +171,13 @@ take place?
 (C) To inquire about a piece of gear
 (D) To learn about an upcoming launch
 
-48. What does the woman mention about
-racquet grips?
+48. What does the woman mention about racquet grips?
 (A) They are currently out of stock.
 (B) They are made with quality materials.
 (C) They come in various types.
 (D) They have been used by sports stars.
 
-49. What will the man probably do this
-afternoon?
+49. What will the man probably do this afternoon?
 (A) Attend a tennis class
 (B) Browse some items
 (C) Call a sales associate
@@ -207,8 +189,7 @@ afternoon?
 (C) She does not have a day planner.
 (D) She is late for a consultation.
 
-51. What does the woman allow the man to
-do?
+51. What does the woman allow the man to do?
 (A) Participate in a conference call
 (B) Remove equipment from an office
 (C) Send notes to an advisor
@@ -220,48 +201,37 @@ do?
 (C) A client's name
 (D) A coworker's address
 
-53. Where is the conversation most likely
-taking place?
+53. Where is the conversation most likely taking place?
 (A) In a grocery store
 (B) In a private residence
 (C) In a television studio
 (D) In a dining establishment
 
-54. Why does the man say, "you're familiar
-§ with this dish"?
-(A) To accept a recommendation about a
-recipe
+54. Why does the man say, "you're familiar § with this dish"?
+(A) To accept a recommendation about a recipe
 (B) To show appreciation for a cooking tip
-(C) To request assistance with a
-demonstration
-(D) To express agreement regarding an
-ingredient
+(C) To request assistance with a demonstration
+(D) To express agreement regarding an ingredient
 
 55. What will the man most likely do next?
 (A) Explain food differences
 (B) Read over menu options
 (C) Consult with a culinary expert
-(D) Put away some utensils
-Where most likely do the speakers work?
+(D) Put away some utensils Where most likely do the speakers work?
 (A) At an advertising company
 (B) At an educational institution
 (C) At an engineering firm
-(D) At a staffing agency
-What is implied about South Bend
-Corporation?
+(D) At a staffing agency What is implied about South Bend Corporation?
 (A) It is unsatisfied with a candidate.
 (B) It wants to negotiate some prices.
 (C) It terminated some employees.
-(D) It hired a business in the past.
-How long will the speakers have to
-complete a task?
+(D) It hired a business in the past. How long will the speakers have to complete a task?
 (A) Three weeks
 (B) Four weeks
 (C) Five weeks
 (D) Six weeks
 
-59. What does the team leader want the man
-to do?
+59. What does the team leader want the man to do?
 (A) Hire a branch manager
 (B) Give an award to a top performer
 (C) Present some diagrams
@@ -285,8 +255,7 @@ to do?
 (C) Finance
 (D) Research
 
-57. What does the man imply when he says, 63.
-^ "I requested a deadline extension"?
+57. What does the man imply when he says, 63. ^ "I requested a deadline extension"?
 (A) He will reschedule a business meeting.
 (B) He will deal with other problems.
 (C) He will appear at a gathering.
@@ -296,12 +265,7 @@ to do?
 (A) Give some notes to a superior
 (B) Sign a colleague up for an event
 (C) Make a personal donation
-(D) Revise some reports
-Oceans Alive
-Buy one, get one free
-(Good for all organic merchandise)
-Sold at SuperSmart
-Valid until March 31
+(D) Revise some reports Oceans Alive Buy one, get one free (Good for all organic merchandise) Sold at SuperSmart Valid until March 31
 
 65. What problem does the woman mention?
 (A) A manager is not available.
@@ -309,32 +273,17 @@ Valid until March 31
 (C) A team is understaffed.
 (D) An assignment has not been finished.
 
-66. What kind of event will be held next
-month?
+66. What kind of event will be held next month?
 (A) A product release
 (B) A trade show
 (C) A yearly sale
 (D) An awards ceremony
 
-67. Look at the graphic. Which product is not
-iH covered by the coupon?
+67. Look at the graphic. Which product is not iH covered by the coupon?
 (A) Shampoo
 (B) Hand soap
 (C) Face cleanser
-(D) Body wash
-Average Annual Rainfall
-40
-30
-20
-- 10
-Riley
-Bower
-Vaughn
-Jasper
-County
-County
-County
-County
+(D) Body wash Average Annual Rainfall 40 30 20 - 10 Riley Bower Vaughn Jasper County County County County
 
 68. What does the man ask the woman about?
 (A) Why an analysis was performed
@@ -348,8 +297,7 @@ County
 (C) Printing a map of a region
 (D) Securing a business contract
 
-70. Look at the graphic. Which county has
-III been recommended?
+70. Look at the graphic. Which county has III been recommended?
 (A) Riley County
 (B) Bower County
 (C) Vaughn County
@@ -357,10 +305,7 @@ III been recommended?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. Where does the listener probably work?
 (A) At a travel agency
@@ -374,8 +319,7 @@ answer sheet.
 (C) Attend a convention
 (D) Give a presentation
 
-73. What information does the speaker ask
-for?
+73. What information does the speaker ask for?
 (A) Restaurant recommendations
 (B) Clients' names
 (C) A meeting agenda
@@ -387,8 +331,7 @@ for?
 (C) A monthly shareholders meeting
 (D) A company anniversary celebration
 
-75. Why does the speaker praise Patricia
-Sanderson?
+75. Why does the speaker praise Patricia Sanderson?
 (A) She altered a logo design.
 (B) She designed a popular Web site.
 (C) She suggested a device feature.
@@ -412,9 +355,7 @@ Sanderson?
 (C) A design for a home appliance
 (D) A suggestion for a brochure
 
-79. What does the speaker mean when she
-Hi says, "the current manager will be retiring
-in three weeks"?
+79. What does the speaker mean when she Hi says, "the current manager will be retiring in three weeks"?
 (A) A schedule will likely be updated.
 (B) A decision must be made quickly.
 (C) An employee will be promoted soon.
@@ -426,8 +367,7 @@ in three weeks"?
 (C) At a manufacturing plant
 (D) At a car dealership
 
-81. According to the speaker, what has been
-changed?
+81. According to the speaker, what has been changed?
 (A) The price of some merchandise
 (B) The order of a tour
 (C) The type of machines used
@@ -445,15 +385,13 @@ changed?
 (C) A facility reopening
 (D) A catering inquiry
 
-84. Why does the speaker say, "Ms. Clay has
-|j|J very high standards"?
+84. Why does the speaker say, "Ms. Clay has |j|J very high standards"?
 (A) To indicate regret
 (B) To express anticipation
 (C) To explain a recurring request
 (D) To complain about a coworker
 
-85. What does the speaker ask the listener to
-do?
+85. What does the speaker ask the listener to do?
 (A) Adjust a recipe
 (B) Organize a party
 (C) Post a review online
@@ -465,22 +403,19 @@ do?
 (C) An acting audition
 (D) A musical contest
 
-87. What does the speaker say about the
-judges?
+87. What does the speaker say about the judges?
 (A) They will be former contestants.
 (B) They will choose the final winner.
 (C) They will be changed each week.
 (D) They will consider viewer feedback.
 
-88. What does the speaker say is available on
-the Web site?
+88. What does the speaker say is available on the Web site?
 (A) An audio recording
 (B) A venue list
 (C) A performance schedule
 (D) A film trailer
 
-89. What is mentioned about the previous
-speakers?
+89. What is mentioned about the previous speakers?
 (A) They worked for major publications.
 (B) They graduated from James College.
 (C) They gave stimulating lectures.
@@ -499,45 +434,19 @@ speakers?
 (D) A lawyer
 92.
 93.
-94.
-Changing Rooms
-Aisle
-1
-Aisle
-Aisle
-Aisle
-2
-3
-4
-Main Entrance
-Checkout Area
-Who is the speaker most likely addressing?
+94. Changing Rooms Aisle 1 Aisle Aisle Aisle 2 3 4 Main Entrance Checkout Area Who is the speaker most likely addressing?
 (A) Store customers
 (B) Marketing consultants
 (C) Shop employees
-(D) Construction workers
-Look at the graphic. Where has the display
-been set up?
+(D) Construction workers Look at the graphic. Where has the display been set up?
 (A) In Aisle 1
 (B) In Aisle 2
 (C) In Aisle 3
-(D) In Aisle 4
-According to the speaker, what will be
-announced tomorrow?
+(D) In Aisle 4 According to the speaker, what will be announced tomorrow?
 (A) The dates of a renovation project
 (B) The name of a design firm
 (C) The details of a sportswear production
-(D) The location of a new branch
-w
-Monthly Sales
-$35,000
-$30,000
-$25,000
-$20,000
-$15,000
-$10,000
-July August
-September
+(D) The location of a new branch w Monthly Sales $35,000 $30,000 $25,000 $20,000 $15,000 $10,000 July August September
 
 95. What did the speaker do yesterday?
 (A) Visited a business
@@ -545,8 +454,7 @@ September
 (C) Went to a sales conference
 (D) Gave a presentation
 
-96. Look at the graphic. Which branch does
-A the graph refer to?
+96. Look at the graphic. Which branch does A the graph refer to?
 (A) Kingston
 (B) Albany
 (C) Bethany
@@ -556,21 +464,7 @@ A the graph refer to?
 (A) A report will be revised.
 (B) A manager will be introduced.
 (C) A document will be distributed.
-(D) A store will be contacted.
-STEP 1
-Meet with clients
-I
-STEP 2
-Discuss plan with team leader
-Mr
-STEP 3
-Draft blueprints
-4
-STEP 4
-Modify plans based on feedback
-f
-STEP 5
-Submit for approval
+(D) A store will be contacted. STEP 1 Meet with clients I STEP 2 Discuss plan with team leader Mr STEP 3 Draft blueprints 4 STEP 4 Modify plans based on feedback f STEP 5 Submit for approval
 
 98. What happened last month?
 (A) A permit application was rejected.
@@ -584,8 +478,7 @@ Submit for approval
 (C) To improve communication
 (D) To accommodate time constraints
 
-100. Look at the graphic. Which step was
-Ull removed from a work process?
+100. Look at the graphic. Which step was Ull removed from a work process?
 (A) Meet with clients
 (B) Discuss plan with team leader
 (C) Modify plans based on feedback

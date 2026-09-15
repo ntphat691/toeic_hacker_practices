@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. What is the conversation mainly about?
 (A) A new telephone system
@@ -128,15 +117,13 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) An instructor
 (D) A radio host
 
-39. What is mentioned about the Carter
-Institute?
+39. What is mentioned about the Carter Institute?
 (A) It organizes lessons for musicians.
 (B) It receives support from the city.
 (C) It holds performances for children.
 (D) It gives funds to local groups.
 
-40. What does the woman mean when she
-|i|| says, "we have a special treat for listeners"?
+40. What does the woman mean when she |i|| says, "we have a special treat for listeners"?
 (A) A ticket will be given away.
 (B) A special guest will be introduced.
 (C) An interview will be held.
@@ -160,22 +147,19 @@ Institute?
 (C) Exhibit some images at a gallery
 (D) Print out some blueprints
 
-44. According to the woman, what happened
-last Tuesday?
+44. According to the woman, what happened last Tuesday?
 (A) A professional contract expired.
 (B) A shipment of goods arrived.
 (C) A complaint was submitted online.
 (D) A customer exchanged an item.
 
-45. How does the man want to deal with the
-problem?
+45. How does the man want to deal with the problem?
 (A) By renewing an agreement
 (B) By demanding a full refund
 (C) By starting a new business relationship
 (D) By asking for a membership discount
 
-46. What does the woman request the man
-do?
+46. What does the woman request the man do?
 (A) Display some signs
 (B) Organize a storage area
 (C) Edit a service catalog
@@ -187,8 +171,7 @@ do?
 (C) Materials for a business presentation
 (D) The results of a periodic evaluation
 
-48. What does the man suggest the woman
-do?
+48. What does the man suggest the woman do?
 (A) Replace some images
 (B) Delegate duties to workers
 (C) Perform market research
@@ -196,8 +179,7 @@ do?
 
 49. What will the woman emphasize?
 (A) The types of products being released
-(B) The reaction of people to different
-colors
+(B) The reaction of people to different colors
 (C) The cost of organizing a focus group
 (D) The success of a television commercial
 
@@ -225,8 +207,7 @@ colors
 (C) A company intern
 (D) An accountant
 
-54. Why does the man say, "He'll use it for the
-S budget analysis project"?
+54. Why does the man say, "He'll use it for the S budget analysis project"?
 (A) To extend an assignment deadline
 (B) To inform a manager of a change
 (C) To advocate for more training
@@ -250,13 +231,11 @@ S budget analysis project"?
 (C) Consulting with an advisor
 (D) Copying some manuals
 
-58. According to the man, what should the
-woman talk to the manager about?
+58. According to the man, what should the woman talk to the manager about?
 (A) Acquiring additional computer parts
 (B) Customizing some new software
 (C) Errors in an important file
-(D) Complications with a messaging
-system
+(D) Complications with a messaging system
 
 59. Why is the man calling the woman?
 (A) To discuss a potential inaccuracy
@@ -264,12 +243,9 @@ system
 (C) To switch a payment method
 (D) To announce staff replacements
 
-60. What does the woman say about Teresa
-Ford?
-(A) She was transferred to another
-department.
-(B) She has been assigned additional
-hours.
+60. What does the woman say about Teresa Ford?
+(A) She was transferred to another department.
+(B) She has been assigned additional hours.
 (C) She is using the wrong time sheets.
 (D) She needs to submit some documents.
 
@@ -277,26 +253,7 @@ hours.
 (A) Take a call from a customer
 (B) Update employee payroll records
 (C) Submit a request to a coworker
-(D) Analyze some sales data
-m
-Eastside Cable
-Service
-Premium
-Sports
-Channels
-Game
-Downloads
-Premium
-Movie
-Channels
-Video
-Recording
-Package A
-v/
-Package B
-y
-Package C
-y
+(D) Analyze some sales data m Eastside Cable Service Premium Sports Channels Game Downloads Premium Movie Channels Video Recording Package A v/ Package B y Package C y
 
 62. What did the man forget?
 (A) An activation code
@@ -304,15 +261,13 @@ y
 (C) A fee payment
 (D) A visit time
 
-63. Look at the graphic. Which service is the
-^ man most interested in?
+63. Look at the graphic. Which service is the ^ man most interested in?
 (A) Premium Sports Channels
 (B) Game Downloads
 (C) Premium Movie Channels
 (D) Video Recording
 
-64. According to the woman, what is the man
-unable to receive?
+64. According to the woman, what is the man unable to receive?
 (A) A gift with purchase
 (B) A company brochure
 (C) A piece of equipment
@@ -330,15 +285,13 @@ unable to receive?
 (C) Hotel personnel
 (D) Sales professionals
 
-85. What does the speaker mean when she
-||j| says, "that still wasn't good enough"?
+85. What does the speaker mean when she ||j| says, "that still wasn't good enough"?
 (A) An employee achieved better results.
 (B) A task was not completed on schedule.
 (C) A contract will have to be revised.
 (D) A team must participate in a program.
 
-86. What type of business most likely is Digital
-Solutions?
+86. What type of business most likely is Digital Solutions?
 (A) An online retailer
 (B) A software developer
 (C) A graphic design company
@@ -348,18 +301,15 @@ Solutions?
 (A) Its product has been very successful.
 (B) Its operations have moved overseas.
 (C) It was awarded a major contract.
-(D) It has teamed up with another
-business.
+(D) It has teamed up with another business.
 
-88. What does the speaker say will happen
-next month?
+88. What does the speaker say will happen next month?
 (A) A device will be distributed to stores.
 (B) A merger will be formalized.
 (C) An application will be released.
 (D) A cell phone will be reviewed.
 
-89. According to the speaker, what did the
-company recently do?
+89. According to the speaker, what did the company recently do?
 (A) Launched a new service
 (B) Closed some offices
 (C) Joined with another firm
@@ -371,9 +321,7 @@ company recently do?
 (C) A department will be shut down.
 (D) Employees will create a database.
 
-91. What does the speaker imply when he
-||P says, "The marketing team isn't able to
-access some records"?
+91. What does the speaker imply when he ||P says, "The marketing team isn't able to access some records"?
 (A) A task will be reassigned.
 (B) A job should not be postponed.
 (C) A supervisor should be notified.
@@ -391,22 +339,11 @@ access some records"?
 (C) Additional speakers
 (D) An extended warranty
 
-94. What is the listener asked to do this
-afternoon?
+94. What is the listener asked to do this afternoon?
 (A) Send a revised statement
 (B) Print a company catalog
 (C) Fill out a registration form
-(D) Ship a sample product
-1 0
-Survey Results
-Air Conditioner
-34%
-Air Purifier
-26%
-Electric Fan
-22%
-Space Heater
-18%
+(D) Ship a sample product 1 0 Survey Results Air Conditioner 34% Air Purifier 26% Electric Fan 22% Space Heater 18%
 
 95. Why is Greg Henderson unavailable?
 (A) He is participating in a focus group.
@@ -414,8 +351,7 @@ Space Heater
 (C) He is visiting a production plant.
 (D) He is inspecting a research facility.
 
-96. Look at the graphic. What type of device is
-0 the Flow S60?
+96. Look at the graphic. What type of device is 0 the Flow S60?
 (A) An air conditioner
 (B) An air purifier
 (C) An electric fan
@@ -425,34 +361,21 @@ Space Heater
 (A) Manuals
 (B) Application forms
 (C) Promotional brochures
-(D) Questionnaires
-Bean Bus Tour
-Boston Common
-Departure
-Stop 1
-Stop 2
-Stop 3
-Newbury Street
-Boston Harbor
-Old State House
-Stop 4 Bunker Hill
+(D) Questionnaires Bean Bus Tour Boston Common Departure Stop 1 Stop 2 Stop 3 Newbury Street Boston Harbor Old State House Stop 4 Bunker Hill
 
-98. What does the speaker mention about the
-information booth?
+98. What does the speaker mention about the information booth?
 (A) It opened five years ago.
 (B) It will begin selling souvenirs.
 (C) It has few employees.
 (D) It is located in a hotel.
 
-99. Which month will the company offer a
-discount?
+99. Which month will the company offer a discount?
 (A) April
 (B) May
 (C) June
 (D) July
 
-100. Look at the graphic. Which stop will be
-^ temporarily inaccessible?
+100. Look at the graphic. Which stop will be ^ temporarily inaccessible?
 (A) Stop 1
 (B) Stop 2
 (C) Stop 3

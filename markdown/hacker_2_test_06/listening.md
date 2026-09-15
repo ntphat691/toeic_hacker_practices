@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. Why is the man calling?
 (A) To discuss carpet samples
@@ -104,15 +93,13 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) Refund a payment
 (D) Provide a discount
 
-35. What does the man ask the woman to give
-a talk about?
+35. What does the man ask the woman to give a talk about?
 (A) Returns on recent investments
 (B) International manufacturing
 (C) Business in a regional market
 (D) New consumer research
 
-36. Why is the woman unable to prepare a
-presentation?
+36. Why is the woman unable to prepare a presentation?
 (A) She is going to meet investors.
 (B) She is working on an analysis.
 (C) She has to write an investment report.
@@ -130,16 +117,11 @@ presentation?
 (C) Reservation details
 (D) A note from a supervisor
 
-39. What does the man imply when he says,
-"Did you receive any error messages when
-you made the booking"?
+39. What does the man imply when he says, "Did you receive any error messages when you made the booking"?
 (A) He has experienced an issue in the past.
-(B) He does not know the cause of a
-problem.
-(C) He does not understand the woman's
-question.
-(D) He thinks the woman clicked the wrong
-link.
+(B) He does not know the cause of a problem.
+(C) He does not understand the woman's question.
+(D) He thinks the woman clicked the wrong link.
 
 40. Why is the woman concerned?
 (A) She does not like a room.
@@ -147,8 +129,7 @@ link.
 (C) She is late for a flight.
 (D) She cannot access a Web site.
 
-41. Why does the man need the report by
-tomorrow?
+41. Why does the man need the report by tomorrow?
 (A) He has to take it to a workshop.
 (B) He has to submit it for publication.
 (C) He wants to show it to an executive.
@@ -164,8 +145,7 @@ tomorrow?
 (A) Deliver an item to an employee
 (B) Share some data with a client
 (C) Print copies of a contract
-(D) Get help from a coworker
-i
+(D) Get help from a coworker i
 4. Why is the woman calling the man?
 (A) To request a letter of reference
 (B) To ask for an e-mail address
@@ -178,8 +158,7 @@ i
 (C) Respond to a message
 (D) Conduct an interview
 
-46. What does the woman want to be notified
-about?
+46. What does the woman want to be notified about?
 (A) The purpose of a meeting
 (B) The date of an event
 (C) The outcome of an interview
@@ -191,8 +170,7 @@ about?
 (C) Her car will not start.
 (D) Her friend cannot pick her up.
 
-51. What does the woman mean when she
-says, "everything's good to go"?
+51. What does the woman mean when she says, "everything's good to go"?
 (A) She is ready to leave.
 (B) She enjoyed a test drive.
 (C) She has the proper equipment.
@@ -204,15 +182,13 @@ says, "everything's good to go"?
 (C) It will likely be completed quickly.
 (D) It will cost more than expected.
 
-17. What problem is the woman calling to
-report?
+17. What problem is the woman calling to report?
 (A) She ordered the wrong item.
 (B) She cannot redeem a voucher.
 (C) Her computer stopped working.
 (D) Her laptop case is broken.
 
-48. According to the man, what requires an
-additional charge?
+48. According to the man, what requires an additional charge?
 (A) Extending a warranty
 (B) Repairing a computer
 (C) Upgrading a product
@@ -230,22 +206,19 @@ additional charge?
 (C) At a dry cleaner
 (D) At a design studio
 
-54. What information does the woman
-provide?
+54. What information does the woman provide?
 (A) A cost estimate
 (B) A delivery date
 (C) A business address
 (D) A discount code
 
-55. What will the man probably do on
-Tuesday?
+55. What will the man probably do on Tuesday?
 (A) Purchase a new suit
 (B) Call an establishment
 (C) Meet with a client
 (D) Go in for an initial fitting
 
-56. Why does the man want to hire the
-woman's company?
+56. Why does the man want to hire the woman's company?
 (A) He was impressed by an advertisement.
 (B) He enjoyed its food in the past.
 (C) It was highly recommended.
@@ -257,8 +230,7 @@ woman's company?
 (C) A business meeting will take place.
 (D) A function date will be announced.
 
-58. What does the woman suggest the man
-do?
+58. What does the woman suggest the man do?
 (A) Call her company's supervisor
 (B) Browse some information online
 (C) Make a reservation in advance
@@ -280,22 +252,7 @@ do?
 (A) Some complaints from customers
 (B) The comfort of the new clothing
 (C) A meeting with the restaurant manager
-(D) The cost of new materials
-' Brand
-Model
-Price
-Brenmar
-B32
-$1,999
-Flame
-SS10
-$1,549
-Anderson
-M400
-$1,239
-Hegal
-X91
-$1,789
+(D) The cost of new materials ' Brand Model Price Brenmar B32 $1,999 Flame SS10 $1,549 Anderson M400 $1,239 Hegal X91 $1,789
 
 62. What did the man bring with him?
 (A) An appliance manual
@@ -309,18 +266,11 @@ $1,789
 (C) A gas cooktop
 (D) An adjustable rack
 
-64. Look at the graphic. Which model will the
-man probably be shown?
+64. Look at the graphic. Which model will the man probably be shown?
 (A) B32
 (B) SS10
 (C) M400
-(D) X91
-Box Comes With:
-Piece A: 3-foot poles
-Piece B: 7-foot poles
-Piece C: 2-inch pegs
-Piece D: 5-inch pegs
-Meyers Park
+(D) X91 Box Comes With: Piece A: 3-foot poles Piece B: 7-foot poles Piece C: 2-inch pegs Piece D: 5-inch pegs Meyers Park
 
 65. Why does the woman place the call?
 (A) To purchase a product
@@ -328,34 +278,17 @@ Meyers Park
 (C) To make a complaint
 (D) To request a refund
 
-66. Look at the graphic. What was not included
-ft in the box?
+66. Look at the graphic. What was not included ft in the box?
 (A) Piece A
 (B) Piece B
 (C) Piece C
 (D) Piece D
 
-67. What will the woman probably do later
-today?
+67. What will the woman probably do later today?
 (A) Visit a retail establishment
 (B) Shop for a similar product online
 (C) Receive a store gift certificate
-(D) Return a recently purchased item
-Flash
-Camera Shop
-Geller
-Department Store
-Fern
-Street
-Rose Cafe
-Parking Lot
-Lilac Street
-Lou's
-Grocery
-Seller's
-Cinema
-Mint Gallery
-West Street
+(D) Return a recently purchased item Flash Camera Shop Geller Department Store Fern Street Rose Cafe Parking Lot Lilac Street Lou's Grocery Seller's Cinema Mint Gallery West Street
 
 68. Why have the speakers met up?
 (A) To take part in a charity auction
@@ -369,20 +302,15 @@ West Street
 (C) Inviting coworkers
 (D) Purchasing tickets
 
-70. Look at the graphic. Which business did
-ft the man park in front of?
+70. Look at the graphic. Which business did ft the man park in front of?
 (A) Rose Cafe
 (B) Lou's Grocery
 (C) Flash Camera Shop
-(D) Geller Department Store
-100 ?SgaK!4!se)fiS)lUU 90)9711® Hackerslngang.com
+(D) Geller Department Store 100 ?SgaK!4!se)fiS)lUU 90)9711® Hackerslngang.com
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. What is available at the information counter?
 (A) Event calendars
@@ -390,15 +318,13 @@ answer sheet.
 (C) Museum pamphlets
 (D) City maps
 
-72. What does the speaker recommend
-listeners do?
+72. What does the speaker recommend listeners do?
 (A) Sign up for membership
 (B) Go to a special display
 (C) Take pictures of artifacts
 (D) Meet in the lobby
 
-73. How can listeners receive discounted
-merchandise?
+73. How can listeners receive discounted merchandise?
 (A) By using a credit card
 (B) By purchasing a minimum amount
 (C) By showing a ticket
@@ -410,12 +336,9 @@ merchandise?
 (C) An unexpected layoff
 (D) A corporate relocation
 
-75. Why does the speaker say, "we've got a lot
-(||)) to do before then"?
-(A) To suggest that the busy season is
-starting
-(B) To stress that the listeners must work
-faster
+75. Why does the speaker say, "we've got a lot (||)) to do before then"?
+(A) To suggest that the busy season is starting
+(B) To stress that the listeners must work faster
 (C) To request assistance from the listeners
 (D) To indicate that he will list some tasks
 
@@ -437,8 +360,7 @@ faster
 (C) Redecorating an indoor space
 (D) Installing a fountain
 
-79. What does the speaker ask Mr. Carranza
-to do?
+79. What does the speaker ask Mr. Carranza to do?
 (A) Return a phone call
 (B) Decide on a meeting place
 (C) Look over a planned budget
@@ -446,20 +368,15 @@ to do?
 
 80. Why is the speaker surprised?
 (A) The weather did not affect attendance.
-(B) The guest speaker canceled at the last
-minute.
+(B) The guest speaker canceled at the last minute.
 (C) The association was recently formed.
-(D) Many new members came to the
-meeting.
+(D) Many new members came to the meeting.
 
-81. What does the speaker mean when he
-lUl says, "I'm sure you've heard of her"?
+81. What does the speaker mean when he lUl says, "I'm sure you've heard of her"?
 (A) The woman was featured in the news.
-(B) The woman established an
-organization.
+(B) The woman established an organization.
 (C) The woman was a pioneer in her field.
-(D) The woman is a well-known public
-official.
+(D) The woman is a well-known public official.
 
 82. What is Dr. Jenkins currently working on?
 (A) Teaching a health class
@@ -479,8 +396,7 @@ official.
 (C) Shift schedules
 (D) Safety goggles
 
-85. What are listeners asked to do before
-leaving?
+85. What are listeners asked to do before leaving?
 (A) Make some repairs
 (B) Clean their workspaces
 (C) Talk to inspectors
@@ -492,18 +408,13 @@ leaving?
 (C) Corporate executives
 (D) Machine operators
 
-87. What does the speaker imply when she
-ft says, "It really took me by surprise"?
-(A) She did not plan to update the device
-this year.
-(B) She experienced many unreported
-problems.
+87. What does the speaker imply when she ft says, "It really took me by surprise"?
+(A) She did not plan to update the device this year.
+(B) She experienced many unreported problems.
 (C) She feels the phone is very advanced.
-(D) She did not anticipate negative
-feedback.
+(D) She did not anticipate negative feedback.
 
-88. According to the speaker, what should the
-employees do?
+88. According to the speaker, what should the employees do?
 (A) Come up with a solution
 (B) Send her a message
 (C) Remove a program
@@ -515,15 +426,13 @@ employees do?
 (C) A moving company
 (D) An entertainment complex
 
-90. According to the advertisement, what is
-provided to customers?
+90. According to the advertisement, what is provided to customers?
 (A) Brand-new merchandise
 (B) Comfortable seating
 (C) Reasonably priced products
 (D) Complimentary assembly
 
-91. According to the speaker, how can
-customers receive membership?
+91. According to the speaker, how can customers receive membership?
 (A) By completing a purchase
 (B) By paying an annual fee
 (C) By filling out an application form
@@ -535,8 +444,7 @@ customers receive membership?
 (C) Advertising costs
 (D) Corporate revenue rates
 
-93. What does the speaker say will happen in
-the spring?
+93. What does the speaker say will happen in the spring?
 (A) The government will begin hiring.
 (B) The company will downsize.
 (C) A policy will be enacted.
@@ -546,48 +454,25 @@ the spring?
 (A) Finalize some tourism advertisements
 (B) Write a report about travel costs
 (C) Create a list of potential partners
-(D) Come up with brochure ideas
-Bookkeeping Software
-Annual Sales
-2 28600
-w 28400
-| 28200
-= 28000
-Timekeeper Tracker MoneyPlus LogBook
-Program name
+(D) Come up with brochure ideas Bookkeeping Software Annual Sales 2 28600 w 28400 | 28200 = 28000 Timekeeper Tracker MoneyPlus LogBook Program name
 
 95. Who most likely are the listeners?
 (A) Computer programmers
 (B) Accountants
 (C) Small business owners
-(D) Engineers
-be
+(D) Engineers be
 
-96. Look at the graphic. Which program
-A replaced in February?
+96. Look at the graphic. Which program A replaced in February?
 (A) Timekeeper
 (B) Tracker
 (C) MoneyPlus
 (D) LogBook
 
-97. According to the speaker, what should the
-listeners do?
+97. According to the speaker, what should the listeners do?
 (A) Suggest new features
 (B) Install some software
 (C) Write a review
-(D) Report software bugs
-Office Mark
-Item
-Edge Cubical Partition
-Coleman Desk
-Brentwood File Cabinet
-Aero Chair
-Order #18240
-Quantity
-30
-10
-5
-15
+(D) Report software bugs Office Mark Item Edge Cubical Partition Coleman Desk Brentwood File Cabinet Aero Chair Order #18240 Quantity 30 10 5 15
 
 98. Who is Christina Chine?
 (A) A furniture salesperson
@@ -595,8 +480,7 @@ Quantity
 (C) A commercial accountant
 (D) An office supervisor
 
-99. Look at the graphic. Which quantity is no
-i|| longer accurate?
+99. Look at the graphic. Which quantity is no i|| longer accurate?
 (A) 5
 (B) 10
 (C)15

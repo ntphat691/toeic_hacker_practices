@@ -12,264 +12,169 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 
-101. The prices in the catalog include both state
-and national taxes not delivery
-charges.
+101. The prices in the catalog include both state and national taxes _____ not delivery charges.
 (A) but
 (B) neither
 (C) each
 (D) that
-102. Cardston Corporation's fiscal records are
-kept in boxes and are stored
-according to year.
+102. Cardston Corporation's fiscal records are kept in _____ boxes and are stored according to year.
 (A) separate
 (B) separately
 (C) separates
 (D) separation
-103. Prior to permanently shutting down,
-Rebound Media thanked customers for the
-they had shown over the years.
+103. Prior to permanently shutting down, Rebound Media thanked customers for the they had shown over the years.
 (A) regret
 (B) support
 (C) strategy
 (D) comfort
-104. Visitors to Holidayland need not worry
-about bringing enough cash, as credit
-cards are accepted in the resort.
+104. Visitors to Holidayland need not worry about bringing enough cash, as credit cards are accepted _____ in the resort.
 (A) away
 (B) above
 (C) forward
 (D) anywhere
-105. Having decided to enter the Asian market,
-Edgeware Electronics is now seeking
-regional for its products.
+105. Having decided to enter the Asian market, Edgeware Electronics is now seeking regional _____ for its products.
 (A) distribute
 (B) distributors
 (C) distributive
 (D) to distribute
-106.  who wants to reserve a conference
-room for a meeting can simply e-mail
-Ms. Bloomberg in administration.
+106. _____ who wants to reserve a conference room for a meeting can simply e-mail Ms. Bloomberg in administration.
 (A) Anyone
 (B) Others
 (C) Them
 (D) Nobody
-107. After to build a new home in Victoria,
-Mr. Redmond hired an interior designer to
-assist him with decorating the house.
+107. After _____ to build a new home in Victoria, Mr. Redmond hired an interior designer to assist him with decorating the house.
 (A) decide
 (B) decides
 (C) decided
 (D) deciding
-108. First Bonneville Bank 35 branches of
-CPG Financial Trust for $90 million,
-strengthening its presence in the region.
+108. First Bonneville Bank _____ 35 branches of CPG Financial Trust for $90 million, strengthening its presence in the region.
 (A) explained
 (B) canceled
 (C) acquired
 (D) committed
-109. Psychologists conducted an   study
-about the negative effects of video games
-on young children.
+109. Psychologists conducted an _____ study about the negative effects of video games on young children.
 (A) extent
 (B) extensive
 (C) extensively
 (D) extend
-110. Reginald Rentals opened a branch
-in Sacramento, and after a very short time
-the new location became profitable.
+110. Reginald Rentals _____ opened a branch in Sacramento, and after a very short time the new location became profitable.
 (A) hardly
 (B) recently
 (C) habitually
 (D) potentially
-111. The city council has taken steps
-improving air quality by introducing
-measures that limit factory pollution.
+111. The city council has taken steps improving air quality by introducing measures that limit factory pollution.
 (A) out of
 (B) toward
 (C) owing to
 (D) versus
-112. The factory is preparing to hire
-workers for selected manufacturing plants
-to meet its quarterly production goals.
+112. The factory is preparing to hire workers for selected manufacturing plants to meet its quarterly production goals.
 (A) temporary
 (B) inspected
 (C) sustained
 (D) instructive
-113. -- — reviews for Leonard Atwood's new
-book were very positive, orders for the
-novel were lower than the publisher had
-expected.
+113. -- — reviews for Leonard Atwood's new book were very positive, orders for the novel were lower than the publisher had expected.
 (A) Furthermore
 (B) Yet
 (C) Although
 (D) Hence
-114. Those planning to join the historic district
-tour are asked to be the center's
-reception area at 8 a.m. tomorrow.
+114. Those planning to join the historic district tour are asked to be _____ the center's reception area at 8 a.m. tomorrow.
 (A) on
 (B) from
 (C) in
 (D) of
-115.  ski resorts are frequently busier
-during peak season in the winter, they do
-attract hikers in the summer.
+115. _____ ski resorts are frequently busier during peak season in the winter, they do attract hikers in the summer.
 (A) Along
 (B) While
 (C) Once
 (D) Apart
-116. The organizer of the publicity convention
-said there is still - work to be done,
-but was not concerned about meeting the
-deadline.
+116. The organizer of the publicity convention said there is still _____ - work to be done, but was not concerned about meeting the deadline.
 (A) many
 (B) few
 (C) much
 (D) a lot
-117. The appliance maker all repair
-charges for items that are accompanied by
-valid warranties.
+117. The appliance maker _____ all repair charges for items that are accompanied by valid warranties.
 (A) trades
 (B) waives
 (C) resists
 (D) confines
-118. The executive director has asked all
-production supervisors to monitor the work
-schedule in the future.
+118. The executive director has asked all production supervisors to monitor the work schedule _____ in the future.
 (A) most attentive
 (B) attentive
 (C) more attentively
 (D) attention
-119. Ms. Tennyson has a for spotting
-good investments and a reputation for
-being bold and visionary.
+119. Ms. Tennyson has a _____ for spotting good investments and a reputation for being bold and visionary.
 (A) talent
 (B) contest
 (C) promise
 (D) trend
-UJ
-4>
-Ln
-CPi
--w
-CD
-LD
-O
-GO ON TO THE NEXT PAGE.
-TEST 2 PARTS 55
-120. By the time its weeklong promotion was
-over, Polk Mobile to sell almost its
-entire inventory of Kelstra smart phones.
+120. By the time its weeklong promotion was over, Polk Mobile _____ to sell almost its entire inventory of Kelstra smart phones.
 (A) manages
 (B) to manage
 (C) had managed
 (D) will manage
-121. With the financial crisis over and banks
-eager to provide loans, it has never been
-easy for the average person to own
-a home.
+121. With the financial crisis over and banks eager to provide loans, it has never been easy for the average person to own a home.
 (A) which
 (B) this
 (C) some
 (D) who
-122. Dr. Boyle does not generally see any
-patients - appointments, except for
-cases of emergency.
+122. Dr. Boyle does not generally see any patients _____ - appointments, except for cases of emergency.
 (A) beside
 (B) without
 (C) inside
 (D) under
-123. Customers who sign up for a one-year
-to Emerald Cable TV by the end of
-the week will receive a month of free
-service.
+123. Customers who sign up for a one-year to Emerald Cable TV by the end of the week will receive a month of free service.
 (A) subscribe
 (B) subscriber
 (C) subscription
 (D) subscribes
-124. Well attended by dozens of enthusiasts,
-the launch party for Fiesta Motors' newest
-sports car was deemed an success.
+124. Well attended by dozens of enthusiasts, the launch party for Fiesta Motors' newest sports car was deemed an _____ success.
 (A) eligible
 (B) occasional
 (C) idle
 (D) absolute
-125. Hector Calma - project leader for all
-Axos activities based in South Africa and
-is busy preparing to move there for an
-extended period.
+125. Hector Calma _____ - project leader for all Axos activities based in South Africa and is busy preparing to move there for an extended period.
 (A) appoint
 (B) appointed
 (C) will appoint
 (D) has been appointed
-126. The supervisor is skilled at managing the
-balance between the needs of staff
-and those of upper management.
+126. The supervisor is skilled at managing the balance between the needs of staff and those of upper management.
 (A) sudden
 (B) delicate
 (C) lenient
 (D) vague
-127. Even though subscriptions to the The
-Marinberg Herald's print edition have
-steadily declined, its online
-continues to grow.
+127. Even though subscriptions to the The Marinberg Herald's print edition have steadily declined, its online continues to grow.
 (A) definition
 (B) policy
 (C) readership
 (D) broadcast
-128.  the malfunctions with the Clarity
-Dishwasher are due to defects or low-quality
-materials is still being investigated.
+128. _____ the malfunctions with the Clarity Dishwasher are due to defects or low-quality materials is still being investigated.
 (A) So
 (B) Whether
 (C) While
 (D) Among
-129.  those in the delivery industry had
-predicted, Volo-Air's new routes helped
-boost its quarterly earnings significantly.
+129. _____ those in the delivery industry had predicted, Volo-Air's new routes helped boost its quarterly earnings significantly.
 (A) Instead of
 (B) Up to
 (C) Regardless of
 (D) Just as
-130. The mayor was able to her plans for
-improving job creation through the help of
-local businesses.
+130. The mayor was able to _____ her plans for improving job creation through the help of local businesses.
 (A) operate
 (B) solidify
 (C) depart
 (D) prevent
 
-### PART 6
-
-Directions: In this part, you will be asked to read four English texts. Each text is missing a word,
-phrase, or sentence. Select the answer choice that correctly completes the text and mark the
-corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Questions 131-134 refer to the following advertisement.
-The next time you're in downtown Houston and would like a taste of Asia, visit Sensasia on
-the second floor of Cheviston Center. Sensasia offers authentic from China, Japan,
-131.
-India, Thailand, Korea, and Vietnam.
-From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious
-132.
-Korean bibimbap, and tasty Vietnamese pho. On weekends, Hong Kong style dim sum,
-consisting of various bite-size portions of food, along with our regular menu items. And
-133.
-once a month, our chefs introduce something new for diners to try. only Sensasia can
-give you such a wide variety of meals in one location.
-For group reservations, please call 555-4272. To view our menu, please visit our Web site at
-www.sensasia.com.
+
+The next time you're in downtown Houston and would like a taste of Asia, visit Sensasia on the second floor of Cheviston Center. Sensasia offers authentic _____ from China, Japan, India, Thailand, Korea, and Vietnam. From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious _____ Korean bibimbap, and tasty Vietnamese pho. On weekends, Hong Kong style dim sum, consisting of various bite-size portions of food, _____ along with our regular menu items. And once a month, our chefs introduce something new for diners to try. _____ only Sensasia can give you such a wide variety of meals in one location. For group reservations, please call 555-4272. To view our menu, please visit our Web site at www.sensasia.com. J
+
 131. (A) dishes
 (B) materials
 (C) components
 (D) directions
-132. (A) Our chefs use exotic seasonings in all
-of our grilled food.
-(B) Some parts of our restaurant are now
-being refurbished.
-(C) We serve a wide range of popular
-Asian cuisine every day.
-(D) Our food is delicious but limited to
-seafood selections.
+132. (A) Our chefs use exotic seasonings in all of our grilled food. being refurbished.
+(C) We serve a wide range of popular Asian cuisine every day.
+(D) Our food is delicious but limited to seafood selections.
+<<MISSING>>
 133. (A) prepares
 (B) prepared
 (C) is prepared
@@ -278,207 +183,95 @@ seafood selections.
 (B) In short
 (C) To that end
 (D) Not to mention
-r\j
-uu
-4>
-Ln
-CD
-CD
-LD
-O
-J
-or
-l>-
-Kn
-j°
-fij>;
-rid
-o o o
-->2
-r\j
-7D
-ft)
-DJ
-CL
-=)'
-GO ON TO THE NEXT PAGE,
-TEST 2 PART 6 57
-To: Scott Douglas <sdouglas@evergladeprints.com>
-From: Edward Kovac <edward.k@collinsconsulting,com>
-Subject: Brochure alterations
-Date: 8 May
-Dear Mr. Douglas,
-Please find attached a copy of the brochure you designed with our comments. Our team has
-reviewed the draft, and we are with the quality of the pamphlet thus far. Despite this, we
-135.
-do require a few changes.
-In particular, there were minor layout and color errors and some important information was
-as well. We left notes in the brochure regarding where the omitted details should go.
-136.    Please send us a revised draft when it is ready. We will, of course, be happy to
-137. 138.
-the extra cost.
-Best wishes,
-Edward
+
+Questions 135-138 refer to the following text.
+
+To: Scott Douglas <sdouglas@evergladeprints.com> From: Edward Kovac <edward.k@collinsconsulting,com> Subject: Brochure alterations Date: 8 May Dear Mr. Douglas, Please find attached a copy of the brochure you designed with our comments. Our team has reviewed the draft, and we are _____ with the quality of the pamphlet thus far. Despite this, we do require a few changes. In particular, there were minor layout and color errors and some important information was as well. We left notes in the brochure regarding where the omitted details should go. 136. Please send us a revised draft when it is ready. We will, of course, be happy to _____ _____ the extra cost. Best wishes, Edward
+
 135. (A) concerned
-137. (A) We are not sure why these details
 (B) satisfied
-||m were included.
 (C) credited
-(B) We need each correction to be
 (D) troubled
-reflected precisely.
-(C) We would like you to change the entire
 136. (A) allowed
-layout.
 (B) asserted
-(D) We ask that you send the invoice for
 (C) moving
-the design we chose.
 (D) missing
+137. (A) We are not sure why these details ||m were included.
+(B) We need each correction to be reflected precisely.
+(C) We would like you to change the entire layout.
+(D) We ask that you send the invoice for the design we chose.
 138. (A) cover
 (B)covered
 (C) covering
 (D) covers
+
 Questions 139-142 refer to the following letter.
-June 21
-Magnum Insurance
-337 Deerborne Avenue
-Banff, Alberta, T2N 4S5
-Canada
-Dear Mr. Clayburn,
-This letter is to inform you that we have received your insurance claim for hail damage to
-your home, and we are processing it. As you know, the powerful storm last week
-139.
-affected the entire city. As a result, an overwhelming number of homeowners
-140.
-assistance. Nevertheless, we are working as speedily as we can to handle these applications.
-An adjuster can inspect your property in a few days. You can speed up the process by
-presenting documentary evidence ahead of time. Still, it may take some weeks to complete all
-the necessary forms and prepare a compensation ——We hope you understand. The funds
-you'll need to carry out the necessary repairs will be transmitted to you as quickly as possible.
-Thank you for your cooperation.
-Judith Underwood
-Claims coordinator
-(A) previously
-141. (A)
+
+June 21 Magnum Insurance 337 Deerborne Avenue Banff, Alberta, T2N 4S5 Canada Dear Mr. Clayburn, This letter is to inform you that we have received your insurance claim for hail damage to your home, and we are _____ processing it. As you know, the powerful storm last week affected the entire city. As a result, an overwhelming number of homeowners _____ assistance. Nevertheless, we are working as speedily as we can to handle these applications. An adjuster can inspect your property in a few days. _____ You can speed up the process by presenting documentary evidence ahead of time. Still, it may take some weeks to complete all the necessary forms and prepare a compensation ——We hope you understand. The funds you'll need to carry out the necessary repairs will be transmitted to you as quickly as possible. Thank you for your cooperation. Judith Underwood Claims coordinator
+
+139. (A) previously
 (B) currently
-||||
 (C) surprisingly
-W (B)
 (D) typically
-(C)
-(A) requests
+140. (A) requests
 (B) were requested
-(D)
 (C) have requested
 (D) had requested
-claim as soon as possible.
-He has provided you with the
-assistance you require.
-Making this investment will rai:
-home's market value.
-If possible, start photographinc
-damaged areas of your home.
+141. (A) |||| claim as soon as possible. W (B) He has provided you with the assistance you require. Making this investment will rai:
+(C) home's market value. If possible, start photographinc
+(D) damaged areas of your home.
 142. (A) score
-(B) estimate
+142. (B) estimate
 (C) history
 (D) receipt
-GO ON TO THE NEXT PAGE.
-TEST 2 PART 6 59
+<<MISSING>>
+
 Questions 143-146 refer to the following memo.
-■^To: All staff
-From: Susan Ward
-Subject: Employee handbook
-Date: April 15
-Thank you to everyone who participated in the discussions with company management. Your
-comments about some employees being unaware of the procedures for day-to-day
-operations have been heard. We are now working to the situation.
-143.
-For starters, we will be publishing the company's standard operating procedures as soon as
-possible. A printed guide will give management and staff an official reference on the
-performance of daily tasks. ---—. Flopefully, it will help move us closer to our goal of having
-firmly policies.
-145.
-If any revisions are required, these will be incorporated into a later version of the manual. The
-final version will also be through the company's internal network. If you have any
-questions, please direct them to your departmental supervisors.
+
+■^To: All staff From: Susan Ward Subject: Employee handbook Date: April 15 Thank you to everyone who participated in the discussions with company management. Your comments about some employees being unaware of the procedures for day-to-day operations have been heard. We are now working to _____ the situation. For starters, we will be publishing the company's standard operating procedures as soon as possible. A printed guide will give management and staff an official reference on the performance of daily tasks. ---—. Flopefully, it will help move us closer to our goal of having firmly _____ policies. If any revisions are required, these will be incorporated into a later version of the manual. The final version will also be _____ through the company's internal network. If you have any questions, please direct them to your departmental supervisors.
+
 143. (A) maintain
-145. (A) establish
 (B) inspect
-(B) established
 (C) address
-(C) establishing
 (D) ignore
+144. (A) A provisional copy of this handbook will be distributed at the next meeting. v.r»y.- IT w (B) Your comments on the revised manual were very much appreciated.
+(C) A copy of the article may be found in last month's company newsletter.
+(D) We are glad that everyone is now up-to-date on our meeting schedule.
+<<MISSING>>
+145. (A) establish
+(B) established
+(C) establishing
 (D) establishment
-144. (A) A provisional copy of this handbook
 146. (A) access
-v.r»y.- IT
-will be distributed at the next meeting.
 (B) accessible
-w (B) Your comments on the revised manual
 (C) accesses
-were very much appreciated.
 (D) accessing
-(C) A copy of the article may be found in
-last month's company newsletter.
-(D) We are glad that everyone is now
-up-to-date on our meeting schedule.
-PART?
-Directions: In this part, you will be asked to read several texts, such as advertisements, articles, instant
-messages, or examples of business correspondence. Each text is followed by several questions. Select
-the best answer and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
+
 Questions 147-148 refer to the following form.
+
 Fit Body Monthly Subscription Cancellation
-We are sorry to hear that you would like to cancel your
-subscription.
-To complete the process, please supply the required
-information below and mail this card back to us. Thank you.
-Name: Frederick Davis
-Address: 321 Oak Hill Avenue, Fremont, CaliforniQ 94536
-E-mail: f.davis@urmQil.com
-Telephone: (650) 555-0646
-Reasons for canceling (optional). Please select all that apply:
-_ Price X Content  Service
-Other comments: I received the subscription to your
-magazine as a gift one year ago. I already have a
-subscription to a similar publication, so I am not interested
-in a renewal.
-Please note that should you choose to renew, you may be
-eligible to receive a 20 percent discount by calling 555-4276.
-UJ
-4>
-un
-01
--d
-CD
-°
-LD
-o
-147. What must Mr. Davis do to stop receiving
-the publication?
+
+We are sorry to hear that you would like to cancel your subscription. To complete the process, please supply the required information below and mail this card back to us. Thank you. Name: Frederick Davis Address: 321 Oak Hill Avenue, Fremont, CaliforniQ 94536 E-mail: f.davis@urmQil.com Telephone: (650) 555-0646 Reasons for canceling (optional). Please select all that apply: _ Price X Content Service Other comments: I received the subscription to your magazine as a gift one year ago. I already have a subscription to a similar publication, so I am not interested in a renewal. Please note that should you choose to renew, you may be eligible to receive a 20 percent discount by calling 555-4276.
+
+147. What must Mr. Davis do to stop receiving the publication?
 (A) Send an e-mail
 (B) Call the customer service department
 (C) Visit a regional office
 (D) Mail a document
-148. Why does Mr. Davis want to end his
-subscription to Fit Body Monthly?
+148. Why does Mr. Davis want to end his subscription to Fit Body Monthly?
 (A) He finds the magazine too expensive.
-(B) He has a subscription with a similar
-magazine.
+(B) He has a subscription with a similar magazine.
 (C) He is moving out of the country.
 (D) He can read the same articles online.
+
 Questions 149-150 refer to the following memo.
+
 MEMORANDUM
-TO: All staff
-We have come to the end of another successful year and would like to
-thank all our staff members for their hard work. As usual; we are
-organizing a special holiday evening for you all. This year; it will be held
-at the Cranfield Hotel on Lakeview Avenue on Dec. 22 at 7:00 p.m. Staff
-are free to bring their husbands^ wives^ or partners.
-Reservations need to be made in advance^ so please contact Lionel
-Grimm of the personnel department at ligrimm(S)austel.com and let
-him know if you are coming and if you plan to bring a guest.
-Thank you!
+
+TO: All staff We have come to the end of another successful year and would like to thank all our staff members for their hard work. As usual; we are organizing a special holiday evening for you all. This year; it will be held at the Cranfield Hotel on Lakeview Avenue on Dec. 22 at 7:00 p.m. Staff
+
+Reservations need to be made in advance^ so please contact Lionel Grimm of the personnel department at ligrimm(S)austel.com and let him know if you are coming and if you plan to bring a guest. Thank you!
+
 149. What is the memo mainly about?
 (A) Work schedules for the upcoming year
 (B) Taking time off for holidays
@@ -489,625 +282,244 @@ Thank you!
 (B) Send an e-mail to a colleague
 (C) Inform the company of vacation plans
 (D) Confirm a room reservation
+
 Questions 151=152 refer to the following text-message chain.
-Drake Hartford 10:38
-I'm at the reception area for Dandridge & Associates to check up on the
-painting crew's progress. I'm not sure about the paint color being used on
-the rear wall. It's that deep green tone Ms. Bryant wanted, but it doesn't
-match well with the flooring or front desk.
-Dolly O'Hare 10:42
-I was afraid that might be the case as it seemed too dark. Could you drop
-by her office and ask her to come have a look at it? Maybe you can
-suggest a few colors that are more suitable.
-Drake Hartford 10:45
-OK. I'll see if she is available and let you know what she wants to do. I'll
-recommend some colors as well. I think light brown, ivory, or even beige
-would look nice.
-Drake Hartford 10:58
-She came and had a look and completely agrees with us. So, I've told the
-crew members not to continue painting that wall today. She will go with
-the first option I proposed.
-Dolly O'Hare 11:00
-Perfect. OK, go ahead and have Triple A Hardware mix up the paint the
-crew will need. You can get it delivered to the site and have the store bill
-my account.
-Drake Hartford 11:09
-I just asked Triple A about the paint, but they are backlogged with other
-orders and deliveries. The soonest the new paint can be here is at 1 P.M.
-on Wednesday.
-Dolly O'Hare 11:11
-No worries. The crew is ahead of schedule anyway, so they can work on
-other tasks in the meantime.
+
+Drake Hartford 10:38 I'm at the reception area for Dandridge & Associates to check up on the painting crew's progress. I'm not sure about the paint color being used on the rear wall. It's that deep green tone Ms. Bryant wanted, but it doesn't match well with the flooring or front desk. Dolly O'Hare 10:42 I was afraid that might be the case as it seemed too dark. Could you drop by her office and ask her to come have a look at it? Maybe you can suggest a few colors that are more suitable. Drake Hartford 10:45 OK. I'll see if she is available and let you know what she wants to do. I'll recommend some colors as well. I think light brown, ivory, or even beige would look nice. Drake Hartford 10:58 She came and had a look and completely agrees with us. So, I've told the crew members not to continue painting that wall today. She will go with the first option I proposed. Dolly O'Hare 11:00 Perfect. OK, go ahead and have Triple A Hardware mix up the paint the crew will need. You can get it delivered to the site and have the store bill my account. Drake Hartford 11:09 I just asked Triple A about the paint, but they are backlogged with other orders and deliveries. The soonest the new paint can be here is at 1 P.M. on Wednesday. Dolly O'Hare 11:11 No worries. The crew is ahead of schedule anyway, so they can work on other tasks in the meantime.
+
 C )
-uu
-LD
-CD
-OO
-LD
-O
-151. At 10:42, what does Ms. O'Hare mean
-when she writes, "that might be the case"?
-(A) She anticipated a client would be
-unsatisfied.
-(B) She knew that a colleague was visiting
-a worksite.
+
+151. At 10:42, what does Ms. O'Hare mean when she writes, "that might be the case"?
+(A) She anticipated a client would be unsatisfied.
+(B) She knew that a colleague was visiting a worksite.
 (C) She thought the paint would not match.
-(D) She realized Ms. Bryant might not be
-in her office.
-152. What color of paint will be delivered to
-Dandridge & Associates?
+(D) She realized Ms. Bryant might not be in her office.
+152. What color of paint will be delivered to Dandridge & Associates?
 (A) Deep green
 (B) Light brown
 (C) Ivory
 (D) Beige
+
 Questions 153-155 refer to the following announcement.
-Dear participants,
-Welcome to the Fifth Spatial Computing Conference (SCC). Once you
-have finished registering and received your name badge and program,
-please head downstairs to the Granville Room for coffee, tea, and a light
-breakfast. Today's schedule is as follows:
-* 9:30 a.m. — Welcome reception, Granville Room. Meet other participants
-and discuss ideas about computing trends, industry innovations, and your
-hopes for the conference. We ask that 5
-7ou please sit at the table with the
-number indicated on your name badge. We will seat guests from different
-specializations together to offer visitors a chance to interact with people
-working in a variety of fields.
-*11 a.m. - Opening explanatory discussion, Gladstone Room. Join Patrizio
-Vincente, Michelle Bealieu, and Mark Blackwell to discuss developments
-in spatial computing since last year's conference.
-* 12:30 p.m. — Lunch break, Granville Room
-* 1:30 p.m. - Seminars on database technology, image processing, and
-mobile applications. These will be held in the Gladstone, Halifax, and
-Johnstone Rooms.
-* 3:30 p.m. — Seminars on location data, forest mapping, and space analysis.
-These will be held in the Gladstone, Halifax, and Johnstone Rooms.
-* 5:30 p.m. - SCC will conclude for the day. But for those who want to stay
-behind for the next hour to speak with each other and die facilitators
-about what they've learned, you may head to the Granville Room, where
-refreshments will continue to be served.
-153. What is the purpose of the
-announcement?
+
+Dear participants, Welcome to the Fifth Spatial Computing Conference (SCC). Once you have finished registering and received your name badge and program, please head downstairs to the Granville Room for coffee, tea, and a light breakfast. Today's schedule is as follows: * 9:30 a.m. — Welcome reception, Granville Room. Meet other participants and discuss ideas about computing trends, industry innovations, and your hopes for the conference. We ask that 5 7ou please sit at the table with the number indicated on your name badge. We will seat guests from different specializations together to offer visitors a chance to interact with people working in a variety of fields. *11 a.m. - Opening explanatory discussion, Gladstone Room. Join Patrizio Vincente, Michelle Bealieu, and Mark Blackwell to discuss developments in spatial computing since last year's conference. * 12:30 p.m. — Lunch break, Granville Room * 1:30 p.m. - Seminars on database technology, image processing, and mobile applications. These will be held in the Gladstone, Halifax, and Johnstone Rooms. * 3:30 p.m. — Seminars on location data, forest mapping, and space analysis. These will be held in the Gladstone, Halifax, and Johnstone Rooms. * 5:30 p.m. - SCC will conclude for the day. But for those who want to stay behind for the next hour to speak with each other and die facilitators about what they've learned, you may head to the Granville Room, where refreshments will continue to be served.
+
+153. What is the purpose of the announcement?
 (A) To provide a list of meal times
 (B) To tell participants about events
-(C) To inform attendees of timetable
-155. Which venue will be available to attendees
-changes
-(D) To propose a tentative conference
-after the seminars end?
+(C) To inform attendees of timetable changes
+(D) To propose a tentative conference schedule
+154. What is NOT indicated about the welcome reception?
+(A) Seating will be assigned by organizers.
+(B) It will begin with an introductory speech.
+(C) It will involve people from different fields.
+(D) Food and beverages will be offered. 64 !?St!E2jei|?!aojm)-gotg{7B5i9oia
+155. Which venue will be available to attendees after the seminars end?
 (A) The Granville Room
 (B) The Halifax Room
 (C) The Johnstone Room
 (D) The Gladstone Room
-schedule
-154. What is NOT indicated about the welcome
-reception?
-(A) Seating will be assigned by organizers.
-(B) It will begin with an introductory
-speech.
-(C) It will involve people from different
-fields.
-(D) Food and beverages will be offered.
-64 !?St!E2jei|?!aojm)-gotg{7B5i9oia
+
 Questions 156-157 refer to the following notice.
+
 NOTICE
-Effective September 2, the National Postal Service (NPS) will introduce a new pricing structure
-that better reflects the cost of serving various customer segments. The NPS consistently strives
-to operate as efficiently as possible. However, recent changes mandated by the government have
-eliminated previous subsidies, and as a result, we are required to source all of our funding from
-the sale of products and services. The new pricing system is therefore necessary in allowing us to
-continue providing essential services to our customers. Any future price adjustments will be
-based on national inflation.
-Product
-Old Price
-New Price
-% Increase
-Domestic letter mail
-$1.00
-$1.20
-20%
-Commercial mail*
-$0.70
-$0.85
-21%
-International mail
-$1.90
-$2.20
-16%
-Metered mail**
-$0.50
-$0.75
-50%
-* Up to 30 grams by weight
-** Available only by special agreement with the National Postal Service
-uu
-u~\
-CD
-00
-UO
-O
-156. What is mentioned about the National
-Postal Service?
-(A) Its charges for domestic mail increased
-the most.
+
+Effective September 2, the National Postal Service (NPS) will introduce a new pricing structure that better reflects the cost of serving various customer segments. The NPS consistently strives to operate as efficiently as possible. However, recent changes mandated by the government have eliminated previous subsidies, and as a result, we are required to source all of our funding from the sale of products and services. The new pricing system is therefore necessary in allowing us to continue providing essential services to our customers. Any future price adjustments will be based on national inflation.
+
+Product Old Price New Price % Increase Domestic letter mail $1.00 $1.20 20% Commercial mail* $0.70 $0.85 21% International mail $1.90 $2.20 16% $0.50 $0.75 50% * Up to 30 grams by weight
+
+156. What is mentioned about the National Postal Service?
+(A) Its charges for domestic mail increased the most.
 (B) It recently lost its financial aid.
 (C) It is closing some of its branches.
 (D) It plans to offer a metered mail service.
-157. Why might rates be raised by the postal
-service in the future?
-(A) To cover expenses related to an
-expansion
+157. Why might rates be raised by the postal service in the future?
+(A) To cover expenses related to an expansion
 (B) To adjust for changes in inflation
 (C) To pay for additional staff members
-(D) To allow for mail heavier than 30
-grams
+(D) To allow for mail heavier than 30 grams
+
 Questions 158=160 refer to the following notice.
-Oeean Breeie Resort
-Kostiak Islands, Seychelles
-Welcome to Ocean Breeze Resort!
-The Kostiak Islands are known for their rich marine life and unique tourist attractions. To
-enjoy the best of the islands, we recommend that you try these activities:
-Island Hopping
-Board one of our boats for a day tour, which will include stops at some of Kostiak's
-many famous beaches, lagoons, and exotic jungles. Snorkeling gear is provided for
-those who want to explore Kostiak's extensive coral reefs, which are home to
-thousands of underwater creatures.
-Miligan Tour
-Located south of Kostiak is Miligan, a wildlife preserve where you can interact with
-monkeys and exotic birds in their natural habitats. Miligan is a 30-minute boat ride from
-Ocean Breeze Resort.
-Trekking
-Join a guided tour of Mt. Amitan and enjoy splendid views of Engle Bay. Our tour
-guides will accompany you on this adventure.
-To book any of the above activities, please coordinate with the receptionists at the
-front desk. Discounts will be given to groups of 10 or more.
-160. According to the notice, what will NOT be
-seen during an Island Hopping trip?
-(A) A tropical forest
-(B) Underwater wildlife
-(C) An animal park
-(D) Sandy shores
-(A) All tours need at least two participants.
-(B) Boats will be used on some tours.
-(C) Tourists must pay in advance.
-(D) Reduced rates are not available.
+
+Oeean Breeie Resort Kostiak Islands, Seychelles
+
+Welcome to Ocean Breeze Resort! The Kostiak Islands are known for their rich marine life and unique tourist attractions. To enjoy the best of the islands, we recommend that you try these activities: Island Hopping Board one of our boats for a day tour, which will include stops at some of Kostiak's many famous beaches, lagoons, and exotic jungles. Snorkeling gear is provided for those who want to explore Kostiak's extensive coral reefs, which are home to thousands of underwater creatures. Miligan Tour Located south of Kostiak is Miligan, a wildlife preserve where you can interact with monkeys and exotic birds in their natural habitats. Miligan is a 30-minute boat ride from Ocean Breeze Resort. Trekking Join a guided tour of Mt. Amitan and enjoy splendid views of Engle Bay. Our tour guides will accompany you on this adventure. To book any of the above activities, please coordinate with the receptionists at the front desk. Discounts will be given to groups of 10 or more.
+
 158. What is the purpose of the notice?
 (A) To describe options for activities
 (B) To provide a travel schedule
 (C) To promote special discounts
 (D) To highlight a natural attraction
 159. What is indicated in the notice?
+(A) All tours need at least two participants.
+(B) Boats will be used on some tours.
+(C) Tourists must pay in advance.
+(D) Reduced rates are not available.
+160. According to the notice, what will NOT be seen during an Island Hopping trip?
+(A) A tropical forest
+(B) Underwater wildlife
+(C) An animal park
+(D) Sandy shores
+
 Questions 161 -164 refer to the following online chat discussion.
-O Corrine Dealba 4:32 p.m. Hi everyone. So, it sounds like Osment Industrial is interested in hearing
-a presentation from our firm about an indoor garden. We need to visit
-their offices and do an assessment next Tuesday afternoon at 3 o'clock. It
-shouldn't take more than two hours. I think it would be best if three of us
-visit, as this is potentially a large-scale project.
-JanYates 4:34 p.m. I've got to be at Yeltsin Enterprises to supervise a team installing a
-rooftop garden on Tuesday. But if it's necessary, I can ask Ellen Pearson
-to cover for me.
-AveryWong 4:35 p.m.
-KipVillegas 4:35 p.m.
-(Q) Corrine Dealba 4:36 p.m.
-Kip Villegas 4:36 p.m.
-o Corrine Dealba 4:37 p.m.
-AveryWong 4:38 p.m.
-o Corrine Dealba 4:40 p.m.
-I'm free to go. Do you need us to do anything in regard to the
-presentation?
-I can probably manage it, too.
-Please ask Ellen to take your place, Jan. I really need your expertise. Aveiy,
-I'll take care of the presentation. I will need you and Kip to take
-measurements of the space and find out about particular needs, the budget,
-and other details.
-Shall we leave from the office together?
-Yes, let's meet in the parking garage at 2:30, and we can drive over
-together in my car. Is that OK for those who are coming?
-That works perfectly for me. I'll see you then.
-Thanks everyone. See you on Tuesday.
-Jl,
-Send
+
+O Corrine Dealba 4:32 p.m. Hi everyone. So, it sounds like Osment Industrial is interested in hearing a presentation from our firm about an indoor garden. We need to visit their offices and do an assessment next Tuesday afternoon at 3 o'clock. It shouldn't take more than two hours. I think it would be best if three of us visit, as this is potentially a large-scale project. JanYates 4:34 p.m. I've got to be at Yeltsin Enterprises to supervise a team installing a rooftop garden on Tuesday. But if it's necessary, I can ask Ellen Pearson to cover for me. AveryWong 4:35 p.m. I'm free to go. Do you need us to do anything in regard to the presentation? KipVillegas 4:35 p.m. I can probably manage it, too. (Q) Corrine Dealba 4:36 p.m. Please ask Ellen to take your place, Jan. I really need your expertise. Aveiy, I'll take care of the presentation. I will need you and Kip to take measurements of the space and find out about particular needs, the budget, and other details. Kip Villegas 4:36 p.m. Shall we leave from the office together? o Corrine Dealba 4:37 p.m. Yes, let's meet in the parking garage at 2:30, and we can drive over together in my car. Is that OK for those who are coming? AveryWong 4:38 p.m. That works perfectly for me. I'll see you then. o Corrine Dealba 4:40 p.m. Thanks everyone. See you on Tuesday. Jl, Send
+
 161. What is inferred about Osment Industrial?
-(A) It has a relatively small budget for the
-work.
+(A) It has a relatively small budget for the work.
 (B) It is constructing a new office space.
-(C) It has asked a firm for a project
-presentation.
-(D) It rejected several indoor gardening
-proposals.
-162. What is Mr. Wong most likely going to do
-next week?
+(C) It has asked a firm for a project presentation.
+(D) It rejected several indoor gardening proposals.
+162. What is Mr. Wong most likely going to do next week?
 (A) Modify the terms of a contract
 (B) Measure a potential project space
 (C) Inspect a new rooftop garden
-(D) Oversee a work crew doing an
-installation
-163. At 4:38 p.m., what does Mr. Wong mean
-when he writes, "That works perfectly for
-me"?
+(D) Oversee a work crew doing an installation
+163. At 4:38 p.m., what does Mr. Wong mean when he writes, "That works perfectly for me"?
 (A) He has no problems with his vehicle.
-(B) He accepts the offer of a ride to an
-office.
-(0) He is confident he can meet a
-deadline.
-(D) He feels a presentation needs to be
-shortened.
-164. What might Ms. Pearson do on Tuesday
-afternoon?
+(B) He accepts the offer of a ride to an office. (0) He is confident he can meet a deadline.
+(D) He feels a presentation needs to be shortened.
+<<MISSING>>
+164. What might Ms. Pearson do on Tuesday afternoon?
 (A) Assist Ms. Dealba with a presentation
-(B) Take charge of a gardening firm's
-office
-(0) Do a job in her coworker's absence
-(D) Pick a colleague up from Bleeker
-Street
+(B) Take charge of a gardening firm's office (0) Do a job in her coworker's absence
+(D) Pick a colleague up from Bleeker Street
+<<MISSING>>
+
 Questions 165-167 refer to the following letter.
-Sampat Labs
-Cosmetic Testing
-525 Hilltop Road, New Brunswick, NJ 08901
-April 14
-Bethany Fulton
-Little Miss Makeup
-255 Greystone Avenue
-Charlotte, NC 28201
-Dear Ms. Fulton,
-For over 30 years, Sampat Labs has helped both large and small manufacturers secure reliable test
-data on their cosmetic, beauty, and personal care products. Our fully equipped laboratories are
-staffed by experienced technicians and researchers who understand the issues that most concern
-consumers, researchers, and manufacturing companies like yours. — [1] —.
-In addition to testing products tor its effects on skin, we are able to guide you through the proper
-methods for mixing chemical ingredients as well as storing and transporting finished goods. — [2] —.
-We also test how long your products last under a variety of environmental conditions. Moreover, our
-access to an extensive database of test results from other providers allows us to completely avoid
-conducting tests on animals. — [3] —.
-Please review the enclosed documentation for complete descriptions of each of our services as well as
-detailed information on how to submit a product sample for testing. — [4] —. To obtain estimates of
-specific costs and processing times, you may call me at 555-9476 or e-mail me at j.west@sampatlabs.
-com.
-Thank you.
-Sincerely,
-Jacob West
-Client relations, Sampat Labs
+
+Sampat Labs Cosmetic Testing 525 Hilltop Road, New Brunswick, NJ 08901 April 14 Bethany Fulton Little Miss Makeup 255 Greystone Avenue Charlotte, NC 28201 Dear Ms. Fulton, For over 30 years, Sampat Labs has helped both large and small manufacturers secure reliable test data on their cosmetic, beauty, and personal care products. Our fully equipped laboratories are staffed by experienced technicians and researchers who understand the issues that most concern consumers, researchers, and manufacturing companies like yours. — [1] —. In addition to testing products tor its effects on skin, we are able to guide you through the proper methods for mixing chemical ingredients as well as storing and transporting finished goods. — [2] —. We also test how long your products last under a variety of environmental conditions. Moreover, our access to an extensive database of test results from other providers allows us to completely avoid conducting tests on animals. — [3] —. Please review the enclosed documentation for complete descriptions of each of our services as well as detailed information on how to submit a product sample for testing. — [4] —. To obtain estimates of specific costs and processing times, you may call me at 555-9476 or e-mail me at j.west@sampatlabs. com. Thank you. Sincerely, Jacob West Client relations, Sampat Labs
+
 165. Who most likely is Ms. Fulton?
 (A) A laboratory assistant
 (B) A store branch manager
 (C) A client relations representative
 (D) A makeup manufacturer employee
-166. What is NOT indicated about Sampat
-Labs?
-(A) It has decades of experience in the
-industry.
-(B) It can determine how long a product
-will last.
+166. What is NOT indicated about Sampat Labs?
+(A) It has decades of experience in the industry.
+(B) It can determine how long a product will last.
 (C) It will not perform tests on animals.
-(D) It makes its research data available
-online.
-167. In which of the positions marked [1], [2],
-[3], and [4] does the following sentence
-best belong?
-"In this regard, you can be assured that
-they will be able to provide you with expert
-service."
+(D) It makes its research data available online. 68 ^ my eoi?PI5i D
+167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "In this regard, you can be assured that they will be able to provide you with expert service."
 (A) [1]
 (B) [2]
 (C) [3]
 (D) [4]
-68 ^ my eoi?PI5i
-D
+
 Questions 168-171 refer to the following article.
-Shopping for Free?
-Virtual Mall is the creation of programmer Pat Gustin, who launched the free mobile game just nine
-months ago. To date, more than 300 thousand people have downloaded the application, of which
-roughly 60 percent are active at any given time. Such numbers are very appealing for companies who
-advertise through mobile applications.
-"The idea of the game is simple," says Gustin. "People rent spaces in a virtual shopping mall and
-select products to sell from a catalog we provide." — [1] —. He explained that if the virtual vendors
-are able to manage their stores correctly, they make a profit in virtual money. — [2] —.
-The game offers a level of detail and customization that is appreciated by users. It has even proven to
-be popular among women, a difficult target to reach in the world of mobile gaming. — [3] —.
-Gustin says he is also working on another game called Virtual Farm, to which he will apply the same
-concepts but in an agricultural setting. — [4] —. He hopes to launch the game by early next year.
-Those interested in learning more about Virtual Mall are encouraged to download the application for
-free. For details about Gustin's other games, go to www.virtualgamesco.com.
-UJ
-LD
-CD
-00
-LO
-O
+
+Shopping for Free? Virtual Mall is the creation of programmer Pat Gustin, who launched the free mobile game just nine months ago. To date, more than 300 thousand people have downloaded the application, of which roughly 60 percent are active at any given time. Such numbers are very appealing for companies who advertise through mobile applications. "The idea of the game is simple," says Gustin. "People rent spaces in a virtual shopping mall and select products to sell from a catalog we provide." — [1] —. He explained that if the virtual vendors are able to manage their stores correctly, they make a profit in virtual money. — [2] —. The game offers a level of detail and customization that is appreciated by users. It has even proven to be popular among women, a difficult target to reach in the world of mobile gaming. — [3] —. Gustin says he is also working on another game called Virtual Farm, to which he will apply the same concepts but in an agricultural setting. — [4] —. He hopes to launch the game by early next year. Those interested in learning more about Virtual Mall are encouraged to download the application for free. For details about Gustin's other games, go to www.virtualgamesco.com.
+
 168. What is the main topic of the article?
 (A) A new shopping center
 (B) A study about online advertising
 (C) A software manufacturing company
 (D) A simulation game for mobile devices
-169. What is NOT mentioned about Virtual
-Mall?
+169. What is NOT mentioned about Virtual Mall?
 (A) It has a significant number of players.
-(B) It does not charge its members for
-downloading.
-(C) It helps to promote the products of real
-companies.
-(D) It allows user to create multiple
-characters.
+(B) It does not charge its members for downloading.
+(C) It helps to promote the products of real companies.
+(D) It allows user to create multiple characters.
 170. What is indicated about Pat Gustin?
 (A) He left his former job nine months ago.
-(B) He profits from the sale of
-merchandise.
+(B) He profits from the sale of merchandise.
 (C) He has a background in advertising.
 (D) He is developing a new game.
-171. In which of the positions marked [1], [2],
-[3], and [4] does the following sentence
-best belong?
-"They can then use these earnings to
-improve their stores or purchase items
-from other sellers."
+171. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "They can then use these earnings to improve their stores or purchase items from other sellers."
 (A) [1]
 (B) [2]
 (C) [3]
 (D) [4]
+
 Questions 172-175 refer to the following article.
-Business Insider
-By Tony Litzmark
-A 24-hour convenience store franchise has been named the Best
-Company of the Year by the Midwestern Retailers Federation (MRF).
-Stop Avenue won the prestigious prize for successfully introducing
-sandwich bars in its branches, the first of their kind in any regional
-convenience store. The company emphasized organic and healthy
-ingredients in a televised advertising campaign a year ago. Since then,
-the sandwich bar has become increasingly popular among consumers,
-resulting in a sales boost of 40 percent compared to the previous year.
-Stop Avenue's general director Aaron Patel says the person behind the
-success of the venture is Felix Richardson, the youngest son of Stop
-Avenue founder Francis Richardson. Felix took the position of marketing
-director two years ago, during a time when company sales were
-declining by 20 percent every quarter. Felix realized he needed to change
-the way Stop Avenue marketed its products. He gave the stores a new
-look, offered selective discounts, and introduced the sandwich bars,
-which ultimately allowed the store to gain a larger consumer share. "It
-was a risky venture for Stop Avenue, but Felix proved that the key to
-staying competitive is change," Patel said in an interview with
-Businessmate Magazine.
-And now the company plans to start targeting female clients between the
-ages of 20 and 30. "We will launch a selection of fruit shakes starting
-next month," Patel added, "using natural ingredients, of course." The
-improvement of Stop Avenue has led to greater franchise numbers. This
-past month alone, 18 new stores have opened, more than in any other
-year since the franchise launched. At its present rate of growth, Stop
-Avenue is expected to include 500 stores within the next two years.
+
+Business Insider By Tony Litzmark A 24-hour convenience store franchise has been named the Best Company of the Year by the Midwestern Retailers Federation (MRF). Stop Avenue won the prestigious prize for successfully introducing sandwich bars in its branches, the first of their kind in any regional convenience store. The company emphasized organic and healthy ingredients in a televised advertising campaign a year ago. Since then, the sandwich bar has become increasingly popular among consumers, resulting in a sales boost of 40 percent compared to the previous year. Stop Avenue's general director Aaron Patel says the person behind the success of the venture is Felix Richardson, the youngest son of Stop Avenue founder Francis Richardson. Felix took the position of marketing director two years ago, during a time when company sales were declining by 20 percent every quarter. Felix realized he needed to change the way Stop Avenue marketed its products. He gave the stores a new look, offered selective discounts, and introduced the sandwich bars, which ultimately allowed the store to gain a larger consumer share. "It was a risky venture for Stop Avenue, but Felix proved that the key to staying competitive is change," Patel said in an interview with Businessmate Magazine. And now the company plans to start targeting female clients between the ages of 20 and 30. "We will launch a selection of fruit shakes starting next month," Patel added, "using natural ingredients, of course." The improvement of Stop Avenue has led to greater franchise numbers. This past month alone, 18 new stores have opened, more than in any other year since the franchise launched. At its present rate of growth, Stop Avenue is expected to include 500 stores within the next two years.
+
 172. Why was the article published?
-(A) To introduce a new trend in healthy
-eating
+(A) To introduce a new trend in healthy eating
 (B) To provide product dietary information
-(C) To describe how a business became
-successful
+(C) To describe how a business became successful
 (D) To encourage people to start a franchise
 173. What is indicated about Felix Richardson?
-(A) He was a cofounder of the Stop
-Avenue stores.
-(B) He made significant changes to
-increase revenues.
-(C) He works under Mr. Patel's
-supervision.
+(A) He was a cofounder of the Stop Avenue stores.
+(B) He made significant changes to increase revenues.
+(C) He works under Mr. Patel's supervision.
 (D) He appeared in a televised promotion.
-lti
-cn
-oo
-UD
-o
-l>
-Hn
-JO
-Nt
-r2l
-o o o
-Jd
-ru
-fD
-dj
-Q.
-3'
-OQ
-174. What was NOT a method used by Felix
-Richardson?
+174. What was NOT a method used by Felix Richardson?
 (A) Redecorating store interiors
 (B) Adjusting marketing strategies
 (C) Advertising on social network sites
 (D) Offering product discounts
-m
-LD
-175. According to the article, what is expected H
-to happen over the next two years?
-(A) The franchise's management structure
-will be reorganized.
-(B) Store branches will be linked by a ' "
-computer network. lu
-(C) Stop Avenue will hire additional
-executives. _p>
+175. According to the article, what is expected to happen over the next two years?
+(A) The franchise's management structure will be reorganized.
+(B) Store branches will be linked by a computer network.
+(C) Stop Avenue will hire additional executives.
 (D) A retail company will increase in size.
+
 Questions 176-180 refer to the following e-mail and schedule.
-To: Samantha Larson <s.larson@gentrydrivers.com>
-From: Edwin Matthews <ematthews1965@plainsrealty.com>
-Subject: April work schedule
-Date: April 11
-Dear Ms. Larson,
-I was informed by your supervisor, Dale Blackburn, that you will be assigned to be Ms. Linda Atkins'
-new driver. I am Ms. Atkins' personal assistant, so I will be providing you with a regular schedule of
-appointments that you will be required to transport her to and from. Attached to this e-mail you will
-find her calendar of appointments for April. Keep in mind that you can expect changes, but I will do
-my best to notify you of any modifications at least 24 hours in advance.
-Please read through the calendar to find details of each appointment, including the name of the
-person she is meeting, the time and date of the engagement, and the address or location of the
-meeting. Also, the individual scheduled to meet with Ms. Atkins on April 16 has yet to reply to the
-meeting invitation. I will notify you as soon as I know if the client is available for the appointment on
-that date.
-Should you have any questions, please do not hesitate to reply to this e-mail.
-Regards,
-Edwin Matthews
-Schedule For: Linda Atkins
-PLAINS REALTY
-From the desk of: Edwin Matthews
-APRIL
-Monday
-Tuesday
-Wednesday
-Thursday
-Friday
-1
-2
-1 1 A.M.
-Ms. Amundsen:
-32 Tucson
-Avenue
-3
-4
-4 P.M.
-Ms. Harrow:
-22-A North 33rd
-Street
-7
-8
-12:30 P.M.
-Lunch meeting
-with Mr. and Mrs.
-Robinson, Prairie
-Cafe
-9
-4 P.M.
-Mr. Abraham,
-433 Murray Street
-(contract signing)
-10
-3 P.M.
-Opening of Blue
-Star building,
-285 Greenwich
-Street
-11
-14
-2 P.M.
-Mr. Mendez:
-441 Poplar
-Avenue
-15
-16
-10 A.M.
-Mr. Choi:
-907 Broadway
-17
-Leave of absence
-18
-Public holiday
-21
-22
-23
-24
-25
-9:30 A.M.
-9 A.M.
-7 P.M.
-Sales seminar
-Property
-Retirement party
-(full-day),
-inspection,
-for Gordon,
-4102 Larch Drive
-312 Poplar
-Rebecca's Grill
-Avenue
-82 Third Street
-28
-1 P.M.
-Turn keys over to
-Mr. Abraham,
-433 Murray Street
-29
-10 A.M.
-Annual Realtors
-Convention,
-Cole Conference
-Center, 12 Dodd
-Avenue
+
+To: Samantha Larson <s.larson@gentrydrivers.com> From: Edwin Matthews <ematthews1965@plainsrealty.com> Subject: April work schedule Date: April 11
+
+Dear Ms. Larson, I was informed by your supervisor, Dale Blackburn, that you will be assigned to be Ms. Linda Atkins' new driver. I am Ms. Atkins' personal assistant, so I will be providing you with a regular schedule of appointments that you will be required to transport her to and from. Attached to this e-mail you will find her calendar of appointments for April. Keep in mind that you can expect changes, but I will do my best to notify you of any modifications at least 24 hours in advance. Please read through the calendar to find details of each appointment, including the name of the person she is meeting, the time and date of the engagement, and the address or location of the meeting. Also, the individual scheduled to meet with Ms. Atkins on April 16 has yet to reply to the meeting invitation. I will notify you as soon as I know if the client is available for the appointment on that date. Should you have any questions, please do not hesitate to reply to this e-mail.
+
+Regards, Edwin Matthews
+
+Schedule For: Linda Atkins PLAINS REALTY From the desk of: Edwin Matthews APRIL Monday Tuesday Wednesday Thursday Friday
+
+1 1 A.M. 4 P.M. Ms. Amundsen: Ms. Harrow: 32 Tucson 22-A North 33rd Avenue Street
+
+12:30 P.M. 4 P.M. 3 P.M. Lunch meeting Mr. Abraham, Opening of Blue with Mr. and Mrs. 433 Murray Street Star building, Robinson, Prairie (contract signing) 285 Greenwich Cafe Street
+
+10 A.M. Leave of absence Public holiday 2 P.M. Mr. Mendez: Mr. Choi: 441 Poplar 907 Broadway Avenue
+
+7 P.M. 9:30 A.M. 9 A.M. Sales seminar Property Retirement party inspection, for Gordon, (full-day), 4102 Larch Drive 312 Poplar Rebecca's Grill Avenue 82 Third Street
+
+1 P.M. 10 A.M. Turn keys over to Annual Realtors Mr. Abraham, Convention, 433 Murray Street Cole Conference Center, 12 Dodd Avenue
+
 176. Why did Mr. Matthews write the e-mail?
-(A) To inquire about hiring a driving
-service
+(A) To inquire about hiring a driving service
 (B) To share ideas for a business venture
-(C) To recommend a mode of
-transportation
-(D) To inform a new employee of some job
-details
+(C) To recommend a mode of transportation
+(D) To inform a new employee of some job details
 177. What is indicated about Mr. Matthews?
 (A) He is looking to purchase a new home.
 (B) He prefers traveling by car over flying.
-(C) He prepares Ms. Atkins' appointment
-schedule.
+(C) He prepares Ms. Atkins' appointment schedule.
 (D) He wants to meet with Mr. Blackburn.
-178. Who has not yet confirmed a meeting with
-Ms. Atkins?
+178. Who has not yet confirmed a meeting with Ms. Atkins?
 (A) Ms. Harrow
 (B) Mrs. Robinson
 (C) Mr. Abraham
 (D) Mr. Choi
-179. On which date will Ms. Larson probably
-not be required to work?
+179. On which date will Ms. Larson probably not be required to work?
 (A) April 14
 (B) April 16
 (C) April 18
 (D) April 25
 180. What is NOT indicated about Ms. Atkins?
 (A) She will speak at a convention.
-(B) She will meet with one client twice in
-April.
-(C) She plans to attend a retirement
-celebration.
+(B) She will meet with one client twice in April.
+(C) She plans to attend a retirement celebration.
 (D) She plans to take a day off.
+
 Questions 181-185 refer to the following notice and article.
-Q _ O
-Celelbrate the First Edge Festival in Toronto: July ^=14
-Join thousands of participants for a week of performances at over 100 different venues in
-Canada's most populous city! The world-famous Edge Festival is coming to Toronto.
-Following the event's long-time success in Edinburgh, Scotland, organizers have added a
-second city to the annual celebration of arts and culture.
-To make the most of what's on offer, pick up a copy of our official brochure, which is
-available at major bookstores, online, or through a free mobile application. In addition to
-show listings, the application includes an interactive map of Toronto to help you find your
-way to every event.
-For assistance with accommodations and transport options, go to our Web site at www.
-edgefest.com/toronto. Please note that tickets are required for all events and must be
-purchased from authorized Edge Festival representatives. This event is organized by the
-Edge Society, a nonprofit organization devoted to the promotion of culture and the arts. All
-proceeds from the festival go toward developing future events.
+
+Q _ O Celelbrate the First Edge Festival in Toronto: July ^=14
+
+Join thousands of participants for a week of performances at over 100 different venues in Canada's most populous city! The world-famous Edge Festival is coming to Toronto. Following the event's long-time success in Edinburgh, Scotland, organizers have added a second city to the annual celebration of arts and culture. To make the most of what's on offer, pick up a copy of our official brochure, which is available at major bookstores, online, or through a free mobile application. In addition to show listings, the application includes an interactive map of Toronto to help you find your way to every event. For assistance with accommodations and transport options, go to our Web site at www. edgefest.com/toronto. Please note that tickets are required for all events and must be purchased from authorized Edge Festival representatives. This event is organized by the Edge Society, a nonprofit organization devoted to the promotion of culture and the arts. All proceeds from the festival go toward developing future events.
+
 / ' ■ ^
+
 Toronto Tribune July 8
-Good Times to Be Had at Toronto's Edge Festival
-By Tim Cosgrove
-If you have never been to an Edge Festival, I strongly encourage you to board the next bus,
-plane, or train for Toronto while there is still time left. With hundreds of shows to choose from,
-you're guaranteed to find something you will like.
-What began as a small event in Scotland that provided amateur artists and performers with an
-outlet to showcase their talents, now attracts thousands of enthusiastic fans from around the
-world. The festival grew to become such a success that organizers decided to export their idea to
-other countries, starting this year with Canada.
-Some of my favorite performances so far have been Toronto local Eric Robeson's play Kalinda, a
-ballet by Argentine dance troupe Danza Volar, and a violin-and-accordion duet by Wendy
-Kaufmann and Noah Rossi. Also noteworthy was a stand-up act by Irish comedian Elsa Ball, a
-returning performer I saw at a sold-out show during last year's festival. In addition to a host of
-artistic shows and performances, the festival offers other forms of fun, including a variety of
-exotic food stands and family-centered entertainment.
-There have also been reports that festival organizers are planning to take the event to Dublin next
-year and then to Sydney the year after that. Artists or fans who would like to see this happen can
-make themselves heard by adding their comments on the Edge Festival's Web site.
-d
-181. What is stated about the Edge Festival? 184
-(A) It is held on the same month each
-year.
-(B) It allows performers to compete for a
-prize.
-(C) It consists of events at several different
-venues.
-(D) It is free for members of an art
-organization.
-182. What can visitors do with the mobile
-application?
+
+Good Times to Be Had at Toronto's Edge Festival By Tim Cosgrove If you have never been to an Edge Festival, I strongly encourage you to board the next bus, plane, or train for Toronto while there is still time left. With hundreds of shows to choose from, you're guaranteed to find something you will like. What began as a small event in Scotland that provided amateur artists and performers with an outlet to showcase their talents, now attracts thousands of enthusiastic fans from around the world. The festival grew to become such a success that organizers decided to export their idea to other countries, starting this year with Canada. Some of my favorite performances so far have been Toronto local Eric Robeson's play Kalinda, a ballet by Argentine dance troupe Danza Volar, and a violin-and-accordion duet by Wendy Kaufmann and Noah Rossi. Also noteworthy was a stand-up act by Irish comedian Elsa Ball, a returning performer I saw at a sold-out show during last year's festival. In addition to a host of artistic shows and performances, the festival offers other forms of fun, including a variety of exotic food stands and family-centered entertainment. There have also been reports that festival organizers are planning to take the event to Dublin next year and then to Sydney the year after that. Artists or fans who would like to see this happen can make themselves heard by adding their comments on the Edge Festival's Web site. d
+
+181. What is stated about the Edge Festival?
+(A) It is held on the same month each year.
+(B) It allows performers to compete for a prize.
+(C) It consists of events at several different venues.
+(D) It is free for members of an art organization.
+182. What can visitors do with the mobile application?
 (A) Purchase tickets at a discount
 (B) Book room accommodations
 (C) Obtain directions to performances
@@ -1116,331 +528,126 @@ application?
 (A) He used to be an amateur performer.
 (B) He was in Scotland the year before.
 (C) He did not have to pay for his tickets,
-(D) He was involved in organizing the
-Toronto event.
-In the article, the word "host" in paragraph
-3, line 4, is closest in meaning to
-(A) sponsor
-(B) introduction
-(C) variety
-(D) announcement
-What are the festival's organizers planning H
-to do in the future?
-(A) Add a comments feature to their Web
-site
-(B) Make tickets more readily available
-(C) Hold a similar event in Sydney uj
-(D) Include more comedians in the
+(D) He was involved in organizing the Toronto event.
+
 Questions 186-190 refer to the following advertisement, Web page, and e-mail.
-Piedmont Limousine Company: Ride in Style!
-Serving Manhattan for more than 20 years, Piedmont Limousine Company continues to provide the very best
-in rental vehicles as well as the most experienced and professional drivers. Whether you need a stretch
-limousine that can seat up to 12 passengers, a luxury minivan that holds 8, or a regular-sized sedan with a
-capacity of 4, Piedmont Limousine can help! We provide clean and modern vehicles for any occasion, including
-business functions and weddings. We can even pick up important visitors from stations or airports and offer
-weekly or daily rental rates for those requiring the full-time services of a driver and vehicle. And for the month
-of April only, any booking for three days or more will entitle you to receive a voucher worth $50 to use for any
-future service from Piedmont Limousine Company!
-For more information on our rates, location, hours of operation, and the types of vehicles we have available,
-visit us online atwww.piedmontlimousine.com.
-Iffii
-ilMI
-http://www.piedmontlimousine.com/bookings
-SERVICES
-RATES
-VEHICLES
-HOURS/LOCATION
-BOOKINGS
-NAME
-Benjamin Lopez
-PHONE
-555-0495
-E-MAIL
-blop@neurotech.com
-COMPANY
-Neuro-Tech, Inc.
-DATE/TIME OF SERVICE
-10 a.m. April 18 -10 a.m. April 21
-PICK-UP LOCATION
-Central Station
-TYPE OF VEHICLE
-Regular sedan
-PLEASE INCLUDE ANY ADDITIONAL DETAILS. IF PASSENGER BEING PICKED UP IS
-DIFFERENT FROM THE PERSON MAKING THE BOOKING, PLEASE INCLUDE THE NAME
-BELOW.
-*1 would like to book a car and driver to pick up a visiting investor. His name is William Bail. He will
-need your company's services daily during his stay.
-Once you have checked and confirmed that the information you have provided is correct, click "submit"
-below.
-SUBMIT
+
+Piedmont Limousine Company: Ride in Style! Serving Manhattan for more than 20 years, Piedmont Limousine Company continues to provide the very best in rental vehicles as well as the most experienced and professional drivers. Whether you need a stretch limousine that can seat up to 12 passengers, a luxury minivan that holds 8, or a regular-sized sedan with a capacity of 4, Piedmont Limousine can help! We provide clean and modern vehicles for any occasion, including business functions and weddings. We can even pick up important visitors from stations or airports and offer weekly or daily rental rates for those requiring the full-time services of a driver and vehicle. And for the month of April only, any booking for three days or more will entitle you to receive a voucher worth $50 to use for any future service from Piedmont Limousine Company! For more information on our rates, location, hours of operation, and the types of vehicles we have available, visit us online atwww.piedmontlimousine.com.
+
+Iffii ilMI
+
+http://www.piedmontlimousine.com/bookings SERVICES RATES VEHICLES HOURS/LOCATION BOOKINGS NAME Benjamin Lopez PHONE 555-0495 E-MAIL blop@neurotech.com COMPANY Neuro-Tech, Inc. DATE/TIME OF SERVICE 10 a.m. April 18 -10 a.m. April 21 PICK-UP LOCATION Central Station TYPE OF VEHICLE Regular sedan PLEASE INCLUDE ANY ADDITIONAL DETAILS. IF PASSENGER BEING PICKED UP IS DIFFERENT FROM THE PERSON MAKING THE BOOKING, PLEASE INCLUDE THE NAME BELOW. *1 would like to book a car and driver to pick up a visiting investor. His name is William Bail. He will need your company's services daily during his stay.
+
+Once you have checked and confirmed that the information you have provided is correct, click "submit" below. SUBMIT
+
 Eb
-TO: Benjamin Lopez <blop@neurotech.com>
-FROM: Fatima Khan <fkhan@piedmontlimousine.com>
-DATE: April 6
-SUBJECT: Re: Booking inquiry
-Dear Mr. Lopez,
-Thank you for considering Piedmont Limousine Company! We do have drivers and the type of
-vehicle you want for the dates and times you requested. Below is the fee breakdown.
-Car Rental
-$180.00
-Driver Services*
-$340.00
-SUBTOTAL
-$520.00
-TAX
-$52.00
-DEPOSIT
-$50.00
-TOTAL
-$622.00
-*Driver will be at your disposal from 8 a.m. until 8 p.m. for daily sen/ice.
-If you accept the fees, please reply to this e-mail to confirm your booking. Cancellations are
-allowed up to 24 hours prior to the service, but deposits will be forfeited under all circumstances.
-Customers canceling less than a full day in advance will not be refunded.
-We also request that you provide us with the train information for your arriving guest. That way our
-driver, Solomon Nyongo, can be waiting for him with a sign at the platform.
-Thank you, and I hope to hear from you soon.
-Fatima Khan
-186. What is NOT mentioned about Piedmont
-Limousine Company?
+
+TO: Benjamin Lopez <blop@neurotech.com> FROM: Fatima Khan <fkhan@piedmontlimousine.com> DATE: April 6 SUBJECT: Re: Booking inquiry Dear Mr. Lopez,
+
+Thank you for considering Piedmont Limousine Company! We do have drivers and the type of vehicle you want for the dates and times you requested. Below is the fee breakdown.
+
+Car Rental $180.00 Driver Services* $340.00 SUBTOTAL $520.00 $52.00 TAX DEPOSIT $50.00 $622.00 TOTAL *Driver will be at your disposal from 8 a.m. until 8 p.m. for daily sen/ice. If you accept the fees, please reply to this e-mail to confirm your booking. Cancellations are allowed up to 24 hours prior to the service, but deposits will be forfeited under all circumstances. Customers canceling less than a full day in advance will not be refunded. We also request that you provide us with the train information for your arriving guest. That way our driver, Solomon Nyongo, can be waiting for him with a sign at the platform. Thank you, and I hope to hear from you soon. Fatima Khan
+
+186. What is NOT mentioned about Piedmont Limousine Company?
 (A) It offers vehicles for up to 12 people.
-(B) It provides services for different types
-of events.
+(B) It provides services for different types of events.
 (C) It is still in business after two decades.
-(D) It has service desks at airports and
-stations.
+(D) It has service desks at airports and stations.
 187. What will Mr. Lopez be given?
 (A) A vehicle upgrade
 (B) A complete refund
 (C) A cash voucher
 (D) A train ticket
 188. What is true about Benjamin Lopez?
-(A) He is planning to borrow money from a
-bank.
-(B) He is using a discount coupon for a
-service.
+(A) He is planning to borrow money from a bank.
+(B) He is using a discount coupon for a service.
 (C) He is making a booking for a guest.
-(D) He is meeting a visitor at Central
-Station.
-189. What happens if a booking is canceled
-one day before a rental date?
+(D) He is meeting a visitor at Central Station.
+189. What happens if a booking is canceled one day before a rental date?
 (A) Customers can receive a coupon.
 (B) A deposit payment must be given up.
-(C) Credit cards are charged the total
-amount.
+(C) Credit cards are charged the total amount.
 (D) A cancellation fee must be paid.
 190. What is true about Solomon Nyongo?
-(A) He will wait for William Bail on a station
-platform.
-(B) He will drive a stretch limousine on
-April 18.
-(C) He will meet some investors at Neuro-
-Tech.
-(D) He will provide a passenger with a
-billing statement.
+(A) He will wait for William Bail on a station platform.
+(B) He will drive a stretch limousine on April 18.
+(C) He will meet some investors at Neuro- Tech.
+(D) He will provide a passenger with a billing statement.
+
 Questions 191-195 refer to the following flyer, e-mail, and schedule.
-3-D Printer Workshops
-Warner City Library, Lafayette branch
-September 27
-Workshop 1: 1:00 p.m. - 3:00 p.m.
-Workshop 2: 4:00 p.m. - 6:00 p.m.
-Many businesses use 3-D printers to create small customized products to sell on the Internet. 3-D
-printing also has applications for dentistry, automotive design, architecture, and more. Imagine
-what you could do! The Warner City Library is now offering you the chance to learn about this
-amazing technology!
-Our $30 workshop includes:
-» A free demonstration of the 3-D printer
-® A short video on innovations in 3-D technology
-o A group discussion on the potential applications and uses of 3-D printing technology led by
-Warner City Library director Ryan Jefferson
-«> Hands-on practice, guided by our technical expert
-- Each participant will get to choose among five keychain designs to print and take home.
-Due to space restrictions, each workshop will be limited to 12 people. To register, visit the library's
-front desk or go to www.warnerlibrary.com/3-DPrinter. For inquiries, call Sarah Andrews at 555-9796 or
-e-mail s.andrews@warnerlibrary.com.
-To: Sarah Andrews <s.andrews@warnerIibrary.com>
-From: Sam Jackson <samjackson@warnerartcommiinitycom>
-Date: September 5
-Subject: 3-D Printer Workshops
-Dear Ms. Andrews,
-I am the president of the Warner Art Community and a sculptor by profession. I recently read your
-flyer about the 3-D printer workshops. Our group is interested in taking advantage of this
-opportunity However, we'd like the focus to be on art rather than general 3-D printing. So, we hope
-that we can develop a custom workshop.
-Our members have some specific interests surrounding how we can use 3-D printing in art. We would
-like to follow the curriculum you offer but would prefer to discuss more specific applications for our
-work on our own. I can lead those discussions. We may also want to explore making items of our own
-design in addition to the items you offer. Could we meet to discuss this further? Naturally, our group
-will pay any additional fees.
-Please let me know when you might be available.
-Sincerely,
-Sam Jackson
-Warner City Library
-NOVEMBER SCHEDULE OF EVENTS
-Date/Time
-Event
-Event type
-Location
-11/03
-3 to 5 p.m.
-Creative Writing Workshop
-Free with registration
-Warner City Library, Main Library
-11/09
-1 to 3 P.M.
-Understanding Contemporary
-Literature
-$10 registration
-Warner City Library, Main Library
-11/16
-2 to 6 p.m.
-3-D Printing in Art
-By invitation only
-Warner City Library, Lafayette
-branch
-11/23
-3 to 5 p.m.
-Book launch: A Lasting Legacy,
-by Meredith Brownsville
-Free
-Warner City Library, Concord
-Street branch
-For inquiries about any of the listed events or directions to specific locations of the library, please call
-555-9796, or e-mail info@warnerlibrary.com.
-UJ
-4>
-Ln
-en
-00
-LD
-O
+
+3-D Printer Workshops Warner City Library, Lafayette branch September 27 Workshop 1: 1:00 p.m. - 3:00 p.m. Workshop 2: 4:00 p.m. - 6:00 p.m. Many businesses use 3-D printers to create small customized products to sell on the Internet. 3-D printing also has applications for dentistry, automotive design, architecture, and more. Imagine what you could do! The Warner City Library is now offering you the chance to learn about this amazing technology! Our $30 workshop includes: » A free demonstration of the 3-D printer ® A short video on innovations in 3-D technology o A group discussion on the potential applications and uses of 3-D printing technology led by Warner City Library director Ryan Jefferson «> Hands-on practice, guided by our technical expert - Each participant will get to choose among five keychain designs to print and take home. Due to space restrictions, each workshop will be limited to 12 people. To register, visit the library's front desk or go to www.warnerlibrary.com/3-DPrinter. For inquiries, call Sarah Andrews at 555-9796 or e-mail s.andrews@warnerlibrary.com.
+
+To: Sarah Andrews <s.andrews@warnerIibrary.com> From: Sam Jackson <samjackson@warnerartcommiinitycom> Date: September 5 Subject: 3-D Printer Workshops
+
+Dear Ms. Andrews, I am the president of the Warner Art Community and a sculptor by profession. I recently read your flyer about the 3-D printer workshops. Our group is interested in taking advantage of this opportunity However, we'd like the focus to be on art rather than general 3-D printing. So, we hope that we can develop a custom workshop. Our members have some specific interests surrounding how we can use 3-D printing in art. We would like to follow the curriculum you offer but would prefer to discuss more specific applications for our work on our own. I can lead those discussions. We may also want to explore making items of our own design in addition to the items you offer. Could we meet to discuss this further? Naturally, our group will pay any additional fees. Please let me know when you might be available. Sincerely, Sam Jackson
+
+Warner City Library NOVEMBER SCHEDULE OF EVENTS
+
+Date/Time Event Event type Location Free with registration 11/03 Creative Writing Workshop Warner City Library, Main Library 3 to 5 p.m. 11/09 Understanding Contemporary $10 registration Warner City Library, Main Library 1 to 3 P.M. Literature 11/16 3-D Printing in Art By invitation only Warner City Library, Lafayette 2 to 6 p.m. branch 11/23 Book launch: A Lasting Legacy, Free Warner City Library, Concord 3 to 5 p.m. by Meredith Brownsville Street branch For inquiries about any of the listed events or directions to specific locations of the library, please call 555-9796, or e-mail info@warnerlibrary.com.
+
 191. What is the flyer mainly about?
 (A) A product launch
 (B) An online seminar
 (C) A learning opportunity
 (D) A community club meeting
-192. In the e-mail, the word "surrounding" in
-paragraph 2, line 1, is closest in meaning
-to
+192. In the e-mail, the word "surrounding" in paragraph 2, line 1, is closest in meaning to
 (A) closing
 (B) encircling
 (C) concerning
 (D) approaching
-193. Which activity does Mr. Jackson NOT
-request for his group?
+193. Which activity does Mr. Jackson NOT request for his group?
 (A) The complimentary demonstration
 (B) The video presentation on technology
-(C) The hands-on practice using a printing
-device
+(C) The hands-on practice using a printing device
 (D) The discussion led by library staff
-194. What is indicated about the Warner City
-Library on the schedule?
-(A) It is holding an invitation only event at
-its main location.
-(B) It closes at noon sometimes to host
-special events.
-(C) It has multiple locations in the same
-city.
-(D) It operates a tutoring center for
-students.
-195. What is suggested about the event on
-November 16?
+194. What is indicated about the Warner City Library on the schedule?
+(A) It is holding an invitation only event at its main location.
+(B) It closes at noon sometimes to host special events.
+(C) It has multiple locations in the same city.
+(D) It operates a tutoring center for students.
+195. What is suggested about the event on November 16?
 (A) It is free for members of an art group.
-(B) It is the second one of a series to be
-held.
-(C) It will coincide with an author's book
-launch.
-(D) It can accommodate a dozen
-participants.
+(B) It is the second one of a series to be held.
+(C) It will coincide with an author's book launch.
+(D) It can accommodate a dozen participants.
+
 Questions 196-200 refer to the following e-mail, form, and coupon.
-0 H
-TO Marian Kentley <mkentley@kentleyfarm.co.ca>
-FROM Brayden Craig <cr_brayden@peaklanddairy.co.ca>
-SUBJECT Order inquiry
-DATE May 2
-Dear Ms. Kentley,
-My name is Brayden Craig, and I work at Peakland Dairy in Surrey. Our shop will be launching a
-new selection of ice cream this summer, and we are currently searching for ingredients. We plan to
-include a strawberry variety, and we would like to place a bulk order with you. This would be for
-250 kilograms. Could you let me know if your farm has the means to fulfill such a large order and,
-if so, what the cost would be? Naturally, if sales are good, we will place another order next season.
-Also, in addition to vanilla, chocolate, and strawberry flavors, we may feature a new variety in the
-future. We are considering using raspberries and are wondering if your farm grows them. If so, we
-would like to place an order for 250 kilograms of them when they are available.
-Regards,
-Brayden Craig
-Kentley Farm, 5948 Coast Road, Abbotsford, B.C.
-ORDER FORM:
-NAME
-Brayden Craig
-COMPANY
-Peakland Dairy
-PHONE
-(604)555-4229
-E-MAIL
-cr_brayden@
-peaklanddairy.co.ca
-BILLING ADDRESS
-443 Spruce Road, Surrey,
-B.C.
-DELIVERY ADDRESS
-Same as billing address
-Product: Seasonal strawberries
-Amount required: 250 kilograms
-Cost per kilogram: $12.00
-Delivery date: May 10
-Instructions: Wash well.
-SUBTOTAL: $3,000.00
-TAX: $210.60
-DELIVERY: $120.00
-TOTAL AMOUNT DUE: $3330.60 (PAID IN FULL)
-Thank you for placing an order with Kentley Farm. Should there be any problems with your delivery,
-contact Marian Kentley at mkentley@kentleyfarms.co.ca or (604)555-4059.
-Get $3 off Peakland Dairy's New Organic Ice Cream!
-Thank you for visiting Kentley Farm today! You can now enjoy our strawberries in Peakland Dairy's
-new organic ice cream tine, made with completely natural ingredients! Choose from vanilla,
-chocolate, strawberry, and their featured flavor of coffee all made with hormone-free milk and cream.
-Simply bring in this coupon to wherever Peakland Dairy products are sold including Softies
-Supermarkets, Wilton Groceries, and Day-and-Night Convenience Stores, and receive $3 off your
-purchase of a 500ml carton of any organic ice cream variety!
-*Offer valid for one item only and may not be combined with any other promotion.
-Offer expires September 1.
-196. What is true about Peakland Dairy in the
-e-mail?
+
+0 H TO Marian Kentley <mkentley@kentleyfarm.co.ca> FROM Brayden Craig <cr_brayden@peaklanddairy.co.ca> SUBJECT Order inquiry DATE May 2
+
+Dear Ms. Kentley, My name is Brayden Craig, and I work at Peakland Dairy in Surrey. Our shop will be launching a new selection of ice cream this summer, and we are currently searching for ingredients. We plan to include a strawberry variety, and we would like to place a bulk order with you. This would be for 250 kilograms. Could you let me know if your farm has the means to fulfill such a large order and, if so, what the cost would be? Naturally, if sales are good, we will place another order next season. Also, in addition to vanilla, chocolate, and strawberry flavors, we may feature a new variety in the future. We are considering using raspberries and are wondering if your farm grows them. If so, we would like to place an order for 250 kilograms of them when they are available. Regards, Brayden Craig
+
+Kentley Farm, 5948 Coast Road, Abbotsford, B.C. ORDER FORM: NAME Brayden Craig COMPANY Peakland Dairy PHONE (604)555-4229 E-MAIL cr_brayden@ peaklanddairy.co.ca BILLING ADDRESS 443 Spruce Road, Surrey, DELIVERY ADDRESS Same as billing address B.C. Product: Seasonal strawberries Amount required: 250 kilograms Cost per kilogram: $12.00 Delivery date: May 10 Instructions: Wash well. SUBTOTAL: $3,000.00 TAX: $210.60 DELIVERY: $120.00 TOTAL AMOUNT DUE: $3330.60 (PAID IN FULL) Thank you for placing an order with Kentley Farm. Should there be any problems with your delivery, contact Marian Kentley at mkentley@kentleyfarms.co.ca or (604)555-4059.
+
+Get $3 off Peakland Dairy's New Organic Ice Cream! Thank you for visiting Kentley Farm today! You can now enjoy our strawberries in Peakland Dairy's new organic ice cream tine, made with completely natural ingredients! Choose from vanilla, chocolate, strawberry, and their featured flavor of coffee all made with hormone-free milk and cream. Simply bring in this coupon to wherever Peakland Dairy products are sold including Softies Supermarkets, Wilton Groceries, and Day-and-Night Convenience Stores, and receive $3 off your purchase of a 500ml carton of any organic ice cream variety! *Offer valid for one item only and may not be combined with any other promotion. Offer expires September 1.
+
+196. What is true about Peakland Dairy in the e-mail?
 (A) It opened a facility in Abbotsford.
 (B) It will release a new product line.
-(C) It requires fruit to be frozen before
-delivery.
-(D) It only sells ice cream during the
-summer.
-197. In the e-mail, the word "means" in
-paragraph 1, line 4, is closest in meaning
-to
+(C) It requires fruit to be frozen before delivery.
+(D) It only sells ice cream during the summer.
+197. In the e-mail, the word "means" in paragraph 1, line 4, is closest in meaning to
 (A) intention
 (B) capacity
-(C)revenue
+(C) revenue
 (D) process
 198. What has Mr. Craig most likely requested?
 (A) A department's contact number
 (B) A revised billing statement
 (C) A discount on a bulk purchase
-(D) A delivery to Spruce Road
+(D) A delivery to Spruce Road TEST 02fe 1. Lfe 70M mo\ EjlAEOfl □ oil nomo □ oil nomo
 199. What is suggested about Mr. Craig?
-(A) He was unable to purchase raspberries
-from Ms. Kentley.
-(B) He had to increase the quantity for his
-strawberry order,
-(C) He is searching for a supplier of
-organic dairy products.
-(D) He was given a complimentary ice
-cream coupon.
+(A) He was unable to purchase raspberries from Ms. Kentley.
+(B) He had to increase the quantity for his strawberry order,
+(C) He is searching for a supplier of organic dairy products.
+(D) He was given a complimentary ice cream coupon.
 200. What is indicated about Kentley Farm?
-(A) It offers discounts to stores placing
-bulk orders.
-(B) It supplies fresh strawberries to Wilton
-Groceries.
-(C) It sells Peakland Dairy products to
-farm guests.
-(D) It gives coupons to visitors at its
-Abbotsford facility.
+(A) It offers discounts to stores placing bulk orders.
+(B) It supplies fresh strawberries to Wilton Groceries.
+(C) It sells Peakland Dairy products to farm guests.
+(D) It gives coupons to visitors at its Abbotsford facility.
 
+---
+
+This is the end of the test. You may review Part 5, 6, and 7 if you finish the test early.

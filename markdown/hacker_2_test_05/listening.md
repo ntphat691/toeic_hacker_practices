@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,13 +73,9 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
-32. Where most likely is the conversation
-taking place?
+32. Where most likely is the conversation taking place?
 (A) At a resort hotel
 (B) At a car repair shop
 (C) At an automobile rental agency
@@ -105,8 +93,7 @@ taking place?
 (C) Describe his lost luggage
 (D) Get his vehicle from a parking lot
 
-35. What type of business most likely is
-Spectrum?
+35. What type of business most likely is Spectrum?
 (A) An art supply store
 (B) A construction firm
 (C) A painting company
@@ -130,8 +117,7 @@ Spectrum?
 (C) An event planner
 (D) A jewelry designer
 
-39. Why does the man say, "Provided that you
-^ actually go"?
+39. Why does the man say, "Provided that you ^ actually go"?
 (A) To show uncertainty about a product
 (B) To point out an alternative to a plan
 (C) To correct an inaccurate statement
@@ -167,8 +153,7 @@ Spectrum?
 (C) To display some merchandise
 (D) To mail out a shipment
 
-45. Why should the speakers finish a task
-now?
+45. Why should the speakers finish a task now?
 (A) Trucks need to be loaded.
 (B) Customers are waiting at an entrance.
 (C) A manager has assigned more tasks.
@@ -186,13 +171,10 @@ now?
 (C) A movie release has been postponed.
 (D) A cinema supervisor intends to resign.
 
-48. What does the man imply when he says,
-"the branch supervisor seems to think that's
-an important issue to address"?
+48. What does the man imply when he says, "the branch supervisor seems to think that's an important issue to address"?
 (A) Evaluations should be completed.
 (B) Staff complaints have been growing.
-(C) A meeting needs to be set up in the
-near future.
+(C) A meeting needs to be set up in the near future.
 (D) An assessment has been validated.
 
 49. What will probably happen later today?
@@ -243,15 +225,13 @@ near future.
 (C) An itinerary for a trip
 (D) Complications with a vessel
 
-57. What does the woman mention about
-Splash World?
+57. What does the woman mention about Splash World?
 (A) It extended operational hours.
 (B) It is currently closed.
 (C) It is conveniently located.
 (D) It restocked some goods.
 
-58. What does the man mean when he says,
-HI "I'll get right on that"?
+58. What does the man mean when he says, HI "I'll get right on that"?
 (A) He will fix a piece of equipment.
 (B) He will clean out a boat.
 (C) He will give some workers a task.
@@ -263,22 +243,17 @@ HI "I'll get right on that"?
 (C) Buy a mobile device
 (D) Upgrade a cellular plan
 
-63. What aspect of the PlusTouch 50 is the
-man interested in?
+63. What aspect of the PlusTouch 50 is the man interested in?
 (A) Its processing speed
 (B) Its design
 (C) Its various accessories
 (D) Its price
 
-64. What is mentioned about Graystone
-Electronics?
+64. What is mentioned about Graystone Electronics?
 (A) It opened a new branch last month.
 (B) It merged with another company.
 (C) It is offering products at a discount.
-(D) It is closed on the weekends.
-m
-uu
-4>
+(D) It is closed on the weekends. m uu 4>
 
 59. Why has the woman stopped by the shop?
 (A) To pick up some printed materials
@@ -296,23 +271,7 @@ uu
 (A) Distribute flyers to some visitors
 (B) Pay admission fees for the event
 (C) Travel to Dover Boulevard
-(D) Call another service center
-Exton Building
-Directory
-Floor 1
-101
-Markus Swanson
-102
-Tom Johnson
-103
-Mary Clemson
-Floor 2
-201
-Ahmed Abdul
-202
-Benny Gould
-203
-Flarvey Pinkerton
+(D) Call another service center Exton Building Directory Floor 1 101 Markus Swanson 102 Tom Johnson 103 Mary Clemson Floor 2 201 Ahmed Abdul 202 Benny Gould 203 Flarvey Pinkerton
 
 65. What did the woman already do?
 (A) Moved to a new office
@@ -320,25 +279,17 @@ Flarvey Pinkerton
 (C) Spoke to another receptionist
 (D) Updated some information
 
-66. What does the man imply about
-Mr. Pinkerton?
+66. What does the man imply about Mr. Pinkerton?
 (A) He rescheduled a consultation.
 (B) He left a message for the woman.
 (C) He had a meeting with Mr. Swanson.
-(D) He did not inform the woman of a
-change.
+(D) He did not inform the woman of a change.
 
-67. Look at the graphic. Which office
-woman head to?
+67. Look at the graphic. Which office woman head to?
 (A) 101
 (B)102
 (C) 202
-(D) 203
-the
-Silver City Appliances
-15% OFF
-All Electrostar Blenders
-Valid: February 12-23
+(D) 203 the Silver City Appliances 15% OFF All Electrostar Blenders Valid: February 12-23
 
 68. What is the man's problem?
 (A) A product lacks a warranty.
@@ -352,9 +303,7 @@ Valid: February 12-23
 (C) By joining a rewards program
 (D) By visiting a Web site
 
-70. Look at the graphic. Which item will the
-||fe man most likely use the coupon to
-purchase?
+70. Look at the graphic. Which item will the ||fe man most likely use the coupon to purchase?
 (A) Dicer 2
 (B) Total Blend
 (C) ChopMaster
@@ -362,10 +311,7 @@ purchase?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. Who is Wan Cheol Shin?
 (A) A musical performer
@@ -379,15 +325,13 @@ answer sheet.
 (C) Music recordings
 (D) Signed posters
 
-73. Why would listeners call the provided
-telephone number?
+73. Why would listeners call the provided telephone number?
 (A) To check performance times
 (B) To inquire about tickets
 (C) To learn about an artist
 (D) To purchase a CD
 
-74. Where does the talk most likely take
-place?
+74. Where does the talk most likely take place?
 (A) At a job orientation
 (B) At a product launch
 (C) At a trade fair
@@ -399,8 +343,7 @@ place?
 (C) Personal name tags
 (D) Fabric samples
 
-76. What will the participants do in the
-afternoon?
+76. What will the participants do in the afternoon?
 (A) Look at new apparel
 (B) Watch a presentation
 (C) Take part in group activities
@@ -418,8 +361,7 @@ afternoon?
 (C) It contains interactive displays.
 (D) It was designed for students.
 
-79. Why does the speaker say, "Mr. Donner is
-making preparations"?
+79. Why does the speaker say, "Mr. Donner is making preparations"?
 (A) To recommend an expert
 (B) To explain a delay
 (C) To respond to inquiries
@@ -431,16 +373,13 @@ making preparations"?
 (C) Updated some software
 (D) Replaced a component
 
-81. Why does the speaker say, "Plus, it's old
-(ip and out-of-date"?
+81. Why does the speaker say, "Plus, it's old (ip and out-of-date"?
 (A) To apologize for an inconvenience
 (B) To request an on-site inspection
-(C) To provide a reason for the
-replacement
+(C) To provide a reason for the replacement
 (D) To state the problem with a policy
 
-82. What does the speaker suggest that the
-listeners do?
+82. What does the speaker suggest that the listeners do?
 (A) Hire a new technician
 (B) Speak with a team manager
 (C) Adjust a work schedule
@@ -452,8 +391,7 @@ listeners do?
 (C) An event planner
 (D) A public employee
 
-84. According to the speaker, what does the
-listener want to do?
+84. According to the speaker, what does the listener want to do?
 (A) Travel to another city
 (B) Change some reservations
 (C) Book a facility
@@ -465,19 +403,15 @@ listener want to do?
 (C) To download photos of pavilions
 (D) To check updated regulations
 
-86. What most likely do the listeners do for
-work?
+86. What most likely do the listeners do for work?
 (A) Provide technical support
 (B) Develop new software programs
 (C) Consult companies
 (D) Sell products over the phone
 
-87. According to the speaker, why are
-communication skills important?
-(A) They make it easier to find new
-customers.
-(B) They increase the likelihood of being
-hired.
+87. According to the speaker, why are communication skills important?
+(A) They make it easier to find new customers.
+(B) They increase the likelihood of being hired.
 (C) They allow customers to feel assured.
 (D) They motivate other employees.
 
@@ -502,43 +436,8 @@ hired.
 91. What is implied about the city of Williamton?
 (A) Its population size has recently grown.
 (B) It is cutting back on planned expenses.
-(C) It does not have a performing arts
-center.
-(D) Its public buildings require repairs.
-w ^ Train
-Station
-Q) 3
-Amigos
-Cantina
-Library
-TJ c
-(0 >
-(1)
-Justin's
-Deli
-(_
-0)
->
-<
-.t:
-Jefferson Street
-o
-CO c o
-w c
-12
-k.
-ro
-CL
-La Cucina
-Italiana
-ro
-f-
-City
-Hall
-Jacob's
-Steak House
-Golden
-China
+(C) It does not have a performing arts center.
+(D) Its public buildings require repairs. w ^ Train Station Q) 3 Amigos Cantina Library TJ c (0 > (1) Justin's Deli (_ 0) > < .t: Jefferson Street o CO c o w c 12 k. ro CL La Cucina Italiana ro f- City Hall Jacob's Steak House Golden China
 
 92. What must the listener do?
 (A) Postpone a corporate party
@@ -546,48 +445,20 @@ China
 (C) Arrange an alternative venue
 (D) Visit the city library
 
-93. Look at the graphic. Which restaurant does
-||| the speaker recommend?
+93. Look at the graphic. Which restaurant does ||| the speaker recommend?
 (A) La Cucina Italiana
 (B) Amigos Cantina
 (C) Jacob's Steak House
 (D) Golden China
 
-94. According to the speaker, when will the
-company's event take place?
+94. According to the speaker, when will the company's event take place?
 (A) In one week
 (B) In three weeks
 (C) In one month
-(D) In four months
-Gaming Accessories
-Headset with Microphone
-Wireless Gamepad
-Charger
-Power Cable
-Game Warehouse
-555-1346
-$34.96
-$26.96
-$42.00
-$11.96
-m
-Calgary Music Festival
-Lineup
-Wednesday Thursday Friday Saturday Sunday
-Blue
-Time
-Karl
-Smooth
-DJ
-Wing
-Bandit
-Slocum
-Moves
-Jacobs
+(D) In four months Gaming Accessories Headset with Microphone Wireless Gamepad Charger Power Cable Game Warehouse 555-1346 $34.96 $26.96 $42.00 $11.96 m Calgary Music Festival Lineup Wednesday Thursday Friday Saturday Sunday Blue Time Karl Smooth DJ Wing Bandit Slocum Moves Jacobs
 90.
 
-95. What can be inferred about Game
-Warehouse?
+95. What can be inferred about Game Warehouse?
 (A) It holds a sale annually.
 (B) It only sells items online.
 (C) It is open late in the summer.
@@ -599,29 +470,22 @@ Warehouse?
 (C) On August 5
 (D) On August 30
 
-97. Look at the graphic. Which item can
-ft customers receive for free?
+97. Look at the graphic. Which item can ft customers receive for free?
 (A) Headset with Microphone
 (B) Wireless Gamepad
 (C) Charger
-(D) Power Cable
-Who most likely is Lisa Gomez?
+(D) Power Cable Who most likely is Lisa Gomez?
 (A) A news reporter
 (B) An event organizer
 (C) A musical performer
 (D) A band manager
-99.
-ill DJ James
-Look at the graphic. When
-ft. Money perform?
+99. ill DJ James Look at the graphic. When ft. Money perform?
 (A) On Thursday
 (B) On Friday
 (C) On Saturday
 (D) On Sunday
 
-100. According to the speaker, what will half of
-the money raised by ticket sales be used
-for?
+100. According to the speaker, what will half of the money raised by ticket sales be used for?
 (A) Supporting a local organization
 (B) Promoting young artists
 (C) Providing free albums to attendees

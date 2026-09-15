@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,13 +73,9 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
-32. According to the woman, what needs to be
-modified?
+32. According to the woman, what needs to be modified?
 (A) An online database
 (B) The details in a brochure
 (C) A personnel policy
@@ -99,8 +87,7 @@ modified?
 (C) Leading a team
 (D) Contacting an executive
 
-34. What does the woman say she will do later
-today?
+34. What does the woman say she will do later today?
 (A) Revise the format of a flyer
 (B) Bring files to an administrator
 (C) Leave for a trade fair
@@ -130,8 +117,7 @@ today?
 (C) A diner
 (D) A chef
 
-39. What does the man imply when he says,
-l||| "I don't know what to tell you"?
+39. What does the man imply when he says, l||| "I don't know what to tell you"?
 (A) He has forgotten an answer.
 (B) He cannot work any faster.
 (C) He does not have a preference.
@@ -155,8 +141,7 @@ l||| "I don't know what to tell you"?
 (C) She was nominated for an award.
 (D) She has been selected for publication.
 
-43. What does the man say about The Oxford
-Club?
+43. What does the man say about The Oxford Club?
 (A) It is closed this Tuesday afternoon.
 (B) It is often busy during the week.
 (C) It is situated near the man's workplace.
@@ -180,8 +165,7 @@ Club?
 (C) Operated a booth
 (D) Met up with acquaintances
 
-47. What does the woman ask permission to
-do?
+47. What does the woman ask permission to do?
 (A) Take a personal day
 (B) Attend a dental conference
 (C) Extend a vacation
@@ -205,8 +189,7 @@ do?
 (C) An event for volunteers
 (D) A method for boosting morale
 
-51. According to the man, what technique does
-the organization use?
+51. According to the man, what technique does the organization use?
 (A) Advertising on television
 (B) Giving away gifts
 (C) Charging membership fees
@@ -218,15 +201,13 @@ the organization use?
 (C) Assemble a team
 (D) Contact a company
 
-53. Where most likely is the conversation
-taking place?
+53. Where most likely is the conversation taking place?
 (A) At a repair shop
 (B) At an office
 (C) At a showroom
 (D) At a manufacturing plant
 
-54. What does the woman mean when she
-says, "We're currently at capacity"?
+54. What does the woman mean when she says, "We're currently at capacity"?
 (A) Items cannot fit into a crate.
 (B) A firm is running low on merchandise.
 (C) Staff are working as hard as possible.
@@ -272,18 +253,7 @@ says, "We're currently at capacity"?
 (A) A staff member will be contacted.
 (B) A session will conclude.
 (C) A memo will be distributed.
-(D) A submission will be reviewed.
-Online Order Form
-Item
-Quantity
-Side plates
-100
-Bread plates
-140
-Wine glasses
-200
-Table cloths
-40
+(D) A submission will be reviewed. Online Order Form Item Quantity Side plates 100 Bread plates 140 Wine glasses 200 Table cloths 40
 
 62. What type of event will be catered? K
 (A) A company founding party
@@ -299,21 +269,9 @@ Table cloths
 (A) Side plates
 (B) Bread plates
 (C) Wine glasses
-(D) Table cloths
-uu
-4>
-LTI
+(D) Table cloths uu 4> LTI
 
-64. Look at the graphic. Which item was on
-ft sale? en
-ID
-Web Site Views
-13,000
-12,000
-11,000
-10,000
-9,000
-January February March April May June
+64. Look at the graphic. Which item was on ft sale? en ID Web Site Views 13,000 12,000 11,000 10,000 9,000 January February March April May June
 
 65. What did the man recently do?
 (A) Became a company spokesperson
@@ -327,24 +285,11 @@ January February March April May June
 (C) A launch event cannot be postponed.
 (D) A message is overly complicated.
 
-67. Look at the graphic. When was a previous
-i|| campaign released?
+67. Look at the graphic. When was a previous i|| campaign released?
 (A) In February
 (B) In March
 (C) In April
-(D) In May
-^ July 1-7
-Mon. 1
-Tue. 2
-Tour of the Garden
-Wed. 3
-Thur. 4
-Garden Care Class
-Fri. 5
-Sat. 6
-Tour of the Garden
-Sun. 7
-Flower Arranging Class
+(D) In May ^ July 1-7 Mon. 1 Tue. 2 Tour of the Garden Wed. 3 Thur. 4 Garden Care Class Fri. 5 Sat. 6 Tour of the Garden Sun. 7 Flower Arranging Class
 
 68. Who is Myra Lawrence?
 (A) A university instructor
@@ -352,8 +297,7 @@ Flower Arranging Class
 (C) A Web site designer
 (D) A facility manager
 
-69. Look at the graphic. When will the man
-||| probably visit the botanical garden?
+69. Look at the graphic. When will the man ||| probably visit the botanical garden?
 (A) On July 2
 (B) On July 4
 (C) On July 6
@@ -363,15 +307,11 @@ Flower Arranging Class
 (A) Purchase materials in advance
 (B) Change an appointment time
 (C) Select an online link
-(D) E-mail a registration form
-128 ^OJ my ■ Boioppq-s Hackerslngang.com
+(D) E-mail a registration form 128 ^OJ my ■ Boioppq-s Hackerslngang.com
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. Where most likely are the listeners?
 (A) At a writing seminar
@@ -397,15 +337,13 @@ answer sheet.
 (C) A function hall
 (D) An interior design service
 
-75. According to the speaker, why should
-listeners visit Green Solutions?
+75. According to the speaker, why should listeners visit Green Solutions?
 (A) To browse through merchandise
 (B) To make a booking
 (C) To place a customized order
 (D) To organize a home visit
 
-76. How can listeners receive a price
-reduction?
+76. How can listeners receive a price reduction?
 (A) By printing out a coupon
 (B) By placing a phone call
 (C) By mentioning a commercial
@@ -417,14 +355,11 @@ reduction?
 (C) A shop owner
 (D) A maintenance worker
 
-78. What does the speaker mean when he
-|i|| says, "It wasn't an easy decision"?
+78. What does the speaker mean when he |i|| says, "It wasn't an easy decision"?
 (A) He was unsure about a rental agreement.
 (B) He considered many possible candidates.
-(C) He found a problem on the woman's
-application.
-(D) He had difficulty selecting an
-appropriate space.
+(C) He found a problem on the woman's application.
+(D) He had difficulty selecting an appropriate space.
 
 79. What is mentioned about the booth?
 (A) It is being used by a vendor.
@@ -432,8 +367,7 @@ appropriate space.
 (C) It is available for three weeks.
 (D) It is being designed by an artist.
 
-80. What does the speaker mention about the
-commuter train system?
+80. What does the speaker mention about the commuter train system?
 (A) It failed a government inspection.
 (B) It had to be completely shut down.
 (C) It is disliked by some individuals.
@@ -445,8 +379,7 @@ commuter train system?
 (C) Announced new regulations
 (D) Launched an online forum
 
-82. According to the speaker, why should
-listeners visit the Web site?
+82. According to the speaker, why should listeners visit the Web site?
 (A) To download some brochures
 (B) To check the status of a project
 (C) To submit questions about a plan
@@ -460,15 +393,13 @@ listeners visit the Web site?
 (C) A legal firm
 (D) A consulting service
 
-84. What is required to be represented by Ace
-Solutions?
+84. What is required to be represented by Ace Solutions?
 (A) A physical examination
 (B) An advanced degree
 (C) A background check
 (D) A long-term contract
 
-85. What does the speaker recommend that
-the listeners do?
+85. What does the speaker recommend that the listeners do?
 (A) Provide feedback on a service
 (B) Sign up for a newsletter
 (C) Renew a membership
@@ -480,8 +411,7 @@ the listeners do?
 (C) A computer retailer
 (D) A public relations firm
 
-87. Why does the speaker say, "But that's not
-^ our final goal"?
+87. Why does the speaker say, "But that's not ^ our final goal"?
 (A) To show that more effort is required
 (B) To propose a new partnership
 (C) To suggest that a new factory will open
@@ -503,8 +433,7 @@ the listeners do?
 (C) It has innovative architectural features.
 (D) It was owned by the royal family.
 
-91. According to the speaker, what is the
-teahouse now used as?
+91. According to the speaker, what is the teahouse now used as?
 (A) A venue for government ceremonies
 (B) A destination for visiting tourists
 (C) A location for live shows
@@ -516,73 +445,32 @@ teahouse now used as?
 (C) A training course
 (D) An upcoming film
 
-93. What does the speaker imply when she
-& says, "All of your previous parts have been
-in action movies"?
-(A) She is confident that a request will be
-met.
+93. What does the speaker imply when she & says, "All of your previous parts have been in action movies"?
+(A) She is confident that a request will be met.
 (B) She is willing to change a film's script.
-(C) She is uncertain about the suitability of
-a role.
-(D) She is aware of an objection to a
-proposal.
+(C) She is uncertain about the suitability of a role.
+(D) She is aware of an objection to a proposal.
 
-94. What will the speaker provide to the
-listener?
+94. What will the speaker provide to the listener?
 (A) An audition schedule
 (B) A draft of a script
 (C) Some legal documents
-(D) Some contact information
-^ Room assignments
-Industry
-Room
-Finance/Investing
-101
-Education
-102
-Petrochemicals
-201
-Engineering
-202
+(D) Some contact information ^ Room assignments Industry Room Finance/Investing 101 Education 102 Petrochemicals 201 Engineering 202
 95.
 96.
-97.
-Who most likely is the speaker
-addressing?
+97. Who most likely is the speaker addressing?
 (A) Students
 (B)Jobseekers
 (C) College administrators
-(D) Business representatives
-What is mentioned about Global
-Education?
+(D) Business representatives What is mentioned about Global Education?
 (A) It has difficulty finding employees.
 (B) It has offices around the world.
 (C) It has reserved the largest booth.
-(D) It has not participated in the event
-before.
-Look at the graphic. Which is the largest
-room at the event?
+(D) It has not participated in the event before. Look at the graphic. Which is the largest room at the event?
 (A) Room 101
 (B) Room 102
 (C) Room 201
-(D) Room 202
-Presidential Palace - Manila
-CUSTOMER RECEIPT
-Guest: Beverly Gilder Room: 1713
-Charge
-Room Rate
-Mini-Bar
-Dry Cleaning
-Spa Services
-Amount
-$138.99
-$8.98
-$15.79
-$46.00
-Tax
-Total Paid
-$20.97
-$230.73
+(D) Room 202 Presidential Palace - Manila CUSTOMER RECEIPT Guest: Beverly Gilder Room: 1713 Charge Room Rate Mini-Bar Dry Cleaning Spa Services Amount $138.99 $8.98 $15.79 $46.00 Tax Total Paid $20.97 $230.73
 
 98. What did the speaker fail to do?
 (A) Book a room in advance
@@ -590,8 +478,7 @@ $230.73
 (C) Request a late check-out time
 (D) Report an error to a supervisor
 
-99. Look at the graphic. How much will the
-|||| speaker probably be refunded?
+99. Look at the graphic. How much will the |||| speaker probably be refunded?
 (A) $138.99
 (B) $8.98
 (C) $15.79

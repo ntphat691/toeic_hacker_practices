@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. What most likely is the man's occupation?
 (A) A salesperson
@@ -92,8 +81,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) A lawyer
 (D) A journalist
 
-33. What does the woman say about Arnold
-Smith?
+33. What does the woman say about Arnold Smith?
 (A) He was recently promoted.
 (B) He reported on some news.
 (C) He already revised a file.
@@ -111,8 +99,7 @@ Smith?
 (C) To provide directions
 (D) To respond to an inquiry
 
-36. What does the woman want to avoid
-doing?
+36. What does the woman want to avoid doing?
 (A) Taking a longer route
 (B) Going to an auto repair shop
 (C) Operating her vehicle
@@ -143,8 +130,7 @@ doing?
 (D) On September 10
 
 41. Why have the speakers been busy?
-(A) A company has gotten multiple
-complaints.
+(A) A company has gotten multiple complaints.
 (B) Some equipment is being installed.
 (C) Some employees are being trained.
 (D) A seminar took longer than expected.
@@ -167,9 +153,7 @@ complaints.
 (C) Bought some bedding
 (D) Replaced a mattress
 
-45. What does the man imply when he says,
-^ "I can look up the transaction using the
-number"?
+45. What does the man imply when he says, ^ "I can look up the transaction using the number"?
 (A) A purchase may be processed.
 (B) A product might be available.
 (C) A receipt should be located.
@@ -181,8 +165,7 @@ number"?
 (C) Check a transaction fee
 (D) Compare some merchandise
 
-47. Where most likely is the conversation
-taking place?
+47. Where most likely is the conversation taking place?
 (A) At an event hall
 (B) At a fabric factory
 (C) At a dry cleaner
@@ -203,8 +186,7 @@ taking place?
 50. What problem does the man mention?
 (A) A concert has been canceled.
 (B) A venue was unexpectedly closed.
-(C) A show experienced technical
-difficulties.
+(C) A show experienced technical difficulties.
 (D) A band did not appear as planned.
 
 51. What did the man do yesterday?
@@ -213,8 +195,7 @@ difficulties.
 (C) Checked schedule changes
 (D) Submitted a complaint
 
-52. Why does the woman say, "we can provide
-^ you with a 20 percent discount"?
+52. Why does the woman say, "we can provide ^ you with a 20 percent discount"?
 (A) To promote a service
 (B) To recommend an option
 (C) To fulfill a request
@@ -232,8 +213,7 @@ difficulties.
 (C) A consumer survey
 (D) A marketing study
 
-55. What will the woman probably do after the
-meeting?
+55. What will the woman probably do after the meeting?
 (A) Contact an applicant
 (B) Conduct an interview
 (C) Edit a posting
@@ -245,8 +225,7 @@ meeting?
 (C) Funding professional development
 (D) Updating hiring procedures
 
-57. According to the woman, what took place
-last Friday?
+57. According to the woman, what took place last Friday?
 (A) A charity event
 (B) A business seminar
 (C) A press conference
@@ -264,8 +243,7 @@ last Friday?
 (C) To ask about a return policy
 (D) To place a product order
 
-60. Why does the woman say, "it will be a gift
-for her housewarming party"?
+60. Why does the woman say, "it will be a gift for her housewarming party"?
 (A) To confirm a delivery time
 (B) To ask for a different service
 (C) To provide a reason for a request
@@ -277,15 +255,13 @@ for her housewarming party"?
 (C) Meet with shipping personnel
 (D) Cancel a previous charge
 
-62. Where most likely is the conversation
-taking place?
+62. Where most likely is the conversation taking place?
 (A) At a product launch
 (B) At a business conference
 (C) At a shareholders' meeting
 (D) At a trade fair
 
-63. How is this year's event different from the
-previous one?
+63. How is this year's event different from the previous one?
 (A) More funding was used.
 (B) Registration fees are higher.
 (C) More attendees are present.
@@ -295,31 +271,7 @@ previous one?
 (A) Take over a work shift
 (B) Set up a booth
 (C) Replace some equipment
-(D) Distribute some documents
-Holly's Cake Shop Menu
-Type
-Size
-Price
-Coconut Cake
-8 in
-$36
-Strawberry Cheesecake
-10 in
-$54
-Carrot Cake
-12 in
-$46
-Chocolate Cake
-14 in
-$58
-Melbourne Bus Terminal
-Line 1
-Line 2 Line 3
-T"
-ft
-Norton Station
-O Subway Stop
-Line 4
+(D) Distribute some documents Holly's Cake Shop Menu Type Size Price Coconut Cake 8 in $36 Strawberry Cheesecake 10 in $54 Carrot Cake 12 in $46 Chocolate Cake 14 in $58 Melbourne Bus Terminal Line 1 Line 2 Line 3 T" ft Norton Station O Subway Stop Line 4
 
 65. Why does the woman thank the man?
 (A) He gave her a venue recommendation.
@@ -351,8 +303,7 @@ Line 4
 (C) The time of a delivery
 (D) The duration of an event
 
-70. Look at the graphic. Which subway line did
-^ the woman take today?
+70. Look at the graphic. Which subway line did ^ the woman take today?
 (A) Line 1
 (B) Line 2
 (C) Line 3
@@ -360,10 +311,7 @@ Line 4
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. What did the speaker agree to do?
 (A) Attend an event
@@ -377,8 +325,7 @@ answer sheet.
 (C) A reservation will be made.
 (D) A performance will begin.
 
-73. What does the speaker want to do later
-today?
+73. What does the speaker want to do later today?
 (A) Exchange a product
 (B) Purchase some tickets
 (C) Visit a venue
@@ -390,34 +337,29 @@ today?
 (C) A discount is no longer available.
 (D) A competitor is offering a new service.
 
-75. What does the speaker mention about the
-Web site?
+75. What does the speaker mention about the Web site?
 (A) It includes additional features.
 (B) It will be updated regularly.
 (C) It was launched yesterday.
 (D) It is receiving fewer visitors.
 
-76. What does the speaker imply when she
-^ says, "Our prices are already low"?
+76. What does the speaker imply when she ^ says, "Our prices are already low"?
 (A) She is upset with a coworker.
 (B) She is doubtful about an idea.
 (C) She is confused by a situation.
-(D) She is concerned about a budget.
-II. What is the speaker advertising?
+(D) She is concerned about a budget. II. What is the speaker advertising?
 (A) A speaker system
 (B) A kitchen appliance
 (C) A device operator
 (D) A television set
 
-78. According to the speaker, how is EX3
-different from competing products?
+78. According to the speaker, how is EX3 different from competing products?
 (A) It is more durable.
 (B) It uses fewer batteries.
 (C) It comes in more colors.
 (D) It is easier to use.
 
-79. What will customers receive if they register
-a product online?
+79. What will customers receive if they register a product online?
 (A) A reduced price
 (B) A complimentary item
 (C) A gift card
@@ -429,15 +371,13 @@ a product online?
 (C) Called a delivery person
 (D) Canceled a purchase
 
-81. What does the speaker imply when he
-^ says, "I really can't believe it"?
+81. What does the speaker imply when he ^ says, "I really can't believe it"?
 (A) He is shocked by a guest turnout.
 (B) He is worried about a late shipment.
 (C) He is overwhelmed with requests.
 (D) He is disappointed with a service.
 
-82. What is suggested about The Blue House
-Restaurant's grand opening?
+82. What is suggested about The Blue House Restaurant's grand opening?
 (A) It was delayed.
 (B) It began at noon.
 (C) It had few attendees.
@@ -471,11 +411,9 @@ Restaurant's grand opening?
 (A) A daily limit was exceeded.
 (B) Transactions were made in two cities.
 (C) A banking service was unavailable.
-(D) Several purchases were made at a
-store.
+(D) Several purchases were made at a store.
 
-88. What does the speaker recommend the
-listener do?
+88. What does the speaker recommend the listener do?
 (A) Examine a record
 (B) Make a withdrawal
 (C) Visit a center
@@ -487,28 +425,17 @@ listener do?
 (C) Customer feedback
 (D) A new company policy
 
-90. When do security personnel arrive at the
-building?
+90. When do security personnel arrive at the building?
 (A) At 7:00 a.m.
 (B) At 7:30 a.m.
 (C) At 8:00 a.m.
 (D) At 8:30 a.m.
 
-91. What does the speaker say he will do this
-afternoon?
+91. What does the speaker say he will do this afternoon?
 (A) Alter a schedule
 (B) Revise a manual
 (C) Hand out a document
-(D) Give a presentation
-*
-Mon
-Tue
-Wed
-Thu
-9 A.M.-11 A.M.
-Session 2 Session 3
-2 P.M. —4 P.M. Session 1
-Session 4
+(D) Give a presentation * Mon Tue Wed Thu 9 A.M.-11 A.M. Session 2 Session 3 2 P.M. —4 P.M. Session 1 Session 4
 
 92. Who most likely is the speaker?
 (A) A writer
@@ -516,24 +443,17 @@ Session 4
 (C) A cameraperson
 (D) A director
 
-93. Look at the graphic. When will the speaker
-^ and Nancy Davis attend a session
-together?
+93. Look at the graphic. When will the speaker ^ and Nancy Davis attend a session together?
 (A) Monday
 (B) Tuesday
 (C) Wednesday
 (D) Thursday
 
-94. What is included in the e-mail sent by the
-speaker?
+94. What is included in the e-mail sent by the speaker?
 (A) Details about a role
 (B) Assignments for a team
 (C) Requests from a producer
-(D) Changes to a script
-KEY:--Beginner
-— Intermediate
-— Advanced
-Summit Resort
+(D) Changes to a script KEY:--Beginner — Intermediate — Advanced Summit Resort
 
 95. What will the listeners do first?
 (A) Practice snowboarding techniques
@@ -541,48 +461,31 @@ Summit Resort
 (C) Read a safety manual
 (D) Watch an instructional video
 
-96. Why should listeners go to the second floor
-of the building?
+96. Why should listeners go to the second floor of the building?
 (A) To pay for some lessons
 (B) To rent a room
 (C) To meet a teacher
 (D) To get some equipment
 
-97. Look at the graphic. Which trail will the
-^ listeners use?
+97. Look at the graphic. Which trail will the ^ listeners use?
 (A) Trail A
 (B) Trail B
 (C) Trail C
-(D) Trail D
-Quarterly Sales
-11,000
-10,000
-9,000
-8,000
-7,000
-6,000
-5,000
-■
-■
-Core Speed Clear Bell
-Spreadsheet Anti-Virus Image Editor Web Browser
+(D) Trail D Quarterly Sales 11,000 10,000 9,000 8,000 7,000 6,000 5,000 ■ ■ Core Speed Clear Bell Spreadsheet Anti-Virus Image Editor Web Browser
 
-98. What department do the listeners most
-likely work in?
+98. What department do the listeners most likely work in?
 (A) Sales
 (B) Marketing
 (C) Accounting
 (D) Human resources
 
-99. Look at the graphic. Which software
-^ product will the company stop selling?
+99. Look at the graphic. Which software ^ product will the company stop selling?
 (A) Core Spreadsheet
 (B) Speed Anti-Virus
 (C) Clear Image Editor
 (D) Bell Web Browser
 
-100. What does the speaker ask the listeners to
-do?
+100. What does the speaker ask the listeners to do?
 (A) Submit a report
 (B) Test a product
 (C) Download a program

@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. Where most likely are the speakers?
 (A) At a car dealership
@@ -104,21 +93,17 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) She did not refill the gas tank.
 (D) She agreed to an upgrade.
 
-35. What does the man say about the book
-fair?
+35. What does the man say about the book fair?
 (A) It was held at a local library.
 (B) It was featured in a major magazine.
 (C) It provided reading materials to kids.
 (D) It had a lower turnout than anticipated.
 
-36. Why does the man say, "Do you have any
-clue as to why she didn't"?
+36. Why does the man say, "Do you have any clue as to why she didn't"?
 (A) He is concerned about a proposal.
-(B) He is curious about an advertising
-decision.
+(B) He is curious about an advertising decision.
 (C) He feels a cost to be reasonable.
-(D) He thinks a choice should be
-reconsidered.
+(D) He thinks a choice should be reconsidered.
 
 37. What was Ms. Gabbert unable to do?
 (A) Devote more funds for an event
@@ -132,15 +117,13 @@ reconsidered.
 (C) Interviewed a local chef
 (D) Hosted an opening event
 
-39. According to the man, what did Lima
-Kitchen recently do?
+39. According to the man, what did Lima Kitchen recently do?
 (A) Developed an online page
 (B) Started business operations
 (C) Offered discount coupons
 (D) Remodeled a dining area
 
-40. What does the man mean when he says,
-^ "maybe something similar is in order"?
+40. What does the man mean when he says, ^ "maybe something similar is in order"?
 (A) He is encouraging more commercials.
 (B) He wants some renovations done.
 (C) He is promoting another article.
@@ -194,14 +177,11 @@ Kitchen recently do?
 (C) A video is longer than anticipated.
 (D) A store interior is not fully prepared.
 
-49. What does the woman mean when she
-ill says, "I think that's what we need to do at
-this point"?
+49. What does the woman mean when she ill says, "I think that's what we need to do at this point"?
 (A) She wants to remove a segment.
 (B) She thinks a film crew should be hired.
 (C) She is ready to start a promotion.
-(D) She would like to release multiple
-videos.
+(D) She would like to release multiple videos.
 
 50. Who most likely is the man?
 (A) A fashion designer
@@ -209,15 +189,13 @@ videos.
 (C) A Web site developer
 (D) A post office worker
 
-51. According to the man, what did the woman
-fail to do?
+51. According to the man, what did the woman fail to do?
 (A) Pay a shipping fee
 (B) Input a correct detail
 (C) Submit a receipt
 (D) Log in to a Web page
 
-52. According to the man, what should the
-woman do with a code?
+52. According to the man, what should the woman do with a code?
 (A) Include it with an order
 (B) Share it with an employee
 (C) Present it to a manager
@@ -229,34 +207,28 @@ woman do with a code?
 (C) It requires regular business trips.
 (D) It involves frequent movements.
 
-54. What type of business does the woman
-work in?
+54. What type of business does the woman work in?
 (A) A clothing distributor
 (B) A footwear factory
 (C) A medical facility
 (D) A retail store
 
-55. What does the man suggest the woman
-do?
+55. What does the man suggest the woman do?
 (A) Seek out a physical therapist
 (B) Consider alternative professions
 (C) Discuss a situation with a supervisor
-(D) Request some additional safety
-equipment
+(D) Request some additional safety equipment
 
 56. What issue does the man mention?
 (A) A Web site is experiencing a glitch.
 (B) A scheduling conflict has occurred.
-(C) A job opening has received little
-interest.
-(D) An application was submitted after a
-due date.
+(C) A job opening has received little interest.
+(D) An application was submitted after a due date.
 
 57. What does the woman offer to do?
 (A) Coordinate with an online firm's staff
 (B) Redesign a social media site
-(C) Arrange an appointment with a
-recruiter
+(C) Arrange an appointment with a recruiter
 (D) Review programmer applications
 
 58. What does the woman ask the man to do?
@@ -284,11 +256,9 @@ recruiter
 (D) A suitcase will be recalled.
 
 59. What is implied about First United Bank?
-(A) It specializes in helping small
-businesses.
+(A) It specializes in helping small businesses.
 (B) It offers loans to all new members.
-(C) It recently launched some new
-services.
+(C) It recently launched some new services.
 (D) It advertises in a publication.
 
 60. Why is the man seeking a loan?
@@ -301,22 +271,7 @@ services.
 (A) Initiate an application process
 (B) Wait for better rates
 (C) Submit personal identification
-(D) Determine a loan amount
-Engel's Department Store
-Purchase Date: July 17
-Item
-Price
-Wriggly deluxe sneakers
-JPX T-shirt (Sale Item)
-Kent dress shirt
-Teton shorts
-$24.99
-$35.32
-$25.14
-$22.25
-Sales Tax: 8%
-Total: $116.32
-Payment Method: Credit Card
+(D) Determine a loan amount Engel's Department Store Purchase Date: July 17 Item Price Wriggly deluxe sneakers JPX T-shirt (Sale Item) Kent dress shirt Teton shorts $24.99 $35.32 $25.14 $22.25 Sales Tax: 8% Total: $116.32 Payment Method: Credit Card
 
 65. What is the conversation mainly about?
 (A) An incorrect charge
@@ -330,19 +285,11 @@ Payment Method: Credit Card
 (C) Mark down an item
 (D) Print out a new receipt
 
-67. Look at the graphic. What brand does the
-ft woman want to return?
+67. Look at the graphic. What brand does the ft woman want to return?
 (A) Wriggly
 (B) JPX
 (C) Kent
-(D) Teton
-Karl Teller
-Dolby Music Hall
-Saturday, August 4 at 7:30 p.m.
-Section
-A
-Seat
-122
+(D) Teton Karl Teller Dolby Music Hall Saturday, August 4 at 7:30 p.m. Section A Seat 122
 
 68. Why is the performance being held?
 (A) To celebrate an album release
@@ -350,15 +297,13 @@ Seat
 (C) To commemorate an anniversary
 (D) To honor the reopening of a hall
 
-69. Look at the graphic. What information is
-ft incorrectly delivered by the man?
+69. Look at the graphic. What information is ft incorrectly delivered by the man?
 (A) The performer's name
 (B) The show time
 (C) The section letter
 (D) The seat number
 
-70. What are audience members not permitted
-to do?
+70. What are audience members not permitted to do?
 (A) Bring beverages into the auditorium
 (B) Take pictures of the performance
 (C) Turn on their cell phones in the hall
@@ -366,13 +311,9 @@ to do?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
-71. According to the speaker, what did the
-speaker receive?
+71. According to the speaker, what did the speaker receive?
 (A) A script
 (B) Some photographs
 (C) Some charts
@@ -396,23 +337,17 @@ speaker receive?
 (C) In a repair shop
 (D) In a convention center
 
-75. According to the speaker, what is a feature of
-the Clear Flow XS?
+75. According to the speaker, what is a feature of the Clear Flow XS?
 (A) It has a lower retail price.
 (B) It is self-cleaning.
 (C) It has a large capacity.
 (D) It is energy efficient.
 
-76. What does the speaker mean when he
-ft says, "I'll go over that in detail soon"?
-(A) He does not have enough time for a
-demonstration.
-(B) He will not provide pricing information
-immediately.
-(C) He would like to explain the company's
-warranty now.
-(D) He wants to focus on an aspect of the
-product's design.
+76. What does the speaker mean when he ft says, "I'll go over that in detail soon"?
+(A) He does not have enough time for a demonstration.
+(B) He will not provide pricing information immediately.
+(C) He would like to explain the company's warranty now.
+(D) He wants to focus on an aspect of the product's design.
 
 77. What is being advertised?
 (A) Landscaping services
@@ -426,8 +361,7 @@ product's design.
 (C) Special financing
 (D) Professional consultations
 
-79. According to the speaker, why should
-listeners contact the office?
+79. According to the speaker, why should listeners contact the office?
 (A) To request images of a site
 (B) To gain entry to a building
 (C) To arrange a tour of a location
@@ -455,8 +389,7 @@ listeners contact the office?
 (A) A service center will be closed.
 (B) Insufficient workers will be available.
 (C) A workshop has been rescheduled.
-(D) Customer complaints have been
-increasing.
+(D) Customer complaints have been increasing.
 
 84. What are the listeners asked to do?
 (A) Inform staff members of a policy
@@ -464,74 +397,49 @@ increasing.
 (C) Cancel approved leaves
 (D) Work some overtime this week
 
-85. Why does the speaker say, "Don't
-HI misunderstand me, though"?
+85. Why does the speaker say, "Don't HI misunderstand me, though"?
 (A) To correct her previous statement
 (B) To introduce an additional detail
 (C) To confirm a decision
 (D) To provide another reason for a change
 
 86. What did the speaker do this morning?
-(A) Posted an advertisement for an open
-position
+(A) Posted an advertisement for an open position
 (B) Met with the manager of another resort
-(C) Read a memo from a company
-executive
+(C) Read a memo from a company executive
 (D) Assigned staff members to new roles
 
-87. What is mentioned about the mentorship
-program?
-(A) It has been used at a headquarters
-office,
+87. What is mentioned about the mentorship program?
+(A) It has been used at a headquarters office,
 (B) It will require extensive staff training.
-(C) It has been successful at other
-companies.
-(D) It will ensure there are many candidates
-for promotion.
+(C) It has been successful at other companies.
+(D) It will ensure there are many candidates for promotion.
 
-88. What does the speaker ask the listeners to
-do?
+88. What does the speaker ask the listeners to do?
 (A) Conduct performance evaluations
 (B) Review a list of candidates for promotion
-(C) Develop a manual for management
-trainees
+(C) Develop a manual for management trainees
 (D) Recommend participants for a program
 
-89. According to the speaker, what did Marsha
-Summers do?
-(A) Appeared on programs by television
-networks
+89. According to the speaker, what did Marsha Summers do?
+(A) Appeared on programs by television networks
 (B) Arranged a domestic business trip
 (C) Wrote an article for a popular magazine
 (D) Conducted marine science research
 
-90. What will the speaker ask Ms. Summers
-about?
+90. What will the speaker ask Ms. Summers about?
 (A) A media organization
 (B) A fundraising event
 (C) An environmental group
 (D) A business venture
 
-91. What does the speaker recommend
-listeners do?
+91. What does the speaker recommend listeners do?
 (A) Make a donation
 (B) Purchase a publication
 (C) Download a schedule
-(D) Post a question
-NAME
-Benny Stein
-GATE FLIGHT SEAT
-224 837 2G
-DATE DEPARTURE TIME
-26NOV 10:45 a.M.
-DESTINATION
-Seattle
-Transcontinental
-CLASS
-Business
+(D) Post a question NAME Benny Stein GATE FLIGHT SEAT 224 837 2G DATE DEPARTURE TIME 26NOV 10:45 a.M. DESTINATION Seattle Transcontinental CLASS Business
 
-92. Look at the graphic. What time will Benny
-HI Stein be permitted to board the aircraft?
+92. Look at the graphic. What time will Benny HI Stein be permitted to board the aircraft?
 (A) At 10:00 a.m.
 (B) At 10:10 a.m.
 (C) At 10:25 a.m.
@@ -547,48 +455,25 @@ HI Stein be permitted to board the aircraft?
 (A) An aircraft will depart.
 (B) A technician will be contacted.
 (C) An announcement will be made.
-(D) A repair will be completed.
-Scheduled Power Outages
-Neighborhood
-Date
-Outage Time
-Buckhead
-August 11
-1 1 A.M. - 3 P.M.
-Emory Hills
-August 12
-12 A.M. - 5 A.M.
-Decatur
-August 13
-1 P.M. - 5 P.M.
-Midtown
-August 14
-10 A.M. - 2:30 P.M.
+(D) A repair will be completed. Scheduled Power Outages Neighborhood Date Outage Time Buckhead August 11 1 1 A.M. - 3 P.M. Emory Hills August 12 12 A.M. - 5 A.M. Decatur August 13 1 P.M. - 5 P.M. Midtown August 14 10 A.M. - 2:30 P.M.
 
-95. Why will some neighborhoods temporarily
-lose power?
+95. Why will some neighborhoods temporarily lose power?
 (A) A system will be improved.
 (B) A storm damaged power lines.
 (C) A safety inspection is needed.
 (D) A plant requires repairs.
 
-96. Look at the graphic. When will an outage
-flp occur in a commercial neighborhood?
+96. Look at the graphic. When will an outage flp occur in a commercial neighborhood?
 (A) On August 11
 (B) On August 12
 (C) On August 13
 (D) On August 14
 
-97. According to the speaker, why should a
-listener call the customer service
-department?
+97. According to the speaker, why should a listener call the customer service department?
 (A) To make a utility payment
 (B) To request a service upgrade
 (C) To confirm an outage schedule
-(D) To report an electrical problem
-Park Hours
-Weekdays: 6:00 a.m. - 6:00 p.m.
-Weekends: 6:00 a.m. - 10:00 p.m.
+(D) To report an electrical problem Park Hours Weekdays: 6:00 a.m. - 6:00 p.m. Weekends: 6:00 a.m. - 10:00 p.m.
 
 98. What assignment was the listener given?
 (A) Scheduling an exercise class
@@ -596,15 +481,13 @@ Weekends: 6:00 a.m. - 10:00 p.m.
 (C) Arranging a business trip
 (D) Promoting a sports competition
 
-99. What does the man suggest the listener
-do?
+99. What does the man suggest the listener do?
 (A) Change a schedule
 (B) Reserve a venue
 (C) Contact an assistant
 (D) Cancel a trip
 
-100. Look at the graphic. Where is the sign
-Hll most likely located?
+100. Look at the graphic. Where is the sign Hll most likely located?
 (A) In Baker Park
 (B) In Pine Park
 (C) In Taylor Park

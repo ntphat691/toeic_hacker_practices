@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. Why is the man calling?
 (A) To purchase a ticket
@@ -92,8 +81,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) To change a reservation
 (D) To confirm a flight time
 
-33. Where will Ms. Ming most likely go first
-upon arrival?
+33. Where will Ms. Ming most likely go first upon arrival?
 (A) To an office
 (B) To a train station
 (C) To a hotel
@@ -117,8 +105,7 @@ upon arrival?
 (C) A registration form
 (D) A medicine prescription
 
-40. According to the woman, what is a benefit
-of the new system?
+40. According to the woman, what is a benefit of the new system?
 (A) Patients will be notified.
 (B) Records will be protected.
 (C) Information will be shared.
@@ -130,8 +117,7 @@ of the new system?
 (C) Event catering
 (D) Diet programs
 
-36. What does the woman mention about the
-menu?
+36. What does the woman mention about the menu?
 (A) It includes a vegetarian selection.
 (B) It was recently revised.
 (C) It indicates discounts for group orders.
@@ -161,8 +147,7 @@ menu?
 (C) A manufacturing process
 (D) The names of some assistants
 
-44. According to the woman, what does the
-supervisor want to do?
+44. According to the woman, what does the supervisor want to do?
 (A) Search for an architect
 (B) Change a meeting time
 (C) Look over some plans
@@ -174,8 +159,7 @@ supervisor want to do?
 (C) A building has been closed down.
 (D) A customer has made a complaint.
 
-46. Why does the man say, "I'll e-mail you the
-presentation materials in a minute"?
+46. Why does the man say, "I'll e-mail you the presentation materials in a minute"?
 (A) To agree to take on an assignment
 (B) To show interest in a project
 (C) To accept an offer of help
@@ -217,14 +201,11 @@ presentation materials in a minute"?
 (C) Visit an administrator's office
 (D) Submit a curriculum outline
 53.
-54.
-Who most likely is the woman?
+54. Who most likely is the woman?
 (A) A supermarket manager
 (B) A restaurant owner
 (C) A produce vendor
-(D) A market analyst
-What does the man mean when he says,
-"My blog gets a lot of visitors"?
+(D) A market analyst What does the man mean when he says, "My blog gets a lot of visitors"?
 (A) A Web site needs to be updated.
 (B) An information source is accurate.
 (C) An online discount is available.
@@ -242,8 +223,7 @@ What does the man mean when he says,
 (C) A corporate event
 (D) A community festival
 
-57. According to the man, what has the
-woman agreed to do?
+57. According to the man, what has the woman agreed to do?
 (A) Pass out programs to guests
 (B) Arrive in the afternoon
 (C) Set up some booths
@@ -255,8 +235,7 @@ woman agreed to do?
 (C) Revise some records
 (D) Coordinate with a supervisor
 
-62. What type of business do the speakers
-probably work for?
+62. What type of business do the speakers probably work for?
 (A) A taxi service
 (B) A vehicle rental agency
 (C) A shipping company
@@ -280,8 +259,7 @@ probably work for?
 (C) At a design studio
 (D) At a retail outlet
 
-60. Why does the woman say, "Don't we have
-lH something like that near the entrance"?
+60. Why does the woman say, "Don't we have lH something like that near the entrance"?
 (A) To propose a solution
 (B) To confirm a location
 (C) To offer encouragement
@@ -291,52 +269,21 @@ lH something like that near the entrance"?
 (A) Looking for artwork online
 (B) Picking up a catalog
 (C) Taking an extended break
-(D) Going to a popular attraction
-60 ON TO THE NEXT PAGE
-TEST5 PARTS 85
-Visitor
-Coastal
-Center
-Rest Stop
-Seaside
-Pavilion
-Harbor
-Rest Stop
-03 (f)
-Cl) O)
-03 -f
-o CO
-3°
-Coral
-Pavilion
-Conference Room C Schedule
-Meeting Time
-Booked By
-10 A.M. - 1 1 A.M.
-Scott White
-1 P.M. - 2 P.M.
-Vera Gonzalez
-3 P.M. - 4 P.M.
-Brad Derby
-4 P.M. - 5 P.M.
-Janice Chung
+(D) Going to a popular attraction 60 ON TO THE NEXT PAGE TEST5 PARTS 85 Visitor Coastal Center Rest Stop Seaside Pavilion Harbor Rest Stop 03 (f) Cl) O) 03 -f o CO 3° Coral Pavilion Conference Room C Schedule Meeting Time Booked By 10 A.M. - 1 1 A.M. Scott White 1 P.M. - 2 P.M. Vera Gonzalez 3 P.M. - 4 P.M. Brad Derby 4 P.M. - 5 P.M. Janice Chung
 
-65. Look at the graphic. Where is the
-||i| observation deck located?
+65. Look at the graphic. Where is the ||i| observation deck located?
 (A) In Seaside Pavilion
 (B) In Coastal Rest Stop
 (C) In Harbor Rest Stop
 (D) In Coral Pavilion
 
-66. What does the woman say about the
-boardwalk?
+66. What does the woman say about the boardwalk?
 (A) It will be crowded tomorrow.
 (B) It will undergo renovations.
 (C) It is far from a parking lot.
 (D) It was damaged by poor weather.
 
-67. How much of a parking fee discount is
-offered to local residents?
+67. How much of a parking fee discount is offered to local residents?
 (A) 10 percent
 (B) 15 percent
 (C) 20 percent
@@ -345,12 +292,10 @@ offered to local residents?
 68. What problem does the woman mention?
 (A) A meeting space is fully booked.
 (B) A mark has been made on a rug.
-(C) An applicant is running behind
-schedule.
+(C) An applicant is running behind schedule.
 (D) A light fixture has been damaged.
 
-69. Look at the graphic. Who booked the room
-ft for a client meeting?
+69. Look at the graphic. Who booked the room ft for a client meeting?
 (A) Scott White
 (B) Vera Gonzalez
 (C) Brad Derby
@@ -364,10 +309,7 @@ ft for a client meeting?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 77. What is the announcement mainly about?
 (A) A store opening
@@ -375,15 +317,13 @@ answer sheet.
 (C) A monthly sale
 (D) An event promotion
 
-78. What does the speaker say people will be
-excited to do?
+78. What does the speaker say people will be excited to do?
 (A) Attend a screening
 (B) Sign up for a newsletter
 (C) Watch a performance
 (D) Meet an author
 
-79. What does the speaker suggest listeners
-do?
+79. What does the speaker suggest listeners do?
 (A) Purchase a pass
 (B) Download a program
 (C) Check an online schedule
@@ -395,8 +335,7 @@ do?
 (C) To open a conference
 (D) To promote a new car
 
-75. According to the speaker, what was
-Mr. Chao in charge of?
+75. According to the speaker, what was Mr. Chao in charge of?
 (A) Writing a magazine article
 (B) Communicating with clients
 (C) Meeting monthly sales targets
@@ -414,8 +353,7 @@ Mr. Chao in charge of?
 (C) At a sportswear retailer
 (D) At a chain restaurant
 
-72. How much of a discount can some
-customers receive?
+72. How much of a discount can some customers receive?
 (A) 5 percent
 (B) 10 percent
 (C) 15 percent
@@ -427,15 +365,13 @@ customers receive?
 (C) Reset an old code
 (D) Learn about a point system
 
-80. What industry does the speaker most likely
-work in?
+80. What industry does the speaker most likely work in?
 (A) Manufacturing
 (B) Construction
 (C) Advertising
 (D) Distribution
 
-81. Why does the speaker say, "Elevated Time
-||j| sells its watches in over 50 countries"?
+81. Why does the speaker say, "Elevated Time ||j| sells its watches in over 50 countries"?
 (A) To motivate some volunteers
 (B) To emphasize the growth of a company
 (C) To encourage registration
@@ -459,8 +395,7 @@ work in?
 (C) Managing a special budget
 (D) Carrying out research
 
-85. What does the speaker say about the
-party?
+85. What does the speaker say about the party?
 (A) He expected more guests.
 (B) He did not know about it.
 (C) He planned to invite his family.
@@ -472,30 +407,25 @@ party?
 (C) At a sports facility
 (D) At a community park
 
-87. Why does the speaker say, "That area
-^ must be kept clear for emergency
-vehicles"?
+87. Why does the speaker say, "That area ^ must be kept clear for emergency vehicles"?
 (A) To explain a request
 (B) To correct a misstatement
 (C) To make a complaint
 (D) To suggest an alternative
 
-88. What are listeners asked to do after the
-event?
+88. What are listeners asked to do after the event?
 (A) Clean up a venue
 (B) Assist attendees
 (C) Speak with a staff member
 (D) Direct traffic
 
-89. According to the speaker, what will be
-opening this week?
+89. According to the speaker, what will be opening this week?
 (A) A toy shop
 (B) A radio station
 (C) An artist workspace
 (D) An apartment building
 
-90. What is mentioned about Wentworth
-Warehouse?
+90. What is mentioned about Wentworth Warehouse?
 (A) It was converted into housing.
 (B) It was purchased at a discount.
 (C) It was demolished recently.
@@ -508,52 +438,21 @@ Warehouse?
 (D) An interview
 92.
 93.
-94.
-%
-Landville Plaza Directory
-Floor
-Department
-1
-Finance
-2
-Sales
-3
-Human Resources
-4
-Customer Service
-5
-Research and Development
-According to the speaker, what did the
-listener do yesterday?
+94. % Landville Plaza Directory Floor Department 1 Finance 2 Sales 3 Human Resources 4 Customer Service 5 Research and Development According to the speaker, what did the listener do yesterday?
 (A) Held interviews with applicants
 (B) Departed for a gathering
 (C) Talked to a colleague
-(D) Transferred to a new division
-What is Victoria Styles willing to do?
+(D) Transferred to a new division What is Victoria Styles willing to do?
 (A) Lead an orientation session
 (B) Accept a promotion
 (C) Make some travel arrangements
-(D) Reach out to a customer
-Look at the graphic. What department
-does Victoria Styles work in?
+(D) Reach out to a customer Look at the graphic. What department does Victoria Styles work in?
 (A) Finance
 (B) Human Resources
 (C) Customer Service
-(D) Research and Development
-EASTERN FERRY LINE
-ADULT
-SINGLE FARE
-Destination: Hartsville
-Ship Name: Atlantic Star
-Ticket No. E12304
-P"
-Monday
-Tuesday Wednesday Thursday
-Friday
--'fO
+(D) Research and Development EASTERN FERRY LINE ADULT SINGLE FARE Destination: Hartsville Ship Name: Atlantic Star Ticket No. E12304 P" Monday Tuesday Wednesday Thursday Friday -'fO
 
-95. Look at the graphic. When will the ticket
-holder be permitted to board the vessel?
+95. Look at the graphic. When will the ticket holder be permitted to board the vessel?
 (A) At 3:10 p.m.
 (B) At 3:30 p.m.
 (C) At 4:00 p.m.
@@ -577,8 +476,7 @@ holder be permitted to board the vessel?
 (C) A report contained accurate data.
 (D) A task was finished ahead of schedule.
 
-99. Look at the graphic. When will the test
-HI most likely be conducted?
+99. Look at the graphic. When will the test HI most likely be conducted?
 (A) On Tuesday
 (B) On Wednesday
 (C) On Thursday

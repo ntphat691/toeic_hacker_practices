@@ -2,19 +2,13 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -24,9 +18,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -79,10 +71,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 31. Mark your answer on your answer sheet.
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. Who most likely are the speakers?
 (A) Travel agents
@@ -90,8 +79,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) Advertising executives
 (D) Environmental researchers
 
-33. What is mentioned about the Silkwood
-Hotel?
+33. What is mentioned about the Silkwood Hotel?
 (A) It launched a new service.
 (B) It has renovated its suites.
 (C) It is hosting a conference.
@@ -145,13 +133,11 @@ Hotel?
 (C) A bill has not arrived.
 (D) A charge was higher than expected.
 
-42. What does the woman imply when she
-HI says, "It could be a big job"?
+42. What does the woman imply when she HI says, "It could be a big job"?
 (A) She is concerned about cost.
 (B) She would like to get another opinion.
 (C) She will hire an assistant.
-(D) She thinks a project should be
-postponed.
+(D) She thinks a project should be postponed.
 
 43. What will the man probably do next?
 (A) Replace a broken pipe
@@ -183,8 +169,7 @@ postponed.
 (C) A staff request
 (D) A meeting's location
 
-48. Why does the woman say, "It seems like
-(||} the right thing to do"?
+48. Why does the woman say, "It seems like (||} the right thing to do"?
 (A) To approve an employee transfer
 (B) To recommend hosting a celebration
 (C) To show support for higher salaries
@@ -202,22 +187,19 @@ postponed.
 (C) A device is malfunctioning.
 (D) A proposal was rejected.
 
-51. What is scheduled to happen in the
-afternoon?
+51. What is scheduled to happen in the afternoon?
 (A) An employee orientation
 (B) An executive meeting
 (C) A technology seminar
 (D) A product demonstration
 
-52. What does the man imply about the IT
-department?
+52. What does the man imply about the IT department?
 (A) It will hire additional staff.
 (B) It is not currently busy.
 (C) It moved to a new office.
 (D) It has a new department head.
 
-53. According to the woman, what do some
-customers want to buy?
+53. According to the woman, what do some customers want to buy?
 (A) A portable charger
 (B) A room furnishing
 (C) A mobile phone
@@ -235,15 +217,13 @@ customers want to buy?
 (C) Contacting a product manufacturer
 (D) Rewarding some staff members
 
-56. How did the woman find out about the
-event at the museum?
+56. How did the woman find out about the event at the museum?
 (A) By listening to the radio
 (B) By watching television
 (C) By reading a magazine
 (D) By talking to a friend
 
-57. According to the man, what did the
-National Space Agency do?
+57. According to the man, what did the National Space Agency do?
 (A) Purchased some instruments
 (B) Conducted a study
 (C) Designed a display
@@ -261,8 +241,7 @@ National Space Agency do?
 (C) The progress of construction work
 (D) Plans for a staff meeting
 
-60. According to the man, when do the extra
-racks need to arrive?
+60. According to the man, when do the extra racks need to arrive?
 (A) On Tuesday
 (B) On Wednesday
 (C) On Thursday
@@ -274,95 +253,49 @@ racks need to arrive?
 (C) Confirm a discount amount
 (D) Locate delivered packages
 
-62. According to the man, what did the woman
-do earlier today?
+62. According to the man, what did the woman do earlier today?
 (A) Recorded a message
 (B) Stopped by a reception desk
 (C) Received a parcel
 (D) Canceled an order
 
-63. What does the woman mean when she
-Hi says, "That's what I figured"?
+63. What does the woman mean when she Hi says, "That's what I figured"?
 (A) She noticed an error.
 (B) She confirmed a delay.
 (C) She anticipated a cost increase.
 (D) She identified staffing needs.
 
-64. When did the man originally plan to finish
-the work?
+64. When did the man originally plan to finish the work?
 (A) At 10 a.m.
 (B) At 11 A.M.
 (C) At 12 p.m.
-(D) At 1 p.m.
-Bedford Dry Cleaners
-Customer: Paula Steinman
-Drop-off Date: May 22
-Item
-Service
-Charge
-Jean jacket
-Add buttons
-$5
-Silk dress
-Shorten
-$15
-Leather skirt
-Clean
-$20
-Silk shirt
-Press
-$10
-Total Paid
-$50
+(D) At 1 p.m. Bedford Dry Cleaners Customer: Paula Steinman Drop-off Date: May 22 Item Service Charge Jean jacket Add buttons $5 Silk dress Shorten $15 Leather skirt Clean $20 Silk shirt Press $10 Total Paid $50
 
-65. What event will the speakers attend
-tomorrow night?
+65. What event will the speakers attend tomorrow night?
 (A) A grand opening sale
 (B) A fashion show
 (C) A fund-raising event
 (D) A trade fair
 
-66. Why does the man want to switch dry
-cleaners?
+66. Why does the man want to switch dry cleaners?
 (A) A garment was damaged.
 (B) A business is going to close.
 (C) A promotion has expired.
 (D) A location is more convenient.
 
-67. Look at the graphic. Which service
-ill qualifies for a discount?
+67. Look at the graphic. Which service ill qualifies for a discount?
 (A) Adding buttons
 (B) Shortening
 (C) Cleaning
-(D) Pressing
-w
-Hartford Public Library
-New Books (August)
-Field
-Title
-Available from
-Language
-Beginner Japanese
-August 7
-Home
-Storage and You
-August 7
-History
-The History of London
-August 13
-T ravel
-A Guide to Marseilles
-August 13
+(D) Pressing w Hartford Public Library New Books (August) Field Title Available from Language Beginner Japanese August 7 Home Storage and You August 7 History The History of London August 13 T ravel A Guide to Marseilles August 13
 
-68. According to the man, what is the
-maximum loan period?
+68. According to the man, what is the maximum loan period?
 (A) One week
 (B) Two weeks
 (C) Three weeks
 (D) Four weeks
 
-69. Look at the graphic. Which book will arrive
-s|||f in September?
+69. Look at the graphic. Which book will arrive s|||f in September?
 (A) Beginner Japanese
 (B) Storage and You
 (C) The History of London
@@ -376,10 +309,7 @@ s|||f in September?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. What can employees do next week?
 (A) Sign up for a contest
@@ -387,15 +317,13 @@ answer sheet.
 (C) Make various crafts
 (D) Decorate a lobby
 
-72. When will employees most likely visit the
-community center?
+72. When will employees most likely visit the community center?
 (A) On June 9
 (B) On June 12
 (C) On June 13
 (D) On June 16
 
-73. What should some listeners do before the
-end of the day?
+73. What should some listeners do before the end of the day?
 (A) Contact a coworker
 (B) Pick up a product
 (C) Participate in a workshop
@@ -405,11 +333,9 @@ end of the day?
 (C) A resort manager
 (D) A photographer
 
-78. Why does the speaker say, "We'll spend
-fHI about an hour here"?
+78. Why does the speaker say, "We'll spend fHI about an hour here"?
 (A) To request that listeners be patient
-(B) To encourage participation in a
-performance
+(B) To encourage participation in a performance
 (C) To notify listeners of a schedule change
 (D) To confirm that a plan will be followed
 
@@ -425,8 +351,7 @@ performance
 (C) A new return policy
 (D) An online reservation
 
-75. What does the speaker recommend the
-listener do on the holidays?
+75. What does the speaker recommend the listener do on the holidays?
 (A) Use the side entrance of a building
 (B) Call an information hotline
 (C) Place an item in a container
@@ -444,15 +369,13 @@ listener do on the holidays?
 (C) An economic report was released.
 (D) A company merger took place.
 
-81. What does the speaker say about the city
-government?
+81. What does the speaker say about the city government?
 (A) It will request repayment of a debt.
 (B) It will receive additional revenue.
 (C) It will take control of a property.
 (D) It will manage a renovation project.
 
-82. What is suggested about Analytic
-Systems?
+82. What is suggested about Analytic Systems?
 (A) It will increase its payroll taxes.
 (B) It will purchase another factory.
 (C) Its relocation caused many job losses.
@@ -464,8 +387,7 @@ Systems?
 (C) A decorator
 (D) A conference organizer
 
-84. What does the man mean when he says,
-m "A real triumph"?
+84. What does the man mean when he says, m "A real triumph"?
 (A) A company has won an award.
 (B) A task was difficult to complete.
 (C) A request was unexpected.
@@ -483,16 +405,13 @@ m "A real triumph"?
 (C) To describe an event
 (D) To introduce a service
 
-87. What does the speaker mention about the
-device?
+87. What does the speaker mention about the device?
 (A) It can be used in many museums.
 (B) It plays content automatically.
 (C) It must be reserved in advance.
 (D) It has several language settings.
 
-88. According to the speaker, how can
-listeners get information about a temporary
-exhibition?
+88. According to the speaker, how can listeners get information about a temporary exhibition?
 (A) By speaking to an employee
 (B) By visiting a booth
 (C) By joining a group
@@ -514,24 +433,7 @@ exhibition?
 (A) A copy of a receipt
 (B) A credit card
 (C) A registration form
-(D) A piece of identification
-w
-Delivery Schedule
-Date
-Company
-Shipment Contents
-May 12
-Lloyd Ferris
-Dishwashers
-May 13
-Monroe Industries
-Dryers
-May 14
-Abdul & Sons
-Microwaves
-May 15
-Stone Incorporated
-Refrigerators
+(D) A piece of identification w Delivery Schedule Date Company Shipment Contents May 12 Lloyd Ferris Dishwashers May 13 Monroe Industries Dryers May 14 Abdul & Sons Microwaves May 15 Stone Incorporated Refrigerators
 
 92. Where do the listeners work?
 (A) At a retail store
@@ -539,28 +441,17 @@ Refrigerators
 (C) At a testing facility
 (D) At a manufacturing plant
 
-93. What does the speaker ask one of the
-listeners to do?
+93. What does the speaker ask one of the listeners to do?
 (A) Give an employee a tour
 (B) Post a notice near an exit
 (C) Print out a new schedule
 (D) Record some notes
 
-94. Look at the graphic. Which company has
-ft postponed its delivery?
+94. Look at the graphic. Which company has ft postponed its delivery?
 (A) Lloyd Ferris
 (B) Monroe Industries
 (C) Abdul & Sons
-(D) Stone Incorporated
-Oakridge Subway Station
-Exit 10
-Harbor Street
-Exit 11
-Field Street
-Exit 12
-Bridge Street
-Exit 13
-Oak Street
+(D) Stone Incorporated Oakridge Subway Station Exit 10 Harbor Street Exit 11 Field Street Exit 12 Bridge Street Exit 13 Oak Street
 
 95. Why is the speaker calling?
 (A) To announce an art gallery opening
@@ -574,32 +465,13 @@ Oak Street
 (C) Provide a refund
 (D) Reserve some seats
 
-97. Look at the graphic. Which exit is closest
-|||t to the administration office?
+97. Look at the graphic. Which exit is closest |||t to the administration office?
 (A) Exit 10
 (B) Exit 11
 (C) Exit 12
-(D) Exit 13
-W Leung Kitchen
-Thayer Technologies
-Patsy's
-Parking Lot
-Westside Supermarket
-■D
-05
-O
-Diner
-Cedar Street
-LL
-O
-Hayden Park
-Luis Pizzeria
-Shea
-Parking Lot
-Pub
+(D) Exit 13 W Leung Kitchen Thayer Technologies Patsy's Parking Lot Westside Supermarket ■D 05 O Diner Cedar Street LL O Hayden Park Luis Pizzeria Shea Parking Lot Pub
 
-98. According to the speaker, what did the
-interns do?
+98. According to the speaker, what did the interns do?
 (A) Assisted with a company event
 (B) Participated in off-site training
 (C) Organized a surprise party
@@ -611,8 +483,7 @@ interns do?
 (C) Conduct intern evaluations
 (D) Reschedule overtime work
 
-100. Look at the graphic. Where does the
-^ speaker suggest going?
+100. Look at the graphic. Where does the ^ speaker suggest going?
 (A) Leung Kitchen
 (B) Patsy's Diner
 (C) Luis Pizzeria

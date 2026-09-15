@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -80,10 +72,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 31. Mark your answer on your answer sheet.
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. What will the community center receive?
 (A) Donations from a company
@@ -97,8 +86,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) Order additional books
 (D) Run an educational workshop
 
-34. Why must the speakers review some
-documents?
+34. Why must the speakers review some documents?
 (A) To compare some prices
 (B) To identify some donors
 (C) To determine some restrictions
@@ -110,8 +98,7 @@ documents?
 (C) It is only an hour away.
 (D) It is hosting a major event.
 
-39. According to the woman, why is
-Mr. Herman coming to the office?
+39. According to the woman, why is Mr. Herman coming to the office?
 (A) To train some personnel
 (B) To discuss travel arrangements
 (C) To make an announcement
@@ -135,8 +122,7 @@ Mr. Herman coming to the office?
 (C) On Friday morning
 (D) On Friday afternoon
 
-37. What will the man most likely bring for the
-woman?
+37. What will the man most likely bring for the woman?
 (A) A resume
 (B) A work sample
 (C) An application form
@@ -148,22 +134,19 @@ woman?
 (C) A bank has closed for construction.
 (D) A fee has been increased.
 
-42. What does the woman mean when she
-||| says, "I'm in a bit of a rush"?
+42. What does the woman mean when she ||| says, "I'm in a bit of a rush"?
 (A) She needs to return to the office.
 (B) She does not want to miss a train.
 (C) She has to catch a flight soon.
 (D) She is late for a social gathering.
 
-43. What does the man suggest the woman
-do?
+43. What does the man suggest the woman do?
 (A) Make a formal complaint
 (B) Travel to another branch
 (C) Postpone a trip
 (D) Speak with an employee
 
-44. According to the woman, what has caused
-a distraction?
+44. According to the woman, what has caused a distraction?
 (A) Excessive heat
 (B) Building construction
 (C) Untidy offices
@@ -175,8 +158,7 @@ a distraction?
 (C) Clean an office space
 (D) Change an appointment date
 
-46. What is probably going to take place on
-Friday?
+46. What is probably going to take place on Friday?
 (A) A company outing
 (B) A retirement party
 (C) A technical seminar
@@ -188,8 +170,7 @@ Friday?
 (C) At a grocery store
 (D) At a landscaping firm
 
-48. What does the woman say her company
-did last summer?
+48. What does the woman say her company did last summer?
 (A) Took on a commercial job
 (B) Expanded to other cities
 (C) Relocated its headquarters
@@ -231,8 +212,7 @@ did last summer?
 (C) Practice giving a presentation
 (D) Attend a technology conference
 
-55. What does the man mean when he says,
-"I can join you in the conference room"?
+55. What does the man mean when he says, "I can join you in the conference room"?
 (A) He will finish a task soon.
 (B) He will offer some comments.
 (C) He has agreed to a time change.
@@ -244,8 +224,7 @@ did last summer?
 (C) At a construction site
 (D) In a residential unit
 
-57. Why does the woman want to wait to make
-up her mind?
+57. Why does the woman want to wait to make up her mind?
 (A) She needs to determine a budget.
 (B) She has to consult a friend.
 (C) She will look at another space.
@@ -269,19 +248,11 @@ up her mind?
 (C) They will transfer to a new division.
 (D) They will undergo an assessment.
 
-61. Why does the woman require the man's
-approval?
+61. Why does the woman require the man's approval?
 (A) She needs to conduct an analysis.
 (B) She plans to post a memo.
 (C) She wants to submit another offer.
-(D) She wishes to agree to a deal.
-Area A
-Area C
-Entrance
-Area B
-Refreshment
-Stand
-Area D
+(D) She wishes to agree to a deal. Area A Area C Entrance Area B Refreshment Stand Area D
 
 62. What type of event is happening tonight?
 (A) A performance rehearsal
@@ -295,17 +266,11 @@ Area D
 (C) Hang up some frames
 (D) Greet incoming guests
 
-64. Look at the graphic. Where most likely will
-& photos be taken?
+64. Look at the graphic. Where most likely will & photos be taken?
 (A) In Area A
 (B) In Area B
 (C) In Area C
-(D) In Area D
-Pacific Sports Supplies
-20% off any purchase over $100
-Valid until July 31
-At all branches in California
-May be combined with other discounts
+(D) In Area D Pacific Sports Supplies 20% off any purchase over $100 Valid until July 31 At all branches in California May be combined with other discounts
 
 65. What does the man ask about?
 (A) The popularity of some merchandise
@@ -313,11 +278,9 @@ May be combined with other discounts
 (C) The weight of some equipment
 (D) The availability of an accessory
 
-66. Look at the graphic. Why is the man
-lU unable to use the coupon?
+66. Look at the graphic. Why is the man lU unable to use the coupon?
 (A) An expiration date has already passed
-(B) A branch is not participating in a
-promotion.
+(B) A branch is not participating in a promotion.
 (C) A product is currently on sale.
 (D) A purchase amount is too low.
 
@@ -325,28 +288,7 @@ promotion.
 (A) Provide gear recommendations
 (B) Restock a bike display
 (C) Lead a customer to a checkout
-(D) Process a request for a refund
-Flight Destination Status Updated Arrival Time
-AB701
-Phoenix
-On Time
-9:00 A.M.
-UR770
-Portland
-Delayed
-10:30 A.M.
-WX803
-Cincinnati
-Delayed
-12:00 p.M.
-ZP890
-Portland
-On Time
-3:30 P.M.
-TA900
-Dallas
-Delayed
-6:00 P.M.
+(D) Process a request for a refund Flight Destination Status Updated Arrival Time AB701 Phoenix On Time 9:00 A.M. UR770 Portland Delayed 10:30 A.M. WX803 Cincinnati Delayed 12:00 p.M. ZP890 Portland On Time 3:30 P.M. TA900 Dallas Delayed 6:00 P.M.
 
 68. Why is the man worried?
 (A) A ticket was not printed.
@@ -360,20 +302,15 @@ Delayed
 (C) Check in at a gate
 (D) Inform a supervisor of an arrival time
 
-70. Look at the graphic. Which flight will the
-lU speakers take?
+70. Look at the graphic. Which flight will the lU speakers take?
 (A) UR770
 (B) WX803
 (C) ZP890
-(D) TA900
-44 Hackerslngang.com
+(D) TA900 44 Hackerslngang.com
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. What was changed recently?
 (A) The name of a company
@@ -393,22 +330,19 @@ answer sheet.
 (C) To complete some paperwork
 (D) To take a short test
 
-74. What is mentioned about the Eastwood
-Entertainment?
+74. What is mentioned about the Eastwood Entertainment?
 (A) It is planning a fundraiser.
 (B) It has recently relocated.
 (C) It will hire a new manager.
 (D) It purchased a venue.
 
-75. What does the speaker imply when he
-Hi says, "tickets will go quickly"?
+75. What does the speaker imply when he Hi says, "tickets will go quickly"?
 (A) A theater has few seats.
 (B) A deal is ending.
 (C) A price is reasonable.
 (D) An actor is famous.
 
-76. What does the speaker recommend that
-listeners do?
+76. What does the speaker recommend that listeners do?
 (A) View an online map
 (B) Purchase a discounted ticket
 (C) Attend a press conference
@@ -426,8 +360,7 @@ listeners do?
 (C) Oversaw a business merger
 (D) Accepted a job at an agency
 
-79. What will happen over the next two
-weeks?
+79. What will happen over the next two weeks?
 (A) Discounts will be offered.
 (B) A survey will be conducted.
 (C) A campaign will be developed.
@@ -439,8 +372,7 @@ weeks?
 (C) An appliance repair shop
 (D) A computer manufacturer
 
-81. According to the speaker, what happens
-each month?
+81. According to the speaker, what happens each month?
 (A) A device is put on sale.
 (B) An exhibit is held.
 (C) An item is given away.
@@ -464,23 +396,19 @@ each month?
 (C) To post flyers around a city
 (D) To represent a business at an event
 
-85. According to the speaker, what has
-already been done?
+85. According to the speaker, what has already been done?
 (A) A legal professional was contacted.
 (B) Some handouts were prepared.
 (C) Applications were collected.
 (D) Some questions were answered.
 
-86. What are the listeners working on this
-week?
+86. What are the listeners working on this week?
 (A) Designing an electronic device
 (B) Preparing for a trade show
 (C) Organizing a corporate workshop
 (D) Developing a software program
 
-87. What does the speaker imply when he
-S says, "I'm even willing to give you an extra
-day to finish up your project"?
+87. What does the speaker imply when he S says, "I'm even willing to give you an extra day to finish up your project"?
 (A) A machine still needs to be fixed.
 (B) A team has too few personnel.
 (C) A training session is important.
@@ -498,9 +426,7 @@ day to finish up your project"?
 (C) To confirm an address
 (D) To make a complaint
 
-90. What does the speaker mean when she
-Hi says, "I think he needs to visit my home
-again"?
+90. What does the speaker mean when she Hi says, "I think he needs to visit my home again"?
 (A) A package was not delivered.
 (B) A worker was not available.
 (C) A treatment was not effective.
@@ -524,45 +450,11 @@ again"?
 (C) Programs will be handed out.
 (D) A talk will be given.
 
-94. According to the speaker, what will
-listeners be able to do?
+94. According to the speaker, what will listeners be able to do?
 (A) Work on independent exercises
 (B) Inquire about their fields
 (C) Take a brief break for lunch
-(D) Turn in forms after the session
-Athletic Shoe Sales
-Running
-Sleek
-Sneakers
-22%
-Shoes
-Horn
-13%
-Pumps
-130/c
-Tennis
-Master
-17%
-XR
-High-Tops
-35%
-x
-m
-^Animal Name
-Species
-Age
-Mocha
-Sand fox
-5 months
-Ginger
-Jackal
-10 months
-Omar
-Hyena
-6 years
-Pebble
-Ostrich
-28 years
+(D) Turn in forms after the session Athletic Shoe Sales Running Sleek Sneakers 22% Shoes Horn 13% Pumps 130/c Tennis Master 17% XR High-Tops 35% x m ^Animal Name Species Age Mocha Sand fox 5 months Ginger Jackal 10 months Omar Hyena 6 years Pebble Ostrich 28 years
 
 95. Who most likely is the speaker?
 (A) A product designer
@@ -576,8 +468,7 @@ Ostrich
 (C) Responded to queries
 (D) Tested merchandise
 
-97. Look at the graphic. Which product are
-A customers dissatisfied with?
+97. Look at the graphic. Which product are A customers dissatisfied with?
 (A) XR High-Tops
 (B) Sleek Sneakers
 (C) Tennis Master
@@ -589,15 +480,12 @@ A customers dissatisfied with?
 (C) New employees
 (D) University students
 
-99. What is mentioned about the Sahara
-Wildlife Reserve?
+99. What is mentioned about the Sahara Wildlife Reserve?
 (A) It relies entirely on donations.
 (B) It will be expanded this year.
 (C) It offers internship opportunities.
-(D) It cannot take in any more animals.
-1
-00. Look at the graphic. What will the listeners
-Ull see first?
+(D) It cannot take in any more animals. 1
+00. Look at the graphic. What will the listeners Ull see first?
 (A)A sand fox
 (B) A jackal
 (C) A hyena

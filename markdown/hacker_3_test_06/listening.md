@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,20 +73,15 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
-32. Where most likely is the conversation
-taking place?
+32. Where most likely is the conversation taking place?
 (A) At a government office
 (B) At a manufacturing plant
 (C) At an accommodation facility
 (D) At a convention center
 
-33. According to the man, what did the
-speakers discuss this morning?
+33. According to the man, what did the speakers discuss this morning?
 (A) Schedule changes
 (B) Machinery prices
 (C) Building renovations
@@ -112,8 +99,7 @@ speakers discuss this morning?
 (C) Make a pot of coffee
 (D) Contact a cafe manager
 
-36. What does the man mean when he says,
-A "I think that one was discontinued"?
+36. What does the man mean when he says, A "I think that one was discontinued"?
 (A) A seasonal promotion was changed.
 (B) A flavor was unsuccessful.
 (C) Some merchandise will be refunded,
@@ -137,8 +123,7 @@ A "I think that one was discontinued"?
 (C) To speak at a team seminar
 (D) To participate in a celebration
 
-40. According to the woman, what is Catherine
-Dawkins willing to do?
+40. According to the woman, what is Catherine Dawkins willing to do?
 (A) Switch divisions
 (B) Work additional hours
 (C) Lead an accounting team
@@ -150,8 +135,7 @@ Dawkins willing to do?
 (C) Bought an item
 (D) Enrolled in a course
 
-42. What does the woman say the man failed
-to provide?
+42. What does the woman say the man failed to provide?
 (A) A book title
 (B) A recipient name
 (C) An e-mail address
@@ -191,8 +175,7 @@ to provide?
 (A) She lives far away from a building.
 (B) She has not finished a design.
 (C) She will be showing a visitor around.
-(D) She needs more time for a
-presentation.
+(D) She needs more time for a presentation.
 
 49. What will the woman most likely do next?
 (A) Photocopy some printouts
@@ -202,18 +185,15 @@ presentation.
 
 50. How can employees secure time off?
 (A) By completing the necessary form
-(B) By calling the human resources
-department
+(B) By calling the human resources department
 (C) By sending an e-mail to a director
 (D) By placing paperwork in a mailbox
 
-51. According to the woman, why might the
-man's request be denied?
+51. According to the woman, why might the man's request be denied?
 (A) A colleague is not in the office.
 (B) Some teams are understaffed.
 (C) A manager was not notified in advance.
-(D) Other people have submitted
-applications.
+(D) Other people have submitted applications.
 
 52. What will the man probably do next?
 (A) Review some instructions
@@ -237,11 +217,9 @@ applications.
 (A) A special fee reduction
 (B) A free online lecture
 (C) A membership upgrade
-(D) A complimentary handout
-98 Hackersxo.kr
+(D) A complimentary handout 98 Hackersxo.kr
 
-56. What type of business do the speakers
-most likely work for?
+56. What type of business do the speakers most likely work for?
 (A) A television station
 (B) An advertising firm
 (C) A furniture retailer
@@ -253,13 +231,11 @@ most likely work for?
 (C) Promoting outdoor merchandise
 (D) Turning in an assignment
 
-58. Why does the man say, "Alyssa's at an
-off-site training session all day today"?
+58. Why does the man say, "Alyssa's at an off-site training session all day today"?
 (A) To express concern about a deadline
 (B) To explain why he will work alone
 (C) To clarify who will miss an orientation
-(D) To ask for help from other team
-members
+(D) To ask for help from other team members
 
 59. Why does the man call the woman?
 (A) To follow up on an agreement
@@ -267,32 +243,17 @@ members
 (C) To describe service coverage
 (D) To encourage an expansion
 
-60. What does the woman say about the legal
-team?
+60. What does the woman say about the legal team?
 (A) It has been downsized.
 (B) It is checking a document.
 (C) It has acquired a license.
 (D) It is being evaluated.
 
-61. Why does the man congratulate the
-woman?
+61. Why does the man congratulate the woman?
 (A) A firm has received an award.
 (B) A safety inspection was passed.
 (C) A distributor has been contracted.
-(D) A product has attracted attention.
-^ain Relief Medication Price Per Box Price Per Pill
-UltraMed
-$3.50
-100
-NoAche
-$4.50
-80
-HealFast
-$5.50
-120
-SootheNow
-$7.50
-90
+(D) A product has attracted attention. ^ain Relief Medication Price Per Box Price Per Pill UltraMed $3.50 100 NoAche $4.50 80 HealFast $5.50 120 SootheNow $7.50 90
 
 62. What did the man already do?
 (A) Cleared products from the shelves
@@ -306,48 +267,19 @@ $7.50
 (C) A firm has stopped producing goods.
 (D) A new brand was recently released.
 
-64. Look at the graphic. Which item will the
-||& man order?
+64. Look at the graphic. Which item will the ||& man order?
 (A) UltraMed
 (B) NoAche
 (C) HealFast
-(D) SootheNow
-$
-Building A
-Triton Theater
--t—■
-<D 0
-TJ
-05
-Truro Avenue
-0 0
-■4—■
-CO
-Building B
-O
-QC
-05
-Building C
-CO 0
-i_ 0
-OJ
-Cl
-Fresco Road
-■>
-ir
-Waverly Park
-Building D
+(D) SootheNow $ Building A Triton Theater -t—■ <D 0 TJ 05 Truro Avenue 0 0 ■4—■ CO Building B O QC 05 Building C CO 0 i_ 0 OJ Cl Fresco Road ■> ir Waverly Park Building D
 
-65. According to the man, how many art tours
-does Tuscan Sun Excursions operate
-daily?
+65. According to the man, how many art tours does Tuscan Sun Excursions operate daily?
 (A) 1
 (B) 2
 (C) 3
 (D) 4
 
-66. Look at the graphic. Where most likely
-||f| does the woman want to go?
+66. Look at the graphic. Where most likely ||f| does the woman want to go?
 (A) To Building A
 (B) To Building B
 (C) To Building C
@@ -357,30 +289,15 @@ daily?
 (A) Provide contact information
 (B) Make some reservations
 (C) Get a map of a downtown area
-(D) Telephone a local gallery
-w Nutrition Facts
-Serving Size: 10 pretzels
-Servings per Pack: 3
-Ingredient
-Amount per Serving
-Sugar
-6g
-Carbohydrates
-32g
-Fat
-22g
-Cholesterol
-20mg
+(D) Telephone a local gallery w Nutrition Facts Serving Size: 10 pretzels Servings per Pack: 3 Ingredient Amount per Serving Sugar 6g Carbohydrates 32g Fat 22g Cholesterol 20mg
 
-68. Where is the conversation most likely
-taking place?
+68. Where is the conversation most likely taking place?
 (A) At a restaurant
 (B) At an office building
 (C) At a convenience store
 (D) At an airport
 
-69. Look at the graphic. Which ingredient
-|S|| amount is too high for the man?
+69. Look at the graphic. Which ingredient |S|| amount is too high for the man?
 (A) 6g
 (B)32g
 (C) 22g
@@ -390,15 +307,11 @@ taking place?
 (A) Pick another snack
 (B) Wait for a meal
 (C) Read a product label
-(D) Inquire about a lunch menu
-100 sopiA^ • Hackerslngang.com
+(D) Inquire about a lunch menu 100 sopiA^ • Hackerslngang.com
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. Where most likely are the listeners?
 (A) At a museum
@@ -406,8 +319,7 @@ answer sheet.
 (C) At a public library
 (D) At a painting studio
 
-72. According to the speaker, what is unusual
-about The Flames of Clouds?
+72. According to the speaker, what is unusual about The Flames of Clouds?
 (A) Its size
 (B) Its use of color
 (C) Its date of origin
@@ -425,15 +337,13 @@ about The Flames of Clouds?
 (C) A food outlet
 (D) A department store
 
-75. According to the speaker, what distinguishes
-the company from its competitors?
+75. According to the speaker, what distinguishes the company from its competitors?
 (A) Reasonable prices
 (B) Unlimited toppings
 (C) Unique flavors
 (D) Natural ingredients
 
-76. Why should listeners visit the business's
-social media page?
+76. Why should listeners visit the business's social media page?
 (A) Some deals are available.
 (B) A newsletter was published.
 (C) A menu can be downloaded.
@@ -445,16 +355,13 @@ social media page?
 (C) To announce a change
 (D) To discuss an actor's role
 
-78. What can listeners obtain from a staff
-member?
+78. What can listeners obtain from a staff member?
 (A) Photos of cast members
 (B) Gift certificates
 (C) Programs for the event
 (D) Complimentary tickets
 
-79. What does the speaker imply when he
-lUl says, "We received complaints about
-people eating during our last production"?
+79. What does the speaker imply when he lUl says, "We received complaints about people eating during our last production"?
 (A) A regulation was no longer followed.
 (B) A problem is difficult to resolve.
 (C) A decision will be made soon.
@@ -466,8 +373,7 @@ people eating during our last production"?
 (C) Statistics
 (D) Ecology
 
-81. According to the speaker, what was
-released on Monday?
+81. According to the speaker, what was released on Monday?
 (A) An academic publication
 (B) A podcast series
 (C) A policy review
@@ -485,8 +391,7 @@ released on Monday?
 (C) At an advertising company
 (D) At an electronics manufacturer
 
-84. Why does the speaker say, "I don't want to
-(Ipf turn anyone away, though"?
+84. Why does the speaker say, "I don't want to (Ipf turn anyone away, though"?
 (A) She will provide a solution.
 (B) She will reconsider a decision.
 (C) She will approve a plan.
@@ -504,8 +409,7 @@ released on Monday?
 (C) Programmer
 (D) Instructor
 
-87. According to the speaker, what will Ivan
-Schwartz do?
+87. According to the speaker, what will Ivan Schwartz do?
 (A) Install some equipment
 (B) Oversee an ongoing project
 (C) Create a computer application
@@ -523,9 +427,7 @@ Schwartz do?
 (C) For supporting a local charity
 (D) For providing her with class information
 
-90. What does the speaker imply when she
-(|p} says, "Could you give me her contact
-information"?
+90. What does the speaker imply when she (|p} says, "Could you give me her contact information"?
 (A) She was contacted by a neighbor.
 (B) She wants to apply to a firm.
 (C) She may hire a designer.
@@ -543,8 +445,7 @@ information"?
 (C) To explain tour restrictions
 (D) To outline a construction project
 
-93. According to the speaker, what does
-Shenzhen possess?
+93. According to the speaker, what does Shenzhen possess?
 (A) A world-renowned shopping complex
 (B) Favorable tax rates
 (C) An international airport
@@ -553,34 +454,16 @@ Shenzhen possess?
 94. What do officials think about Shenzhen?
 (A) It currently has a high population.
 (B) It is experiencing increases in tourism.
-(C) It can achieve further economic
-success.
-(D) It is a safe place for travelers from
-abroad.
-Subscription Renewal Form
-Subscription Period
-Fee
-Selection
-6 months
-$30
-12 months
-$50
-18 months
-$70
-/
-24 months
-$100
+(C) It can achieve further economic success.
+(D) It is a safe place for travelers from abroad. Subscription Renewal Form Subscription Period Fee Selection 6 months $30 12 months $50 18 months $70 / 24 months $100
 
-95. What does the speaker plan to do in
-December?
+95. What does the speaker plan to do in December?
 (A) Update her mailing address
 (B) Make a subscription payment
 (C) Submit a magazine article
 (D) Travel overseas for work
 
-96. Look at the graphic. How much does the
-|||| subscription the speaker is interested in
-cost?
+96. Look at the graphic. How much does the |||| subscription the speaker is interested in cost?
 (A) $30
 (B)$50
 (C) $70
@@ -590,24 +473,15 @@ cost?
 (A) A partial refund
 (B) A contract extension
 (C) An account closure
-(D) An e-mail confirmation
-Eastern Hills National Park - Monthly Visitors
-15,000
-12,500
-10,000
-7,500
-5,000
-May June July August September October
+(D) An e-mail confirmation Eastern Hills National Park - Monthly Visitors 15,000 12,500 10,000 7,500 5,000 May June July August September October
 
-98. How often will buses run beginning next
-month?
+98. How often will buses run beginning next month?
 (A) Every 20 minutes
 (B) Every 30 minutes
 (C) Every 40 minutes
 (D) Every 60 minutes
 
-99. Look at the graphic. When will the regular
-lU shuttle bus service most likely resume?
+99. Look at the graphic. When will the regular lU shuttle bus service most likely resume?
 (A) In July
 (B) In August
 (C) In September
@@ -616,8 +490,6 @@ lU shuttle bus service most likely resume?
 100. What is mentioned about Brenda Kirk?
 (A) She manages the information center.
 (B) She has arranged a lecture series.
-(C) She will participate in a training
-program.
-(D) She gave a presentation on the park's
-history.
+(C) She will participate in a training program.
+(D) She gave a presentation on the park's history.
 

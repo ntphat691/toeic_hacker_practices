@@ -2,20 +2,14 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided
-into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test
-book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test
-book. These statements will not be printed and will only be spoken one time. Select the statement
-that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C),
-or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you
-should mark letter (B) on the answer sheet.
+The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 1.
 2.
 3.
@@ -25,9 +19,7 @@ should mark letter (B) on the answer sheet.
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three
-possible responses spoken in English. They will not be printed and will only be spoken one time.
-Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
 
@@ -81,10 +73,7 @@ Select the best response and mark the corresponding letter (A), (B), or (C) on y
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers.
-These conversations will not be printed and will only be spoken one time. For each conversation,
-you will be asked to answer three questions. Select the best response and mark the
-corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. Why is Malinda unable to stay until 5 p.m.?
 (A) She is not feeling very well.
@@ -98,8 +87,7 @@ corresponding letter (A), (B), (C), or (D) on your answer sheet.
 (C) Show people around a gym
 (D) Fill in for a colleague
 
-34. According to the woman, where did the
-man previously work?
+34. According to the woman, where did the man previously work?
 (A) At a fitness center
 (B) At an advertising firm
 (C) At a construction company
@@ -117,22 +105,19 @@ man previously work?
 (C) Organizing jazz concerts
 (D) Giving away prizes
 
-37. According to the woman, what do some
-customers want?
+37. According to the woman, what do some customers want?
 (A) Artists' signatures
 (B) Musical instruments
 (C) Limited edition posters
 (D) New albums
 
-38. Where most likely does the conversation
-take place?
+38. Where most likely does the conversation take place?
 (A) At a bus terminal
 (B) At a park
 (C) At a garage
 (D) At a car dealership
 
-39. What does the woman say about her
-husband?
+39. What does the woman say about her husband?
 (A) He forgot to print a document.
 (B) He wants to buy a monthly pass.
 (C) He is employed by a nearby business.
@@ -144,22 +129,19 @@ husband?
 (C) Ask for a ticket
 (D) Confirm an appointment
 
-41. When is the man planning to return from
-Seattle?
+41. When is the man planning to return from Seattle?
 (A) On Tuesday
 (B) On Wednesday
 (C) On Thursday
 (D) On Friday
 
-42. What will probably take place tomorrow
-morning?
+42. What will probably take place tomorrow morning?
 (A) A product demonstration
 (B) A sales workshop
 (C) A marketing presentation
 (D) A shareholders' meeting
 
-43. Why does the man say, "I'll take a later
-HI flight, then"?
+43. Why does the man say, "I'll take a later HI flight, then"?
 (A) To accept an upgrade
 (B) To turn down a proposal
 (C) To confirm a departure time
@@ -171,15 +153,13 @@ HI flight, then"?
 (C) Eating at an on-site facility
 (D) Extending a break period
 
-45. According to the woman, why has there
-been a change?
+45. According to the woman, why has there been a change?
 (A) To respond to worker comments
 (B) To improve safety measures
 (C) To reduce company expenses
 (D) To accommodate staff schedules
 
-46. When will the man most likely join the
-woman?
+46. When will the man most likely join the woman?
 (A) When a restaurant opens
 (B) When a work trip ends
 (C) When a menu is changed
@@ -197,8 +177,7 @@ woman?
 (C) An order's delivery date
 (D) An assignment's deadline
 
-49. What does the man mean when he says,
-ft "It will be easier for me to refer to that"?
+49. What does the man mean when he says, ft "It will be easier for me to refer to that"?
 (A) He wants to use updated software.
 (B) He would rather print a brochure.
 (C) He wants to view an electronic file.
@@ -210,8 +189,7 @@ ft "It will be easier for me to refer to that"?
 (C) To request an extension
 (D) To make a complaint
 
-51. According to the woman, what did the
-library do last month?
+51. According to the woman, what did the library do last month?
 (A) Launched a Web site
 (B) Changed a notification procedure
 (C) Increased fines for overdue materials
@@ -247,8 +225,7 @@ library do last month?
 (C) A heating system malfunctioned.
 (D) A piece of furniture is uncomfortable.
 
-57. What does the woman imply when she
-|i|| says, "Are you serious"?
+57. What does the woman imply when she |i|| says, "Are you serious"?
 (A) She missed an appointment.
 (B) She has plans for a holiday.
 (C) She is frustrated by a closure.
@@ -278,15 +255,13 @@ library do last month?
 (C) Repair an item
 (D) Provide a discount
 
-62. Where is the conversation most likely
-taking place?
+62. Where is the conversation most likely taking place?
 (A) At a performance venue
 (B) At an amusement park
 (C) At a science museum
 (D) At a shopping mall
 
-63. According to Amy, how long has the facility
-been in operation?
+63. According to Amy, how long has the facility been in operation?
 (A) For one month
 (B) For two months
 (C) For one year
@@ -296,17 +271,7 @@ been in operation?
 (A) He is not on a mailing list.
 (B) He could not attend a conference.
 (C) He did not notice a schedule.
-(D) He was given inaccurate information.
-Employee Name
-Extension Number
-Monica Pearce
-9087
-Josh Han
-1099
-Valarie Dupree
-4419
-Will Garcia
-7893
+(D) He was given inaccurate information. Employee Name Extension Number Monica Pearce 9087 Josh Han 1099 Valarie Dupree 4419 Will Garcia 7893
 
 65. What will the man do tonight?
 (A) Upgrade computer software
@@ -320,20 +285,13 @@ Will Garcia
 (C) A directory is inaccessible.
 (D) A desk can no longer be used.
 
-67. Look at the graphic. Who works in the
-& marketing department?
+67. Look at the graphic. Who works in the & marketing department?
 (A) Monica Pearce
 (B)Josh Han
 (C) Valarie Dupree
-(D) Will Garcia
-Eastville Food Festival
-Saturday, Aug 20 - Sunday, Aug 21
-11 A.m. - 8 P.M.
-One-Day Pass Valid for Aug 20
-World Culinary Organization Member
+(D) Will Garcia Eastville Food Festival Saturday, Aug 20 - Sunday, Aug 21 11 A.m. - 8 P.M. One-Day Pass Valid for Aug 20 World Culinary Organization Member
 
-68. Look at the graphic. How much did the
-lH man pay for the ticket?
+68. Look at the graphic. How much did the lH man pay for the ticket?
 (A) $5
 (B)$10
 (C) $15
@@ -345,8 +303,7 @@ lH man pay for the ticket?
 (C) A notice was posted online.
 (D) A class was canceled.
 
-70. Why is the man unable to attend the
-festival on Sunday?
+70. Why is the man unable to attend the festival on Sunday?
 (A) He is going to meet with family.
 (B) He has to go on a business trip.
 (C) He has to prepare for a contest.
@@ -354,10 +311,7 @@ festival on Sunday?
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will
-not be printed and will only be spoken one time. For each talk, you will be asked to answer three
-questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your
-answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. Who is the speaker?
 (A) A flight attendant
@@ -371,8 +325,7 @@ answer sheet.
 (C) At 5:30 p.m.
 (D) At 5:40 p.m.
 
-73. What does the speaker suggest listeners
-do?
+73. What does the speaker suggest listeners do?
 (A) Complete a document
 (B) Choose an in-flight meal
 (C) Report to an information desk
@@ -387,33 +340,28 @@ do?
 75. What is supposed to happen in March?
 (A) A marketing campaign will start.
 (B) Samples will be given to customers.
-(C) A product will be available in retail
-stores.
+(C) A product will be available in retail stores.
 (D) Existing models will be replaced.
 
-76. According to the speaker, what can
-listeners do online?
+76. According to the speaker, what can listeners do online?
 (A) Download a special coupon
 (B) Find a store location
 (C) Ask for a refund
 (D) Make a purchase
 
-77. What type of business does the speaker
-work for?
+77. What type of business does the speaker work for?
 (A) An accommodation facility
 (B) A catering company
 (C) A law firm
 (D) A real estate agency
 
-78. Why does the speaker say, "But over 75
-0 guests will be attending this event"?
+78. Why does the speaker say, "But over 75 0 guests will be attending this event"?
 (A) To approve a request
 (B) To confirm a plan
 (C) To indicate a problem
 (D) To show excitement
 
-79. What does the speaker ask the listener to
-do?
+79. What does the speaker ask the listener to do?
 (A) Print a revised contract
 (B) Call a party planner
 (C) Provide an attendee list
@@ -431,8 +379,7 @@ do?
 (C) Report health problems
 (D) Contact an official
 
-82. What does the speaker say is available on
-the Web site?
+82. What does the speaker say is available on the Web site?
 (A) Traffic updates
 (B) Medical information
 (C) Air quality data
@@ -444,8 +391,7 @@ the Web site?
 (C) A financial company
 (D) A recruitment agency
 
-84. According to the speaker, why is the
-company highly ranked in a survey?
+84. According to the speaker, why is the company highly ranked in a survey?
 (A) Its services are inexpensive.
 (B) Its managers are experienced.
 (C) Its products are reliable.
@@ -463,8 +409,7 @@ company highly ranked in a survey?
 (C) To discuss an insurance plan
 (D) To promote a Web site
 
-90. According to the speaker, what can
-managers do?
+90. According to the speaker, what can managers do?
 (A) Receive customer feedback
 (B) Approve program updates
 (C) Change staff assignments
@@ -482,9 +427,7 @@ managers do?
 (C) A secretary
 (D) A telemarketer
 
-87. What does the speaker mean when he
-^ says, "the problem is more serious than
-I thought"?
+87. What does the speaker mean when he ^ says, "the problem is more serious than I thought"?
 (A) A screen cannot be ordered.
 (B) A phone is an outdated model.
 (C) A device is significantly damaged.
@@ -494,29 +437,15 @@ I thought"?
 (A) A store credit
 (B) A special discount
 (C) A free product
-(D) A warranty extension
-w
-Bretford Incorporated - Interview Dates
-Monday, May 2
-Marketing Department
-Tuesday, May 3
-Design Department
-Wednesday, May 4
-Sales Department
-Thursday, May 5
-Accounting Department
-Friday, May 6
-No Interviews Scheduled
+(D) A warranty extension w Bretford Incorporated - Interview Dates Monday, May 2 Marketing Department Tuesday, May 3 Design Department Wednesday, May 4 Sales Department Thursday, May 5 Accounting Department Friday, May 6 No Interviews Scheduled
 
-92. Look at the graphic. Which department is
-|l|| the woman applying to?
+92. Look at the graphic. Which department is |l|| the woman applying to?
 (A) Marketing
 (B) Design
 (C) Sales
 (D) Accounting
 
-93. What does the speaker ask the listener to
-do?
+93. What does the speaker ask the listener to do?
 (A) Provide a job description
 (B) Check on a delivery
 (C) Change a schedule
@@ -526,20 +455,7 @@ do?
 (A) Replied to an e-mail
 (B) Submitted a sample
 (C) Visited a family member
-(D) Filled out an application
-Staircase
-Booth
-A
-Booth
-B
-Ground Floor
-Bathroom
-Booth
-C
-Booth
-D
-Information
-Desk
+(D) Filled out an application Staircase Booth A Booth B Ground Floor Bathroom Booth C Booth D Information Desk
 
 95. What is mentioned about the event?
 (A) It has participants from many countries.
@@ -547,35 +463,25 @@ Desk
 (C) It is sponsored by local organizations.
 (D) It will end later than expected.
 
-96. Look at the graphic. Which booth is
-|j|| Matthew Walsh using?
+96. Look at the graphic. Which booth is |j|| Matthew Walsh using?
 (A) Booth A
 (B) Booth B
 (C) Booth C
 (D) Booth D
 
-97. According to the speaker, what can
-listeners do at the information desk?
+97. According to the speaker, what can listeners do at the information desk?
 (A) Pick up a brochure
 (B) Buy a ticket
 (C) Enter a contest
-(D) Register for a class
-Diokson's Office Supply
-$10 off any purchase over $40 in value
-$20 off any purchase over $60 in value
-Expires October 20
-01234567890123
+(D) Register for a class Diokson's Office Supply $10 off any purchase over $40 in value $20 off any purchase over $60 in value Expires October 20 01234567890123
 
-98. Why does the speaker need to purchase
-furniture?
+98. Why does the speaker need to purchase furniture?
 (A) A manager is being promoted.
 (B) A department is changing offices.
 (C) An employee is being transferred.
 (D) A team is starting a new project.
 
-99. Look at the graphic. How much of a
-llll discount will the company most likely
-receive?
+99. Look at the graphic. How much of a llll discount will the company most likely receive?
 (A) $10
 (B) $20
 (C) $40
