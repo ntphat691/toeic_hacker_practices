@@ -6,8 +6,11 @@ I TEST 05
 0fr PART 7
 Self X]\3.
 Wm Eil^S S #°!A^
+
 1.-gqima|?Bte^8& noil
+
 2. Answer Sheet. 31, ^Hl Stl|oHaL^a? o||
+
 3.A|2j|lS|6HaUfa? 0)1
 OSga|7f StHEIOJODf =S KgBj o EjlAES A|5forL|Ch
 ^il mm Dl*lfe 70¥ #! _A| ¥tlLRK
@@ -25,151 +28,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © PARTS i!$«0l-M2f 11§
+
 101. Holden Advertising Agency won _____ all the major marketing awards this year.
 (A) practical
 (B) practicality
 (C) practically
 (D) practicalities
+
 102. Mr. Harris neglected _____ his name at the bottom of his employment application.
 (A) sign
 (B) signs
 (C) to sign
 (D) was signed
+
 103. Eugene Rivera, who negotiated an agreement between the two firms, reported that the details would be settled the next several days.
 (A) within
 (B) close to
 (C) afterward
 (D) nearby
+
 104. Earlier this morning, Mr. Yang _____ that everyone in his department would receive a bonus.
 (A) announcing
 (B) announces
 (C) announced
 (D) has announced
+
 105. Audio-One is so _____ about the quality of its products that it offers a money-back guarantee for all items.
 (A) beneficial
 (B) probable
 (C) confident
 (D) productive
+
 106. After carefully analyzing the budget report, Mr. Green could _____ approve funding for the expansion of Jewett Resorts.
 (A) final
 (B) finally
 (C) finalize
 (D) finals
+
 107. Ms. Warren is in charge of making sure that the _____ clients receive everything they need during their stay,
 (A) to visit
 (B) visit
 (C) visited
 (D) visiting
+
 108. Kembil Co.'s board instructed James Holley to implement a versatile _____ to long-term planning for the next five years.
 (A) approach
 (B) approaches
 (C) approachable
 (D) approached
+
 109. Building of the Beverly Office Complex can begin as soon as the firm _____ all the necessary permits from City Hall.
 (A) searches
 (B) entrusts
 (C) figures
 (D) acquires
+
 110. A factor especially _____ to the agricultural industry is whether there are reliable supplies of water and electricity.
 (A) knowledgeable
 (B) convenient
 (C) pertinent
 (D) simultaneous
+
 111. _____ the most cutting-edge cellular phones may not satisfy the specific needs of every user.
 (A) Notwithstanding
 (B) Once
 (C) Nearly
 (D) Even
+
 112. As it has been _____ 60 business days since the purchase date, Branson Outlet will not allow an exchange or refund.
 (A) so much
 (B) more than
 (C) much longer
 (D) as few as
+
 113. Ms. Mitchell is looking for an apartment a train station so that she will not need to commute by car.
 (A) near
 (B) toward
 (C) adjacent
 (D) between
+
 114. Immediately after ordering a new office desk online, Mr. Perez was issued of the transaction.
 (A) confirm
 (B) confirmation
 (C) confirms
 (D) confirmed
+
 115. Ventera Inc. was able to build strong relationships with its most valuable customers by _____ communicating with them.
 (A) marginally
 (B) comparably
 (C) consistently
 (D) indefinitely
+
 116. In order to _____ satisfactory levels of productivity in the factory, the floor manager regularly consults with workers about mechanical problems.
 (A) persuade
 (B) limit
 (C) maintain
 (D) remain
+
 117. The candidates for the job opening have experiences and career objectives despite all having worked in the same field.
 (A) difference
 (B) differently
 (C) different
 (D) differ
+
 118. Koester Company records all incoming customer calls with the _____ of ensuring inquiries are handled appropriately.
 (A) status
 (B) reservation
 (C) association
 (D) intent
+
 119. Coalport's management is not certain that an advertising campaign will successfully boost sales because it has _____ launched one before.
 (A) never
 (B) also
 (C) always
 (D) still
+
 120. MediaCore's customers will have digital to dozens of publications by the end of the month.
 (A) access
 (B) accessing
 (C) accessed
 (D) accesses
+
 121. _____ fashion design jobs appear glamorous in popular media, most positions in the industry are demanding in reality.
 (A) Although
 (B) Despite
 (C) Regarding
 (D) Assuming
+
 122. Ryder Capital Bank now trains its advisors more _____ to make certain that they are thoroughly familiar with the investment process.
 (A) comprehensively
 (B) temporarily
 (C) wastefully
 (D) optionally
+
 123. Once the project ends next year, employee evaluations _____ to assess performance and decide on pay increases.
 (A) will conduct
 (B) were conducted
 (C) have conducted
 (D) will be conducted
+
 124. Wheelpoint's new line of tires performs under the most hazardous road conditions.
 (A) habitually
 (B) capably
 (C) sizably
 (D) generously
+
 125. Bransonville Beach is closed _____ further notice as the area is affected by strong tides caused by Hurricane Thurston.
 (A) from
 (B) onto
 (C) until
 (D) during
+
 126. Immigration gave Mr. Kim an _____ on his stay, allowing him to remain another six months for work.
 (A) attendance
 (B) expertise
 (C) operation
 (D) extension
+
 127. The _____ reason a new security gate was installed is that the old one had been damaged by the storm.
 (A) thick
 (B) quick
 (C) high
 (D) main
+
 128. Submissions _____ meet Literati Magazine's standard will be considered for publication in our next issue.
 (A) these
 (B) those
 (C) that
 (D) they
+
 129. Investor Link was able to _____ the financial crisis because Mr. Macintyre had the foresight to develop a contingency plan.
 (A) advocate
 (B) engage
 (C) persist
 (D) withstand
+
 130. Ms. Kenner and Mr, Stone were both invited to the meeting, but _____ of them has confirmed yet.
 (A) most
 (B) few
@@ -186,14 +219,17 @@ Dear Jennifer, O -O I just met with the new head of PPJ Marketing, Robert Pierso
 (B) committed
 (C) indifferent
 (D) confused
+
 132. (A) None of our shampoo advertisements |||j| are presently directed to that group,
 (B) The new product line would significantly expand our merchandise selection.
 (C) This has helped them make a better decision about what to buy.
 (D) Our biggest concern is increasing our share in the international market.
+
 133. (A) convey
 (B) authorize
 (C) gather
 (D) target
+
 134. (A) be delivered
 (B) are delivering
 (C) deliver
@@ -207,14 +243,17 @@ i! To: Customer Service <cs.interair@interair,com> From: Alex Hogan <ahogan@dall
 (B) My frequent flier points have not been applied to my account.
 (C) My luggage was lost on a recent flight with your airline,
 (D) I would like to cancel my flight and obtain a refund for it.
+
 136. (A) prevents
 (B) prevention
 (C) preventing
 (D) preventive
+
 137. (A) renew
 (B) generate
 (C) expedite
 (D) prove
+
 138. (A) ticket
 (B) charge
 (C) royalty
@@ -228,14 +267,17 @@ If you own a small or medium-sized business and are looking for professional acc
 (B) provide
 (C) will be providing
 (D) had provided
+
 140. (A) Our expansion was completed several Ipl years ago.
 (B) These firms have announced that they will form an association.
 (C) We now have 60 offices in cities across the nation.
 (D) This prevented us from launching our first office in the region.
+
 141. (A) careful
 (B) eligible
 (C) suspended
 (D) certified
+
 142. (A) specializes
 (B) specialize
 (C) specialist
@@ -246,14 +288,17 @@ Questions 143-146 refer to the following notice.
 |f!I OS! Notice of Homeowner's Association Dues Increase At its last meeting, the board was asked to consider increasing the dues slightly. _____ deliberations on this request, they proposed raising fees by $25 a month, from $375 to $400, effective July 1. To the board, this action is justified for several reasons. First, the additional funds will contribute to important _____ , such as the installation of a new security system in the parking garage next year. Second, they will cover the rising cost of natural gas. The timing of the dues increase seems reasonable _____ there has not been one in four years. Tenants are invited to vote on the proposal at the Homeowner's Association meeting in June. Jordan Roper Accounting Manager Homeowner's Association
 
 143. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
+
 144. (A) evaluations
 (B) experiences
 (C) eliminations
 (D) expenditures
+
 145. (A) The homeowner's association WSk management made some repairs over the winter.
 (B) Tenants were satisfied with the estimate provided to them by the contractor.
 (C) We had to pay more than usual last winter due to a steep hike in gas prices.
 (D) We hope the building's improved security system will attract more businesses.
+
 146. (A) in case
 (B) given that
 (C) even as
@@ -274,6 +319,7 @@ Call 535-9974 today to arrange for one of our technicians to visit you at home f
 (B) Residences are one source of them.
 (C) They are limited by the government.
 (D) Meters can be installed to measure them.
+
 148. How can customers receive a customized energy saving plan?
 (A) By arranging a meeting with a consultant
 (B) By inputting their details on a Web site
@@ -289,6 +335,7 @@ Marge Bledsoe 11:05 a.m. I just remembered I have a client who'd like to see the
 (B) A real estate agent
 (C) A housing inspector
 (D) An office receptionist
+
 150. At 11:18 a.m., what does Ms. Bledsoe Hi mean when she writes' "Good call"?
 (A) She can confirm that Mr. Clark has the right information.
 (B) She is relieved to find out that someone can replace her.
@@ -308,6 +355,7 @@ Dear Mr. Fletcher, We regret to inform you that Tropical Tours has been forced t
 (B) To notify a traveler of airport transfer changes
 (C) To solicit feedback from tour participants
 (D) To announce the cancellation of a trip
+
 152. What will happen if Mr. Fletcher travels at a later date?
 (A) He and his spouse will have to take some flights separately.
 (B) He will be given superior accommodations.
@@ -327,6 +375,7 @@ your hands and cooking utensils. 0 Cook meat thoroughly and keep warm before ser
 (B) In a kitchen appliance manual
 (C) In a recipe book for meat dishes
 (D) On a display in a dairy section
+
 154. What are cooks advised against doing?
 (A) Cooking at low temperatures
 (B) Storing leftovers for too long
@@ -344,11 +393,13 @@ Stretch Corporation announced yesterday that it keep up with this increase so th
 (B) To encourage fitness among youth
 (C) To describe a new line of products
 (D) To report on the opening of a store
+
 156. For whom most likely are Stretch Corporation's products made?
 (A) International businesspeople
 (B) Fans of sports teams
 (C) Working parents
 (D) Fitness enthusiasts
+
 157. In which of the positions marked [1], [2], lip [3], and [4] does the following sentence best belong? 'This is because the relocation is expected to create 150 additional jobs for the residents of Haverford."
 (A) [1]
 (B) [2]
@@ -366,11 +417,13 @@ Fashion-It is now accepting applications for positions at our new headquarters. 
 (B) It stores job applications for one year.
 (C) It is recruiting employees for several branches.
 (D) It operates an online recruitment page.
+
 159. The word "comparable" in paragraph 1, line 3, is closest in meaning to
 (A) affiliated
 (B) similar
 (C) significant
 (D) balanced
+
 160. According to the notice, what will happen within two weeks of an application being submitted?
 (A) More job openings will be posted.
 (B) Fashion-It will begin training new members of staff.
@@ -388,11 +441,13 @@ Hello Jason, I've been invited to speak at the Great Lakes Real Estate Conventio
 (B) To request that he make arrangements for a trip
 (C) To suggest he register for a convention
 (D) To ask for a progress report from the Minneapolis branch
+
 162. When will Ms. Johnstone leave Milwaukee?
 (A) On June 17
 (B) On June 18
 (C) On June 21
 (D) On June 22
+
 163. What has Mr. Minkovski been asked to find out?
 (A) The duration of a trip to the Midwest
 (B) The cost of hotel accommodation in Milwaukee
@@ -408,11 +463,13 @@ Questions 164-167 refer to the following online chat discussion.
 (B) Renewing a subscription
 (C) Gaining access to a service
 (D) Repairing a faulty connection
+
 165. What is indicated about the standard plan?
 (A) It is valid for a period of one year.
 (B) It costs less than competitors' packages.
 (C) It is being offered at a promotional rate.
 (D) It provides limited access to movie channels.
+
 167. At 18:49, what does Mr. Estrada mean « when he writes, "That's all right"?
 (A) He will ask about the credit card number later.
 (B) He thinks a charge will be canceled.
@@ -430,16 +487,19 @@ For the most delicious cupcakes you'll ever taste, head to Katie's Cupcakes at 6
 (B) Some of them come in low calorie varieties.
 (C) They can be tailored to customers' preferences.
 (D) Some of them are appropriate for diabetics.
+
 169. According to the advertisement, what does Katie's Cupcakes do for its customers?
 (A) Provides delivery to them for a small fee
 (B) Allows them to taste products for free
 (C) Prints ingredients on packaging materials
 (D) Transports special arrangements to event venues
+
 170. How can customers get a discount on cupcake arrangements?
 (A) By attending a sampling session
 (B) By ordering during a specific period
 (C) By submitting a coupon at an establishment
 (D) By answering a customer questionnaire
+
 171. In which of the positions marked [1], [2], best belong? "And for those with dietary restrictions, we offer an array of options."
 (A) [1]
 (B) [2]
@@ -459,11 +519,13 @@ Everything Video, a pioneer in the used electronics marketplace, recently opened
 (B) A sale on new video games
 (C) An expansion of a retail chain
 (D) The release of a gaming device
+
 173. What is NOT mentioned as a product type that will be sold at the new store?
 (A) Secondhand movie DVDs
 (B) Videotaped television series
 (C) Classic video games
 (D) Handheld game consoles
+
 174. What is NOT indicated about Everything Video?
 (A) It has a Web site where customers can rent games and videos.
 (B) It purchases some items from its customers.
@@ -493,21 +555,25 @@ If you experience die same problem, make sure that you have downloaded the corre
 (B) To request installation assistance
 (C) To put in a work order for photography
 (D) To ask about a home security system
+
 177. What is NOT mentioned as a way clients can get assistance from Cyprus Software?
 (A) Browsing an online forum
 (B) Submitting an online form
 (C) Visiting a branch office
 (D) Using a chat service
+
 178. What is mentioned about Cyprus Software's Web site?
 (A) A repair program to assist with installation is available there.
 (B) It includes instructional manuals for its products.
 (C) It promotes a number of items currently being offered at a discount.
 (D) Some of Cyprus Software's older products can be found there.
+
 179. Why did the pop-up window probably appear on Mr. Poison's computer?
 (A) His payment was not accepted by the vendor.
 (B) His operating system is not compatible with the software.
 (C) He typed in a required access code incorrectly.
 (D) He is using an unauthorized version of a program.
+
 180. What is NOT indicated about Cyprus Software?
 (A) Its programs can be downloaded multiple times.
 (B) It offers on-site service visits via online request.
@@ -529,21 +595,25 @@ Dear Mr. Macaulay, My name is Allan Carpenter, and I just recently moved into th
 (B) It is raising funds to build a new pool.
 (C) Its office is located in another building.
 (D) It has arranged several summer activities.
+
 182. What is NOT indicated about the swimming lessons?
 (A) They may sometimes take place at an outdoor pool.
 (B) They are a joint effort of two organizations,
 (C) They include a fee for using the pool.
 (D) They are discounted for members of an athletics club.
+
 183. What does Mr. Carpenter mention about his eldest daughter?
 (A) She already signed up for class,
 (B) She recently graduated from school.
 (C) She joined a swim team in the past,
 (D) She plans to become an IAC member.
+
 184. Which coach will most likely teach Kristin Carpenter's class?
 (A) Eric Moss
 (B) Ty Warren
 (C) Kay Sanders
 (D) Liza Simmons
+
 185. What has Mr. Macaulay been asked to provide?
 (A) A complete schedule of activities
 (B) Information about a payment method
@@ -567,21 +637,25 @@ Prima Ballerina: Sofia Pinsky The main dancer of this evening's premiere perform
 (B) It has a suggested dress code for guests.
 (C) It requires attendees to present invitations.
 (D) It includes a reception with dancers at 8:00 p.m.
+
 187. What is true about Carlotta's Bistro?
 (A) It stays open 24 hours a day.
 (B) It is situated near a performance venue.
 (C) It will be catering a reception.
 (D) It provides discounts to theater patrons.
+
 188. What did Ms. Reid do on May 1 ?
 (A) Attended a premier performance
 (B) Met with two lead dancers from a show
 (C) Wrote a review of Dance of the Daffodils
 (D) Confirmed her attendance for an event
+
 189. What is suggested about Shonda Dixon?
 (A) She will see Ms, Pinsky perform the role of Princess Daffodil.
 (B) She will contact Fraulein Danza Company about a ticket.
 (C) She does not plan on attending a reception.
 (D) She read a positive review of Dance of the Daffodils.
+
 190. Where did Ms. Pinsky win her first dance award?
 (A) In Kiev
 (B) In St. Petersburg
@@ -609,21 +683,25 @@ What do you hope to achieve by participating in a program? I want to receive pro
 (B) Fans of a theater production
 (C) New and experienced actors
 (D) Staff at a production studio
+
 192. What is mentioned about classes at Dynamic Performance?
 (A) They were designed by a well-known acting coach.
 (B) Only those who pass an audition can take part in them.
 (C) Floyd Mink receives the applications to register for them.
 (D) They are being offered in the summer for the first time.
+
 193. How much was the class Ms. Berger took?
 (A) $1,800
 (B) $2,250
 (C) $2,500
 (D) $3,495
+
 194. What is indicated about Mr. Norris?
 (A) He gave Dynamic Performance the highest possible rating.
 (B) He joined a program with a group of his friends.
 (C) He took the Spring Intensive class a second time.
 (D) He selected a program based on its positive reviews.
+
 195. What is suggested about Ms. Boyle?
 (A) She has been in several theatrical productions.
 (B) She paid her tuition fee for a class online.
@@ -651,21 +729,25 @@ booked tomorrow, but I can come by the day after, I could be at your building by
 (B) She is preparing to remodel her kitchen.
 (C) She purchased all her appliances online.
 (D) She has owned her home for three years.
+
 197. When did Ms. Henner buy the appliance Mr. Volstead is interested in?
 (A) Less than a year ago
 (B) One and a halt years ago
 (C) Two years ago
 (D) Three years ago
+
 198. According to Ms. Henner, what information can be found on the Preserve-Mate Web site?
 (A) A product's exact size
 (B) The price of some merchandise
 (C) A product warranty's conditions
 (D) The availability of a specific model
+
 199. According to the second e-mail, what has Ms. Henner NOT been asked to do?
 (A) Provide her availability
 (B) Give out contact information
 (C) Tell about a parking situation
 (D) Get a friend to help move an appliance
+
 200. What is indicated about Mr. Volstead?
 (A) He will visit Ms. Henner's home during his vacation.
 (B) He will be moving into an apartment on May 31.

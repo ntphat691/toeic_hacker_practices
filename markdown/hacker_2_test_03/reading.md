@@ -10,151 +10,181 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. The organizers of the fundraiser _____ a to-do list to hand out to volunteers.
 (A) compiling
 (B) compiles
 (C) to compile
 (D) are compiling
+
 102. Mr. Chen was surprised by the promotion because _____ had not imagined that it could happen this year.
 (A) his
 (B) himself
 (C) he
 (D) him
+
 103. Since the report had not yet been _____ , Ms. Pantel had time to correct an error she had found.
 (A) distributes
 (B) distributing
 (C) distributed
 (D) distribution
+
 104. Once the account has been _____ , the user will be asked to re-enter their login name and password.
 (A) created
 (B) composed
 (C) preferred
 (D) assembled
+
 105. The downtown branch of Jim's Burgers has _____ outperformed the chain's other locations in the city.
 (A) progressive
 (B) progressively
 (C) progress
 (D) progressed
+
 106. The marketing department has launched a social media campaign in an effort to reach a more _____ audience.
 (A) necessary
 (B) diverse
 (C) deep
 (D) comparable
+
 107. Guests enjoyed the resort's new swimming pool _____ its outdoor restaurant.
 (A) along
 (B) due to
 (C) as to
 (D) in addition to
+
 108. Employee assessments are _____ carried out in December but may be delayed until January.
 (A) visibly
 (B) casually
 (C) typically
 (D) slightly
+
 109. The _____ of the building had to find temporary accommodations during the renovation.
 (A) reside
 (B) residential
 (C) residents
 (D) residences
+
 110. The fitness tracker is as perfectly _____ as the online advertisements say it is.
 (A) accuracy
 (B) accurately
 (C) accurate
 (D) accurateness
+
 111. Tremont Airlines is offering _____ rates to passengers willing to travel late at night.
 (A) shortened
 (B) fragile
 (C) reduced
 (D) preserved
+
 112. Customers are asked to acknowledge receipt of their orders by _____ their names on a delivery form.
 (A) sign
 (B) signing
 (C) signs
 (D) signed
+
 113. The trade show convention center was located right next to the subway station, making it easily accessible.
 (A) currently
 (B) conveniently
 (C) knowingly
 (D) insufficiently
+
 114. Employees at Branford Computing Group are expected to respond to all technical support questions _____ 24 hours.
 (A) within
 (B) between
 (C) since
 (D) until
+
 115. Applicants _____ a form for a new license should make certain that it is completely filled out.
 (A) submits
 (B) submitted
 (C) submit
 (D) submitting
+
 116. Storing dangerous chemicals near the main factory floor creates a hazardous situation for the employees who work there.
 (A) potent
 (B) potential
 (C) potentially
 (D) potentiality
+
 117. Health One Hospice's board of directors hopes to _____ the institution with a partner that shares similar values.
 (A) request
 (B) recruit
 (C) affiliate
 (D) adopt
+
 118. The casting director was looking for an actor with an _____ tone of voice that can persuade listeners to buy a product.
 (A) occasional
 (B) inviting
 (C) operating
 (D) apologetic
+
 119. The company issued a statement yesterday evening in _____ to the merger agreement.
 (A) relates
 (B) related
 (C) relate
 (D) relation
+
 120. A banquet was held to honor five employees, all of _____ have worked at the company for more than 20 years.
 (A) them
 (B) us
 (C) whom
 (D) which
+
 121. Company policy requires that all staff members be at their desks before 9:30 a.m., _____ unforeseen circumstances.
 (A) though
 (B) barring
 (C) toward
 (D) with
+
 122. Hotel employees are stationed at the check-in desk _____ you have any questions during your stay.
 (A) so far
 (B) plus
 (C) in case
 (D) whereas
+
 123. New cycling safety regulations have just been _____ by the Ministry of Transportation.
 (A) constructed
 (B) engaged
 (C) enacted
 (D) measured
+
 124. Author Sylvia Feldman _____ for a Publishers Guild Award for her best-selling nonfiction novel, 21 Ravens.
 (A) nominates
 (B) was nominated
 (C) was nominating
 (D) has nominated
+
 125. According to the study, the _____ a marketing campaign is among young people, the better a product is likely to sell.
 (A) popular
 (B) more popular
 (C) popularity
 (D) most popular
+
 126. The individual that will take on Paige Manufacturing's vice president position is expected to come from a _____ of the company.
 (A) subsidiary
 (B) spectator
 (C) turnover
 (D) specialty
+
 127. The job comes with several significant including health insurance and three weeks of paid leave.
 (A) figures
 (B) benefits
 (C) profits
 (D) values
+
 128. _____ the deposit for the apartment has been paid, the tenant can move in immediately.
 (A) So that
 (B) Even though
 (C) If
 (D) Likewise
+
 129. ——- the terms of his employment contract, Mr. Allen receives 1.5 times his regular pay rate for overtime hours.
 (A) On behalf of
 (B) In compliance with
 (C) Instead of
 (D) Out of respect tor
+
 130. The board of trustees took a _____ to decide who would replace the retiring company president.
 (A) vote
 (B) summary
@@ -169,14 +199,17 @@ NOTE: All Eddington's Membership Card Holders We will be adjusting the frequency
 (B) Eddington's is set to introduce a change to its membership program.
 (C) We apologize for the recent difficulties with our card payment system.
 (D) Eddington's Department Store has a special promotion for point cards.
+
 132. (A) Apart from
 (B) In case of
 (C) Regardless of
 (D) On behalf of
+
 133. (A) submit
 (B) monitor
 (C) mediate
 (D) convey
+
 134. (A) Consequently
 (B) Nevertheless
 (C) Moreover
@@ -190,14 +223,17 @@ Claire Staley 874 Country Lane Stillwater, OK 74074 Dear Ms. Staley, Best Link T
 (B) within
 (C) on
 (D) off
+
 136. (A) improves
 (B) guarantees ■
 (C) demands
 (D) receives
+
 137. (A) This service is no longer available in |p| your area.
 (B) Your bill will vary based on how many files you store.
 (C) This will cause the cost of computers to be cut.
 (D) Our high-speed Internet service can handle it all.
+
 138. (A) password
 (B) statement
 (C) demonstration
@@ -211,14 +247,17 @@ City Officials Close to Selecting Developers for Downtown Building Marinville of
 (B) agencies
 (C) locations
 (D) questionnaires
+
 140. (A) preceding
 (B) general
 (C) forthcoming
 (D) incomplete
+
 141. (A) The candidates all came up with compelling final proposals.
 (B) They hoped to develop a construction plan at that time.
 (C) The deadline was extended to allow for additional projects.
 (D) A complete budget and detailed blueprints must also be included in the proposal.
+
 142. (A) impression
 (B) impressionable
 (C) impressed
@@ -232,14 +271,17 @@ To: Anthony Lilly <AnthonyLilly@ hotline.com> From: Customer Service <CS@Compreh
 (B) will hold
 (C) hold
 (D) were holding
+
 144. (A) invite
 (B) extend
 (C) offer
 (D) inform
+
 145. (A) They have been sent to the name provided on the form.
 (B) We will mail them to your residence on a monthly basis.
 (C) They must be submitted in person to one of our staff.
 (D) We will modify our name on our policy documents as well.
+
 146. (A) Makes
 (B) Making
 (C) To make
@@ -254,6 +296,7 @@ It's time for the annual sale at Shoe Gold! Buy one pair, get the next pair for 
 (B) A promotional offer on footwear
 (C) Extended hours for a business
 (D) Refunds on canceled products
+
 148. What is NOT indicated about Shoe Gold?
 (A) It will accept payment by check.
 (B) It carries its own brand of credit card.
@@ -271,6 +314,7 @@ Susan Learned [4-32] Good afternoon, Mr. Wachtel. This is Susan Learned from Sig
 (B) Her company does not sell items in bulk.
 (C) No new items have come into the store.
 (D) There is no serious issue with a purchase request.
+
 150. What is Mr. Wachtel NOT interested in purchasing?
 (A) A conference table
 (B) Some office chairs
@@ -286,6 +330,7 @@ Boardwalk Industries Employee Bulletin Board Posting Wanted: Used car in good co
 (B) To advertise repair services
 (C) To find a car for sale
 (D) To announce rental policies
+
 152. What is NOT true about Mr. Long?
 (A) He is concerned about safety.
 (B) He prefers a particular model of car.
@@ -303,11 +348,13 @@ CCT News, the most watched cable news station in the country, has just hired Gre
 (B) A retiring cable producer
 (C) A newly hired employee
 (D) A change in broadcast time
+
 154. What is indicated about George McDonough?
 (A) He is the head of the Cork County Ledger.
 (B) He is serving as a temporary anchor.
 (C) He will take over Ms. Fields' job.
 (D) He worked with Mr. O'Connell before.
+
 155. What was Mr. O'Connell's most recent job?
 (A) Staff writer
 (B) News editor
@@ -323,6 +370,7 @@ SEASIDE HALF MARATHON Register now for the Seaside Half Marathon and receive a f
 (B) It is an annual event in Erie Shore.
 (C) It accepts entrants from around the country.
 (D) It will be broadcast live on television.
+
 157. What will be sent to Robert Joyce's house?
 (A) An identification number
 (B) A pair of running shoes
@@ -340,16 +388,19 @@ Visitors and tour groups are welcome to view Bennett House from Tuesday through 
 (B) Booking ahead of time for large groups
 (C) Making reservations for weekend visits
 (D) Following a designated path through the building
+
 159. What is available for an additional charge?
 (A) Promotional materials containing pictures
 (B) Guided tours of the home
 (C) Admission to a photography exhibit
 (D) Shipping of purchased souvenirs 96
+
 160. What is NOT indicated about Bennett House?
 (A) It sells keepsakes through a retail establishment.
 (B) It offers descriptive pamphlets to all guests.
 (C) It closes temporarily during periods with few tourists.
 (D) It accepts donations instead of charging admission.
+
 161. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "All proceeds from items sold go towards the preservation of this historic building."
 (A) [1]
 (B) [2]
@@ -365,11 +416,13 @@ To: All Staff From: Angela Romanov, Office Manager Subject: Building improvement
 (B) To discuss recent employee complaints
 (C) To remind employees about some renewal work
 (D) To ask for suggestions about a redevelopment project
+
 163. What is indicated about the building?
 (A) It is a five-story structure.
 (B) It will be demolished next year.
 (C) It is three decades old.
 (D) It has one conference room on each floor.
+
 164. What are the employees on the third floor asked to do?
 (A) Report their concerns to the renovation crew leader
 (B) Assist with presentations in the conference room
@@ -389,11 +442,13 @@ Welcome to Lunch on Demand, where the food is both on demand and in demand! From
 (B) A time to pick up a purchase
 (C) An estimated delivery fee
 (D) An updated menu
+
 166. How can customers qualify to receive a coupon?
 (A) By placing a minimum order
 (B) By getting others to join a Web site
 (C) By registering before a deadline
 (D) By ordering food from a specific location
+
 167. What is NOT indicated about Lunch on Demand?
 (A) It is suitable for those who don't eat meat.
 (B) It alters its menu every week.
@@ -411,16 +466,19 @@ Send
 (B) His schedule change must be approved by Ms. Coulter.
 (C) He is also interested in working during breakfast hours.
 (D) His coworker finds Ms. Painter's request acceptable.
+
 169. When will Mr. Lincoln start his regular shifts next season?
 (A) At 7:30 a.m.
 (B) At 11:00 a.m.
 (C) At 11:30 a.m.
 (D) At 3:30 p.m.
+
 170. What is implied about Timelight?
 (A) It will occasionally have production work at night.
 (B) It reduced the size of its staff.
 (C) It will film all scenes in a television studio.
 (D) It will premiere on television next year.
+
 171. What will happen next week at Kitchen Belle?
 (A) A list of crew members will be finalized.
 (B) A couple of new assistants will be hired.
@@ -436,16 +494,19 @@ MENO To: All advertising department staff From: Eleanor Danes, director of adver
 (B) To remind staff about policy changes
 (C) To provide relocation instructions to staff
 (D) To introduce new employees
+
 173. What will happen by March 1?
 (A) New equipment will be delivered.
 (B) Workspace assignments will be posted.
 (C) An office will close temporarily.
 (D) Workers will complete renovations.
+
 174. What is true about the advertising department?
 (A) One of its teams will be transferred to the marketing department.
 (B) Its employees on the third floor will take a day off on February 26.
 (C) It will be split up into two groups that will work on different floors.
 (D) One of its staff members will become the manager of online promotions.
+
 175. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "Plastic containers for storing belongings will also be provided to these employees."
 (A) [1]
 (B) [2]
@@ -469,11 +530,13 @@ What is true about I urnip's ongoing book
 (B) To refer a friend for a position
 (C) To follow up on an ongoing project
 (D) To invite a colleague to an exhibit
+
 177. In the first e-mail, the word "concerns" in paragraph 3, line 3, is closest in meaning to
 (A) opinions
 (B) problems
 (C) inclinations
 (D) enterprises
+
 178. What is suggested about Ms. Katrinsky?
 (A) She showed an article about Mr. Deluth to her colleagues.
 (B) She saw some of Mr. Deluth's artwork at a museum exhibit.
@@ -493,21 +556,25 @@ Hello Sarah, I am writing in response to yesterday's memo from Ms. Alexander. I 
 (B) They have about a month to act on revised policy.
 (C) They can arrange to have payments deducted automatically.
 (D) They complained about a former company policy.
+
 182. What is implied about Mr. Cartwright?
 (A) He is being considered for a major promotion.
 (B) He has been with the company for less than five years.
 (C) He will be transferred to other department next week.
 (D) He has completed a performance evaluation form.
+
 183. Based on the memo, what will change at the beginning of next year?
 (A) The sum that workers can put toward a pension
 (B) The bonuses employees are given for performing well
 (C) The number of years needed to qualify for a program
 (D) The method by which payments must be made
+
 184. What is Mr. Cartwright hoping to do?
 (A) Increase the number of his working hours
 (B) Get an extension on the deadline for a task
 (C) Pay the maximum amount toward a pension scheme
 (D) Take a temporary leave of absence from work
+
 185. What is indicated about Ms. Chang?
 (A) She requested a meeting with Mr. Cartwright.
 (B) She schedules appointments for Ms. Alexander.
@@ -529,21 +596,25 @@ Association of Materials Engineers (AME) 9th Annual Eastern Regional Conference 
 (B) A lunch with students
 (C) A tour of a facility
 (D) Learning sessions
+
 187. What is indicated about Miller Engineering?
 (A) It signed up for a session through a Web site.
 (B) It plans to open an exhibit booth.
 (C) It registered as a conference sponsor.
 (D) It is sending all of its employees to an event.
+
 188. What can Ms. Rose expect to receive from Ms. Vance?
 (A) A list of names
 (B) Copies of a contract
 (C) A product brochure
 (D) Further promotional documents
+
 189. What is mentioned about the conference fees?
 (A) They cannot be refunded after having been paid.
 (B) They do not apply to participants of the AME's high school program.
 (C) They are lower for high school students than college students.
 (D) They may be discounted for people who apply in groups.
+
 190. How much will Ms. Vance's colleague have to pay for his ticket?
 (A) $230
 (B) $310
@@ -571,21 +642,25 @@ BCT1 Biological Research Center STAFF RECOGNITION BANQUET: For Pine Beetle Resea
 (B) A new building will be opened in its city center.
 (C) A waterfront area is being developed for visitor activities.
 (D) It is a frequent location for conferences and conventions.
+
 192. What is NOT a feature of the Grand Deville Hotel?
 (A) An establishment serving international cuisines
 (B) A large selection of television channels
 (C) Outdoor sports and recreation facilities
 (D) Bar items in private rooms
+
 193. In the e-mail, the word "momentous" in paragraph 1, line 3, is closest in meaning to
 (A) within a brief period of time
 (B) of extreme necessity
 (C) of considerable significance
 (D) within the realm of possibility
+
 194. Where in the hotel will the celebration probably be held?
 (A) In the conference room
 (B) In the restaurant
 (C) In the boardroom
 (D) In the ballroom
+
 195. What can be inferred about Derek Raymond?
 (A) He selected the musical entertainment for a celebration.
 (B) He was recently honored for a research achievement.
@@ -613,21 +688,25 @@ From: Jill Addis (555-2737) To: Nick Lieb (555-0320) Received: August 16, 3:35 p
 (B) It is not expected to begin until August 28.
 (C) It will result in noise during working hours.
 (D) It will be suspended for a period of two weeks.
+
 197. What is indicated on the Web page?
 (A) Late evening bus service is usually not available.
 (B) Locations of temporary bus stops are accessible online.
 (C) The concluding date of the maintenance work is undecided.
 (D) Passengers can use their subway passes on the bus.
+
 198. When will the temporary bus service end?
 (A) On August 15
 (B) On August 16
 (C) On August 28
 (D) On August 29 □ 0)1 DOI-LIO
+
 199. Which bus will Mr. Lieb most likely take?
 (A) Bus 23
 (B) Bus 24
 (C) Bus 25
 (D) Bus 26
+
 200. What is suggested about Mr. Lieb?
 (A) He is applying for a job with Cross Media.
 (B) He will meet with Ms. Addis over lunch.

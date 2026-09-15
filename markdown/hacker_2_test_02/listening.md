@@ -20,10 +20,15 @@ The statement that best describes the picture is (B), "The man is sitting at the
 So, you should mark letter (B) on the answer sheet.
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -33,29 +38,53 @@ They will not be printed and will only be spoken one time.
 Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
+
 8. Mark your answer on your answer sheet.
+
 9. Mark your answer on your answer sheet.
+
 10. Mark your answer on your answer sheet.
+
 11. Mark your answer on your answer sheet.
+
 12. Mark your answer on your answer sheet.
+
 13. Mark your answer on your answer sheet.
+
 14. Mark your answer on your answer sheet.
+
 15. Mark your answer on your answer sheet.
+
 16. Mark your answer on your answer sheet.
+
 17. Mark your answer on your answer sheet.
+
 18. Mark your answer on your answer sheet.
+
 19. Mark your answer on your answer sheet.
+
 20. Mark your answer on your answer sheet.
+
 21. Mark your answer on your answer sheet.
+
 22. Mark your answer on your answer sheet.
+
 23. Mark your answer on your answer sheet.
+
 24. Mark your answer on your answer sheet.
+
 25. Mark your answer on your answer sheet.
+
 26. Mark your answer on your answer sheet.
+
 27. Mark your answer on your answer sheet.
+
 28. Mark your answer on your answer sheet.
+
 29. Mark your answer on your answer sheet.
+
 30. Mark your answer on your answer sheet.
+
 31. Mark your answer on your answer sheet.
 
 ### PART 3
@@ -312,7 +341,18 @@ Melissa Durand
 (A) Reduce a fee
 (B) Provide location information
 (C) Take down some notes
-(D) Print out some materials Monthly Sales Results $45,000 $40,000 $35,000 $30,000 $25,000 July August September October
+(D) Print out some materials
+
+```
+Monthly Sales Results
+$45,000
+$40,000
+$35,000
+$30,000
+$25,000
+July
+August September October
+```
 
 68. Why are the speakers in a rush?
 (A) They have to participate in a work seminar.
@@ -369,7 +409,7 @@ answer sheet.
 (C) It has received positive reviews.
 (D) It includes several kinds of vitamins.
 
-76. What does the speaker mean when he ft says, "This won't last for long"?
+76. What does the speaker mean when he says, "This won't last for long"?
 (A) A product is only available in certain seasons.
 (B) A promotion is expected to be popular.
 (C) A new flavor is scheduled to be launched.
@@ -509,13 +549,14 @@ Salaries
 37%
 Printing
 29%
+
 98. Who most likely are the listeners?
 (A) Financial advisors
 (B) Marketing professionals
 (C) Administrative staff
 (D) Company shareholders
-99. Look at the graphic. Which expense will
-most likely be reduced?
+
+99. Look at the graphic. Which expense will most likely be reduced?
 (A) Media
 (B) Printing
 (C) Salaries

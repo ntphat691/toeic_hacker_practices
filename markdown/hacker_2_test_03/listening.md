@@ -9,11 +9,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2

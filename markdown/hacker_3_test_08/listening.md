@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -236,8 +242,11 @@ Directions: In this part, you will listen to several conversations between two o
 (B) They offer reasonably priced rentals.
 (C) They will send some representatives.
 (D) They will provide area guidebooks.
+
 59.
+
 60.
+
 61. Why is the woman calling?
 (A) To alert a colleague of a mistake
 (B) To notify the man of a problem
@@ -365,8 +374,11 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) On Friday
 (C) On Saturday
 (D) On Sunday
+
 80.
+
 81.
+
 82. According to the speaker, what type of event did the CEO arrange?
 (A) An industry convention
 (B) A company orientation

@@ -4,8 +4,11 @@ PART 5
 M PART 7
 Self *||H ai^
 E1|^ E g ifojAHJ-
+
 1.°c(|g$|o|gojSriMLfo? QO||
+
 2. Answer Sheet. 'Eli!. x|°7Hir ^uloK3L^? oil
+
 3.AIW^o|5^o? noil
 S- -H|7^fi}-HE|04OD1 ^4^ilil o Ellaem A|^l|CK
 n #01# mm ited mmE\ k ^ —Ai
@@ -22,146 +25,175 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © PARTS 11^
+
 101. Food manufacturers are responsible for the safety requirements set by the government.
 (A) fulfillment
 (B) fulfilling
 (C) fulfilled
 (D) fulfill
+
 102. A number of people are lining up in the Sherwood Hotel lobby _____ in the two-day technology symposium.
 (A) enroll
 (B) enrolls
 (C) enrollment
 (D) to enroll
+
 103. Tel-Corn Corp.'s merger with Voice Messenger Inc. _____ at a press conference on Monday last week.
 (A) was announcing
 (B) to announce
 (C) was announced
 (D) announced
+
 104. Mr. Kim went to Beijing by _____ for a digital media conference and met several potential clients there.
 (A) he
 (B) him
 (C) his
 (D) himself
+
 105. People who donate more than $50 to the Children's Cancer Group will receive a T-shirt.
 (A) compliment
 (B) compliments
 (C) complimented
 (D) complimentary
+
 106. To move items that are fragile and breakable, the manager has rented specialized _____ from Relocation Shippers.
 (A) equipment
 (B) condition
 (C) background
 (D) quality
+
 107. The Grenville Heritage Museum visitors from taking any photos or videos of the exhibition pieces.
 (A) differentiates
 (B) presents
 (C) prohibits
 (D) releases
+
 108. If you lose your room key, please _____ it to reception staff to get a replacement.
 (A) reports
 (B) report
 (C) reported
 (D) reporting
+
 109. Reyman Steel is building a new warehouse the street from its main manufacturing plant.
 (A) without
 (B) between
 (C) across
 (D) inside
+
 110. Dr. Germain _____ dozens of research papers on electronic commerce before she retired a few years ago.
 (A) will write
 (B) writing
 (C) writes
 (D) had written
+
 111. The CEO is _____ in the office but communicates with his staff through frequent e-mails.
 (A) immediately
 (B) similarly
 (C) rarely
 (D) concisely
+
 112. The federal government abandoned a plan to build a pipeline through Alton City due to overwhelming public
 (A) opposition
 (B) oppose
 (C) opposes
 (D) opposing
+
 113. The Ergonicore office chair is _____ , so it can comfortably seat individuals of varying heights.
 (A) occupied
 (B) productive
 (C) adjustable
 (D) committed
+
 114. The presentation will commence _____ all the audience members have taken their seats.
 (A) even if
 (B) as soon as
 (C) prior to
 (D) by means of
+
 115. The Russian tennis player is confident that she can _____ defeat her opponent by a wide margin.
 (A) slightly
 (B) effortlessly
 (C) cautiously
 (D) diversely
+
 116. The Magic Attic, a newly released movie by director Ron Speilman, is a family film that is _____ for all ages.
 (A) resistant
 (B) appropriate
 (C) simultaneous
 (D) equivalent
+
 117. Excursion Travel Agency has numerous listings for _____ priced accommodations within city limits.
 (A) reasonable
 (B) reasonably
 (C) reasonability
 (D) reasoned
+
 118. Reports that Shadco will be acquiring Durbania remain _____ at best as neither company has confirmed any such plans.
 (A) tentative
 (B) perpetual
 (C) formal
 (D) consistent
+
 119. All goods _____ by ship must be thoroughly inspected by customs officials before entering the country.
 (A) arrive
 (B) arrives
 (C) arriving
 (D) have arrived
+
 120. Brilla Boutique staff may refund a customer's clothing purchase _____ after a customer has presented a receipt.
 (A) when
 (B) only
 (C) yet
 (D) still
+
 121. Attending the shareholders' meeting takes _____ 126. All Swift-Dent electronic toothbrushes are for the president of Goodman _____ warranty for a year from the time Company despite his hectic work schedule. _____ they are purchased.
 (A) outlook
 (B) effect
 (C) priority
 (D) direction
+
 122. Quest Airlines allows registered members to accumulate mileage points _____ they buy a plane ticket.
 (A) whatever
 (B) instead
 (C) whenever
 (D) that
+
 123. Offering rooms that can _____ about 40 persons, Bean's Playpen is ideal for small parties and events.
 (A) convey
 (B) accommodate
 (C) furnish
 (D) familiarize the unfavorable feedback Borebrooke
+
 124. University received in the past, this year's survey results show that students are generally satisfied.
 (A) As far as
 (B) Compared to
 (C) Given that
 (D) Rather
+
 125. Because the Web site for Workmates Consulting was not _____ updated, it listed several job vacancies that had already been filled.
 (A) regularly
 (B) respectively
 (C) numerically
 (D) casually
+
 127. Production has been _____ on Grant Auto's new line of cars while engineers resolve a problem with the brake system.
 (A) attracted
 (B) subtracted
 (C) confronted
 (D) suspended
+
 128. Tai Shing Electronics usually outsources manufacturing to foreign partners _____ its domestic facilities are unable to keep up with demand.
 (A) but for
 (B) in case
 (C) so that
 (D) up to
+
 129. Patrick Jolson will be interviewed three other promising candidates for the position of research and development head.
 (A) even though
 (B) up until
 (C) in honor of
 (D) along with
+
 130. Eastwood County likely has a _____ of natural resources given its proximity to both a mountain range and the ocean.
 (A) deliberation
 (B) dedication
@@ -176,14 +208,17 @@ March 15 Dear Mr. Weber, I would like to thank you for your comprehensive _____ 
 (B) examination
 (C) submission
 (D) lecture
+
 132. (A) attend
 (B) attended
 (C) attending
 (D) attendance
+
 133. (A) who
 (B) their
 (C) whose
 (D)they
+
 134. (A) importance to the university. ^ (B) I honestly believe you are my mos successful guest speaker to date. My sessions lasted longer than tb
 (C) ones. There were some points that I too
 (D) issue with. <<MISSING>>
@@ -196,14 +231,17 @@ To: All deans of Mount Westerly University From: Patricia Griffin, Chief academi
 (B) We have received your applications and will let you know the results soon.
 (C) The choices we make will have a significant impact on the university.
 (D) Some of you failed to fully complete the recommendation form.
+
 136. (A) courteous
 (B) infamous
 (C) descriptive
 (D) previous
+
 137. (A) specific
 (B) specifically
 (C) specify
 (D) specification
+
 138. (A) impede
 (B) negotiate
 (C) prolong
@@ -217,13 +255,17 @@ Farmer's Market Rules of Operation for All Vendors The market opens to the publi
 (B) no more
 (C) already
 (D) no later
+
 140. (A) Those who do not comply with them may lose their vending license. ^ (B) You may request an application form if you are interested.
 (C) Some of the food items have been identified as top sellers.
 (D) We believe the status of our regular vendors has changed. <<MISSING>>
+
 141. (A) design
 (B) location (O) merchandise
 (D) dimension
+
 142. (A) Meanwhile
+
 142. (B) Fortunately
 (C) Therefore
 (D) Regardless <<MISSING>>
@@ -236,14 +278,17 @@ Questions 143-146 refer to the following article.
 (B) are voting
 (C) have been voting
 (D) voted
+
 144. (A) supportive
 (B) support
 (C) supportable
 (D) supports
+
 145. (A) looked over
 (B) paid for
 (C) fixed up
 (D) shut down
+
 146. (A) Opposition to the plan remains llpl prevalent at this point in time.
 (B) Most believe such facilities will be highly beneficial for Gainesburg.
 (C) The mayor delivered an inspiring opening speech.
@@ -262,6 +307,7 @@ After four months of construction, we are finally ready to welcome customers. Ri
 (B) An annual banquet
 (C) A grand opening
 (D) A cooking competition
+
 148. What is true about Ricardo's Corner?
 (A) It operates multiple stores.
 (B) It will not sell goods on weekends.
@@ -279,11 +325,13 @@ At Renfrew Gymnasium, we always do our best to ensure that you have a pleasant a
 (B) To announce changes to a staff member work policy
 (C) To provide details on emergency safety procedures
 (D) To inform members of guidelines concerning belongings
+
 150. According to the notice, what should gym users do when reporting a loss?
 (A) Visit the facility's front desk
 (B) Fill out a complaint form
 (C) Write to a head office
 (D) Post a note on a bulletin board
+
 151. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "They will provide you with a ticket which must be presented to retrieve your stored items."
 (A) [1]
 (B) [2]
@@ -299,6 +347,7 @@ Colin McKay [8:45 A.M.] Hey Brenda, what time are you supposed to have your year
 (B) She is unable to switch times.
 (C) She does not want to accept a proposal.
 (D) She wants to leave the office early.
+
 153. What will Mr. McKay most likely do next?
 (A) Meet with a factory manager
 (B) Cancel a plant visit
@@ -316,6 +365,7 @@ Dear Ms. Patton, Thank you for your order. We have three of the four pieces you 
 (B) A selection is unavailable now.
 (C) A price has been changed.
 (D) A shipment has been lost.
+
 155. What is NOT an option suggested by Mr. Compton?
 (A) Delaying a shipment
 (B) Replacing a selection
@@ -337,6 +387,7 @@ Monday Tuesday Wednesday Thursday Friday
 (B) Discussing a film's production costs
 (C) Auditioning main actors
 (D) Talking about a shot sequence
+
 157. What time will the second rehearsal commence?
 (A) At 1:30 p.m.
 (B) At 2:00 p.m.
@@ -354,16 +405,19 @@ In its last survey conducted a decade ago, the Gordon Institute found that many 
 (B) It has produced at least three studies.
 (C) It advises the government on medical concerns.
 (D) It holds seminars on maintaining a healthy diet.
+
 159. What type of exercise did most survey participants prefer?
 (A) Taking lengthy walks
 (B) Participating in weight training
 (C) Running at a slow pace
 (D) Engaging in competitive sport
+
 160. What does the most recent survey indicate about Americans?
 (A) They have the tendency to overeat.
 (B) They are making better choices about their health.
 (C) They got more exercise a decade ago.
 (D) They spend most of their spare time exercising.
+
 161. In which of the positions marked [1], [2], mh [3], and [4] does the following sentence best belong? "The rest of them say they do not work out at all."
 (A) [1]
 (B) [2]
@@ -381,11 +435,13 @@ Super Ticket Exchange is the best place to buy and sell tickets online. We have 
 (B) It offers refunds for a limited amount of time.
 (C) It charges a small commission on every transaction.
 (D) It sells tickets at the lowest prices on the market.
+
 163. On what date will a school group give a performance?
 (A) October 3
 (B) October 12
 (C) October 15
 (D) October 26
+
 164. What are ticket sellers required to do?
 (A) Send an e-mail to confirm an address
 (B) Make a phone call to provide payment details
@@ -405,11 +461,13 @@ The printar you have now doeen't work very well. It printed elowly and eomet'mee
 (B) It has branches located in many different countries.
 (C) It recently updated many of its facilities.
 (D) It is considering introducing a new service.
+
 166. What did Mr. Gould have difficulty with?
 (A) An inoperable phone system
 (B) A malfunctioning device
 (C) An occupied meeting venue
 (D) A poor Internet connection
+
 167. What is NOT mentioned about Mr. Gould?
 (A) He traveled to Chicago on business.
 (B) He was pleased with a member of staff.
@@ -429,16 +487,19 @@ To build excitement for Normandy, Martin released Then three years ago, while sk
 (B) It ranked highly on some charts for a period of time.
 (C) It consists of recordings with other artists.
 (D) It was produced at a recording studio in Paris.
+
 169. What is implied about Mr. Martin?
 (A) He hosted his own televised talk show for a time.
 (B) He built a recording studio near his home in Colorado.
 (C) He has not performed in public for three years.
 (D) He produced a best-selling album for James Norwell.
+
 170. What is posted on Mr. Martin's Web site?
 (A) Tour schedules
 (B) A song by Carly Fey
 (C) Ways to contact his agent
 (D) Album release information
+
 171. How has Mr. Martin promoted his upcoming album?
 (A) By putting out a song in advance
 (B) By performing free concerts
@@ -456,16 +517,19 @@ Send
 (B) A committee has been asked to review a list of applicants.
 (C) A company is having trouble finding qualified personnel.
 (D) A team has been given the task of developing a Web site.
+
 173. What is NOT mentioned about Revenco?
 (A) It has tried to recruit new employees at job fairs.
 (B) It is experiencing rapid growth at the present time.
 (C) It recently stopped running a job advertisement.
 (D) It has more than one office location.
+
 174. At 4:50, what does Ms. Page mean when she writes, "There's just one thing"?
 (A) She believes there is only one way to deal with a lack of applicants.
 (B) She is not sure that people will be interested in the position.
 (C) She thinks that candidates should have to fulfill a certain condition.
 (D) She does not fully agree with a colleague's proposal.
+
 175. What does Mr. Walker ask Ms. Page to do?
 (A) Organize a meeting with Mr. Garnier
 (B) Compile a list of people to invite
@@ -489,21 +553,25 @@ Dear madam or sir, I am scheduled to attend your conference at the Royal FHarrin
 (B) A tour of some historical buildings
 (C) An academic gathering regarding history
 (D) A series of presentations from graduate students
+
 177. Which speaker will talk about the clothing of an ancient culture?
 (A) Jonathan Taylor
 (B) Grace Li
 (C) Zoe Harris
 (D) Michael Jones
+
 178. What is mentioned about the Royal Harrington Hotel?
 (A) It is located in the suburbs of Melbourne.
 (B) It is offering complimentary accommodations to guests.
 (C) It is one of the largest hotels in the city.
 (D) It is hosting more than one event on July 25.
+
 179. Why will Ms. Christie arrive after the registration period?
 (A) She is taking transit that arrives at a later time.
 (B) She has another event to attend first.
 (C) She needs to check in to her hotel room.
 (D) She has a work assignment to complete.
+
 180. Where will Ms. Christie most likely eat lunch?
 (A) In the main dining hall
 (B) In the Hampton Conference Room
@@ -527,21 +595,25 @@ Georgina McGrath
 (B) An upgraded fitness tracking device
 (C) A new navigation program
 (D) A searchable city map
+
 182. What is Two Wheels?
 (A) A bicycling group
 (B) A motorbike manufacturer
 (C) A government agency
 (D) A software developer
+
 183. What has Ms. McGrath recently done?
 (A) Deleted a mobile application
 (B) Relocated for work
 (C) Hiked in the mountains
 (D) Rented a car
+
 184. What can be implied about Ms. McGrath?
 (A) She uses the software mostly for bicycling to work.
 (B) She received a discount for renewing her membership.
 (C) She paid for a one-year subscription to the application.
 (D) She will be charged an extra fee to see walking routes.
+
 185. What is indicated about Red-Routes?
 (A) It has an interface that is hard to use.
 (B) It operates at a fast speed.
@@ -565,21 +637,25 @@ Charles, I compiled a report regarding the advertisements we ran in Shelton Medi
 (B) It targets residents of a particular community.
 (C) It prints one newsletter issue weekly.
 (D) It hosts events for job seekers.
+
 187. What extension number should clients dial to inquire about discounted rates?
 (A) 11
 (B) 18
 (C) 24
 (D) 30
+
 188. What can customers do on Shelton Media's Web site?
 (A) Provide feedback on services
 (B) Order products from a catalogue
 (C) Enter a monthly draw
 (D) Chat with a company representative
+
 189. What does Ms. Loeb indicate about Lawler Scapes?
 (A) It plans to sign a two-year agreement.
 (B) It has more business during the spring.
 (C) It will increase its budget for advertising.
 (D) It is a new company in the region.
+
 190. How much does Ms. Loeb suggest spending on each advertisement?
 (A) $125
 (B) $150
@@ -605,21 +681,25 @@ I recently got back from Borderland Tours' 30-day Sahara Tour. At first, all I c
 (B) It passes through at least three countries.
 (C) It is offered by Borderland Tours year-round.
 (D) It is scheduled to last for about a month.
+
 192. According to the online form, what are travelers required to do upon booking?
 (A) Indicate their meal preferences
 (B) Transmit a partial payment
 (C) Provide a home address
 (D) Arrange for necessary visas
+
 193. What is suggested about Mr. Turner?
 (A) He frequently goes on trips to exotic locations.
 (B) He is in a healthy state of physical fitness.
 (C) He took a safety course before his trip.
 (D) He had to pay extra for changing his reservation.
+
 194. What aspect of the trip was Mr. Turner not satisfied with?
 (A) The impoliteness of a staff member
 (B) The uncomfortable accommodations
 (C) The incompatibility of the group members
 (D) The lack of variety of meal options
+
 195. Which destination in Mauritania did Mr. Turner originally want to visit most?
 (A) Nouakchott
 (B) Banc d' Auguin
@@ -643,21 +723,25 @@ people I interviewed at Autumn Leafs main branch last month. I have spoken to my
 (B) To satisfy a need for extended stays
 (C) To accommodate an excess of customers
 (D) To take advantage of a district's growing popularity
+
 197. What is indicated about Autumn Leaf's new hotel?
 (A) It will rent rooms for events.
 (B) It will serve meals in guests' rooms.
 (C) It could open later than August.
 (D) It may offer a valet parking service.
+
 198. What does Mr. Suarez state about the article?
 (A) It could be reprinted in a company newsletter.
 (B) It is the second one written about Autumn Leaf.
 (C) It failed to mention a special promotion.
 (D) It prompted readers to contact Autumn Leaf.
+
 199. What is suggested about Mr. Oldman?
 (A) He interviewed Mr. Suarez in New York.
 (B) He took a translator with him to Buenos Aires.
 (C) He visited Monserrat sometime in March.
 (D) He was hired by Autumn Leaf to write his article.
+
 200. In the e-mail, the word "settled" in paragraph 2, line 1, is closest in meaning to
 (A) paid
 (B) finalized

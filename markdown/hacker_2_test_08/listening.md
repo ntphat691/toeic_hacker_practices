@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -456,8 +462,11 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) A draft of a script
 (C) Some legal documents
 (D) Some contact information ^ Room assignments Industry Room Finance/Investing 101 Education 102 Petrochemicals 201 Engineering 202
+
 95.
+
 96.
+
 97. Who most likely is the speaker addressing?
 (A) Students
 (B)Jobseekers

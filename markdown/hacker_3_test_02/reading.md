@@ -6,8 +6,11 @@
 0 PART 7
 Self *1|H
 S2H EII^E 2 shojAHJ
+
 1.^H^o|^§TI^o? 0j|
+
 2. Answer Sheet. ^1. Al^m ^u|o^L^? o||
+
 3.A|7lll^b|o^o? noil
 o = 2^1^001 [[^aj o El|AE^ ARSLpK
 ^11 i0|»: m\b ^¥£1 70^ %\ _JI _g®NC|V
@@ -25,151 +28,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © PARTS 11&
+
 101. According to Picton Daily News, only damage to the area occurred during the tropical storm.
 (A) moderate
 (B) moderating
 (C) moderately
 (D) moderation
+
 102. The employees at Barneveld Inc. are encouraged to build teamwork by assisting on various projects.
 (A) the other
 (B) one another
 (C) other
 (D) another
+
 103. Some marketing team members from Game-Tekno will be traveling to Tokyo the branch opening to finalize preparations.
 (A) although
 (B) next to
 (C) ahead of
 (D) inside of
+
 104. The seminar speaker offered some arguments in favor of natural medications and remedies.
 (A) convinced
 (B) convince
 (C) convincing
 (D) convincingly
+
 105. The statue on Hastings Avenue that was unveiled in a ceremony yesterday _____ by an ancient Roman sculpture.
 (A) inspired
 (B) to be inspired
 (C) was inspired
 (D) is inspiring
+
 106. An old building in the Brickford neighborhood will be demolished and a luxury apartment.
 (A) differed from
 (B) imposed on
 (C) replaced with
 (D) attributed to
+
 107. After he was appointed sales manager, Bill Haskell achieved improved between the staff in the sales and marketing departments.
 (A) coordinator
 (B) coordinative
 (C) coordinated
 (D) coordination
+
 108. All potential clients are given brochures containing brief _____ of GL Mutual's insurance policy packages.
 (A) distributions
 (B) operations
 (C) summaries
 (D) subtractions
+
 109. The Beckford Auditorium can be reached by walking _____ the second floor corridor to the end of the hallway.
 (A) through
 (B) without
 (C) away
 (D) under
+
 110. Codex Corporation showed a great deal of about Ms. Khan's recent medical issues and gave her an extended leave.
 (A) understand
 (B) understandable
 (C) understood
 (D) understanding
+
 111. Mayor Terrence Miller _____ the volunteers for the self-sacrificing work they did to assist the community during the disaster.
 (A) contested
 (B) commended
 (C) restricted
 (D) promised
+
 112. The Parker Fairground off Taylor Street is the perfect place for families and friends during the summer.
 (A) to visit
 (B) will visit
 (C) are visiting
 (D) visits
+
 113. The carpenter noted that the old house's roof was _____ run-down and would soon have to be repaired.
 (A) rather
 (B) seldom
 (C) never
 (D) often
+
 114. _____ editing and rewriting documents, Quill Editing offers translation services in a number of languages.
 (A) On behalf of
 (B) In addition to
 (C) Due to
 (D) In spite of
+
 115. Customers should carefully read the descriptions of each item _____ online to avoid time-consuming product returns.
 (A) was ordered
 (B) ordering
 (C) ordered
 (D) orders
+
 116. The release date for HBS Tech's new product was _____ a mistake as its competitor had launched a similar item earlier.
 (A) deliberately
 (B) indeed
 (C) instead
 (D) evenly
+
 117. All _____ directed to Holston Prudential's customer service support team are handled in complete confidence.
 (A) inquiring
 (B) inquired
 (C) inquiries
 (D) inquire
+
 118. Country-Link Limited utilizes special wrapping paper to prevent _____ items from breaking during delivery.
 (A) subtle
 (B) delicate
 (C) vigorous
 (D) cautious
+
 119. The scheduled meetings for Augustus Manufacturing's staff were spaced far enough _____ to allow employees to complete their usual tasks.
 (A) alongside
 (B) beyond
 (C) apart
 (D) besides
+
 120. Bug-Fix Software _____ users of its antivirus program to download regular updates and scan their computers on a weekly basis.
 (A) advises
 (B) suggests
 (C) attracts
 (D) persists
+
 121. Passengers are asked to store any carry-on luggage _____ in the overhead bins and fasten their seat belts prior to takeoff.
 (A) securely
 (B) secure
 (C) security
 (D) securing
+
 122. Included in the lease is a strict requiring tenants to pay for any damages caused to the property,
 (A) prediction
 (B) condition
 (C) negotiation
 (D) expense
+
 123. Manuel Torres, _____ books have all been best-selling titles, has released his newest publication on the topic of the national election system.
 (A) whose
 (B) who
 (C) whom
 (D) what
+
 124. Mr. Norris will _____ take Friday afternoons off if he has to travel a long distance during weekends.
 (A) accidentally
 (B) once
 (C) occasionally
 (D) lately
+
 125. The assistant curator ensures that all artifacts _____ according to museum guidelines to avoid deterioration.
 (A) were being stored
 (B) stored
 (C) are stored
 (D) will be storing
+
 126. The captain of the cruise ship instructed the passengers to stay off the outdoor decks _____ winds become severe.
 (A) in the event that
 (B) in keeping with
 (C) unless
 (D) instead of
+
 127. Clifton Oil and Gas's annual sales are showing great _____ compared to last year, when profits were disappointing.
 (A) denial
 (B) consideration
 (C) potential
 (D) oversight
+
 128. Most participants have found Bucksmith Capital's internship program because it provides them with relevant banking experience.
 (A) satisfaction
 (B) satisfactory
 (C) satisfyingly
 (D) satisfied
+
 129. Researchers conducting experiments in the laboratory are kindly asked to return equipment to _____ it is stored.
 (A) where
 (B) whether
 (C) when
 (D) elsewhere
+
 130. For _____ coverage of top stories from around the world, more viewers tune in to Global Syndicated than any other news channel.
 (A) renewable
 (B) dependable
@@ -184,14 +217,17 @@ To: Christine Lata <clata2@consumermail.com> From: Dr. Miles Hamilton <mhamilton
 (B) move out
 (C) take over
 (D) hold off
+
 132. (A) Therefore
 (B) Likewise
 (C) Afterward
 (D) Conversely
+
 133. (A) addressable
 (B) straight
 (C) divided
 (D) close
+
 134. (A) Your chart shows a marked milk improvement since her last visit.
 (B) Of course, I am glad that you have decided to remain with me.
 (C) Otherwise, you may retrieve them from my staff before that date.
@@ -205,14 +241,17 @@ April 7 William Randell 118 West Ocean Boulevard Oceanside, California 92049 Dea
 (B) deferred
 (C) replaced
 (D) accepted
+
 136. (A) Up until
 (B) On condition that
 (C) Though
 (D) Rather than
+
 137. (A) Now that you have sent the amount, f||| please wait for confirmation,
 (B) We hope that you found your classes to be both fun and informative.
 (C) Once you receive it, you may access all of the facilities on campus.
 (D) The additional charge to your account is for the card you lost.
+
 138. (A) before
 (B)soon
 (C) thereafter
@@ -226,14 +265,17 @@ New Transit Options Coming! City Council yesterday _____ - to approve the propos
 (B) reacted
 (C) voted
 (D) hesitated
+
 140. (A) Tourism to the area has grown in |||| recent years thanks to a popular campaign.
 (B) The population in this area has been increasing because of low property costs.
 (C) The district's transportation costs are increasing at an unprecedented rate.
 (D) The closure of the Glostrup line was announced just two months earlier.
+
 141. (A) education
 (B) employment
 (C) volunteer
 (D) sponsorship
+
 142. (A) will stretch
 (B) stretches
 (C) will be stretched
@@ -247,14 +289,17 @@ To; All staff From: Louise Nixon, Director of operations Subject: VIP event Date
 (B) them
 (C) their
 (D) which
+
 144. (A) to refrain
 (B) refraining
 (C) refrained
 (D) refrains
+
 145. (A) The guests were very pleased with the mm service we provided.
 (B) Another group needs to use our small meeting room on the 28th.
 (C) The contract states that their meals should be provided free of charge.
 (D) Event participants will be entitled to a discount upon booking.
+
 146. (A) Specifically
 (B) Sometimes
 (C) Otherwise
@@ -269,6 +314,7 @@ Martin Bailey Tallahassee Bike Works 1105 Old Bainbridge Road Tallahassee, FL 32
 (B) A list of products
 (C) A discount coupon
 (D) A sales invoice
+
 148. What is suggested about Tallahassee Bike Works?
 (A) It recently published a promotional product brochure.
 (B) It sent Ms. Jenkins a complete purchase order form.
@@ -286,6 +332,7 @@ In an effort to provide rapid service to the Shakersfield area, roadwork will be
 (B) To inform commuters of a station closure
 (C) To state new transit regulations
 (D) To announce a construction project
+
 150. What is indicated about the Town of Shakersfield?
 (A) Its subway will be affected by construction work.
 (B) It will post signs for detours during roadwork.
@@ -303,6 +350,7 @@ Dear Ms. Monaco, I just wanted to inform you that we have completed your gown. S
 (B) To notify a client that a garment is ready for pickup
 (C) To clarify errors in a shop's billing statement
 (D) To inform a customer of some scheduling alterations
+
 152. What will Ms. Monaco do on Saturday?
 (A) Attend an awards ceremony
 (B) Try on an outfit at a shop
@@ -320,6 +368,7 @@ Fumiko Nakamura [10:50 a.m.] Philip, I'm about to board my flight and should arr
 (B) At 10:00 a.m.
 (C) At 2:00 p.m.
 (D) At 4:00 p.m.
+
 154. At 11:03 a.m., what does Mr. Akkarat most longer"?
 (A) He wants to increase the length of a project.
 (B) He may ask some staff members to work overtime.
@@ -337,11 +386,13 @@ The staff at the Pendleton Ice Rink want everyone to have a safe, enjoyable expe
 (B) To describe revised operation policies to staff
 (C) To notify visiting skaters of a facility's rules
 (D) To promote classes on an ice rink
+
 156. What is NOT indicated about Pendleton Ice Rink?
 (A) It has uniformed staff that are always available.
 (B) It offers patrons the use of dressing rooms.
 (C) It allows visitors to bring their own equipment.
 (D) It is open to the public 24 hours a day.
+
 157. How can visitors register for a class?
 (A) By calling the ice rink's main office
 (B) By visiting an employee at a counter
@@ -359,11 +410,13 @@ Do you have a home full of things you no longer need or use? Maybe it's clothing
 (B) A used goods business
 (C) An antiques auction house
 (D) A trash removal service
+
 159. What does the advertisement suggest about Bargain-Bin?
 (A) Its selection of products is constantly changing.
 (B) It operates several outlets across the state.
 (C) It is looking to hire additional employees.
 (D) It rewards frequent shoppers with store credit.
+
 160. What does the business do with a portion of its profits?
 (A) Invest it in independent local businesses
 (B) Distribute it to Bargain-Bin investors
@@ -379,11 +432,13 @@ The Winfield Community Chorus will hold open tryouts for new members on January 
 (B) Registered participants in a competition
 (C) Residents interested in performing
 (D) Students enrolled in a singing class
+
 162. What is required of those wishing to try out for the chorus?
 (A) Prior participation in a chorus
 (B) Previous foreign language study
 (C) Possession of a music degree
 (D) Willingness to be a volunteer
+
 163. In which of the positions marked [1], [2], Igfl [3], and [4] does the following sentence best belong? "They are also responsible for purchasing their own uniforms, the details of which will be provided at a later time."
 (A) [1]
 (B) [2]
@@ -403,16 +458,19 @@ What is suggested about Mr. Brickyard's
 (B) The alteration of some deadlines
 (C) The modification of a work policy
 (D) The reassignment of some employees
+
 165. Why most likely is changing the release date unacceptable?
 (A) It will increase production costs.
 (B) It may be rejected by the board.
 (C) It might violate a contract.
 (D) It could affect sales of a product.
+
 166. team?
 (A) It includes independent contractors.
 (B) It was given one month to complete all of its tasks.
 (C) It is responsible for drafting user instructions,
 (D) It is part of the hardware division.
+
 167. At 8:32 a.m., what does Ms. Arden mean when she writes, "What are you thinking"?
 (A) She strongly disagrees with a proposal.
 (B) She wants more details concerning a plan.
@@ -428,16 +486,19 @@ Barriston City Unveils New Development Project By Wendy Ogilvy The Barriston Cit
 (B) To announce a tax increase for all local residents
 (C) To provide details about an urban renewal project
 (D) To report on plans for a transit expansion
+
 169. What does the article NOT indicate about Chestnut District?
 (A) It will be the site of a public performance venue.
 (B) It will have signs displaying maps of the entire city.
 (C) It is currently in need of some roadwork.
 (D) It has experienced a decline in business.
+
 170. The word "draw" in paragraph 4, line 2, is closest in meaning to
 (A) outline
 (B) attract
 (C) fill
 (D) represent
+
 171. What will most likely be used to pay for the renovation of some buildings?
 (A) City government fund
 (B) Property taxes
@@ -463,16 +524,19 @@ Check out hundreds of sample publications on our site and take a tour of our des
 (B) It offers free shipping for bulk orders.
 (C) It allows clients to design their own documents.
 (D) It supplies a wider selection of printing paper than competitors,
+
 173. What will be given to those customers who spend a certain amount?
 (A) Gift certificates worth $75
 (B) Consultations on layout and design
 (C) Free delivery services
 (D) Complimentary business cards
+
 174. What can visitors to EZ-R-Printing Services' Web site do?
 (A) Check out prices
 (B) Settle invoices
 (C) Print out documents
 (D) Find branch listings
+
 175. In which of the positions marked [1], [2], lUl [3], and [4] does the following sentence best belong? "If you're uncertain about your layout and design skills, you don't have to do it at all." <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 
 Questions 176-180 refer to the following notice and e-mail.
@@ -494,21 +558,25 @@ i r |i I] Unfortunately, that's all I can offer to do for now, as I teach all da
 (B) Make travel arrangements for a group
 (C) Make a list of the fair participants
 (D) Find appropriate venues for some fairs
+
 177. What is implied about Cofton College?
 (A) It is holding a recruitment fair on its campus.
 (B) It offers subsidized tuition for some courses.
 (C) Its course enrollment numbers are typically low.
 (D) Its ratio of teachers to students is high.
+
 178. What is stated about the weekend event?
 (A) Teaching staff are not needed for it.
 (B) Staff will be paid overtime for attending it.
 (C) It will host the greatest number of attendees.
 (D) It will have a modest admission fee.
+
 179. What is indicated about Professor Jansen's family?
 (A) They will travel with him to London.
 (B) They are away on vacation in Brighton.
 (C) They are residents of Leeds.
 (D) They recently moved to Birmingham.
+
 180. Why is Professor Jansen unable to attend the other events?
 (A) He will be busy with work during the week.
 (B) He will be visiting family out of town.
@@ -534,21 +602,25 @@ Jerry Hanover Fit Prime Gym Management
 (B) To begin teaching classes at a gym
 (C) To arrange a tour of a gym
 (D) To sign up for weekly swimming lessons
+
 182. What has NOT been provided on the form?
 (A) Ms. Norenski's residential details
 (B) The applicant's occupation
 (C) Ms. Norenski's date of birth
 (D) The applicant's familial relationships
+
 183. What is most likely true about Mr. Hanover?
 (A) He just started working as a manager at the gym.
 (B) He recommended that Ms. Norenski try the gym.
 (C) He is certified to provide personal training to members.
 (D) He works a later shift now because of the new pool hours.
+
 184. What is indicated about Fit Prime Gym's pool?
 (A) It only allows lap swimming on weekdays.
 (B) It temporarily shuts down for cleaning on Fridays.
 (C) It is unavailable during the winter months.
 (D) It closes at an earlier time on Sundays,
+
 185. What is suggested about Ms. Norenski's membership?
 (A) She received an extra discount for renewing a previous membership.
 (B) Her husband intends to take part in lap swimming.
@@ -570,21 +642,25 @@ Tampa Weekly Is franchising right for you? (continued from page 1) As I learned 
 (B) Thorough instruction
 (C) Financial support
 (D) Established work procedures
+
 187. What can be inferred about Mr. Ainge?
 (A) Fie has decided to locate his business in Fort Myers.
 (B) Fie budgeted $20,000 to invest in a company.
 (C) Fie wants to attend an upcoming franchising event.
 (D) Fie has a preference for a certain type of industry.
+
 188. In the letter, the word "model" in paragraph 1, line 3, is closest in meaning to
 (A) version
 (B) subject
 (C) imitation
 (D) system
+
 189. What is suggested about the 24th Annual Franchise Expo?
 (A) It is held in a different city every year.
 (B) It grouped industries together into sections.
 (C) It is being sponsored by a charity organization.
 (D) It featured fewer than 200 franchise owners.
+
 190. Which business might Ms. Allred recommend?
 (A) Barb's Chicken
 (B) Missy's Ice
@@ -608,21 +684,25 @@ To: Joel Nesbitt <j.nesbitt@majestic.com> From: Randall Howe <r.howe@majestic.co
 (B) She has never transacted with Majestic before.
 (C) She did not have to pay a shipping charge.
 (D) She will be unable to track the delivery of her order.
+
 192. In the first e-mail, what is stated about Majestic Porcelain?
 (A) It will not process a request without a receipt,
 (B) It packs items individually for protection.
 (C) It recently modified its return policies.
 (D) It charges a flat fee to ship internationally.
+
 193. How much is being offered to Ms. Plummer as a refund?
 (A) $35.00
 (B) $42.99
 (C) $62.98
 (D) $355.97
+
 194. According to the second e-mail, what advantage does Global Delivery have over other shipping providers?
 (A) Low-cost damage insurance
 (B) State-of-the-art tracking technology
 (C) A large number of branches
 (D) Reduced pricing on large shipments
+
 195. Which shipping provider will Majestic Porcelain most likely choose?
 (A) Super Mail Carriers
 (B) Corporate Parcel Service
@@ -646,21 +726,25 @@ I have worked as Ms. Choi's director for several years now, and find her to be i
 (B) A seller of applications for mobile devices
 (C) An online advertising service for businesses
 (D) A recruitment agency for software programmers
+
 197. What did Mr. Bradley indicate about most of the applicants for the marketing jobs?
 (A) They have insufficient experience in marketing.
 (B) They are not familiar with software development.
 (C) They are unavailable for the positions immediately.
 (D) They do not have degrees in marketing.
+
 198. What did Mr. Kumar do on January 14?
 (A) Had a meeting with a colleague from Los Angeles
 (B) Discussed some job vacancies with a coworker
 (C) Met David Bradley for lunch
 (D) Read through the terms of a contract
+
 199. What is suggested about Mia Choi?
 (A) She will send a job application to Mr. Morrison.
 (B) She contacted a marketing manager at Sav-Tech.
 (C) She hopes to relocate to a larger company in Los Angeles.
 (D) She was the head of a team at Headman Advertising Agency.
+
 200. Who is Richard Morrison?
 (A) A former client of Mr. Bradley
 (B) A software marketing expert

@@ -5,8 +5,11 @@ I TEST 04
 0) PART 7
 Self Ip apM
 S'ZI! Ml—— 5! SIWH
+
 1.^HBiggBsma? doii
+
 2. Answer Sheet, 21, xi^7|f gd |ohSL|-o ? D oj|
+
 3.A|7||tgd|SHaL|-s? 01[
 OS gdpp 2t=£|Sl°2 *4# ttlil * MIAE# AlsfSilti
 m mmafe70g- °°J _A| _^?JL|CK
@@ -24,151 +27,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © parts iFb'l-olAiy 11§
+
 101. Meals at Moonlight Grill consist of various dishes _____ for guests of all ages.
 (A) enjoys
 (B) enjoy
 (C) enjoyable
 (D) enjoying
+
 102. Mayberry Research Institute offers staff which include dental coverage and a pension plan.
 (A) benefitted
 (B) beneficially
 (C) benefits
 (D) beneficial
+
 103. Arranging an appointment to see Dr. Menard one month in advance is due to her busy schedule.
 (A) grateful
 (B) conclusive
 (C) precise
 (D) necessary
+
 104. Patrons who had their vehicles parked waited by the Canton Theater entrance while _____ retrieved their cars.
 (A) attending
 (B) attends
 (C) attendants
 (D) attendance
+
 105. _____ all the entrepreneurs in Florida are in favor of the government's plan to cut taxes, though a small minority is opposed.
 (A) Solely
 (B) Certainly
 (C) Unusually
 (D) Nearly
+
 106. AEG Co. is looking for sales associates who demonstrate excellent communication skills and an ability to work in a manner.
 (A) cooperative
 (B) cooperation
 (C) cooperatively
 (D) cooperate
+
 107. The unnecessary extra work on Sackler Department Store's new building could have been _____ if the design plans had been followed precisely.
 (A) avoided
 (B) proposed
 (C) cautioned
 (D) cultivated
+
 108. Ms. Herrera could not sit in an aisle seat during her international flight because there were _____ available.
 (A) hardly
 (B) any
 (C) mainly
 (D) none
+
 109. Mr. Holt's acceptance of the financial executive position is _____ his satisfaction with the salary offer.
 (A) in contrast to
 (B) dependent on
 (C) as opposed to
 (D) on condition that
+
 110. Transport officials are still unsure of caused Train 580 to break down earlier this morning.
 (A) each
 (B) those
 (C) what
 (D) why
+
 111. The Project Green report argues _____ that the best way to save endangered species is by placing them in protected wildlife areas.
 (A) persuasive
 (B) persuade
 (C) persuasion
 (D) persuasively
+
 112. The guide told visitors touring the High Point Library that the facility _____ by the renowned architect Albert Grand.
 (A) designs
 (B) was designed
 (C) designing
 (D) will be designed
+
 113. Sundersen Technologies _____ 10 percent from Mr. Garrison's bill since he was eligible for a bulk purchase discount.
 (A) deducted
 (B) substituted
 (C) deposited
 (D) submitted
+
 114. _____ the recent economic upturn, unemployment is on the decline as more and more businesses are hiring full-time employees.
 (A) In order that
 (B) As a result of
 (C) Despite
 (D) Provided that
+
 115. Passengers _____ to fill in their arrival forms during the flight for quicker processing at the immigration checkpoint.
 (A) remind
 (B) have reminded
 (C) reminding
 (D) are reminded
+
 116. Overdrive is a low-budget action film that has no _____ to actor Sam Horton's autobiography, which has the same title.
 (A) relates
 (B) related
 (C) relate
 (D) relation
+
 117. Without exception, _____ employees must undergo on-the-job training to enhance their skills.
 (A) every
 (B) all
 (C) a lot
 (D) few
+
 118. The client was never in his office many times Ms. Baxter tried to call him.
 (A) otherwise
 (B) however
 (C) hence
 (D) somehow
+
 119. LocerTech's primary goal is to be as as possible to customer inquiries.
 (A) shortened
 (B) accelerated
 (C) responsive
 (D) intentional
+
 120. Rodgers Industrial celebrated the _____ of its 50th anniversary by hosting a banquet for clients from around the world.
 (A) impression
 (B) integration
 (C) occasion
 (D) gratitude
+
 121. Gilbot Grounds had to work _____ to get the landscaping project finished by the deadline.
 (A) intense
 (B) intensely
 (C) intensive
 (D) intensity
+
 122. Under the finance minister's leadership, corporations recovered quickly from last year's losses and then began making substantial
 (A) regulations
 (B) earnings
 (C) entrants
 (D) estimations
+
 123. The provision of additional government grants for college tuition will make education _____ to more people from around the country.
 (A) exclusive
 (B) plentiful
 (C) confidential
 (D) accessible
+
 124. The current edition of the employee handbook _____ detailed guidelines for employee performance reviews.
 (A) contain
 (B) was contained
 (C) contains
 (D) containing
+
 125. Shoppers looking for high-quality electronics at low prices will find a selection at the new NorvelTech store,
 (A) greatest
 (B) greatly
 (C) greaten
 (D) greater
+
 126. Although Southmoore Records has been actively seeking a new CEO for three months, they have _____ to find a suitable candidate.
 (A) yet
 (B) never
 (C) seldom
 (D) seemed
+
 127. Many office workers frequent Stan's Bistro because of its _____ to the business district.
 (A) proximity
 (B) closure
 (C) simplicity
 (D) scheme
+
 128. The temperature this morning is cool and pleasant, but it is expected to increase steadily _____ the day.
 (A) between
 (B) above
 (C) next to
 (D) throughout
+
 129. Now that the city has hired additional workers, it can _____ with the construction of the new civic center.
 (A) enhance
 (B) concern
 (C) replace
 (D) proceed
+
 130. -- — to be the best in the city, the Melise Restaurant is booked for the next six months.
 (A) Reporting
 (B) Report
@@ -183,14 +216,17 @@ To: All staff members From: Greg Birch, CTO Subject: Server Date: March 2 As you
 (B) was disconnected
 (C) has been disconnected
 (D) has disconnected
+
 132. (A) Before
 (B) But
 (C) If
 (D) So
+
 133. (A) vulnerable
 (B) flexible
 (C) dangerous
 (D) faulty
+
 134. (A) The breakdown is expected to be ||||| repaired over the next few days.
 (B) In addition, it will have a greater memory capacity and better security.
 (C) However, this solution is impractical as it is much too costly.
@@ -204,11 +240,14 @@ osil lLTr<?J -y- Nicole Freemont 1452 Reservoir Road NW Washington, D.C. 20057 D
 (B) Accordingly
 (C) Ever since
 (D) Unfortunately
+
 136. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
+
 137. (A) We are forced to increase membership |i|j| fees for this reason.
 (B) We are delighted that you have contributed so much of your time.
 (C) The cooperative is still accepting bids from local food suppliers.
 (D) You can pay a monthly surcharge of $20 if you are unable to do so.
+
 138. (A) growingly
 (B) grown
 (C) growing
@@ -222,14 +261,17 @@ New Territory for Aarhus Clothing The British public is excited about the openin
 (B) satisfactorily
 (C) to satisfy
 (D) satisfaction
+
 140. (A) Its popularity subsequently spread to ||||| neighboring nations.
 (B) Therefore, the company has only one store left in the country.
 (C) Nevertheless, the peak of its fame was reached in Britain last year.
 (D) This had a negative effect on the brand in the years that followed.
+
 141. (A) multiple
 (B) lucrative
 (C) duplicate
 (D) diligent
+
 142. (A) disposable
 (B) attentive
 (C) collective
@@ -243,14 +285,17 @@ Turn Your Scuba Diving Dreams into a Reality! The Estrella Diving Center's summe
 (B) compensation
 (C) instruction
 (D) registration
+
 144. (A) Certain criteria must be met before ||||| taking the course.
 (B) Divers have stated that they agree with the new rule,
 (C) Such challenges are not easily overcome.
 (D) Diving instructor applicants will be contacted shortly.
+
 145. (A) either
 (B) whatever
 (C) extra
 (D) couple
+
 146. (A) coincidental
 (B) inadequate
 (C) remote
@@ -265,6 +310,7 @@ The Committee for World Education Development Would like to cordially invite you
 (B) A conference on international languages
 (C) An organization's student awards ceremony
 (D) An exposition for overseas education
+
 148. How can the invitation's recipient attend the event?
 (A) By presenting the card near a hall entrance
 (B) By making a donation to a scholastic institution
@@ -282,6 +328,7 @@ Please note that the main building of the Space Science Museum at 290 Chamomile 
 (B) Temporary facility closures
 (C) Scientific research programs
 (D) Museum foundation events
+
 150. What is stated about the museum?
 (A) Its interior design work will last for a month.
 (B) Its entrance locations will be temporarily changed.
@@ -299,6 +346,7 @@ Joseph, As you know, we are in the process of negotiating an agreement with Burt
 (B) Open further distribution centers in the Midwest
 (C) Hold training sessions for its staff members
 (D) Enter into a supply arrangement with a dairy
+
 152. What has Mr. Hillier's team NOT been asked to do?
 (A) Finish a presentation for a meeting
 (B) Perform some market studies
@@ -314,11 +362,13 @@ The Millsboro Water Department is calling on all area students to participate in
 (B) To introduce a public service
 (C) To promote water conservation
 (D) To inform residents about a change
+
 154. What is NOT indicated about the Millsboro Water Department?
 (A) It requires entries to have specific measurements.
 (B) It will not accept submissions produced on a computer.
 (C) It released a series of posters on water usage last year,
 (D) It is cosponsoring an event with Millsboro Shopping Center, 124 n Questions 156-157 refers to following text message chain. A| Dawn Konrad Yoon-Hee, are you busy tomorrow? Ms. Jackson sent a message saying that we need to rush the Lambert project. I'll be working overtime on it tomorrow night and could use your help. Yoon-Hee Sung I'm heading to the marketing conference tomorrow, remember? I'll be out of town for two days. Dawn Konrad Oh, that's right. It completely slipped my mind. Should I ask Mr. Martin? Yoon-Hee Sung I'd try Mr. Stewart. He's worked on the project longer and knows Percy Lambert really well. Dawn Konrad I'll do that. Thanks, and have a good trip!
+
 155. What will the Millsboro Water Department do the next year?
 (A) Sponsor student art exhibits at area schools
 (B) Sell some artworks to raise funds for charity
@@ -336,11 +386,13 @@ Whether you're a professional athlete or just an enthusiastic amateur, having th
 (B) ability
 (C) exhibition
 (D) fulfillment
+
 159. What does the advertisement mention about the Lynx sneaker?
 (A) It protects the joints while in use,
 (B) It is the cheapest training shoe available,
 (C) It supplies additional warmth in winter.
 (D) It is sold in a wide variety of colors.
+
 160. Where can customers purchase the advertised product?
 (A) In some gym facilities
 (B) At an upcoming event
@@ -358,11 +410,13 @@ We value the continued patronage of our guests, and we hope the vouchers will ma
 (B) To inquire about an extra room
 (C) To ask about a travel program
 (D) To make a complaint about a stay
+
 162. What is true about Mr. Mansbridge?
 (A) He was charged extra for requesting an additional bed.
 (B) His membership points were not credited correctly.
 (C) He will receive a complete refund for his stay.
 (D) He was given vouchers for a hotel stay.
+
 163. In which of the positions marked [1], [2], iBfe [3], and [4] does the following sentence best belong? "As a result, you were forced to share a room with your traveling companion."
 (A) [1]
 (B) [2]
@@ -378,16 +432,19 @@ Pure Mix PO Box 12525 Oregon City, OR 97045 Paul McCall 898 Manatee Lane Madison
 (B) To obtain organic certification
 (C) To inquire about an advertisement
 (D) To respond to a prior inquiry
+
 165. What does Ms. Mills say about Pure Mix's products?
 (A) They all have strawberries as ingredients.
 (B) They do not contain any animal materials.
 (C) They are all completely organic.
 (D) They have yet to be released on the market.
+
 166. Why should Mr. McCall avoid drinking Pure Mix's energy drinks?
 (A) They will cause him to have an allergic reaction.
 (B) They have an ingredient he cannot consume.
 (C) They are prohibited for diabetics.
 (D) They will give him digestion issues.
+
 167. What does Ms. Mills suggest Mr. McCall do?
 (A) Research the benefits of natural medications
 (B) Speak to a doctor before taking dietary supplements
@@ -403,16 +460,19 @@ A Very Fruity Idea Our cities are filled with trees, and the vast majority of th
 (B) The opening of a fruit orchard
 (C) The management of public land
 (D) The work of an organization
+
 169. What does Fresh From The Tree do with the fruit it collects?
 (A) Sells it to local restaurants
 (B) Turns it into snacks
 (C) Donates it to a charity
 (D) Transports it to City Hall
+
 170. According to the article, what do homeowners receive from Fresh From The Tree?
 (A) A small payment for the food
 (B) Some of the collected produce
 (C) Recognition at a public event
 (D) Free baked goods
+
 171. In which of the positions marked [1], [2], llll [3], and [4] does the following sentence best belong? "Most of the residents accept the offer with pleasure."
 (A) [1]
 (B) [2]
@@ -430,16 +490,19 @@ Cheryl Stone [3:54] Can't we do the presentation ourselves? Allan Franklin [3:55
 (B) It is scheduled for tomorrow morning.
 (C) It is going to be uploaded to a Web site.
 (D) It is aimed at securing a contract.
+
 173. What can be inferred about Harper Telecom?
 (A) They are unsatisfied with a presentation.
 (B) They are considering offers from several businesses.
 (C) They want Mr, Baker to participate in the presentation.
 (D) They will not be available at a different time.
+
 174. What is mentioned about Mr. Baker?
 (A) He is preparing to go to Chicago on business,
 (B) He is proficient in technical matters.
 (C) He previously worked at Harper Telecom.
 (D) He produced all of the presentation materials.
+
 175. At 3:59, what does Ms. Stone mean when
 (A) She will call Harper Telecom.
 (B) She will give a presentation tomorrow.
@@ -463,21 +526,25 @@ City of Griggston have continued our ongoing partnership. I have wired the payme
 (B) It had some issues with its road conditions.
 (C) It has hired contractors for building renovations,
 (D) It will increase property taxes to pay for upcoming projects.
+
 177. What does the notice state about the city's projects?
 (A) They will not create much noise,
 (B) They will end three weeks after a city council meeting.
 (C) They will cause traffic to be detoured.
 (D) They will be voted on by the public.
+
 178. According to the notice, how can residents provide feedback on the roadwork projects?
 (A) By calling Lois Oliveira's personal assistant
 (B) By sending an e-mail to a city official
 (C) By visiting project contractors
 (D) By posting on the city's online forum
+
 179. What can be inferred about Mr. Davis?
 (A) He asked for extra money to cover unexpected costs.
 (B) He suggested using bricks for the city's pedestrian walkways.
 (C) He organized the transportation office's meeting.
 (D) He supervised a group of 10 workers on a project.
+
 180. What is indicated about Walnut Creek Contracting?
 (A) It only accepts service payments by check.
 (B) It presented building plans during a recent public meeting.
@@ -501,21 +568,25 @@ TO: Roger Carlson <rogcarl@carlsoncounters.com> FROM: BlaireThomson <bomson@goto
 (B) It accepts visit requests through multiple channels.
 (C) It is situated in a central part of the town.
 (D) It is currently offering a service at a discount.
+
 182. In the brochure, the word "rough" in paragraph 4, line 2, is closest in meaning to
 (A) forceful
 (B) general
 (C) coarse
 (D) uneven
+
 183. According to the brochure, what information will NOT be provided during an on-site visit?
 (A) The date of a delivery
 (B) Descriptions of materials
 (C) Prices of products
 (D) The duration of a project
+
 184. How much will Ms. Thomson have to pay for the new countertops?
 (A) $90 per square meter
 (B) $120 per square meter
 (C) $150 per square meter
 (D) $190 per square meter
+
 185. What most likely did Ms. Thomson do before Mr. Carlson's visit to her home?
 (A) Discarded an old countertop
 (B) Looked through an informational leaflet
@@ -537,21 +608,25 @@ PAID IN FULL (cash) Group Ticket for: Threads of Royal History Exhibition Date: 
 (B) It has pieces from around the world.
 (C) It is open to the public on weekends.
 (D) It will close at the end of April.
+
 187. Why did Ms. Augustine want Mr. Dent's students to join her group?
 (A) So that her group becomes eligible for a free tour guide
 (B) So that she can obtain a discount on admission fees
 (C) So that the school can cover the expense of a bus rental
 (D) So that her students can enter their designs into a competition
+
 188. How much were the Terrington Secondary School students charged for admission?
 (A) £3.50 per person
 (B) £4.00 per person
 (C) £5.00 per person
 (D) £6.50 per person
+
 189. What did Mr, Dent's students most likely do on April 28?
 (A) Viewed ancient accessories
 (B) Toured some local historic sites
 (C) Attended a fashion show
 (D) Displayed some outfits they had created
+
 190. What are visitors to the exhibit asked to do?
 (A) Speak in low voices
 (B) Leave food and drinks outside
@@ -575,21 +650,25 @@ Dear Mr. Diaz, My name is Adele Simmonds, and I'm a public relations representat
 (B) To announce price reductions for a specified period
 (C) To request reviews from users of a ride-share program
 (D) To inform subscribers of special services available
+
 192. What problem does Mr. Diaz mention in the review?
 (A) People find a program complicated to use.
 (B) Membership fees are too high.
 (C) Local residents are unfamiliar with a program.
 (D) Drivers take on too many passengers.
+
 193. What is indicated about Mr. Diaz?
 (A) He has never used Wheel-Pals before.
 (B) He drives his car up to twice a week,
 (C) He recently relocated to Brisbane.
 (D) He pays six dollars per month for his subscription.
+
 194. Where does Wheel-Pals plan to do additional product promotion?
 (A) In Brisbane
 (B) In Sydney
 (C) In Melbourne
 (D) In Auckland
+
 195. In the e-mail, the word "leave" in paragraph 1, line 3, is closest in meaning to
 (A) exit
 (B) make
@@ -611,21 +690,25 @@ Spartan Tires Joins Forces with IVlaha-Rubber By Enid Wendall Spartan Tires anno
 (B) It is available to provide meals for various occasions.
 (C) It offers free delivery for any order within city limits.
 (D) Its catering service can be booked through Cecilia Shiraz.
+
 197. What does Mr. Potter ask about?
 (A) The availability of an event venue
 (B) The price for catering a dinner
 (C) The date of a final agreement
 (D) The cost of renting out parking
+
 198. What will Mr. Potter have to pay extra for?
 (A) Borrowing plates and cutlery
 (B) Having several options for main courses
 (C) Getting food delivered outside the city
 (D) Serving an assortment of appetizers
+
 199. In the article, the word "carrying" in paragraph 1, line 4, is closest in meaning to
 (A) enduring
 (B) transporting
 (C) retailing
 (D) absorbing
+
 200. Who might Ms. Shiraz be preparing a meal for on June 18?
 (A) Retiring executives at Spartan Tires
 (B) Visitors from Maha-Rubber

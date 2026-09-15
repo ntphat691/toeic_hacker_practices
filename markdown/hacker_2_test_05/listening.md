@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -456,6 +462,7 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) In three weeks
 (C) In one month
 (D) In four months Gaming Accessories Headset with Microphone Wireless Gamepad Charger Power Cable Game Warehouse 555-1346 $34.96 $26.96 $42.00 $11.96 m Calgary Music Festival Lineup Wednesday Thursday Friday Saturday Sunday Blue Time Karl Smooth DJ Wing Bandit Slocum Moves Jacobs
+
 90.
 
 95. What can be inferred about Game Warehouse?
@@ -479,6 +486,7 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) An event organizer
 (C) A musical performer
 (D) A band manager
+
 99. ill DJ James Look at the graphic. When ft. Money perform?
 (A) On Thursday
 (B) On Friday

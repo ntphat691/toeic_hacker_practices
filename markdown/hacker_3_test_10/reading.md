@@ -1,15 +1,4 @@
-TEST 10
-PART 5
-PART 6
-PART 7
-Self a|AE
-^WH Ell^E g SEOJAHf
-1.^HS^ISSfTiAjL^? on
-2. Answer Sheet. 21, SU|6Hd4a? oj|
-3.A|7jHgbi|SH34o? o||
-eg si®tS£|SJ°2 cciSSJ 4 EIIAE# AIHH
-#0|1 D^lb APJS Xg^Ei 70" °°J _A| _^L|EK
-E||AE X|yl # 75MO|ni, X|°j §5 g sgg gg 51 om# A^°}L|EK
+# TEST 10
 
 ## READING TEST
 
@@ -22,141 +11,169 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © parts *0I IIS
+
 101. Body-Wise Gym _____ closes for minor renovations and cleaning.
 (A) periodic
 (B) periodical
 (C) period
 (D) periodically
+
 102. The reporter forecasted sunny weather the Midwestern region for tomorrow.
 (A) among
 (B) throughout
 (C) without
 (D) until
+
 103. The faulty card reader located at the side entrance of Carter & Associates' headquarters _____ in the coming week.
 (A) was repaired
 (B) repairs
 (C) will be repaired
 (D) has been repaired
+
 104. The accounting department revised estimates for expenditures after _____ the news that the budget would be changed.
 (A) to receive
 (B) receives
 (C) receiver
 (D) receiving
+
 105. Colorlast makes a line of outdoor paints that are _____ formulated to withstand years of exposure to sun and precipitation.
 (A) special
 (B) specialty
 (C) specially
 (D) specialization
+
 106. Athlete Tim Ferguson has made a recovery from his injuries and will be able to play in his team's next match.
 (A) reverse
 (B) preferable
 (C) remarkable
 (D) negligible
+
 107. Prospective candidates for the position will be notified of the final decision by June 1 at the _____ .
 (A) late
 (B) latest
 (C) lately
 (D) later
+
 108. Dr. Watanabe was seated _____ the keynote speaker and the foundation president during the banquet.
 (A) about
 (B) between
 (C) versus
 (D) except
+
 109. Ms. Larrington's _____ speech about how _____ 114. to improve customer satisfaction has motivated service specialists across the country.
 (A) perishable
 (B) portable
 (C) enthusiastic
 (D) indifferent
+
 110. Verdant Island can only be visited in the daytime since _____ of it is covered by water at night.
 (A) much
 (B) few
 (C) less
 (D) enough
+
 111. Extra staff were called in from nearby _____ 116. branches to help plant crews - production deadlines for an unexpected order.
 (A) meet
 (B) enter
 (C) relieve
 (D) commit
+
 112. Officials at Lextar International were unable to agree _____ a definite solution to the problem of steadily declining profit margins.
 (A) at
 (B) that
 (C) by
 (D) on
+
 113. According to the Ministry of the Environment, updated _____ on water consumption will go into effect next month.
 (A) regulation
 (B) regulate
 (C) regulating
 (D) regulations
+
 115. Torres Architecture, the agency that planned the Steadman Tower, won an award from Building Life Global for its design.
 (A) distinction
 (B) distinctiveness
 (C) distinctive
 (D) distinctively To increase the stability of large data transfers, the technical crew will _____ an upgraded software program on Friday.
+
 117. The Cottonwood Gallery guarantees that of the items it sells is an original and comes with an official certificate of authenticity.
 (A) many
 (B) each
 (C) both
 (D) all
+
 118. If Jennifer hits all of her sales targets for the next quarter, there is a good chance she will
 (A) promote
 (B) have promoted
 (C) be promoted
 (D) be promoting
+
 119. The developers at Staycor _____ test new software multiple times as their overall objective is to detect and eliminate any defects.
 (A) almost
 (B) barely
 (C) suddenly
 (D) typically
+
 120. Gigantica Studio's new action movie has some scenes which may be inappropriate for _____ under the age of 15.
 (A) whoever
 (B) them
 (C) these
 (D) those
+
 121. After years of difficulty doing it herself, Ms. Pace had her taxes _____ through an accounting agency.
 (A) filing
 (B) file
 (C) filed
 (D) to file
+
 122. _____ expectations, the band's greatest hits CD sold a million copies shortly after its release.
 (A) Recommending
 (B) Perceiving
 (C) Evolving
 (D) Exceeding
+
 123. Mr. Conrad posted advertisements on several recruitment sites, including the regarding salaries and benefits.
 (A) permissions
 (B) configurations
 (C) particulars
 (D) institutions
+
 124. Top executives from Home Stock gave members of the local media a tour of the new store _____ its grand opening.
 (A) next to
 (B) ahead of
 (C) aside from
 (D) in front of
+
 125. Responding to declining sales figures, Senturia Automotive concluded that they had to _____ the M5 Sedan line.
 (A) disembark
 (B) disobey
 (C) discontinue
 (D) dismiss
+
 126. The Chicago /-/era/d gives a 40 percent discount to existing _____ who sign up for access to its online edition.
 (A) subscription
 (B) subscribed
 (C) subscribes
 (D) subscribers
+
 127. Sunny River Vacations endeavors to satisfy every customer by personalizing travel details to ensure that each trip is
 (A) memory
 (B) memorable
 (C) memorizing
 (D) memorials
+
 128. Rowan Training Center has added more business classes, which brings the total number of _____ sessions to nearly double that of last year.
 (A) schedule
 (B) scheduled
 (C) schedules
 (D) scheduling
+
 129. Ms. Jacobs' managerial style is democratic she includes her staff in the decision-making process.
 (A) in that
 (B) for example
 (C) so that
 (D) rather than
+
 130. MEG Electronics has a page on its Web site dedicated to _____ from users of its products.
 (A) licenses
 (B) testimonials
@@ -171,14 +188,17 @@ Do you find _____ your home more trouble than it's worth? If so, call Wimberley'
 (B) cleaning
 (C) furnishing
 (D) decorating
+
 132. (A) You may join the crew by sending in your application.
 (B) We also sell a wide range of cleaning products.
 (C) Wimberley's does all the tiresome jobs that you don't have the time for.
 (D) Our service schedule will be posted online once we resume operations.
+
 133. (A) extensive
 (B) foreseeable
 (C) unwanted
 (D) infrequent
+
 134. (A) are visiting
 (B) had visited
 (C) have visited
@@ -192,14 +212,17 @@ To: Talia Moroz <talia.moroz@homemail.com> From: Miles Kaufmann <m.kaufmann@cold
 (B) Their
 (C) The other
 (D) Such
+
 136. (A) We are glad that you have found a solution to the problem.
 (B) It appears that users are not following product manual guidelines.
 (C) A serviceman will visit your home in a day or two.
 (D) The appliance you purchased is no longer for sale due to this defect.
+
 137. (A) enclose 137.
 (B) fill
 (C) obstruct ( ) secure 138.
 (A) lists
+
 138. (B) listing
 (C) listed
 (D) to list <<MISSING>>
@@ -212,14 +235,17 @@ To: Henry Chan <h.chan@followmail.com> From: Gleeson Consulting <hr@gleeson.com>
 (B) allocation
 (C) competition
 (D) entry
+
 140. (A) Likewise
 (B) Nonetheless
 (C) Therefore
 (D) Henceforth
+
 141. (A) Some of the documents we requested |||| were missing from your application.
 (B) We do not have vacancies at this time, but may consider your application in the future.
 (C) Your offer to find a suitable applicant was accepted.
 (D) We hope you will consider being interviewed for this opening.
+
 142. (A) anxious
 (B) determined
 (C) fortunate
@@ -233,14 +259,17 @@ CALL FOR PAPERS The Department of Sociology at the University of Northern Wiscon
 (B) has held
 (C) will be held
 (D) is holding
+
 144. (A) A number of applicants were awarded grants for this project.
 (B) In this regard, we are now accepting proposals related to this topic.
 (C) We are pleased to have you on the committee and will provide needed support.
 (D) In addition, it featured speakers from regional education establishments.
+
 145. (A) outline 145.
 (B) drawing (0) certificate
 (D) assistant
 (A) Prior to 146.
+
 146. (B) During
 (C) Despite
 (D) Up until <<MISSING>>
@@ -268,6 +297,7 @@ o
 (B) To confirm registration on a Web page
 (C) To promote a new line of home furnishings
 (D) To encourage shopping at an online store
+
 148. What is indicated about Ms. Crowder?
 (A) She recently placed an order worth at least $100.
 (B) She signed up as a customer on a Web site.
@@ -291,6 +321,7 @@ Calgary Library Services
 (B) To report the permanent closure of a library
 (C) To remind users about book return policies
 (D) To inform members of an increase in library fines
+
 150. What is indicated about the West Springs Library?
 (A) Its current building will be used as a cinema in the future.
 (B) The closest public library to it is in Coach Hill.
@@ -306,6 +337,7 @@ March 3 Judy Mayer Whole Nutrition Pet Foods, Inc. 1930 Industrial Street Lawton
 (B) To apply for a technical position
 (C) To register for a degree program
 (D) To inquire if a job is still available
+
 152. What does Mr. Delaney suggest about Loyalty Limited?
 (A) It has employed him for the past 15 years.
 (B) It produces products for animals.
@@ -325,16 +357,19 @@ K> a Ol
 (B) It is known for providing excellent customer service.
 (C) It derives most of its business from government contracts.
 (D) It sold a share of its business to a foreign firm.
+
 154. What can visitors most likely do on Cornucopia Industries' Web site?
 (A) View information on job vacancies
 (B) Place orders for equipment
 (C) Obtain details on a refund policy
 (D) Find local retailers of its merchandise 304
+
 155. What is Cornucopia Industries' plan?
 (A) To acquire another communications company
 (B) To upgrade technological equipment at its factory
 (C) To get involved in other fields within the industry
 (D) To hire a customer service training specialist
+
 156. In which of the positions marked [1], [2], best belong? "To achieve this, we must apply decades' of technical experience to the latest technologies available today."
 (A) [1]
 (B) [2]
@@ -350,11 +385,13 @@ The Granriver Hotel Guest Stay Survey We ask all of our guests to please take a 
 (B) The state of the room upon initial entry
 (C) The accessibility of the hotel
 (D) The correctness of items in the directory
+
 158. What did the guest most likely do following hotel check-in?
 (A) Ordered a room service meal
 (B) Used an outdoor swimming pool
 (C) Carried luggage to his room by himself
 (D) Made a complaint to a travel agency
+
 159. What is suggested about the guest's room?
 (A) The air conditioning had been left running.
 (B) The bed had not been properly made.
@@ -372,11 +409,13 @@ As always, the first weekend in May will see our annual Steam Railway Jamboree t
 (B) To announce an upcoming regional event
 (C) To explain a change to transit regulations
 (D) To provide summer train service updates
+
 161. What is indicated about the steam railway?
 (A) It only operates on a special occasion.
 (B) It is funded by a history preservation group.
 (C) It recently renovated its facilities.
 (D) It offers a discount to the elderly.
+
 162. What can visitors do during the first weekend of May?
 (A) Participate in a charity fundraiser near Hudson Station
 (B) Enjoy refreshments at a train's final destination
@@ -392,6 +431,7 @@ Kate Hendrickson [5:01 p.m.] Jackie, have we heard back from the Loflin Institut
 (B) She was not aware of a schedule alteration.
 (C) She has other plans for her holiday.
 (D) She did not hear about a change in venue.
+
 164. When will staff receive the notice?
 (A) On December 15
 (B) On December 16
@@ -409,11 +449,13 @@ Contact: Special thanks to our sponsors: Rachel Bocher The Watertown Chamber of 
 (B) Live performances
 (C) Day care services
 (D) Use of a shuttle
+
 166. What is mentioned about the participants?
 (A) They may attend an orientation session.
 (B) They will each receive a complimentary item.
 (C) They must submit an online registration form.
 (D) They will need to wear T-shirts for the race.
+
 167. According to the notice, who should contact Ms. Bocher?
 (A) Race volunteers
 (B) Visiting tourists
@@ -431,16 +473,19 @@ In the highly competitive world of retail sales, it's Phoenix-Star Properties pr
 (B) A city's decline in construction
 (C) A retail branch closure
 (D) An increase in regional rents
+
 169. What is indicated about Phoenix-Star Properties?
 (A) It has been contracted by Bradford City on several occasions.
 (B) It has transformed some vacant structures into retail facilities.
 (C) It provided the majority of the investment capital for the project.
 (D) It will complete its renovation work in three weeks.
+
 170. What is NOT true about the Bradford Retail Cooperative building?
 (A) It has already secured tenants for many of its units.
 (B) It will house numerous small businesses.
 (C) It will be rented by the city government.
 (D) It was partially financed by local taxes.
+
 171. In which of the positions marked [1], [2], Mm [3], and [4] does the following sentence best belong? "However, it still remains to be seen whether local shoppers will like the place as much."
 (A) [1]
 (B) [2]
@@ -458,16 +503,19 @@ Send
 (B) A moving company
 (C) A construction firm
 (D) A vehicle manufacturer
+
 173. At 4:15, what does Mr. Bostwick mean when he writes, "I can lend you a hand"?
 (A) He can send extra staff to assist visitors.
 (B) He has some time tomorrow to work at the booth.
 (C) He will be able to fill in for a coworker.
 (D) He is willing to register a colleague for an event.
+
 174. What does Ms. Cambie say she will do?
 (A) Recruit volunteers for a job
 (B) Buy some tickets at a counter
 (C) Leave some admission passes at an office
 (D) Wait for her colleagues by a venue's entrance
+
 175. What is mentioned about the job fair?
 (A) It attracted few visitors on the first day.
 (B) It is being held at a new building.
@@ -495,21 +543,25 @@ I do have one further request for you, though. Could you make sure that these ne
 (B) To check some information regarding new staff
 (C) To update her login name and password
 (D) To announce the cancellation of her account
+
 177. What do Mr. Firth and Mr. Braxton have in common?
 (A) They have signed a confidentiality agreement.
 (B) They will both work for Ms. Vespino.
 (C) They have worked on the same project before.
 (D) They were hired to do temporary work.
+
 178. In the first e-mail, the word "prompted" in paragraph 3, line 3, is closest in meaning to
 (A) convinced
 (B) hastened
 (C) instructed
 (D) activated
+
 179. What does Ms. Vespino indicate in her message?
 (A) She discovered errors in the list of names provided.
 (B) She will be directly supervising more than one department.
 (C) She needs Mr. Martinez to install a browser on new office computers.
 (D) She wants Mr. Martinez to have access to clients' e-mails.
+
 180. What is mentioned about the company's user account pages?
 (A) They are set up by employees' direct supervisors.
 (B) They automatically record login and password information.
@@ -529,21 +581,25 @@ Dear Ms. Blanc, My name is Sarah Broadhurst, and I run a small business called O
 (B) It is situated across from a subway station.
 (C) It is owned by a large corporate franchise.
 (D) It plans to launch more branches.
+
 182. What is mentioned about the products sold at London Gifts?
 (A) Some of them have been exported abroad.
 (B) They are intended to have a higher quality than most souvenirs.
 (C) Some of them have been designed by Stephanie Blanc.
 (D) They are more expensive than items available at tourist sites.
+
 183. Where does Sarah Broadhurst work?
 (A) In Birmingham
 (B) In London
 (C) In Manchester
 (D) In Southampton
+
 184. What does Ms. Broadhurst mention in her e-mail?
 (A) She plans to offer bulk orders to stores needing a supplier.
 (B) Her business has a Web site with product descriptions and prices.
 (C) She will send some samples to Southern Clothing in the mail.
 (D) Some of her items have a British theme.
+
 185. What does Ms. Broadhurst offer to do for Ms. Blanc?
 (A) Deliver some housewares from a store in Manchester
 (B) Draw up a tentative supply contract
@@ -565,21 +621,25 @@ Planet Voyage September Issue The Solo Traveler: Seabird Ocean Liners By Rica Fo
 (B) To schedule an interview for an article
 (C) To assign an article for a future publication
 (D) To ask her to attend a business meeting
+
 187. Which sail date did Ms. Foust most likely reserve?
 (A) August 3
 (B) August 7
 (C) August 13
 (D) August 16
+
 188. What is indicated about Seabird Ocean Liner?
 (A) Its cruise ships were built earlier in the year.
 (B) It accepts trip bookings online.
 (C) It has added extra destinations.
 (D) Its trips to Baja will be discontinued soon.
+
 189. In the review, the word "exceptional" in paragraph 1, line 4, is closest in meaning to
 (A) superb
 (B) abnormal
 (C) crucial
 (D) expected
+
 190. What can be inferred about Ms. Foust?
 (A) She had to pay extra for some activities.
 (B) Her room was smaller than those of fellow passengers.
@@ -603,21 +663,25 @@ To Whom It May Concern, I ordered a Flash-805 distance recorder on your Web site
 (B) It accurately duplicates the original sound.
 (C) Its battery lasts longer than older models.
 (D) It is capable of deleting undesired noise.
+
 192. What must customers do to take advantage of a special offer?
 (A) Download an online coupon
 (B) Purchase a quantity of two or more items
 (C) Place an order within specific amount of time
 (D) Provide proof of residence within Bournemouth
+
 193. What is suggested about Mr. Altman?
 (A) He will have three days to cancel his order.
 (B) He wants to use another delivery company.
 (C) He requested expedited delivery.
 (D) He is working on a research project.
+
 194. What is the purpose of the e-mail?
 (A) To complain about the high shipping cost
 (B) To inquire about changing an order
 (C) To request a cancellation of a recent purchase
 (D) To point out a defect in a product
+
 195. What is true about Mr. Altman's colleague?
 (A) She used to own a Brilliant Techware product.
 (B) She has written to customer service several times.
@@ -643,21 +707,25 @@ Hello finalists! Thank you all for confirming your attendance to the event. Unfo
 (B) A naming contest
 (C) A discounted menu item
 (D) A cooking competition
+
 197. What is indicated about O-Deli's on the announcement?
 (A) It operates multiple locations within a state.
 (B) It recently announced plans to open new branches.
 (C) It is currently not open for business.
 (D) It regularly sponsors monthly competitions.
+
 198. What did Ms. Rosen probably receive?
 (A) A personalized sandwich
 (B) A cash prize for a contest
 (C) A coupon for a complimentary drink
 (D) A list of new menu items
+
 199. What can be inferred about Mr. Vaughn?
 (A) He did not get an invitation letter sent in February.
 (B) He agreed to attend an event at 59th Street on February 28.
 (C) He is a frequent diner at O-Deli's restaurants.
 (D) He sent a message requesting special assistance.
+
 200. Why has O-Deli's changed its plans for an event?
 (A) An important executive will be unable to attend.
 (B) A space is not large enough for participants.

@@ -20,10 +20,15 @@ The statement that best describes the picture is (B), "The man is sitting at the
 So, you should mark letter (B) on the answer sheet.
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -33,29 +38,53 @@ They will not be printed and will only be spoken one time.
 Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
 7. Mark your answer on your answer sheet.
+
 8. Mark your answer on your answer sheet.
+
 9. Mark your answer on your answer sheet.
+
 10. Mark your answer on your answer sheet.
+
 11. Mark your answer on your answer sheet.
+
 12. Mark your answer on your answer sheet.
+
 13. Mark your answer on your answer sheet.
+
 14. Mark your answer on your answer sheet.
+
 15. Mark your answer on your answer sheet.
+
 16. Mark your answer on your answer sheet.
+
 17. Mark your answer on your answer sheet.
+
 18. Mark your answer on your answer sheet.
+
 19. Mark your answer on your answer sheet.
+
 20. Mark your answer on your answer sheet.
+
 21. Mark your answer on your answer sheet.
+
 22. Mark your answer on your answer sheet.
+
 23. Mark your answer on your answer sheet.
+
 24. Mark your answer on your answer sheet.
+
 25. Mark your answer on your answer sheet.
+
 26. Mark your answer on your answer sheet.
+
 27. Mark your answer on your answer sheet.
+
 28. Mark your answer on your answer sheet.
+
 29. Mark your answer on your answer sheet.
+
 30. Mark your answer on your answer sheet.
+
 31. Mark your answer on your answer sheet.
 
 ### PART 3

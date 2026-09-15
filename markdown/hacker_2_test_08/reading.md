@@ -20,151 +20,181 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. New assignments will be handed out after the team members _____ working on last week's project.
 (A) finish
 (B) to finish
 (C) finished
 (D) will finish
+
 102. Museum management reminds all visitors not to leave their children _____ inside the building.
 (A) unfamiliar
 (B) invisible
 (C) unattended
 (D) inattentive
+
 103. After working abroad for years, Alice Strepp was surprised when the company relocated her _____ the headquarters.
 (A) to
 (B) out
 (C) onto
 (D) through
+
 104. The train departing from Vancouver to Calgary _____ a full day, so many travelers prefer going by plane.
 (A) take
 (B) takes
 (C) has taken
 (D) to take
+
 105. The famous paintings to be auctioned off by the Heritage Society are kept _____ in a locked location.
 (A) certain
 (B) realistic
 (C) secure
 (D) confident
+
 106. Mr. Wilkins would like some _____ setting up the audio-visual equipment in the conference room before the seminar on Thursday.
 (A) assisted
 (B) assistance
 (C) assistant
 (D) assisting
+
 107. For every $200 purchase of Billow Swimwear, shoppers will receive -- towel or a pair of slippers.
 (A) also
 (B) either
 (C) until
 (D) neither
+
 108. Mark Hempel offered his full - _____ on a project that is developing a new TV show about international cultures.
 (A) cooperates
 (B) cooperative
 (C) cooperation
 (D) cooperatively
+
 109. The restaurant _____ the right to refuse service to customers who are not dressed appropriately.
 (A) reserves
 (B) relates
 (C) collects
 (D) allows
+
 110. The Bolden School now offers courses for those _____ in learning a variety of pottery production methods.
 (A) interesting
 (B) interest
 (C) interested
 (D) interestingly
+
 111. For train passengers with excess luggage, FineTrak Railways will impose a fee of $13 for every _____ bag.
 (A) promising
 (B) connected
 (C) additional
 (D) damaged
+
 112. The charity does not accept food donations that have _____ expired because such items could be hazardous to recipients.
 (A) already
 (B) never
 (C) more
 (D) occasionally
+
 113. Sales for Cubix's computer tablet were growing last year, but there has been a slight decline in the past few months.
 (A) consisting
 (B) consisted
 (C) consistency
 (D) consistently
+
 114. The report _____ - mentioned an upcoming merger between a textile company in Peru and a fashion corporation in France.
 (A) intensely
 (B) briefly
 (C) structurally
 (D) anymore
+
 115. -- — at least five participants sign up for the seminar, it will carry on as planned next weekend.
 (A) Unless
 (B) Rather than
 (C) Instead
 (D) As long as
+
 116. Withdrawals from Barstow Bank's automated teller machines will now be to $2,500 a day per customer.
 (A) assigned
 (B) adhered
 (C) limited
 (D) enclosed
+
 117. The financial consultant Ms. Broderick to downsize the staff at the Denver branch to lower operational expenses.
 (A) suggested
 (B) advised
 (C) commented
 (D) argued
+
 118. _____ tough competition in the market, FliMobile continues to be the top cellular phone manufacturer in Asia.
 (A) Concerning
 (B) Except
 (C) Above
 (D) Despite
+
 119. Scientists have been saying for years that solar energy has incredible _____ to become the world's leading power source.
 (A) insight
 (B) potential
 (C) activity
 (D) permission
+
 120. Grandilla cosmetics are available Harmony products are sold, including Chester Department Stores.
 (A) anytime
 (B) sometime
 (C) everywhere
 (D) someplace
+
 121. The food industry is governed by many regulations, which _____ at Benagra Foods keep track of carefully.
 (A) we
 (B) us
 (C) ours
 (D) ourselves
+
 122. The singer Arthur Fischman _____ his recital with a short Japanese piece that was unusual for the end of a concert.
 (A) is concluding
 (B) was concluded
 (C) to conclude
 (D) concluded
+
 123. At a meeting of finance ministers, Mr. Yao made an urgent _____ for assistance with his country's economic problems.
 (A) plea
 (B) index
 (C) outcome
 (D) clue
+
 124. All publications at the West End Book Store are categorized and arranged on shelves _____ subject and genre.
 (A) in order to
 (B) enabling
 (C) according to
 (D) alike
+
 125. Repair services or exchanges for all of Dunway Electronics' devices may be requested at any _____ dealer across the country.
 (A) authorization
 (B) authority
 (C) authorize
 (D) authorized
+
 126. Managers formerly _____ the software engineering groups for the development project will now be in charge of much larger teams.
 (A) supervise
 (B) supervised
 (C) supervising
 (D) supervisor
+
 127. Because the cost of the _____ in the factory equipment was higher than the owner had expected, he only purchased one new machine.
 (A) cover
 (B) blame
 (C) depth
 (D) investment
+
 128. All personnel at the factory, _____ those under contract with an outside firm, get paid time off on national holidays.
 (A) excludes
 (B) exclusive
 (C) excluding
 (D) exclusively
+
 129. Staff attending the picnic can bring food they would like to share with the group besides burgers, which will be provided.
 (A) whenever
 (B) whomever
 (C) whatever
 (D) wherever
+
 130. In _____ with the health department's stipulations, restaurant owners must conduct food safety sessions with kitchen staff.
 (A) participating
 (B) pursuing
@@ -179,14 +209,17 @@ September 18 Dear Ms. Murillo, Thank you for inquiring about our services for ob
 (B) transportation
 (C) nationality
 (D) education
+
 132. (A) decorated
 (B) verified
 (C) corrected
 (D) postponed
+
 133. (A) Afterward
 (B) For example
 (C) Additionally
 (D) Henceforth
+
 134. (A) documents are lost. iSl w (B) There is no record c in that country. You can then select
 (C) office nearest you. The office in your ar
 (D) last year. <<MISSING>>
@@ -199,14 +232,17 @@ May 30 Cayman Interior Decorating 23 Arbor Drive Cleveland, Ohio, 39005 Dear Mr.
 (B) persuade
 (C) invoice
 (D) encourage
+
 136. (A) We would have preferred it if you had followed our original plan.
 (B) They contacted us to let us know what they thought about our work.
 (C) We are equally impressed by how quickly the job was done.
 (D) They should have informed us right away about these changes.
+
 137. (A) explanation
 (B) atmosphere
 (C) combination
 (D) condition
+
 138. (A) were
 (B) will be
 (C) are being
@@ -220,14 +256,17 @@ Discover great deals at Dan's Hardware Store! In order to thank our loyal custom
 (B) done over
 (C) marked down
 (D) given away
+
 140. (A) We have exciting offers for you in |||| every department.
 (B) The sale is for one day only, so hurry before it ends.
 (C) This product is sold in various sizes to suit your needs.
 (D) Make sure to go online and send in your product orders.
+
 141. (A) be entitled
 (B) be entitling
 (C) entitle
 (D) have entitled
+
 142. (A) away
 (B) among
 (C) per
@@ -241,14 +280,17 @@ Grimsby's Feed Satisfies Viewers In the three-part miniseries Feed, filmmaker Da
 (B) enthusiastic
 (C) enthusiastically
 (D) enthused
+
 144. (A) trend
 (B) level
 (C) schedule
 (D) topic 240 oapDj aoi^■
+
 145. (A) The show attracted millions of viewers iffil when it was televised last year.
 (B) What is perhaps most distinctive about the film is its lack of bias.
 (C) Mr. Grimsby plans to begin filming the documentary next month.
 (D) Ratings for the network jumped when the final episode was aired.
+
 146. (A) so
 (B) even
 (C) such
@@ -263,6 +305,7 @@ To: All staff From: Donald Manzo Subject: Welcome reception Date: August 5 We ar
 (B) To appeal for help with setting up a reception
 (C) To inform employees about a coming event
 (D) To notify staff about a visiting client
+
 148. Where has Ms. Crowley NOT previously worked?
 (A) Charleston
 (B) Atlanta
@@ -280,6 +323,7 @@ CTD
 (B) She is fine with running an errand.
 (C) She is willing to arrive early at a venue.
 (D) She is happy to volunteer at a trade show booth.
+
 150. What is mentioned about the company Ms. Moon works for?
 (A) It is conducting a survey among its employees.
 (B) It has participated in conventions many times before.
@@ -297,6 +341,7 @@ Dear Mr. Webster, Your deposit check has been cashed, and we are pleased to conf
 (B) A real estate investor
 (C) A repair person
 (D) A security guard
+
 152. What is NOT stated about the deposit?
 (A) It is returned when the lease ends.
 (B) It is kept in a bank account.
@@ -314,11 +359,13 @@ July 28—Runners participating in this year's Nairobi that this year's event wi
 (B) It is being held in a new city.
 (C) It will have a larger number of participants.
 (D) It will be broadcast on local television.
+
 154. What does the article suggest about Nairobi?
 (A) Its sports programs have received more funding in recent years.
 (B) Its athletes have gained increased international exposure.
 (C) It has experienced an increase in tourism.
 (D) Its geography is particularly well-suited to long-distance races.
+
 155. Where will the full marathon end?
 (A) At National Park
 (B) At Outer Ring Road
@@ -344,6 +391,7 @@ or Km
 (B) To promote a computer program
 (C) To instruct users on setting up a network
 (D) To gather suggestions for a new project
+
 157. What is NOT mentioned about Ace Venture Systems?
 (A) It supports the use of open-source computer programs.
 (B) It asks for clients to give them feedback.
@@ -359,11 +407,13 @@ Madison Community Leisure Center Youth Activity Sign-Up Summer is here, and with
 (B) They will be facilitated by qualified adults.
 (C) They are open to participants of all ages.
 (D) Some will conclude with a sports tournament.
+
 159. According to the announcement, how can participants register?
 (A) By getting approval from their schools
 (B) By going to a reception desk
 (C) By filling out a form
 (D) By visiting a Web site
+
 160. How long after registration closes will extra seats be made available?
 (A) One week
 (B) Two weeks
@@ -381,16 +431,19 @@ Send
 (B) Determine the effects of a trash problem in the city
 (C) Prepare a detailed budget for a recycling campaign
 (D) Come up with suggestions to present at a city meeting
+
 162. At 3:12, what does Mr. Medrano mean when he writes, "I couldn't agree more"?
 (A) He recognizes the benefit of having media involved.
 (B) He has heard a trash reduction suggestion before.
 (C) He feels that a proposed idea lacks substance.
 (D) He believes some changes would cost too much.
+
 163. What has NOT been recommended as a solution to the city's trash problem?
 (A) Emphasizing new uses for old products
 (B) Increasing the workforce of a department
 (C) Collecting disposed garbage more frequently
 (D) Putting more trash receptacles in public areas
+
 164. What is suggested about Edith Holmes?
 (A) She is the head of the sanitation department.
 (B) She was recently promoted to a new position.
@@ -408,11 +461,13 @@ On December 5, French singers Pierre Chretien and Celine Laurier will be at the 
 (B) They are free for those who fulfill a certain purchasing condition.
 (C) They are exclusively available to concert venue employees.
 (D) They will be sold at reduced prices for all of November.
+
 166. What is NOT mentioned about the concert?
 (A) It will take place in Los Angeles.
 (B) It will have items available for sale.
 (C) It will promote a new recording.
 (D) It will include an autograph signing session.
+
 167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "This does not apply to regular tickets."
 (A) [1]
 (B) [2]
@@ -430,16 +485,19 @@ Dear Mr. Haggerty, We received the order you placed on our online store, some de
 (B) It contained the wrong products.
 (C) A requested item is not readily available.
 (D) It is missing important delivery details.
+
 169. What is indicated about Mr. Haggerty?
 (A) He ordered one of every item.
 (B) He purchased a bottle of wine for himself.
 (C) He is sending items to different recipients.
 (D) He has shopped with Gift Lane in the past.
+
 170. What will happen if Mr. Haggerty does not answer the e-mail?
 (A) An order will be canceled.
 (B) A delivery will proceed.
 (C) An extra charge will be incurred.
 (D) A special offer will be voided.
+
 171. What should Mr. Haggerty do if he wishes to replace an item?
 (A) Wait for further instructions
 (B) Call the company hotline
@@ -455,16 +513,19 @@ Lester Beebe Hits Stage in South Bend By Adam Brown A musical version of Michell
 (B) An upcoming theatrical production
 (C) A grand opening for a play venue
 (D) An adaptation of an author's biography
+
 173. What is NOT indicated about The Triumph of Lester Beebe?
 (A) It had a successful run in New York.
 (B) It was popular with some youth in the 1960s.
 (C) It has been modified into a musical show.
 (D) It is based in South Bend.
+
 174. The word "realized" in paragraph 3, line 2, is closest in meaning to
 (A) caused
 (B) depicted
 (C) clarified
 (D) discovered
+
 175. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "Its popularity earned it widespread acclaim and, ultimately, translation into 32 languages."
 (A) [1]
 (B) [2]
@@ -492,21 +553,25 @@ Payment details: Please send the invoice to Daniel Lowe, our accounts manager, a
 (B) They frequently seek out medical attention.
 (C) They suffer from pain due to long periods of sitting.
 (D) They are often distracted by noise disturbances.
+
 177. What is indicated about LED desk lamps?
 (A) They minimize eye strain.
 (B) Their bulbs last longer than traditional ones.
 (C) They use little electricity.
 (D) Their brightness can be adjusted.
+
 178. What is implied about Optimo Web Design?
 (A) It will pay $200 for a delivery fee.
 (B) It has a company outing planned for April 8.
 (C) It occupies three floors of an office building.
 (D) It is moving to a new location.
+
 179. For which item will Optimo Web Design receive a special gift?
 (A) Item 3292
 (B) Item 3665
 (C) Item 4550
 (D) Item 7600
+
 180. What will happen on April 8?
 (A) Items will be left with a security officer.
 (B) An invoice will be sent to a customer. (0) Mr. Foley will make a phone call.
@@ -527,21 +592,25 @@ We are also afraid to say that our main conference room has been booked for anot
 (B) To ask about the price of accommodations
 (C) To inquire about booking a venue
 (D) To thank a hotel for a previous event
+
 182. What is indicated about Burke Capital?
 (A) Its executive retreat will take place in the winter.
 (B) Members of its marketing team will attend an event.
 (C) It has 15 executives on the board of directors.
 (D) Some of its staff previously stayed at the hotel.
+
 183. What can be inferred from the letter?
 (A) Breakfast is not needed on May 8.
 (B) Microphones are required for the conference rooms.
 (C) The attendees will take time for sightseeing.
 (D) Some of the meetings will take place in the evening.
+
 184. What is most likely unavailable at the hotel on May 8?
 (A) Executive suites
 (B) Single rooms
 (C) Double rooms
 (D) Triple rooms
+
 185. What is NOT indicated about the Kingstonian Hotel?
 (A) Its conference room is already booked for the dates discussed.
 (B) It has a catering service that can provide lunch.
@@ -565,21 +634,25 @@ St. Claire Editing and Writing Services (805)555-3988/ rstclaire@stclaireeditwri
 (B) He has posted selections of his work online.
 (C) He has been recognized for both editorial and writing work.
 (D) He is currently employed at an educational institution.
+
 187. What is the main purpose of the e-mail?
 (A) To thank a writer for previous blog posts
 (B) To make a business proposition
 (C) To follow up on an editing request
 (D) To inquire about preferred methods of payment
+
 188. With which of Mr. St. Claire's clients is Ms. Gables most likely familiar?
 (A) Borton University Alumni Association
 (B) North East Gardener's Journal
 (C) Sportsworld Outfitters
 (D) Society for the Decorative Arts
+
 189. What does Ms. Gables ask Mr. St. Claire to do?
 (A) Send her a check in the mail
 (B) Provide a price quotation
 (C) Create links to some blog posts
 (D) E-mail her some writing samples
+
 190. What can be inferred about Ms. Gables?
 (A) She was late sending payment tor some proofreading services.
 (B) She underestimated the amount of time needed to do some research.
@@ -611,21 +684,25 @@ Bookstone Avenue Lake Side TrueBlue Village Senior Mart Center
 (B) They felt it was difficult for some of their clients to get to the store.
 (C) They anticipated that shuttle bus fees would boost overall profits.
 (D) They could not arrange for city buses to stop directly at the store.
+
 192. What is indicated about the store's new service?
 (A) The minibus picks passengers up from a sports facility first.
 (B) The shuttle repeats the same route four times every day.
 (C) The ride schedule was recently adjusted to allow for more stops.
 (D) The vehicle sometimes skips a stop at Glengarry University.
+
 193. Which stop does Ms. Harper use on the weekends?
 (A) Edgewood Avenue Apartments
 (B) Glengarry University
 (C) Horizons Crossings Recreation Club
 (D) Lake Side Village Senior Center
+
 194. What is NOT indicated about Ms. Harper?
 (A) She finds that a shuttle service is not always convenient.
 (B) She has used the store's shuttle service multiple times before.
 (C) She does not require a full two hours to complete her shopping.
 (D) She has some mobility issues that make it difficult for her to walk.
+
 195. On the Web page, the word "presents" in paragraph 1, line 6, is closest in meaning to
 (A) poses
 (B) reports
@@ -647,21 +724,25 @@ Loyalty Points Earned This Time: 1,150 Total Loyalty Points: 8,534 Thank you for
 (B) To promote an annual sale at a shopping center
 (C) To announce the future opening of a retail shop
 (D) To invite citizens to a store's ribbon-cutting event
+
 197. In the article, the word "performance" in paragraph 1, line 5, is closest in meaning to
 (A) presentation
 (B) achievement
 (C) evaluation
 (D) commitment
+
 198. According to the advertisement, what is true about the sale?
 (A) All outerwear in the store is on sale for 30 percent off.
 (B) It takes place near the food court of the shopping center.
 (C) Spending a certain amount entitles clients to another discount.
 (D) Items purchased on sale are not subject to sales tax. TEST □ 01| no[L\o
+
 199. What is suggested about Always Good Supermarket?
 (A) It recently came under new management.
 (B) It was moved to a different spot due to its expansion.
 (C) It was located on the ground floor of Old Ridge Mall.
 (D) It can be found in cities throughout Florida.
+
 200. What is indicated about Ms. Jones?
 (A) She had never shopped at a Fresh & Sharp before.
 (B) She was not eligible to receive a complimentary item.

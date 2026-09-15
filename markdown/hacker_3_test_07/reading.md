@@ -7,8 +7,10 @@ J-sa) PART 7
 Self n\3. a|A
 S® Efl^S S ztVMQ
 l.^H^omo!§TL>^o? oil
+
 2. Answer Sheet. ^1. T|^7H# ^uloH^
 L -^? oil
+
 3.A|7l|t^H|o^o? con
 s.€ ^Upl" OD1 ss [[j§ oEllAE^Al^LlCh
 ^11 #0|# XI^EI 70^ °°I _A| _^Lm.
@@ -26,151 +28,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 Q PART 5 o' S0! Mi! Its
+
 101. Mr. Finney paused _____ during his speech to change the slide projected on the screen.
 (A) moment
 (B) momentarily
 (C) momentous
 (D) momentary
+
 102. All of the presenters at the social media marketing seminar introduced _____ to the audience before beginning to speak.
 (A) they
 (B) theirs
 (C) them
 (D) themselves
+
 103. Rattan Furniture House's new production plant is expected to be fully _____ by early April.
 (A) operate
 (B) operator
 (C) operation
 (D) operational
+
 104. Petra Towers is located just _____ of the downtown area, close to a subway station.
 (A) outside
 (B) beyond
 (C) away
 (D) across
+
 105. _____ gas containers in a cool environment to prevent them from exploding.
 (A) To store
 (B) Store
 (C) Stored
 (D) Storing
+
 106. Ms. Brendon received a _____ to see a skilled accountant specializing in tax preparation from her coworker.
 (A) refer
 (B) referral
 (C) refers
 (D) referable
+
 107. If the animation convention had not been canceled, the Richelieu Hotel _____ a considerable amount of business.
 (A) has had
 (B) has
 (C) is being had
 (D) would have had
+
 108. The Society for Ecological Excellence is currently accepting _____ of environmentally friendly organizations for its upcoming awards ceremony.
 (A) reputations
 (B) nominations
 (C) concentrations
 (D) assumptions
+
 109. Ms. Crawford accepted the most _____ job offer she received after considering all her options.
 (A) prefer
 (B) preference
 (C) preferable
 (D) preferably
+
 110. Southbound traffic _____ Highway 14A will be slow for the next two weeks while road repairs take place.
 (A) among
 (B) all
 (C) along
 (D) aboard
+
 111. Greil Manufacturing began a partnership with FRN Inc. that _____ benefited both companies.
 (A) mutually
 (B) delicately
 (C) densely
 (D) preventively
+
 112. The expense for fixing the vehicle was higher than the _____ cost given by the auto mechanic.
 (A) estimating
 (B) estimated
 (C) estimation
 (D) estimates
+
 113. _____ Logan Home Appliances' annual promotion is now underway, the store is far busier than usual.
 (A) But that
 (B) Due to
 (C) Notwithstanding
 (D) Since
+
 114. Experts say that a rise in property values in the Bedford area will be the _____ outcome of the increase in local population.
 (A) susceptible
 (B) transferable
 (C) probable
 (D) questionable
+
 115. The campus parking lot is used by so many students that even those with parking passes are not _____ guaranteed a spot.
 (A) insistently
 (B) measurably
 (C) necessarily
 (D) markedly
+
 116. Ram Builders' supervisor _____ the client that the supplies needed for construction would arrive on time.
 (A) bargained
 (B) concerned
 (C) predicted
 (D) assured
+
 117. Schilling Investors Group has not found a suitable candidate to replace Mr. Macmillan, who resigned two weeks ago.
 (A) almost
 (B) yet
 (C) far
 (D) only
+
 118. The athlete recently beat the world record for the marathon _____ less than a minute.
 (A) beneath
 (B) above
 (C) at
 (D) by
+
 119. First Canadian National Bank charges a commission when cash _____ from its machines by non-customers.
 (A) to withdraw
 (B) is withdrawn
 (C) withdraws
 (D) is withdrawing
+
 120. The city of Myerstown plans to turn an 80-acre _____ of land near Weller River into a public park next year.
 (A) period
 (B) stretch
 (C) degree
 (D) collection
+
 121. The woman sitting _____ Mr. Heath at the meeting was kind enough to lend him a pen at his request.
 (A) apart
 (B) opposite
 (C) from
 (D) closely
+
 122. Once the vendor _____ his payment, Smith & Cooper Wholesalers will ship his order out.
 (A) substitutes
 (B) leases
 (C) transfers
 (D) enforces
+
 123. The board of directors _____ agreed to change Two-Tone Media's logo as all the members considered it outdated,
 (A) inseparably
 (B) unanimously
 (C) elaborately
 (D) intimately
+
 124. Airport officials have announced that more security checks will be adopted to eliminate any potential threats.
 (A) reluctant
 (B) mundane
 (C) obtainable
 (D) rigorous
+
 125. The organizers of the Brock County Fair have decided to _____ the event due to the poor weather conditions.
 (A) back down
 (B) give away
 (C) keep out
 (D) put off
+
 126. Customers who subscribe to Travelog's online magazine will receive discounts their subscriptions are for six months or a year.
 (A) rather
 (B) either
 (C) even
 (D) whether
+
 127. Barton Electronics will have to boost production to meet the _____ demand for its newest dishwasher model.
 (A) bulky
 (B) proficient
 (C) sizable
 (D) wealthy
+
 128. Mr. Sampson must renew his gym membership by December 31, _____ he will be unable to access the facility.
 (A) but
 (B) or
 (C) so
 (D) not
+
 129. ReliaCorp's sale of some surplus property is _____ with saving the company from bankruptcy.
 (A) agreed
 (B) motivated
 (C) reminded
 (D) credited
+
 130. _____ otherwise stated, all course materials will be available at the campus bookstore two weeks before the first day of class.
 (A) While
 (B) Still
@@ -185,14 +217,17 @@ To: Mimi O'Hare <mohare_1 @mymail.ca> From: Super Wash Center <customersupport@s
 (B) returned
 (C) lost
 (D) sold
+
 132. (A) registers
 (B) to register
 (C) registered
 (D) be registering
+
 133. (A) You can also collect and spend points HHl with the card.
 (B) We will begin distributing it in the coming weeks.
 (C) We recommend signing up for it next time to prevent this problem,
 (D) You did not have enough money on your card to cover the cost.
+
 134. (A) what
 (B) every
 (C) some of <<MISSING>>
@@ -205,14 +240,17 @@ KYR Commonwealth Trust Application Period to Open August 1 Organizations _____ f
 (B) in opposition to
 (C) in search of
 (D) in lieu of
+
 136. (A) They have already begun fundraising for the event.
 (B) They can be submitted through the foundation's Web site.
 (C) The application process was revised after this point.
 (D) The funding organization is in need of capital itself.
+
 137. (A) Consequently
 (B) Otherwise
 (C) However
 (D) Therefore
+
 138. (A) support
 (B) training
 (C) information
@@ -226,14 +264,17 @@ The city's Waste Management Division has been cleaning Brentridge's streets twic
 (B) Until now
 (C) On the other hand
 (D) In this way
+
 140. (A) Refrain from disposing of toxic materials |||| outside of these designated areas.
 (B) Please visit our Web site to see when this will occur in your area.
 (C) The mayor will address citizens' concerns at the next town hall meeting.
 (D) The city plans to implement a new recycling program to reduce waste.
+
 141. (A) occupied
 (B) separate
 (C) accessible
 (D) flexible
+
 142. (A) association
 (B) qualification
 (C) cooperation
@@ -247,14 +288,17 @@ Questions 143-146 refer to the following article.
 (B) has acquired
 (C) will acquire
 (D) to acquire
+
 144. (A) unsuccessful
 (B) incomparable
 (C) unintentional
 (D) inaccurate
+
 145. (A) Some suggest that the renovations |||| were an excessive expenditure.
 (B) The new brand will represent Baiter's most recent innovation.
 (C) All other branch names will be changed gradually over the course of a year.
 (D) The market for grocery stores has become flooded in recent years.
+
 146. (A) gauge
 (B) adjust
 (C) regulate
@@ -271,6 +315,7 @@ The Walters Memorial Airport's parking garage B is closed for structural repairs
 (B) Its service booth was relocated.
 (C) It will be enlarged to hold more vehicles.
 (D) It may not be used for a period of time.
+
 148. What is offered to airport visitors using Well's Parking Lot?
 (A) Free parking passes
 (B) A ride to a terminal entrance
@@ -288,6 +333,7 @@ Riya Shankar [9:10 A.M.] I received a customer complaint about our Web site yest
 (B) He believes a customer will write a positive review.
 (C) He is sure that a Web page is functioning properly.
 (D) He has a suggestion for addressing a complaint.
+
 150. What problem did a customer have with a Web site?
 (A) Locating a customer inquiry menu
 (B) Understanding a return policy
@@ -303,6 +349,7 @@ The snow is melting and that can mean only one thing-it's spring! It's time to c
 (B) It only services certain types of houses.
 (C) It does not offer services on weekends.
 (D) It provides discounts for regular services.
+
 152. What service is provided for an additional charge?
 (A) Cleaning garments
 (B) Disinfecting rooms
@@ -318,11 +365,13 @@ Using the RoadRunner Sedan I2,s dashboard has never been easier. As with last ye
 (B) Give driving directions
 (C) Read the outside temperature
 (D) Provide parking assistance
+
 154. What does the manual say about connecting a cell phone?
 (A) It may take a few minutes to set up.
 (B) It may be incompatible with some models.
 (C) It is a feature that costs extra.
 (D) It requires the use of a cable.
+
 155. In which of the positions marked [1], [2], IBfe [3], and [4] does the following sentence best belong? "Select your preferred path from the choices provided."
 (A) [1]
 (B) [2]
@@ -348,16 +397,19 @@ Do you want to become an interpreter-translator in our network? -. Click here.
 (B) To announce a job vacancy
 (C) To explain pricing for a service
 (D) To provide a description of a business
+
 157. What is true about translators at International Interpreter Network?
 (A) All of them are fluent in at least three languages.
 (B) They majored in language instruction in college.
 (C) Some of them can translate spoken and written communications.
 (D) They have published their own textbooks more than once.
+
 158. How does the organization maintain the quality of its services?
 (A) By hiring workers with teaching certificates
 (B) By holding monthly training sessions
 (C) By gathering assessments from clients
 (D) By implementing a peer evaluation system
+
 159. In which of the positions marked [1], [2], best belong? "To begin, click on the "Request an Interpreter" button."
 (A) [1]
 (B) [2]
@@ -375,11 +427,13 @@ The government has approved the merger between Capital Status Bank and Farnswort
 (B) A consolidation of two firms
 (C) The effect of a government regulation
 (D) An industry's long-term outlook
+
 161. What is indicated about Farnsworth Capital Bank?
 (A) It plans to move its headquarters to a new city,
 (B) It will keep wages at current levels.
 (C) It is not expected to earn more money right away.
 (D) It will reduce the size of its branch network.
+
 162. What is NOT mentioned about the merger?
 (A) The number of bank branches will not change.
 (B) Staff may be requested to fill different roles.
@@ -399,16 +453,19 @@ Send
 (B) It offered Go-C Tech a sponsorship deal.
 (C) It is well-known for its scientific research.
 (D) It holds a career fair annually.
+
 164. At 3:55 p.m., what does Ms. Kovac mean when she writes, "You can leave me out"?
 (A) She needs time to train some staff.
 (B) She does not want to attend an event.
 (C) She has already participated in a career fair.
 (D) She is not familiar with a recruitment process.
+
 165. What is implied about Go-C Tech?
 (A) It lost several employees in the past month.
 (B) It recently released a new product.
 (C) It will be closing down a research facility soon.
 (D) It is preparing for an expansion.
+
 166. Who will delegate a representative to the career fair?
 (A) Amy Lintan
 (B) Peter Mercer
@@ -428,11 +485,13 @@ The Lake Point Small Business Association wants all participants to get as much 
 (B) A brief intermission
 (C) A talk on government projects
 (D) A one-hour lunch service
+
 168. What is NOT indicated about Ms. Summers?
 (A) She will be involved in reviewing proposals,
 (B) She is the proprietor of a business.
 (C) She teaches courses at a university.
 (D) She is the final speaker of the event.
+
 169. What does the LPSBA ask attendees to do?
 (A) Share experiences starting a business
 (B) Register for a follow-up workshop
@@ -448,16 +507,19 @@ MEMO To: All Keenan Company Production Workers From: Karen Pollack, Director of 
 (B) A new company incentive program
 (C) A need to produce more goods than usual
 (D) A revised monthly staff pay scale
+
 171. What does Ms. Pollack request that workers do?
 (A) Take two options into consideration
 (B) Train the short-term helpers
 (C) Recommend training topics they would prefer
 (D) Check their pay statements
+
 172. The word "dismiss" in paragraph 2, line 4, is closest in meaning to
 (A) disregard
 (B) surrender
 (C) eradicate
 (D) discharge
+
 173. What will take place if not enough staff are willing to work overtime?
 (A) Employees' salaries will be altered.
 (B) An order request will have to be denied.
@@ -477,6 +539,7 @@ lEBU
 (B) Twice weekly
 (C) Every week
 (D) Twice monthly
+
 175. What is NOT indicated about the company's products?
 (A) They can be ordered through a Web site.
 (B) They are available in meatless varieties.
@@ -498,21 +561,25 @@ Dear madam or sir, My company is planning to host a celebratory meal for a longs
 (B) The servants' area remains accessible.
 (C) Guided tours are available upon request.
 (D) Events can be held in some of the
+
 177. Why was the e-mail written?
 (A) To seek recommendations for a restaurant
 (B) To announce an executive's recent promotion
 (C) To make arrangements for a special occasion
 (D) To inform participants of a scheduled meeting
+
 178. Which room will Ms. Carter most likely be interested in renting?
 (A) The Somerset Room
 (B) The Cornwall Room
 (C) The Devonshire Room
 (D) The Wiltshire Room
+
 179. What is implied about Mr. McGuire?
 (A) He was satisfied with the services at Tribcott Manor House.
 (B) He is considering taking another position.
 (C) He was unable to book the caterer he regularly uses.
 (D) He works with Ms. Carter,
+
 180. In the e-mail, the word "assess" in paragraph 2, line 1, is closest in meaning to
 (A) judge
 (B) secure
@@ -530,21 +597,25 @@ S . Reviewer: Johnny Nestor I recently installed BizzSpec 4.0 and have worked wi
 (B) To give instructions for removing a computer virus
 (C) To notify customers of a product improvement
 (D) To provide information about a presentation
+
 182. What is indicated about BizzSpec 4.0?
 (A) It can convert one file type to another,
 (B) Unused functions are automatically deleted,
 (C) The version is only available for existing customers.
 (D) Tasks are processed faster than in earlier versions,
+
 183. In the review, the word "navigate" in paragraph 1, line 3, is closest in meaning to
 (A) examine
 (B) guide
 (C) operate
 (D) plan
+
 184. What does Mr. Nestor say about the setup process?
 (A) It has too many complicated steps.
 (B) It took more than half an hour.
 (C) It did not require the import of files.
 (D) It tends to pause intermittently.
+
 185. What is suggested about Mr. Nestor?
 (A) He prefers the appearance of the 3.0 product version more.
 (B) He got a new program version free of charge.
@@ -568,21 +639,25 @@ Dear Ms. Oliver, I produce and direct documentary programs for The Music Network
 (B) She collaborated with the same composer on all her albums.
 (C) She has yet to have a number one hit song.
 (D) She recorded all her songs with live orchestras.
+
 187. Which of Ms. Krall's albums did critics like best?
 (A) The Temptation
 (B) Listen Here
 (C) Midsummer Day's Dream
 (D) Little Thoughts
+
 188. What is true about On the Whole'?
 (A) It won an award for the best album
 (B) It is disliked by fans despite receiving critical acclaim.
 (C) It has achieved the highest sales among all of Ms. Krall's albums.
 (D) It contains a song ranked third on a global chart.
+
 189. What does Mr. Rivers ask Ms. Oliver to do?
 (A) Provide him with a musician's contact information
 (B) Post the newest episode of a talk show
 (C) Work on an upcoming program
 (D) Become a producer for a film
+
 190. When did Mr. Rivers watch Ms. Krall's interview?
 (A) On August 9
 (B) On August 10
@@ -608,21 +683,25 @@ Dear Customer Service, I purchased a month-long subscription package on your Web
 (B) Access to images
 (C) Continuous updates
 (D) A user comments section
+
 192. How can subscribers access video footage?
 (A) By entering a promotional code
 (B) By paying for a full year's subscription
 (C) By signing up for an online magazine
 (D) By subscribing to the printed publication
+
 193. Why did Ms. Andres write the e-mail?
 (A) To express appreciation for a Web service
 (B) To alter her original subscription package
 (C) To inquire how to download the application
 (D) To report her inability to access content
+
 194. What is suggested about Ms. Andres?
 (A) She is unfamiliar with the features of her phone.
 (B) She will receive online news content for two months.
 (C) She spoke to a technician over the phone.
 (D) She used to subscribe to the publication's print edition.
+
 195. How much did Ms. Andres pay for her subscription?
 (A) $2.75
 (B) $3.85
@@ -648,21 +727,25 @@ SERVICES RENDERED PRICE Rental of film studio (April 12, 10 a.m.-8 p.m.) $2,200.
 (B) Select a venue for an upcoming shoot
 (C) Produce different versions of a commercial
 (D) Use an updated version of a script
+
 197. What is indicated about Mr. Lipton?
 (A) He agreed to film a commercial on Friday.
 (B) He spoke to Mr. Pierce about a schedule.
 (C) He wanted to make some minor script changes.
 (D) He extended the rental of a venue by a day.
+
 198. In the second e-mail, the word "function" in paragraph 1, line 3, is closest in meaning to
 (A) duty
 (B) event
 (C) purpose
 (D) result
+
 199. What can be inferred about Juan Carlos?
 (A) Diana Watson will replace him for part of the day on April 12.
 (B) He was unavailable to work extended hours on the requested date.
 (C) Beetle Advertising Agency was charged $600 for his services.
 (D) He was forwarded a copy of a script by Ms. Bateman.
+
 200. What is true about Beetle Advertising Agency?
 (A) It sent Mr. Nichols to Van Ness Avenue to complete a payment.
 (B) It rented lighting equipment from Hinterland Production Studios.

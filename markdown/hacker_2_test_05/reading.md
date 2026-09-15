@@ -22,151 +22,181 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. A lecturer with over 10 years experience in information technology was the _____ for the seminar.
 (A) instruct
 (B) instructor
 (C) instructive
 (D) instruction
+
 102. The Greenville branch of Clockwork will be closed for its annual inventory on Monday, customers are asked to visit nearby locations instead.
 (A) so
 (B) whereas
 (C) or
 (D) even
+
 103. Spart-Gyms is advertising on television to ensure that the grand opening of its new athletics facility is widely
 (A) publicity
 (B) publicizing
 (C) public
 (D) publicized
+
 104. After the marketing convention in Seychelles concludes, Mr. Stevens' staff is to go on a weeklong vacation.
 (A) like
 (B) likely
 (C) liked
 (D) liking
+
 105. The Maritime Museum is requesting donations from local businesses to an upcoming series of educational lectures on regional history.
 (A) host
 (B) revise
 (C) locate
 (D) remind
+
 106. Improvements to the subway system and the construction of bicycle lanes _____ city residents to reduce their reliance on cars in recent years.
 (A) will allow
 (B) is allowing
 (C) have allowed
 (D) to allow
+
 107. Free copies of Richard Lucas's new book, Lens Explorer, will be handed out to guests _____ his photo exhibit at El Patio Museum on Monday.
 (A) toward
 (B) between
 (C) since
 (D) during
+
 108. Huntington Hotel provides a wide _____ of recreational activities for its guests, including water sports and sightseeing tours.
 (A) varied
 (B) variable
 (C) vary
 (D) variety
+
 109. Customers will receive points for every purchase they make, _____ they can use to buy other products sold in the store.
 (A) what
 (B) which
 (C) these
 (D) who
+
 110. The planning committee representatives made a _____ decision to postpone the event until the end of the month.
 (A) collects
 (B) collection
 (C) collective
 (D) collectively
+
 111. In a report, the Energy Department offered its best _____ of future oil prices in relation to the current world supply.
 (A) expenses
 (B) investments
 (C) predictions
 (D) beliefs
+
 112. As traveling by bus can be _____ , many passengers bring along a book or an electronic device for entertainment throughout their journeys.
 (A) diligent
 (B) tedious
 (C) classified
 (D) thoughtful
+
 113. The opening of the warehouse in Philadelphia was _____ scheduled for next week, but construction problems have caused a significant delay.
 (A) currently
 (B) shortly
 (C) slightly
 (D) originally
+
 114. Because there are many job openings, applicants must indicate which position they are seeking by _____ marking the appropriate box.
 (A) cleared
 (B) clearly
 (C) clearing
 (D) clearance
+
 115. Prices for certain commodities are rising around the nation as they become more
 (A) qualified
 (B) expert
 (C) scarce
 (D) minor
+
 116. While the CEO is away at the conference in Santiago, his assistant, Mr. Hale, will handle all official _____ on his behalf.
 (A) correspond
 (B) corresponds
 (C) correspondingly
 (D) correspondence
+
 117. The vendors at the trade fair come from Europe, but a few are from North
 (A) mostly
 (B) nearly
 (C) extremely
 (D) promptly
+
 118. The bank only evaluates small business loan applications _____ clients submit a feasibility report on their proposed operational strategy.
 (A) as if
 (B) after
 (C) in that
 (D) still
+
 119. The tour bus drove _____ several notable sites in Victoria and made three stops in particularly interesting districts.
 (A) past
 (B) out
 (C) without
 (D) up
+
 120. Blueline Insurance will immediately cover the cost of repairing clients' automobiles if amount to less than $1,000.
 (A) experiments
 (B) accidents
 (C) damages
 (D) facilities
+
 121. -- — minimize distractions, Janzyll Incorporated discourages the personal use of telephones and the Internet while on duty.
 (A) Instead
 (B) Provided
 (C) In an effort to
 (D) So long as
+
 122. The Simon Pillars Foundation is a global organization of architects _____ to building free homes for underprivileged families.
 (A) installed
 (B) dedicated
 (C) distributed
 (D) generated
+
 123. The group was very pleased with the cruise arranged by Stellar Travel, with many saying that it was the most _____ of holidays they had ever been on.
 (A) memorable
 (B) memorize
 (C) memory
 (D) memorably
+
 124. After working in London for five years, Ms. Shatya had trouble _____ to the climate in her home country of Malaysia.
 (A) readjust
 (B) readjusts
 (C) readjustments
 (D) readjusting
+
 125. Unless Kempley Telecom is _____ told to cancel a subscription, it will continue to charge users the regular monthly fee.
 (A) supposedly
 (B) explicitly
 (C) alternately
 (D) consecutively
+
 126. Motivated by the chance to earn a large bonus, Carver Properties' sales team to meet its annual quota.
 (A) eliminated
 (B) strived
 (C) climbed
 (D) outlined
+
 127. A special recognition award was presented to Dane Evans, ——- him for his many years of service on the police force.
 (A) honorable
 (B) honored
 (C) honors
 (D) honoring
+
 128. The Traffic Bureau _____ the new regulations to protect pedestrians and motorists from road accidents at night.
 (A) gathered
 (B) convinced
 (C) implemented
 (D) channeled
+
 129. The Hotel Duvarney is committed to providing _____ of its guests with a pleasant and comfortable stay.
 (A) each
 (B) whose
 (C) whatever
 (D) quite
+
 130. The Labor Relations Commission is conducting thorough _____ into claims that some employees at the Hartford Company are being treated unfairly.
 (A) investigations
 (B) interpretations
@@ -181,14 +211,17 @@ Southwestern Residences IMPORTANT ANNOUNCEMENT The building's will perform maint
 (B) administrative
 (C) administration
 (D) administratively
+
 132. (A) motivated 132.
 (B) pressured
 (C) interrupted
 (D) dismissed
+
 133. (A) A realtor will be showing people |||| around the building during this time.
 (B) The maintenance check lasted through the weekend.
 (C) We are sorry that we were unable to complete the inspection.
 (D) We intend to restore electricity immediately following the inspection.
+
 134. (A) In this case
 (B) Above all
 (C) By far
@@ -202,14 +235,17 @@ PARNOPIUS REOPENS IN SEPTEMBER! The newly renovated Parnopius Museum of the Arts
 (B)thorough
 (C) casual
 (D) precise
+
 136. (A) generate
 (B) portray
 (C) house
 (D) restore
+
 137. (A) These unique artifacts had made the |R| museum very popular.
 (B) These include a lecture hall, gift shop, and cafe on the ground floor.
 (C) The decision to renovate on the south wing was suspended.
 (D) Museum visitors found the opening exhibit to be a complete success.
+
 138. (A) feature
 (B) featuring
 (C) featured
@@ -223,14 +259,17 @@ Charles Nave 3739 Dale Avenue Seattle, WA 98161 Dear Mr. Nave, This is in reply 
 (B) safely
 (C) deliberately
 (D) accurately
+
 140. (A) You should consider placing a bulk order to get a free gift.
 (B) Due to an error, the discount wasn't applied to the quote we sent you.
 (C) We are only permitted to offer refunds to our regular customers.
 (D) The items you ordered have already been heavily marked down.
+
 141. (A) forward
 (B) forwarding
 (C) have forwarded
 (D) will be forwarded
+
 142. (A) advantage
 (B) confirmation
 (C) reimbursement
@@ -244,14 +283,17 @@ The Robinson Library offers complimentary alerts to members who have registered 
 (B) near
 (C) inside
 (D) above
+
 144. (A) Nevertheless 144.
 (B) Instead
 (C) Otherwise
 (D) Therefore
+
 145. (A) envelope 145.
 (B) item
 (C) term
 (D) check
+
 146. (A) periodical and tapes. iSl W (B) The library will add up the cost of the books that are purchased. Upon return of the material, the
 (C) borrower will have to pay a late fee. As per the decision of the library
 (D) management, alerts will be canceled, <<MISSING>>
@@ -265,6 +307,7 @@ i- You are invited to a seminar on Strengthening Regional Ties With Professor Be
 (B) He is moving to Latin America.
 (C) He works for the government.
 (D) He attended school in Thailand.
+
 148. What is NOT stated as a planned activity in the invitation?
 (A) A sit-down meal
 (B) An hour-long lecture
@@ -282,6 +325,7 @@ To: All sales staff From: Lisa McDaniel, personnel director Subject: Bonus schem
 (B) To solicit comments on a proposal
 (C) To announce a change in policy
 (D) To explain the reasons for a salary increase
+
 150. What is NOT mentioned about the sales staff?
 (A) They need to sell at least 100 units a month to receive a commission bonus.
 (B) They will undergo a performance evaluation in June.
@@ -299,6 +343,7 @@ CZZJ
 (B) He is looking for someone to clean his residence on a regular basis.
 (C) He will have a housekeeper come to his apartment after 5 p.m.
 (D) He is relocating to another address at the end of next month.
+
 152. At 9:56, what does Ms. Carmichael mean when she writes, "I know he's busy after 5"?
 (A) She will make plans to meet a client earlier in the day.
 (B) She will be showing another apartment after 5 p.m.
@@ -316,11 +361,13 @@ Local collectors eager to own an important secured 18 pieces by the artists and 
 (B) It is the largest of its kind in the region.
 (C) It will feature a number of important pieces.
 (D) It is being organized by several collectors.
+
 154. What is NOT indicated about Dorothy Stone?
 (A) She produced many paintings in her lifetime.
 (B) She is expected to earn $1 million alone.
 (C) She once lived in Paris with some colleagues.
 (D) She made the painting with the highest value estimate.
+
 155. What is suggested about the Foundation for Creative Arts?
 (A) It was started by Ms. Irwin and her colleagues.
 (B) It provides art supplies to local artists.
@@ -338,6 +385,7 @@ Questions 156=157 refer to the following e-mail.
 (B) A corporate investor
 (C) An event planner
 (D) An advertising employee
+
 157. What is indicated about the upcoming events?
 (A) They will all take place on the same date.
 (B) They are being organized by a marketing firm.
@@ -355,11 +403,13 @@ Hi Robert, It was terrific seeing you at the tourism conference in Miami last we
 (B) Finalized arrangements for a business trip
 (C) Made some new acquaintances at an event
 (D) Applied for a part-time position
+
 159. What is indicated about Ms. Harwood?
 (A) She presently works as a consultant.
 (B) She is looking for a job in Miami.
 (C) She is planning a vacation in Orlando.
 (D) She has been with Oleandar Hotel for six years.
+
 160. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "I believe, the role you're offering also requires staff supervision and client communication."
 (A) [1]
 (B) [2]
@@ -377,11 +427,13 @@ Sustainability and Your Business By Jonathan Demarco November 14 Increasingly aw
 (B) To criticize wasteful corporate spending
 (C) To describe laws affecting company proprietors
 (D) To promote ethical production methods
+
 162. What was NOT mentioned by Andrea McGibbon?
 (A) Many consumers look favorably upon sustainable brands.
 (B) There is value in sustainable business methods.
 (C) Some corporations have reported little change in profitability.
 (D) Fewer than 10 companies have modified their practices.
+
 163. According to the author, what has the example of Style Be With You revealed?
 (A) Companies are reluctant to make changes.
 (B) Maintaining a responsible image is fairly inexpensive.
@@ -399,16 +451,19 @@ Send
 (B) She expected more media members to attend an event.
 (C) She wanted a product display to be finished earlier in the day.
 (D) She was disappointed that some video screens are out of order.
+
 165. What will Mr. Bryce do the following morning?
 (A) Hang up some signs
 (B) Conduct a video presentation
 (C) Make some equipment adjustments
 (D) Show guests to their seats
+
 166. What is NOT true about the event venue?
 (A) Its sound system is ready for use.
 (B) It has a food and drink service area.
 (C) Its press zone will be expanded.
 (D) It can be opened early by a supervisor.
+
 167. What type of company does Ms. Singh most likely work for?
 (A) A local newspaper
 (B) An event planning agency
@@ -424,16 +479,19 @@ Baxter Communications 87 Hollowbrook Road Bloomington, IL 61704 Melinda Armin 73
 (B) To offer a discount on packages
 (C) To explain agreement guidelines
 (D) To provide an update on repairs
+
 169. What is mentioned about Baxter Communications?
 (A) It has its own television channel.
 (B) It updated its subscription policies.
 (C) It will terminate a video rental service.
 (D) It offers multiple services to customers.
+
 170. Why might service users have to pay an additional fee?
 (A) If they damage a cable box
 (B) If they record a program
 (C) If they pay an invoice late
 (D) If they cancel a service early
+
 171. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "Failure to abide by any of these regulations could result in termination of services without further notice or even legal penalties."
 (A) [1]
 (B) [2]
@@ -449,16 +507,19 @@ Questions 172=175 refer to the following article.
 (B) To discuss a particular genre of film
 (C) To explain how a production was made
 (D) To announce a special event
+
 173. What is stated about Outer Reaches?
 (A) It broke box office records at the time of its premiere.
 (B) It accumulated fans over a decade-long period.
 (C) It received numerous awards when first released.
 (D) It is rarely shown in theaters anymore.
+
 174. How did Mr. Templeton influence others in his field?
 (A) By inspiring people to become actors
 (B) By pioneering the use of certain special effects
 (C) By writing his own scripts
 (D) By mixing different genres of film
+
 175. The word "credited" in paragraph 3, line 1, is closest in meaning to
 (A) added
 (B) trusted
@@ -480,21 +541,25 @@ FURRY FRIENDS CUSTOMER SATISFACTION SURVEY Now that your order has shipped, we h
 (B) In two days
 (C) In one week
 (D) In 10 days
+
 177. What has NOT been included in the e-mail to Mr. Wright?
 (A) A link to the shipping provider's Web site
 (B) The total cost of his order
 (C) A number for checking on the status of deliveries
 (D) The hours that a phone line is open
+
 178. What does the e-mail indicate about Furry Friends?
 (A) It responds personally to every message.
 (B) It assists customers seven days a week.
 (C) It ships items through a separate company.
 (D) It allows returns within a given period.
+
 179. Why was Mr. Wright dissatisfied with his experience?
 (A) He was unable to locate a product.
 (B) He thought some goods were overpriced.
 (C) He disliked the limited selection.
 (D) He received the wrong brand of item.
+
 180. Whose product did Mr. Wright probably buy instead of Barkus?
 (A) Doggie Trend
 (B) Dr. Do-a-Lot
@@ -514,21 +579,25 @@ Dear Ms. Mackie, I received the billing statement about the maintenance fees for
 (B) It is located in a building with a lobby.
 (C) It sent a gas bill to the administrative office.
 (D) It pays for maintenance every month.
+
 182. What will happen if tenants fail to make the payment by a due date?
 (A) They may incur an extra charge.
 (B) Utility services may be disconnected.
 (C) They will be asked to vacate units.
 (D) Parking privileges will be revoked.
+
 183. Why was the e-mail written?
 (A) To notify an administrator of billing errors
 (B) To request copies of unit rental agreements
 (C) To ask about legal services available
 (D) To apply for permission to renovate a space
+
 184. What does Mr. Rousseau suggest about his maintenance fee charges?
 (A) They are paid for by wire transfer on a regular basis.
 (B) They should include an additional monthly charge for parking.
 (C) They are exclusive of the costs of water expenditures.
 (D) They need to be handed in to Burlington Towers by November.
+
 185. What was Plumb Legal Firm's first office space at Burlington Towers?
 (A) 302F
 (B) 401A
@@ -552,21 +621,25 @@ During a fundraiser held at the Carruthers Hotel over the weekend, invited guest
 (B) Visit an event venue
 (C) Speak with a colleague
 (D) Call a performer
+
 187. What most likely happened during the fundraising event?
 (A) A university professor welcomed guests before dinner.
 (B) A director announced program changes during opening remarks.
 (C) Some tickets to a baseball game were auctioned.
 (D) Some officials presented a certificate to a non-profit organization.
+
 188. In the article, the word "duty" in paragraph 1, line 5, is closest in meaning to
 (A) motivation
 (B) tendency
 (C) labor
 (D) responsibility
+
 189. What was included in an auction?
 (A) Two tickets for admission to an amusement park
 (B) Autographed memorabilia from actors
 (C) A stay at the same venue as the fundraiser
 (D) A set of brand new desktop computers
+
 190. What is indicated about Helping Houses?
 (A) It earned more cash during the fundraiser than last year.
 (B) It received funding from the city government.
@@ -596,21 +669,25 @@ Total number of passes needed: Three Table(s): One / Regular Payment Method: Cas
 (B) It was initially proposed by the mayor of the city.
 (C) It will not charge some participants for attending.
 (D) It is the first of a series of events planned for the year.
+
 192. Why did Mr. Collins write the e-mail?
 (A) To make a special request for an upcoming event
 (B) To find out which companies have joined the job fair
 (C) To ask about prices for corporate participants
 (D) To recruit volunteers to work at a career fair
+
 193. What is mentioned about Bingham Title?
 (A) It operates several branches in Aurora.
 (B) It is owned by Moore Investments.
 (C) It is currently expanding its operations.
 (D) Its manager contacted Mr. Collins.
+
 194. What is suggested about Mr. Collins?
 (A) His company will pick up a promotional banner on the day of the fair.
 (B) He sent a bill to Ms. Perry for fair participation.
 (C) His company will set up a booth near Aurora City Arena's entrance,
 (D) He wrote an article about the upcoming Aurora Job Fair.
+
 195. What is indicated about Ms. Jacobs?
 (A) She has asked three other staff to help her at the fair.
 (B) She will be reimbursed by Star Mortgage soon.
@@ -636,11 +713,13 @@ Morning Glory Guest Cottages is perfect for those wishing to escape into nature.
 (B) Put together a slideshow of rooms and facilities
 (C) Change a room service menu
 (D) Post more images of scenic local areas
+
 197. What can be inferred about Ms. Longoria?
 (A) She has not fully paid Mr. Steinbrenner for his services.
 (B) She would like Mr. Steinbrenner to give a presentation at her office.
 (C) She wants restaurant menus to be updated on a daily basis.
 (D) She requested that a payment option be added to an online page.
+
 198. What does Ms. Wilder indicate about Morning Glory Guest Cottages?
 (A) It offers spacious accommodations.
 (B) It is situated on the banks of a river.

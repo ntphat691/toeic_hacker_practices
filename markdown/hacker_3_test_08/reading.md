@@ -4,8 +4,11 @@ PART 5
 01 PART 7
 Self ilk a|AE
 EII^E *! IfOjAHh
+
 1. me| SSS p^Wfi? o oil
+
 2. Answer Sheet. 21. ^NlSulSHaLfo? n
+
 3.A|7j|lSH|6H!3L|S? coil
 = gapi 2tsEisi°2 cc«a 4 eiiams
 ^|:#0|1. Dj^lxg^EI 70^ ^0J _A| .MbJM'-K
@@ -22,151 +25,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © PARTS S^tolAltr 11g
+
 101. The meteorologist reviews the daily weather patterns and makes _____ for temperatures and conditions.
 (A) predicts
 (B) predictions
 (C) predicted
 (D) predictably
+
 102. Sommerland Shopping Mall is situated ten minutes away from the downtown area.
 (A) approximating
 (B) approximated
 (C) approximately
 (D) approximate
+
 103. All airlines are required by law to keep inflatable life jackets located passenger seats in case there is an emergency.
 (A) following
 (B) next
 (C) except
 (D) underneath
+
 104. Mr. Katz was confident that _____ could do a better job with database maintenance than his highly skilled team.
 (A) less
 (B) few
 (C) those
 (D) whatever
+
 105. After Benton Enterprises adopted the of allowing its staff to work flexible hours, productivity began to rise.
 (A) practice
 (B) practically
 (C) practiced
 (D) practitioner
+
 106. Evergreen Hotel was built at a time when Baldwin City _____ strong growth, but it may close if the recession continues.
 (A) undergoes
 (B) is undergoing
 (C) will undergo
 (D) was undergoing
+
 107. The display coordinator's role is to ensure that everything sold in the store is arranged to look appealing to customers.
 (A) barely
 (B) namely
 (C) formerly
 (D) carefully
+
 108. Many consumers agreed that Edgewood Limited's greatest strength was its _____ in maintaining high levels of quality.
 (A) comparison
 (B) component
 (C) consistency
 (D) conclusion
+
 109. The human resources manager called a meeting on Monday _____ everyone about his plan to hire new employees in the coming months.
 (A) informs
 (B) informed
 (C) be informed
 (D) to inform
+
 110. Mary Rose was asked to join the information access team because she to similar projects previously.
 (A) was contributed
 (B) had contributed
 (C) contributes
 (D) will contribute
+
 111. The accounting department's current software program is not _____ for the tasks that need to be performed.
 (A) adequate
 (B) competent
 (C) comforting
 (D) proficient
+
 112. Chef Alan Peralta's _____ of classic French dishes is considered both unique and daring in the culinary world.
 (A) obligation
 (B) calculation
 (C) subtraction
 (D) interpretation
+
 113. Work from artist Leah Mills' newest collection was displayed _____ at the Beech Gallery in Atlanta.
 (A) exclusion
 (B) exclusively
 (C) excludes
 (D) exclude
+
 114. _____ wishing to work overtime this month is reminded to advise the supervisor before the end of the week.
 (A) Whoever
 (B) All
 (C) Those
 (D) Anyone
+
 115. Customers with packages exceeding 250 centimeters in length are _____ additional shipping fees by Bowden Couriers,
 (A) charging
 (B) charged
 (C) chargers
 (D) charges
+
 116. Participants will be given ample time after the presentation to _____ any concerns they may have about the marketing plan.
 (A) raise
 (B) discharge
 (C) screen
 (D) invest
+
 117. The new road from Batik Enterprise's warehouse to the post office has been a great _____ for employees in the shipping department.
 (A) registration
 (B) increment
 (C) movement
 (D) advantage
+
 118. The launch of Blanca Restaurant was successful _____ , but the proprietor wished the event had attracted greater attention from local media.
 (A) rather
 (B) enough
 (C) soon
 (D) yet
+
 119. Edmonton Supply is _____ to extend a discount when customers place a minimum order for 1,000 units of the camping accessories.
 (A) capable
 (B) respective
 (C) compatible
 (D) willing
+
 120. Renovations can begin on Bounty Bank's main offices _____ the board authorizes the project.
 (A) also
 (B) pending
 (C) unless
 (D) once
+
 121. Ms. Wilson left behind a career in law to her dream of running a bed-and-breakfast in Tuscany.
 (A) aspire
 (B) pursue
 (C) withdraw
 (D) contend
+
 122. The staff in charge of writing press releases should get all facts thoroughly before sending an announcement to the media.
 (A) checked
 (B) checking
 (C) check
 (D) checks
+
 123. Ms. Reyes considered the amount of luggage she was taking on her beach excursion before deciding on _____ car to rent.
 (A) these
 (B) where
 (C) other
 (D) which
+
 124. A top competitor withdrew from the international tennis tournament due to a injury.
 (A) captivating
 (B) prescribing
 (C) towering
 (D) lingering
+
 125. _____ a few members opposing the plan, the executive board has decided to go through with the investment in Diehl Electronics.
 (A) Notwithstanding
 (B) Consequently
 (C) Between
 (D) Throughout
+
 126. An international body has _____ the formation of a protected area covering large sections of the Amazon rainforest.
 (A) notified
 (B) approved
 (C) deducted
 (D) signified
+
 127. Steeltop's machinery is solidly built and will operate _____ for years without the need for costly maintenance and repairs.
 (A) explicitly
 (B) regretfully
 (C) reliably
 (D) attentively
+
 128. The spokesperson for Beaumont Industries made an official apology _____ the company for the way it dealt with a delivery delay.
 (A) as soon as
 (B) according to
 (C) in spite of
 (D) on behalf of
+
 129. Copyright _____ have the exclusive right to use, modify, and distribute the images they upload to Westforth Corporation's Web site.
 (A) held
 (B) holds
 (C) holding
 (D) holders
+
 130. _____ the weather is pleasant, the company's social gathering will occur at Ogilvy Park this weekend.
 (A) Rather than
 (B) Assuming that
@@ -183,14 +216,17 @@ Royal Exchange Building Reborn as Hotel Nationwide hotel operator Verdant Group 
 (B)spent
 (C) will spend
 (D) spending
+
 132. (A) It will take another year before the ||j| hotel opens its doors.
 (B) This is Verdant Group's first project that is a joint venture.
 (C) Judging from the results, it seems that they were successful.
 (D) Consequently, the construction firm's initial proposal was rejected.
+
 133. (A) activities
 (B) priorities
 (C) opportunities
 (D) amenities
+
 134. (A) issue
 (B) accomplishment
 (C) attraction
@@ -204,14 +240,17 @@ July 15 Allison Morita Vestige Insurance 4186 Maryland Avenue Pinellas, FL 34624
 (B) handle
 (C)change
 (D) summarize
+
 136. (A) when
 (B) who
 (C) how
 (D) why
+
 137. (A) If so
 (B) Until then
 (C) After that
 (D) On condition of
+
 138. (A) I have enclosed receipts to support this ill claim'
 (B) Only half of the amount has been paid by your company.
 (C) It is difficult to determine who was at fault for the accident.
@@ -225,14 +264,17 @@ Welcome to Redstone National Park For the protection of the park, all visitors a
 (B) demonstrations
 (C) policies
 (D) corrections
+
 140. (A) Previously
 (B) Besides
 (C) However
 (D) Moreover
+
 141. (A) We project that these campsites will be |||| completed by the end of the year.
 (B) It must be closely monitored by park rangers at all times,
 (C) The easiest way to get to the park is by taking a shuttle bus.
 (D) These can be obtained at the visitor center every day until noon.
+
 142. (A) preserves
 (B) preservation
 (C) preservative
@@ -246,14 +288,17 @@ To: Janet Boyle <jboyle55@overmail.net> From: Customer Service <service@lagoonai
 (B) damaged
 (C) unattended
 (D) allowable
+
 144. (A) submitted
 (B) retrieved
 (C) denied
 (D) waived
+
 145. (A) You will receive confirmation of your flight reservation by e-mail.
 (B) Refer to your ticket to view the baggage allowance for this flight.
 (C) We will deliver the bag to your address after it has been recovered.
 (D) Please note that there is a deadline to apply for reimbursement.
+
 146. (A) Thereafter
 (B) Nonetheless
 (C) Additionally
@@ -270,6 +315,7 @@ Date: August 27 To: All personnel From: Thomas Sutton, facility manager Subject:
 (B) To report the findings of a water system inspection
 (C) To request that staff monitor their water consumption
 (D) To explain a measure to treat water contamination
+
 148. What did Mr. Sutton recently do?
 (A) Met with a government official
 (B) Renovated some laboratory facilities
@@ -287,6 +333,7 @@ As of August 31, the Send It Right packing and shipping center will no longer be
 (B) Interview applicants for a new facility
 (C) Sign a rental agreement with Perkins Plaza
 (D) Begin offering international shipping options
+
 150. What is suggested about Send It Right in the Perkins Plaza?
 (A) Its customers are permitted to park for free.
 (B) Some current services will not be offered.
@@ -304,6 +351,7 @@ Sandra Fuller [2:23] Thank you again for planning such a good client visit with 
 (B) A customer's transaction was canceled at the last minute.
 (C) She expected Mr. Cavanaugh to be aware of a decision.
 (D) A message was sent to the wrong person by mistake.
+
 152. What can be inferred about IPD Toy Incorporated?
 (A) It will request some changes to a product's appearance.
 (B) It operates retail outlets in different countries.
@@ -333,11 +381,13 @@ Please read the enclosed user's manual before assembling the product. Moreover, 
 (B) A kitchen appliance
 (C) Factory equipment
 (D) A health supplement
+
 156. What is stated about the Flextone 900?
 (A) Some of its pieces are sold separately.
 (B) It is not for use in the home.
 (C) It requires some maintenance.
 (D) It must be attached to a charger.
+
 157. What is NOT a recommendation for users?
 (A) Adjusting the settings for children
 (B) Checking that components are secure
@@ -355,16 +405,19 @@ Blake Dunlap 10:28 a.m. Hi, everyone. I'm happy to announce that Alstrop's board
 (B) A home builder
 (C) A staffing firm
 (D) A moving company
+
 159. What is mentioned as a concern about staff transfers?
 (A) The cost of relocating a workforce is high.
 (B) Staff may not want to move away from their current homes.
 (C) There is insufficient time to carry out a move.
 (D) New administrative employees have limited experience.
+
 160. At 10:38 a.m., what does Ms. Schultz mean Ull when she writes, "he needs a challenge"?
 (A) She believes finding the right employee will be a challenge.
 (B) Mr. Drake wishes to be assigned a recruitment task.
 (C) She thinks a staff member should take on a new responsibility.
 (D) A purchasing clerk is deserving of a promotion.
+
 161. What will Mr. Dunlap do later in the day?
 (A) Go through some phone messages
 (B) Supply a list of open positions
@@ -380,11 +433,13 @@ INVOICE Clean Genie 3102 Flamilton Boulevard Date of invoice: August 8 Allentown
 (B) It makes some of its own cleaning products.
 (C) It holds membership in a food industry association.
 (D) It has visited Vasco's Bistro three times.
+
 163. Why did the client request cleaning services?
 (A) It received some customer complaints.
 (B) It is preparing its venue for an important event.
 (C) It received a discount coupon in the mail.
 (D) It has to comply with cleanliness standards.
+
 164. Who most likely is Evelyn Moore?
 (A) A city sanitation official
 (B) A dining facility manager
@@ -402,11 +457,13 @@ Dear Mr. Morton, Greetings from Alive magazine. I am very pleased to inform you 
 (B) A public speaker
 (C) A professional writer
 (D) A literary critic
+
 166. What can be inferred about Mr. Morton?
 (A) His photographs will be featured on a cover.
 (B) He will meet Ms. Tan at an awards celebration.
 (C) He has traveled to Mexico City before.
 (D) He will have to submit a revised draft.
+
 167. In which of the positions marked [1], [2], wSm [3], and [4] does the following sentence best belong? "You will find it alongside other selected entries in our regular section on travel."
 (A) [1]
 (B) [2]
@@ -424,16 +481,19 @@ Music giant Sonorum, which holds the rights for over 80 record labels, has struc
 (B) It focuses on a particular genre of music.
 (C) It has yet to be released to the public.
 (D) It is largely dependent on advertising.
+
 169. According to the article, what competitive advantage does Vixo have?
 (A) It has a substantial user base.
 (B) It offers a flexible payment scheme.
 (C) It is available in several languages.
 (D) It provides excellent customer service.
+
 170. What does the article mention about SoundStorm?
 (A) It is fast approaching the same level of popularity as Vixo.
 (B) Almost half its users have signed up for a service.
 (C) It achieved profitability in a short amount of time.
 (D) Some of its former executives now work for Vixo.
+
 171. In which of the positions marked [1], [2], mm [3], and [4] does the following sentence best belong? "Once it is launched, users will be able to stream a wider range of both music and videos in a high-quality digital format."
 (A) [1]
 (B) [2]
@@ -451,16 +511,19 @@ Cruise travel involves long-term planning and preparation for both cruise lines 
 (B) To give instructions on ticket purchase methods
 (C) To notify passengers of a canceled cruise
 (D) To describe booking modification procedures
+
 173. The word "established" in paragraph 1, line 4, is closest in meaning to
 (A) instituted
 (B) restored
 (C) contained
 (D) convened
+
 174. What is NOT indicated in the information?
 (A) Cancellation requests may be submitted over the phone.
 (B) Passengers can change their cruise dates if needed.
 (C) Additional charges may be imposed by travel agencies.
 (D) Refund amounts vary based on days from departure.
+
 175. According to the information, what is required for cancellation?
 (A) A passenger number
 (B) Contact information
@@ -480,21 +543,25 @@ Name Company/Affiliation North Park Elementary School Harry Okata Order date Mar
 (B) By filling out a survey
 (C) By using an existing design
 (D) By visiting a new store
+
 177. What is indicated about Mr. Okata?
 (A) His delivery was expedited upon request.
 (B) He is the coach of a school basketball team.
 (C) His T-shirt design was created by a faculty member.
 (D) He will pay an extra fee for his order,
+
 178. In the advertisement, the word "create" in paragraph 1, line 3, is closest in meaning to
 (A) equip
 (B) reverse
 (C) appear
 (D) produce
+
 179. What is NOT indicated about the T-shirts requested by Mr. Okata?
 (A) They will be paid for by a credit card.
 (B) They will be worn by elementary school students,
 (C) They will be delivered within a week.
 (D) They will feature a school's symbol.
+
 180. What should customers do if they are dissatisfied with their T-shirts?
 (A) E-mail a completed complaint form
 (B) Call an establishment's number
@@ -518,21 +585,25 @@ company, as it would fit better in that location. With regard to the paint color
 (B) It is a one-story building.
 (C) It has modern characteristics.
 (D) It was built last year.
+
 182. What did Mr. Summers send to Ms. Gale?
 (A) Interior design plans for a home
 (B) A set of paint samples
 (C) Images of his belongings
 (D) A list of furniture stores
+
 183. What is indicated about the two-person sofa?
 (A) It was a secondhand item.
 (B) It will not fit well in the music room.
 (C) It is incompatible with other furniture.
 (D) It is entirely white in color.
+
 184. Who most likely is Ms. Gale?
 (A) A furniture store employee
 (B) A hardware supply representative
 (C) A home interior decorator
 (D) A commercial photographer
+
 185. What will Martha Gale do next week?
 (A) Show some material samples to Mr. Summers in person
 (B) Move some furniture for a customer
@@ -562,21 +633,25 @@ To Whom it May Concern, I would like to follow up on my registration for the Ban
 (B) None of them are scheduled for a weekend.
 (C) They can be taken over the Internet.
 (D) All of them take place in the afternoon.
+
 187. What is indicated about course registration?
 (A) It requires applicants to visit a Chicago office.
 (B) Its price is discounted if completed online.
 (C) It can be canceled after the payment is processed.
 (D) Its confirmation may take more than a day.
+
 188. What is suggested about Mr. Flinds?
 (A) Ffe has been with Dayton Bank for at least two years.
 (B) He will be participating in classes on weekday mornings.
 (C) He has taken the Effective Teller Operations course before.
 (D) He will be traveling to a different city for his classes.
+
 189. What is one purpose of the e-mail?
 (A) To ask about enrolling another student
 (B) To inquire about paying for another course
 (C) To find out a registration deadline
 (D) To announce a planned absence
+
 190. What can be inferred about Mr. Hinds' payment?
 (A) It was submitted after a deadline.
 (B) It must be processed by the end of April.
@@ -600,21 +675,25 @@ Hi Joseph, I'm writing this e-mail to let you know that I carried out all of the
 (B) She will not participate in horseback riding,
 (C) She will be reimbursed for the cost of her accommodations.
 (D) She is in charge of arranging a staff meeting.
+
 192. In the memo, the word "circulated" in paragraph 2, line 1, is closest in meaning to
 (A) distributed
 (B) revolved
 (C) transferred
 (D) exhibited
+
 193. What will occur twice during the staff retreat?
 (A) A photo shoot
 (B) A speech by an executive
 (C) A communication skills workshop
 (D) A guided leisure activity http ://www. botwe 11 sto re. co m/news/d utyfree HOME CONTACT MEMBERSHIP Coming Soon ... Duty-Free Shopping at Botwell Department Store Botwell Department Store, situated in the heart of Cape Town, is pleased to announce that on April 12 it will be opening a new duty-free store designed for all international travelers. Located on Botwell's fifth floor, the establishment will feature luxury goods such as cosmetics, perfumes, liquors, jewelry, and more. In celebration of the opening, all items by Moreno Luggage and Lydia Cosmetics will be marked down by 20 percent until May 15. To buy any product being sold in the duty-free store, customers will need to provide a passport and a ticket that will be used for an international departure within 28 days. Those who are members of the Botwell Frequent Shopper program can receive an additional 10 percent off all duty-free products. BOTWELL DEPARTMENT STORE I'm very grateful to everyone for helping to make the first week of our duty-free store a success. Overall, I am pleased with your efforts and with how well the store ran. However, there are a few important things to take note of. First, I received a number of complaints about our voucher program. Please recall that it is our policy to give vouchers to customers who make purchases totaling $500 or more. These vouchers allow them to take advantage of discounts on our partner establishments' Web sites. Please remember to give one to every eligible customer. Second, if a member of our frequent shopper program has lost his or her card, we cannot offer the reduced price. However, shoppers may keep their receipts and get reimbursed for the difference once the card has been located or replaced. Thank you for your attention to these matters, and keep up the good work. partment Store Receipt Issued: April 19 To: Emilia Fortich Passport number: XCV81324 Flight: Vela Airways VI342 Date of departure: April 21 Item Riley leather handbag (plum) Lydia Cosmetics lipstick Leganz digital camera Daphne Boutique scarf 260 ^a Please note: Cape Town Airport Authority (CTAA) regulations prohibit the transport of more than 100 milliliters of liquids and gels onboard unless the products have been purchased at a duty-free store and secured in a plastic bag bearing the official CTAA seal. Furthermore, note that such items must be removed from luggage when passing through a security checkpoint.
+
 194. According to the e-mail, what has NOT been requested by Mr. Tran?
 (A) Preparing meals to satisfy different preferences
 (B) Arranging specific rooms for staff members
 (C) Furnishing an annex with tables and chairs
 (D) Stocking refreshments throughout the day
+
 195. What does Mr. Oliver suggest that Mr. Tran do?
 (A) Finish a corporate event earlier than scheduled
 (B) Confirm reservations for a particular activity

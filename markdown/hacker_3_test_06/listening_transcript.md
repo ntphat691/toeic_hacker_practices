@@ -215,6 +215,7 @@ W: Try checking with Catherine Dawkins. Just last week, she said that she’d be
 Questions 41-43 refer to the following conversation.
 `캐나다식 발음 → 영국식 발음`
 M: Hi. This is Larry Bates. I ordered a textbook from your store two weeks ago, but it still hasn’t arrived at my apartment. My order confirmation number is
+
 42345.
 W: According to the tracking information, your book was delivered almost three days ago. However, the courier must not have brought it directly to your door, since you didn’t include a specific apartment number with the shipping information.
 M: Hmm . . . But I never saw the item by my complex’s main door either.

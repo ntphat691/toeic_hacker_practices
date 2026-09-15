@@ -20,151 +20,181 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. The City of Clarkston requires that retail outlets obtain business licenses in order to in commerce.
 (A) attain
 (B) engage
 (C) permit
 (D) emerge
+
 102. Danika Incorporated has promised substantial bonuses to employees who in a minimum of 100 new customers this year.
 (A) bring
 (B) brings
 (C) bringing
 (D) to bring
+
 103. _____ the mayor but all of the members of the city council attended the New Year's celebrations at city hall.
 (A) As if
 (B) Rather than
 (C) Not only
 (D) So long as
+
 104. Despite its vast assortment of attractive new features, Belta's latest smartphone is priced compared to similar items produced by competitors.
 (A) reason
 (B) reasonable
 (C) reasonably
 (D) reasoned
+
 105. At the end of the concert, audience members _____ with excitement when the band agreed to perform two additional songs.
 (A) displayed
 (B) indicated
 (C) reacted
 (D) countered
+
 106. Passengers must confirm _____ flights at least 72 hours prior to the scheduled time of departure.
 (A) their
 (B) them
 (C) theirs
 (D) themselves
+
 107. _____ the money earned from its most recent promotion. Health-Ease Beverages expanded its product line of organic fruit drinks.
 (A) Apart from
 (B) With
 (C) After
 (D) If only
+
 108. As part of the advertising campaign, an article with a very _____ description of the Ark Restaurant will be published in a food magazine.
 (A) detailed
 (B) stated
 (C) limitless
 (D) initial
+
 109. The artist Vera Sheen _____ her work at the Center Gallery in Toronto later this year from September 1 to November 30.
 (A) exhibiting
 (B) has exhibited
 (C) has been exhibited
 (D) will be exhibiting
+
 110. Staff members attending the trade fair in Miami were instructed to make _____ for accommodations and bill the company at a later date.
 (A) pays
 (B) paying
 (C) payments
 (D) to pay
+
 111. _____ the factory operates at full capacity, it will not be able to produce enough items to satisfy the client's order requirements.
 (A) Overall
 (B) Wherever
 (C) Even if
 (D) Otherwise
+
 112. Visitors to Cordera Chemicals are asked to at the security desk and speak with a guard before proceeding into the building.
 (A) stop
 (B) reflect
 (C) drop
 (D) retire
+
 113. Summer interns are expected to perform a variety of tasks, from completing routine paperwork to _____ a hand on different research projects when needed.
 (A) lend
 (B) lent
 (C) lending
 (D) lender
+
 114. The lineup of speakers _____ by organizers to appear at this month's lecture series has been modified.
 (A) inviting
 (B) invited
 (C) will invite
 (D) has been invited
+
 115. To thank the clients who participated in the marketing study, the company sent out e-mails with _____ vouchers worth a total of $50.
 (A) tolerable
 (B) affordable
 (C) gratified
 (D) attached
+
 116. Had he known sooner about the opening at Gray Consulting, Michael _____ for a job there instead of at Hardwick International.
 (A) applied
 (B) is applying
 (C) should apply
 (D) would have applied
+
 117. The junior chefs were given a test to determine how _____ they could prepare a meal using only a few ingredients.
 (A) importantly
 (B) sparsely
 (C) totally
 (D) skillfully
+
 118. Egypt's National History Museum seeks to preserve the country's rich cultural by protecting many priceless artifacts.
 (A) heritage
 (B) findings
 (C) scenery
 (D) texture
+
 119. It took the work crew one week to repair the fence running along the ——- of Mr. Haskell's property.
 (A) angle
 (B) dimension
 (C) border
 (D) expression
+
 120. Fiercely determined to demonstrate she was worthy of the job, Ms. Olmedo consistently worked the _____ among the newly hired personnel.
 (A) harder
 (B) hard
 (C) hardly
 (D) hardest
+
 121. The administrative department announced that _____ the new cafeteria is built, office workers will be provided with weekly meal allowances.
 (A) already
 (B) likewise
 (C) once
 (D) still
+
 122. Cottage rentals at the Devon Resort are typically sold out by early spring and difficult to book by the time summer starts in June.
 (A) now
 (B) thus
 (C) else
 (D) besides
+
 123. Economists use advanced statistical methods that they believe can forecast buying trends in the market.
 (A) correctly
 (B) previously
 (C) motivationally
 (D) extremely
+
 124. Library patrons who lose borrowed materials _____ accountable for paying the cost of replacing them.
 (A) were holding
 (B) has held
 (C) are held
 (D) will be holding
+
 125. According to the company timetable, the business luncheon is supposed to take place _____ 12 p.m. and 2 p.m. this coming Friday.
 (A) between
 (B) except
 (C) during
 (D) within
+
 126. The Barbuda Hotel and Spa has a staff of professional performers whose sole job is to provide nightly - _____ for the guests.
 (A) entertains
 (B) entertainers
 (C) entertained
 (D) entertainment
+
 127. Economic conditions in the country have not been _____ for Avatech to market a new computer tablet line, and so far sales have been mediocre.
 (A) optimize
 (B) optimal
 (C) optimally
 (D) optimization
+
 128. Financial advisors at Bishop Investment give _____ suggestions for saving money and planning budgets in everyday life.
 (A) construct
 (B) constructive
 (C) constructing
 (D) constructively
+
 129. The short-term student exchange program is open to _____ is presently enrolled in a full-time course at Gardner University.
 (A) all
 (B) every
 (C) whoever
 (D) many
+
 130. Mr. Benning seemed _____ calm when performing at the recital last evening, but later he mentioned having felt quite nervous.
 (A) hesitantly
 (B) outwardly
@@ -179,14 +209,17 @@ You are Cordially Invited Dogorail would like to invite its business associates 
 (B) upon
 (C) throughout
 (D) outside
+
 132. (A) Dogorail products will be unveiled to event invitees once he has finished.
 (B) He will be discussing the recent rail projects in Moldova, Bulgaria, and Greece.
 (C) Requests to use a meeting room at the event must be submitted in advance.
 (D) His special address has been arranged to begin at 9:00 a.m.
+
 133. (A) occupations
 (B) consultations
 (C) dominions
 (D) possessions
+
 134. (A) primarily
 (B) fluently
 (C) fully
@@ -200,14 +233,17 @@ April 28 The Missourian 438 East St. Louis Street Springfield, MO 65806 To the E
 (B) is reported
 (C) will report
 (D) will be reported
+
 136. (A) evaluations
 (B) acquisitions
 (C) assignments
 (D) negotiations
+
 137. (A) review
 (B) generate
 (C) perfect
 (D) monitor
+
 138. (A) We will be holding a press conference llll regarding the recent merger.
 (B) Midland Health Services will be closing its doors this month.
 (C) This will correct any misunderstanding caused by your earlier article.
@@ -221,14 +257,17 @@ To: Margo Sloane <msloane@bowenassociates.com> From: Jan Fitch <jfitch@bowenasso
 (B)takes
 (C) had taken
 (D) will take
+
 140. (A) dispatch
 (B) refund
 (C) process
 (D) cancel
+
 141. (A) to check
 (B) checking
 (C) checks
 (D) checked
+
 142. (A) Meanwhile, we will order the equipment from another supplier. v (B) As a result, we had no choice but to announce a new opening date.
 (C) Unfortunately, the items from Mr. Sampson will be delayed again.
 (D) In other words, we will be able to get what we need on time. <<MISSING>>
@@ -242,14 +281,19 @@ _____ Newly hired employees will be placed in positions best suited to their edu
 143. (A) delegated
 (B) devoted (0) outdated
 (D) confused
+
 144. (A) just
+
 144. (B) complete
 (C) equal
 (D) alike <<MISSING>>
+
 145. (A) provide the needed support. w (B) Pleasing our customers is just < the company's many goals. The number of employees on c
 (C) payroll is likely to decrease. There is an increasing need for
 (D) who have already had training.
+
 146. (A)
+
 146. (B)
 (C)
 (D) On the other hand <<MISSING>>
@@ -267,6 +311,7 @@ Please be informed that effective June 1, Mr. Matthew Webb will be replacing Mr.
 (B) To collect orders for office supplies
 (C) To inform staff about a manager's resignation
 (D) To notify employees about a change in personnel
+
 148. How should employees at Longview Holdings request new office supplies?
 (A) By filling out an online form
 (B) By calling an office extension
@@ -282,6 +327,7 @@ registered students assistance with editing their writing assignments for classe
 (B) To publicize the opening of an educational center
 (C) To explain the importance of written assignments
 (D) To promote various services offered at a facility
+
 150. What is NOT mentioned about the writing center?
 (A) It employs graduate students as tutors.
 (B) It is open seven days a week.
@@ -303,6 +349,7 @@ of cars. Should a problem arise, contact the park administration at 555-6103, wh
 (B) An off-leash area
 (C) A bike rental stand
 (D) A section for ball games
+
 152. According to the information, what are visitors urged to do?
 (A) Clean up after their pets
 (B) Return rented equipment
@@ -320,16 +367,19 @@ Hilda Jacobsen [9:37 a.m.] Larry, how's your schedule looking for the week? Anyt
 (B) He asked for an extension on a deadline.
 (C) He is working on plans for an interior.
 (D) He will be reassigned to a new project.
+
 154. What is true about Ms. Jacobsen?
 (A) She has finalized details on an office interior design.
 (B) She plans to meet with a Hanifan representative.
 (C) Her schedule was changed at the last minute.
 (D) She hopes to acquire Digitek as a new client.
+
 155. At 9:44 a.m., what does Mr. Boyd mean when he writes, "It's a deal"?
 (A) He is satisfied with the outcome of a business negotiation.
 (B) He knows a restaurant that serves food at low prices.
 (C) He consents to accompanying his colleague to a meeting.
 (D) He thinks that a client will benefit from a project's low cost.
+
 156. What will Mr, Boyd do after lunch on Wednesday?
 (A) Go home to research a project
 (B) Send an e-mail with project details
@@ -351,11 +401,13 @@ a
 (B) Business owners needing domestic delivery
 (C) Customers ordering items from US Web sites
 (D) Clients wishing to cut their shipping costs
+
 158. What is indicated about MyPost?
 (A) It has storage facilities in the US.
 (B) It has special arrangements with trucking companies.
 (C) It does not insure items under 500 grams.
 (D) It charges extra for parcels over three meters in length.
+
 159. What is stated about the services?
 (A) They are discounted for repeat customers.
 (B) They are priced according to weight and size.
@@ -373,6 +425,7 @@ Jessica Jang 9:27 I just got a message from a staff member in sales saying that 
 (B) He was unsuccessful in his attempts to contact a bank.
 (C) He is employed in the human resources department.
 (D) He has encountered the problem of late payment before.
+
 161. At 10:36, what does Ms. Hinkle mean when she writes, "I can do that"?
 (A) She will check whether a new software system was installed.
 (B) She will find out whether all the employees have been paid.
@@ -388,11 +441,13 @@ Report for City Council Executive SVIeeting, March 18 Options from the Planning 
 (B) Moving the expressway farther north
 (C) Repairing the damaged portions
 (D) Pulling down the elevated roadway
+
 163. What is suggested about the city's waterfront?
 (A) It has a highway running through the middle of it.
 (B) It experiences severe road congestion,
 (C) It has a low number of visitors.
 (D) It is being redeveloped by the city.
+
 164. What is mentioned about Greenville citizens?
 (A) They want more shops in the area.
 (B) They mostly drive to their workplaces.
@@ -410,11 +465,13 @@ Ms. Camden, This is about the two Lucia Simonetti designer handbags you ordered 
 (B) To ask for a preference for an order
 (C) To propose a new project
 (D) To schedule a business trip
+
 166. What is mentioned about Ms. Camden?
 (A) She ordered the wrong product from a catalog.
 (B) She purchased items on the Internet.
 (C) She asked for a refund two days ago.
 (D) She made a reservation by e-mail.
+
 167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "However, they informed us there could be a delay on account of a transport strike in Milan."
 (A) [1]
 (B) [2]
@@ -432,16 +489,19 @@ The BlackweU Maritime Museum in Fullerton will be holding an exhibition called T
 (B) To provide details about a history lecture
 (C) To invite people to the opening of a facility
 (D) To publicize a documentary film
+
 169. What is true about The Armitage?
 (A) It was a cargo vessel that sailed in the Pacific region.
 (B) It was a cruise ship built in Japan.
 (C) It sank for reasons that are unknown.
 (D) It underwent renovations to its facilities.
+
 170. The word "comprehensive" in paragraph 3, line 1, is closest in meaning to
 (A) logical
 (B) interpreted
 (C) legible
 (D) thorough
+
 171. What is mentioned about The Ocean King exhibition?
 (A) It will allow visitors to meet the crew of the ship.
 (B) It will include a video presentation on the ship's construction.
@@ -457,16 +517,19 @@ I Davenport Accounting — MEMORANDUM TO: All Staff FROM: Phillip Christensen As
 (B) To explain reasons for staff replacement
 (C) To communicate a change in work hours
 (D) To remind employees about a planned activity
+
 173. What is NOT indicated in the memo?
 (A) Some computers are less than five years old.
 (B) The equipment will be removed after Friday.
 (C) The office will receive some new printers.
 (D) Some staff will have to do overtime next week.
+
 174. According to Mr. Christensen, what are employees responsible for?
 (A) Installing programs
 (B) Scanning documents
 (C) Saving needed files
 (D) Scheduling work appointments
+
 175. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "You should already have received an e-mail concerning your request if it was approved."
 (A) [1]
 (B) [2]
@@ -522,21 +585,25 @@ Graham Worthington
 (B) Technical problems with a product
 (C) The acquisition of an automotive factory
 (D) Additional security features on cars
+
 177. Who would most likely visit the Generix Web site?
 (A) Customers wanting to schedule test drives
 (B) Drivers requesting further advice on model selection
 (C) Clients wishing to extend warranties
 (D) Owners of vehicles with possible safety issues
+
 178. According to the article, what did Davis Martino do?
 (A) Conducted an inspection
 (B) Gave a public speech
 (C) Worked on a vehicle design
 (D) Wrote a press release
+
 179. Why did Mr. Worthington contact Generix Motors?
 (A) To look into family-suitable automobiles
 (B) To inquire about a dealership
 (C) To verify some contact details
 (D) To point out a device error
+
 180. What is suggested about Mr. Worthington?
 (A) His vehicle requires a computer system update.
 (B) He has a warranty that covers repair costs.
@@ -558,16 +625,19 @@ What does Mr. Swords want Ms. Draper to
 (B) Designing entertaining Web sites
 (C) Promoting a corporate brand
 (D) Supplying event-related services
+
 182. What is suggested about Kevin Swords?
 (A) He has worked with Ms. Draper on previous projects.
 (B) He was not charged a fee for his session with Ms. Draper.
 (C) He plans to open additional bakery branches.
 (D) He has a supply partnership with Just-Ate.
+
 183. Who is Walter Preston?
 (A) An advertising consultant
 (B) A co-owner of PS Baked Goods
 (C) An ingredients supplier
 (D) A Shasta-Clear executive
+
 184. do?
 (A) Print out a list of produce
 (B) Schedule a complimentary consultation
@@ -591,21 +661,25 @@ TAILWIND AIRLINES Please allow up to 30 days for settlement. Name: Maggie Flower
 (B) To recover some items
 (C) To change a reservation
 (D) To complain about an attendant
+
 187. What does Mr. Russell ask Ms. Flowers to provide?
 (A) A copy of her passport
 (B) An airline boarding pass
 (C) A hotel reservation number
 (D) A car rental receipt
+
 188. In the second e-mail, the word "convey" in paragraph 2, line 2, is closest in meaning to
 (A) pick up
 (B) make known
 (C) take into consideration
 (D) take to another place
+
 189. What is indicated about passengers on the canceled flight?
 (A) They all took the next available flight.
 (B) Their hotel rooms cost over $135 each.
 (C) They all received their promised vouchers.
 (D) Their meals were paid for by the airline.
+
 190. What does the form indicate about Ms. Flowers?
 (A) She received extra membership rewards for her trouble.
 (B) She applied the voucher to a future flight.
@@ -627,11 +701,13 @@ Business Bulletin Singapore, June 11 - The Green Technology Association (GTA) re
 (B) A presentation on solar power
 (C) A special luncheon
 (D) A talk on the future of the industry What time did Dr. Aromdee most likely speak?
+
 194. In the article, the word "critical" in paragraph 1, line 3, is closest in meaning to
 (A) analytical
 (B) opinionated
 (C) disapproving
 (D) crucial
+
 195. What is indicated about David Mah?
 (A) He was contacted by a government group about a schedule.
 (B) He is a member of the GTA board of directors.
@@ -663,21 +739,25 @@ To answer your question, the reason your request was rejected is that the book y
 (B) Accessing library databases online
 (C) Extending loans using the Internet
 (D) Returning books after their due date
+
 197. What is NOT indicated about Westerburn Public Library?
 (A) Its books can be renewed for 14 days at a time.
 (B) It allows material to be reserved in advance.
 (C) Its late fees can be paid through online accounts.
 (D) Its policies may vary from those of other libraries.
+
 198. What is true about The Reign of King Jordaniusl
 (A) It is a part of a special collection.
 (B) Someone else made a request for it.
 (C) Another copy of it is available at a partner library.
 (D) Its sticker indicates renewal is forbidden.
+
 199. What is indicated in the Web Page?
 (A) Maya Teller's book may be returned to Westerburn Public Library.
 (B) The lending period of Highland Marsh Public Library is two weeks.
 (C) Ms. Terrance holds a special type of membership at her library.
 (D) The Science of Memory has been overdue for several days now.
+
 200. Which book has Ms. Terrance already renewed once?
 (A) The Science of Memory
 (B) A History of Medicinal Plants

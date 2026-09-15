@@ -273,6 +273,7 @@ Questions 62-64 refer to the following conversation with three speakers.
 `호주식 발음 → 미국식 발음 → 영국식 발음`
 M: I think I’m ready for a new cell phone. Do either of you have any recommendations?
 W1: My phone has worked out great—the ShockPhone
+
 20. It’s fast, and it has a modern design.
 M: I’ve heard that model’s great, but it’s out of my budget.
 W2: Mine’s a PlusTouch 50. It’s pretty basic, but it’s only $190.

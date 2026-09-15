@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -432,8 +438,11 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) A college lecturer
 (C) A public official
 (D) A lawyer
+
 92.
+
 93.
+
 94. Changing Rooms Aisle 1 Aisle Aisle Aisle 2 3 4 Main Entrance Checkout Area Who is the speaker most likely addressing?
 (A) Store customers
 (B) Marketing consultants

@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -200,7 +206,9 @@ Directions: In this part, you will listen to several conversations between two o
 (B) Distribute handouts to participants
 (C) Visit an administrator's office
 (D) Submit a curriculum outline
+
 53.
+
 54. Who most likely is the woman?
 (A) A supermarket manager
 (B) A restaurant owner
@@ -436,8 +444,11 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) An advertisement
 (C) A news report
 (D) An interview
+
 92.
+
 93.
+
 94. % Landville Plaza Directory Floor Department 1 Finance 2 Sales 3 Human Resources 4 Customer Service 5 Research and Development According to the speaker, what did the listener do yesterday?
 (A) Held interviews with applicants
 (B) Departed for a gathering

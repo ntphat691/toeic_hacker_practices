@@ -7,7 +7,9 @@ I TEST O3
 Self *l|a e|Ae
 S-»H Ell A e *j
 , ocHMiggiiL^H oo||
+
 2. Answer Sheet, n oj|
+
 3.A|7l|#^b|o^L|-o7 noii
 o- £H||BI^ODI [[itEj o Ei|XEt A|^L|LK
 ^11 #0® U\t\t A|^ AI^EI 70^ °e! _A| _^L|EK
@@ -25,151 +27,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 O parts w0! A|y
+
 101. Hanson Inc.'s marketing team _____ to finalize the television advertisement for the company's newest touch screen monitor.
 (A) assembling
 (B) assembled
 (C) to assemble
 (D) assembly
+
 102. The construction of a new subway line was aimed at _____ overcrowding during rush hour.
 (A) imposing
 (B) preparing
 (C) relieving
 (D) benefiting
+
 103. Ms. Bedford was chosen to represent Centraine because of her considerable in mergers and acquisitions.
 (A) experts
 (B) expertly
 (C) expert
 (D) expertise
+
 104. The wireless headset _____ by Smartcom's representative at the Fentwood Technology Trade Show will go on the market next month.
 (A) demonstrate
 (B) demonstrates
 (C) demonstrated
 (D) demonstrating
+
 105. Members who renew their newspaper subscription at least one month prior to its will receive a 5 percent discount.
 (A) opening
 (B) expiration
 (C) obligation
 (D) statement
+
 106. Lorasoft's customer service agents are instructed to handle minor requests before forwarding calls directly to the technical support team.
 (A) their
 (B) them
 (C) they
 (D) themselves
+
 107. The popularity of the daily television show, Celebrity Update, has declined _____ the years as entertainment news has become increasingly available online.
 (A) toward
 (B) until
 (C) as to
 (D) over
+
 108. Scientists employed by Fluent Pharmaceuticals spend most of their time medications to treat diabetes.
 (A) developing
 (B) practicing
 (C) depicting
 (D) signaling
+
 109. _____ who needs to access information on the corporate Web site must first obtain login credentials from the IT department.
 (A) Those
 (B) Anyone
 (C) Most
 (D) All
+
 110. Flintrock Manufacturing employees are required _____ a training program in equipment safety in order to operate heavy machinery on the job.
 (A) completing
 (B) complete
 (C) to complete
 (D) completely
+
 111. Had Mr. Shriver booked his vacation package further in advance, he a much lower price.
 (A) is being paid
 (B) would have paid
 (C) would have been paid
 (D) has paid
+
 112. Most of the conference participants arrived an hour ago, but the keynote speaker is on his way.
 (A) still
 (B) already
 (C) before
 (D) lately
+
 113. Research indicates that consumers are much more likely to purchase products from companies that show _____ for the environment.
 (A) compliance
 (B) designation
 (C) concern
 (D) diversity
+
 114. Mr. Reed made _____ to rent a car, as he planned to meet with several clients during his trip.
 (A) arranges
 (B) arranging
 (C) arranged
 (D) arrangements
+
 115. The latest version of the accounting software is not _____ with the operating system installed on the office computers.
 (A) rational
 (B) challenged
 (C) acquainted
 (D) compatible
+
 116. Automat CEO Sergei Rostov's speech on trends in the high-tech industry drew an audience consisting mostly of entrepreneurs.
 (A) aspiring
 (B) aspired
 (C) aspire
 (D) aspiration
+
 117. Since acquiring the land on Taylor Avenue five years ago, the proprietor _____ multiple offers from developers wishing to buy it.
 (A) had been receiving
 (B) will receive
 (C) has received
 (D) to receive
+
 118. BRE Manufacturing is unlikely to take chances on new names as _____ brands are more appealing to its target market.
 (A) familiar
 (B) proficient
 (C) sufficient
 (D) aggressive
+
 119. The cast was interviewed by the press the first performance of the play Father Simon.
 (A) rather
 (B) as soon as
 (C) following
 (D) between
+
 120. Ms. Morgan's _____ responsibility as the company's head of operations is to ensure that every department is running smoothly.
 (A) reputable
 (B) principal
 (C) ethical
 (D) efficient
+
 121. Home Choice is looking for suppliers who needs for its new line of kitchen appliances.
 (A) afford
 (B) affording
 (C) affordable
 (D) affordably
+
 122. Eastern Automotive is the largest producer in terms of annual profits.
 (A) within
 (B) behind
 (C) among
 (D) beyond
+
 123. The owner of White Pearl Restaurant has always found conducting regular surveys to be a _____ way of obtaining customer feedback.
 (A) reliant
 (B) reliability
 (C) reliable
 (D) relying
+
 124. _____ students have requested on-campus housing, they must wait at least a month for an official response.
 (A) Once
 (B) Then
 (C) Yet
 (D) During
+
 125. Mr. Trevors overcame the difficulty of speaking French by _____ improving his skills with regular practice.
 (A) gradually
 (B) respectively
 (C) intimately
 (D) haltingly
+
 126. Dong Suk Kim's promotion was approved after the sudden _____ of the company's chief executive officer,
 (A) gratitude
 (B) departure
 (C) routine
 (D) adjustment
+
 127. The _____ script for the novel of Winding Road will serve as a screenplay for the upcoming film.
 (A) adapt
 (B) adapted
 (C) adaptability
 (D) adaptively
+
 128. _____ the run-down parking lot, the rest of the building's facilities are in excellent condition.
 (A) Regarding
 (B) Namely
 (C) Other than
 (D) Or else
+
 129. Although there are numerous household cleaners being sold, many shoppers simply purchase _____ ones are being promoted.
 (A) when
 (B) what
 (C) whichever
 (D) which
+
 130. Providing senior managers with incentive-based compensation is a solution to their declining productivity,
 (A) variable
 (B) thriving
@@ -194,14 +226,17 @@ Virginia Payton Clarks Telecom
 (B) totally
 (C) totaling
 (D) totals
+
 132. (A) canceled
 (B) settled
 (C) insured
 (D) forgotten
+
 133. (A) This may affect when you start |||i| receiving high-speed service.
 (B) The money you owe will be paid on the scheduled date through this means.
 (C) We have sent a receipt confirming payment of the charges.
 (D) Your service will be restored once you send the amount that is due.
+
 134. (A) encourage
 (B) encouraging
 (C) are encouraged
@@ -215,14 +250,17 @@ Waterview Valley Ranch is the perfect place to take a horse-riding holiday. Disc
 (B) learns
 (C) learn
 (D) to learn
+
 136. (A) Even
 (B) Although
 (C) Only if
 (D) Whether
+
 137. (A) Our regularly scheduled guided tours have been overbooked.
 (B) This ensures your experience with us is both safe and satisfactory.
 (C) The livestock we raise is renowned for its exceptionally high quality,
 (D) Your horse-riding gear must meet the strict standards of the ranch.
+
 138. (A) switch
 (B) race
 (C) house
@@ -236,14 +274,17 @@ Important Announcement Beaumont Hall announces with _____ that the August 17 con
 (B) regret
 (C) regrettably
 (D) regretful
+
 140. (A) sponsor
 (B) evaluate
 (C) confirm
 (D) postpone
+
 141. (A) previous
 (B) formal
 (C) prompt
 (D)dependent
+
 142. (A) We can no longer offer group rates to lHll those without valid memberships.
 (B) We cannot combine this price reduction with any other special promotion or discount.
 (C) We are committed to starting each of our productions in a punctual manner.
@@ -261,14 +302,17 @@ Sincerely, Abraham Schlitz Rocheport Arts Center
 (B) crowded
 (C) widespread
 (D) promising
+
 144. (A) performances
 (B) publications
 (C) communications
 (D) competitions
+
 145. (A) With the right publicity, these poets will be able to become well known.
 (B) There are similarities between traditional and contemporary works.
 (C) Instead, they rely on expressive writing to address modern issues.
 (D) Many guests have much preferred the themes of our earlier recitals.
+
 146. (A) his
 (B) its
 (C) your
@@ -283,6 +327,7 @@ Are you letting high prices get in the way of your fitness goals? Everyone is ta
 (B) A discounted yoga course
 (C) An exercise equipment store
 (D) A series of fitness videos
+
 148. According to the advertisement, how can FlexiWorld Yoga offer reasonable prices?
 (A) It retails its merchandise solely online.
 (B) It buys its goods at a discount.
@@ -300,6 +345,7 @@ vl ] Our center seeks a dynamic individual to join its fundraising team at our m
 (B) To recruit a new employee
 (C) To announce a yearly event
 (D) To promote a new program
+
 150. What is mentioned about the center?
 (A) It has achieved its annual fundraising goal.
 (B) It allows its staff to attend exhibits for free.
@@ -317,6 +363,7 @@ Frank Cameron 2:2: 2:22 P.M. Have you heard when production on the new laptop wi
 (B) A factory was forced to shut down temporarily.
 (C) A new feature was recommended by sales representatives.
 (D) A store has decided to cancel its order of goods.
+
 152. At 2:31 p.m., what does Ms. Cohen mean
 (A) She thinks that too few units of an item will be produced.
 (B) She is doubtful that a recently released product will have high sales.
@@ -332,11 +379,13 @@ I | i I To: All TechBase Staff From: John Borges Subject: Speaking event Date: A
 (B) It works in conjunction with two firms.
 (C) It is a computer-related company.
 (D) It hired a new full-time marketing specialist.
+
 154. What will NOT be discussed during the talk?
 (A) Comprehending customer needs
 (B) Producing successful advertisements
 (C) Forming effective sales teams
 (D) Identifying product selling points
+
 155. What is true about the event?
 (A) It will take place at a rented venue.
 (B) Attendees will be given a copy of a book.
@@ -360,6 +409,7 @@ The forum will begin at 6:00 p.m. on Tuesday, July 1 0. It will be held at O cn 
 (B) To express worries about pedestrian safety
 (C) To invite participation in a public discussion
 (D) To solicit suggestions for the use of a space
+
 157. What is indicated about Joseph Coran?
 (A) He has questions about a building project.
 (B) He will facilitate a public forum.
@@ -377,11 +427,13 @@ Malaysia's Belajar University yesterday announced that it is beginning to build 
 (B) It is celebrating the 100th year since its establishment.
 (C) It has recently opened a new students' union building.
 (D) It has the highest entrance standards in the country.
+
 159. What is being built by the Malaysian government?
 (A) An employee training campus
 (B) A wider road to the capital
 (C) A fast railway connection
 (D) A residence for students
+
 160. What does Qing Weihai anticipate will happen?
 (A) A state will receive more foreign visitors.
 (B) A major road will be reopened to the public.
@@ -399,16 +451,19 @@ Dear Ms. Shah, I am pleased to tell you that Casper Publishing has come out with
 (B) To give feedback on a purchase
 (C) To inquire about a popular book
 (D) To promote a publication's release
+
 162. What is implied about QRC Bookstore?
 (A) It is owned by a former professor.
 (B) It sells all of its products online.
 (C) Its customers include university students.
 (D) Its products are discounted for teachers.
+
 163. How can Ms. Shah place a product order?
 (A) By submitting a form online
 (B) By mailing a document
 (C) By calling a phone number
 (D) By responding to an e-mail
+
 164. In which of the positions marked [1], [2], mSk [3], and [4] does the following sentence best belong? "These may be used in the classroom along with the extensive lesson plans found in each chapter."
 (A) [1]
 (B) [2]
@@ -424,16 +479,19 @@ Ool ^ Clara Dalton [2:01 P.M.] Good afternoon, everyone. As I'm sure you all hea
 (B) A local university
 (C) An advertising agency
 (D) A printing company
+
 166. When will the event be formally announced?
 (A) On Monday
 (B) On Tuesday
 (C) On Thursday
 (D) On Saturday
+
 167. At 2:20 p.m., what does Ms. Emerson mean when she writes, "what about Randall University"?
 (A) She thinks a school may be a good place to promote an event.
 (B) She believes that she will be able to recruit student volunteers,
 (C) She intends to have some posters printed out at a local college.
 (D) She would like to try displaying art at Randall University.
+
 168. What is NOT mentioned as a method of publicizing the opening?
 (A) Speaking at a university
 (B) Contacting previous visitors
@@ -453,11 +511,13 @@ Should you have any questions or concerns, please feel free to contact us at any
 (B) To describe some beneficial developments
 (C) To explain changes in bank regulations
 (D) To suggest switching to a newer product
+
 170. What is indicated about the Graduate Spender Credit Card?
 (A) It can only be applied for in person.
 (B) It has a lower annual fee than the Silver Spender.
 (C) It involves a lengthy approval process.
 (D) It offers interest-free installments for up to one year.
+
 171. In which of the positions marked [1], [2], best belong? "Other terms and conditions associated with your account will remain the same."
 (A) [1]
 (B) [2]
@@ -473,16 +533,19 @@ Health First Magazine April Edition Leading Fitness Trends Spring is always the 
 (B) The popularity of an exercise class
 (C) The release of workout products
 (D) The recall of a health equipment
+
 173. What is NOT mentioned about the RockRunner?
 (A) It makes use of recent technology.
 (B) It corresponds with map data.
 (C) It can be purchased in select locations
 (D) It allows users to feel as if they were jogging.
+
 174. The word "edge in paragraph 1, line 3, is closest in meaning to
 (A) approach
 (B) sharpness
 (C) advantage
 (D) threshold
+
 175. What is indicated about RockTech?
 (A) It sponsors an assortment of athletics competitions.
 (B) It will include a new feature in its upcoming products.
@@ -504,21 +567,25 @@ f Location Food Wines Station One - Spinach and cranberry salad White wine - Bla
 (B) A live band will entertain guests.
 (C) There is a deadline to reserve tickets.
 (D) It will take place throughout the weekend.
+
 177. In the invitation, the word "upscale" in paragraph 1, line 2, is closest in meaning to
 (A) eligible
 (B) exclusive
 (C) economical
 (D) excessive
+
 178. Why might guests visit the reception area?
 (A) To sample a salad with some red wine
 (B) To enter to win a bottle of wine
 (C) To pay for tickets to the fund-raiser
 (D) To check out items available for auction
+
 179. What is NOT indicated in the list?
 (A) Wines will be provided to diners at every station.
 (B) Guests will be served meals at their tables by staff.
 (C) Seafood dishes will be prepared in Station Three.
 (D) Guests will be able to enjoy hot beverages at Dessert Station.
+
 180. What can be inferred about the auction?
 (A) It will set the starting bids for available items,
 (B) Items there have been donated by SRA members.
@@ -542,21 +609,25 @@ Dear madam or sir, I would like to report an issue I had at the Newport County A
 (B) It will take place in a new section of the park.
 (C) It is not usually held during the summer.
 (D) It costs visitors extra to watch.
+
 182. What is mentioned about the winter menu?
 (A) It was designed by a well-known chef.
 (B) It was created upon the suggestion of visitors.
 (C) It will be available until December 4.
 (D) It will not be served in some park restaurants.
+
 183. Why was the e-mail written?
 (A) To suggest ways to improve service
 (B) To point out some safety concerns
 (C) To make a complaint about a situation
 (D) To get details about a roller coaster
+
 184. What is implied about Ms. Higson?
 (A) She was unable to see the fireworks.
 (B) She went to the park after October 1.
 (C) She plans to visit the zoo in December.
 (D) She lives in the same city as the park.
+
 185. What does Ms. Higson request?
 (A) A replacement ticket
 (B) A partial return of a payment
@@ -578,21 +649,25 @@ Tea Tree Eco-Resorts, Mayan Riviera We hope you enjoyed your stay with us. Pleas
 (B) It has built several resorts around the globe.
 (C) It posted details about a new branch on a Web site.
 (D) Its Mexican resort is the company's largest yet.
+
 187. In the notice, the word "spotting" in paragraph 2, line 2, is closest in meaning to
 (A) circling
 (B) pointing
 (C) observing
 (D) marking
+
 188. During which activity were guests served a regional specialty?
 (A) Sailboat tour
 (B) Visit to wildlife park
 (C) Tour of ancient Mayan city
 (D) Beach party
+
 189. What does Mr. O'Neil mention about the Mayan Riviera hotel?
 (A) It cancelled several planned daily activities.
 (B) It was fully booked during his recent stay.
 (C) It offered satisfactory levels of cleanliness.
 (D) It needed improvement in regard to meal service.
+
 190. What can be inferred about Mr. O'Neil?
 (A) He had an unpleasant experience on a boat trip.
 (B) He and his wife saw some wild animals.
@@ -616,21 +691,25 @@ mmmii Florence Ingram COMPANY (If applicable) Homestead Properties Inc. NAME PHO
 (B) To turn down an offer for an executive job
 (C) To notify an executive of a contract extension
 (D) To request some time off for personal reasons
+
 192. According to the e-mail, what will Ms. Ingram be offered?
 (A) A printed invitation for a party
 (B) A monetary incentive
 (C) A complimentary meal
 (D) A copy of an agreement
+
 193. What did Ms. Montessori ask Ms. Ingram to do?
 (A) Arrange a corporate awards ceremony
 (B) Plan a retirement celebration
 (C) Purchase a gift for an employee
 (D) Recruit volunteers to decorate a venue
+
 194. What can be inferred about Ms. Ingram?
 (A) She reserved two rooms for the event.
 (B) She invited fewer guests than expected.
 (C) She needs to submit a deposit to the venue soon.
 (D) She booked an event venue under budget.
+
 195. What has Ms. Ingram requested from the Grand-Mont Hotel?
 (A) An invoice for the total cost
 (B) Some recommendations for menus
@@ -654,21 +733,25 @@ NOTICE: All Tenants Tanner Hill Condominiums' underground parking facility will 
 (B) A parking spot
 (C) Maintenance costs
 (D) Electricity charges
+
 197. What is implied about Mr. Kaplan?
 (A) FHe should pay the rent by bank transfer.
 (B) He must renew a contract after one year.
 (C) He will not be refunded a deposit,
 (D) He can move into a unit from August 30.
+
 198. Who is Miranda Chase?
 (A) The owner of a residential unit
 (B) A representative of a real estate agency
 (C) The administrator of Portsmouth Residential Towers
 (D) A tenant of a Mapleton Street apartment
+
 199. What will Mr, Kaplan probably have to do on May 29?
 (A) Park his vehicle at the DownTown Parkade
 (B) Move his belongings into an apartment
 (C) Meet with a landlord to sign an agreement
 (D) Purchase a pass at a ticketing office
+
 200. What is indicated about Tanner Hill Condominiums?
 (A) It currently has no vacant units.
 (B) It charges monthly fees for parking.

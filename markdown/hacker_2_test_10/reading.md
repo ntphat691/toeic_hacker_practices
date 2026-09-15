@@ -8,151 +8,180 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. High-end goods sold at Barton Jewelry are rarely offered at a discount, although a few items are _____ marked down for clearance.
 (A) occasionally
 (B) externally
 (C) previously
 (D) initially
+
 102. ---- — tests must be done on all medications before they are offered for use by the general public.
 (A) Rigorous
 (B) Rigorousness
 (C) Rigor
 (D) Rigorously
+
 103. After Jennifer Barnes _____ completed her commercial driver's license application, she was able to drive a delivery truck,
 (A) successful
 (B) succeeded
 (C) succeeding
 (D) successfully
+
 104. Magnum Airlines began expanding its service five years ago and now several daily flights throughout Eastern Europe.
 (A) categorizes
 (B) operates
-(D) multiplies
-<<MISSING>>
+(D) multiplies <<MISSING>>
+
 105. The train for Somerville _____ on schedule tomorrow even though bad weather is expected.
 (A) left
 (B) leaving
 (C) will leave
 (D) has left
+
 106. Employees may not use the hotel's main entrance and must pass _____ a side door located near the back of the building.
 (A) over
 (B) to
 (C) of
 (D) through
+
 107. Worker evaluation forms should be submitted to Ann James in the personnel department _____ the week.
 (A) due to
 (B) within
 (C) now that
 (D) between
+
 108. Management may offer permanent positions to some of the employees ~ as temporary staff on the last project.
 (A) hire
 (B) hires
 (C) hired
 (D) hiring
+
 109. Pacific Cable News did not proceed with acquiring a rival network when its shareholders expressed _____ to the plan.
 (A) oppose
 (B) opposed
 (C) opposingly
 (D) opposition
+
 110. The employee handbook states the human resources director is _____ for reviewing job applications.
 (A) reasonable
 (B) genuine
 (C) responsible
 (D) applicable
+
 111. Visitors to Vedan Mountain are attracted by its remote location, which is _____ 25 miles away from the nearest city.
 (A) approximate
 (B) approximating
 (C) approximation
 (D) approximately
+
 112. Additional doctors will be assigned to the Operham medical _____ next month to help run a new rehabilitation wing.
 (A) territory
 (B) facility
 (C) exercise
 (D) discussion
+
 113. Since the cost of materials in Malaysia is relatively _____ , Ms. Amarna decided to establish her factory there.
 (A) affordable
 (B) logical
 (C) potential
 (D) induced
+
 114. The central terminal's current ticketing counters will _____ be replaced by automatic machines.
 (A) gradually
 (B) comparatively
 (C) tragically
 (D) expectantly
+
 115. Freidrich Clinic keeps all medical details completely _____ and does not release records to any third party without prior consent.
 (A) confident
 (B) confidentially
 (C) confidentiality
 (D) confidential
+
 116. There was _____ any merchandise left at the end of Vanita Apparel's popular annual coat sale this year.
 (A) loosely
 (B) hardly
 (C) mostly
 (D) extremely
+
 117. _____ Paris is one of the world's most popular tourist destinations is unsurprising since it has so much amazing art and culture.
 (A) In light of
 (B) The fact that
 (C) In keeping with
 (D) Under the condition that
+
 118. Hooper Incorporated is _____ its internal management structure in order to improve communication among departments.
 (A) recalling
 (B) representing
 (C) reorganizing
 (D) returning
+
 119. The examination for the Ministry of Foreign Affairs this year was _____ a difficult test that only 10 percent of the test takers passed.
 (A) how
 (B) such
 (C) so
 (D) else
+
 120. Critically ill patients requiring constant must be confined in the hospital's intensive care unit on the second floor of the building.
 (A) observes
 (B) observant
 (C) observe
 (D) observation
+
 121. Students may make a _____ for a transfer to a different department of study but must provide the school's dean of admissions with a valid reason.
 (A) distinction
 (B) request
 (C) formation
 (D) concern
+
 122. Starting next month, Alouette's chief accountant _____ all requests for cash expenditures of $1,000 or more.
 (A) approved
 (B) has approved
 (C) has to approve
 (D) will be approved
+
 123. Bedford Airlines and the Concord Hotel chain have a partnership with _____ and sell holiday packages to a variety of global destinations.
 (A) no
 (B) each other
 (C) other
 (D) even
+
 124. According to a report on work practices, people today spend _____ hours at the office than they ever did before.
 (A) longest
 (B) length
 (C) longer
 (D) lengthen
+
 125. Questions about Nedester televisions and products can be directed to the company through their Web page.
 (A) related
 (B) relation
 (C) relate
 (D) relatively
+
 126. Envelopes must be properly sealed dropping them into the mailbox, as the post office is not accountable for lost documents.
 (A) among
 (B) before
 (C) beside
 (D) while
+
 127. Speed-Ex Electronics was asked to make certain that all equipment for the new branch _____ by the end of June.
 (A) will deliver
 (B) is delivered
 (C) delivering
 (D) deliver
+
 128. The editors of The Pine Journal go through all the articles before printing to check for errors and factual
 (A) investigations
 (B) installments
 (C) discrepancies
 (D) gratuities
+
 129. The city has plans to _____ local parks by planting more trees and flowers to make the areas look nicer.
 (A) certify
 (B) officiate
 (C) revitalize
 (D) aggregate
+
 130. After working for many years as a police officer, Paul Stone _____ his career experience to start up a personal security company for high-profile executives.
 (A) kept after
 (B) followed up
@@ -167,14 +196,17 @@ Attention residents of Sudbury: A neighborhood gathering _____ at the community 
 (B) will take place
 (C) has taken place
 (D) to take place
+
 132. (A) increase
 (B) prohibition
 (C) advance
 (D)exchange
+
 133. (A) We appreciate your having taken the time to express your opinions.
 (B) You may familiarize yourself with these issues on our Web site.
 (C) It is our decision to provide alternative routes for those using the street.
 (D) Your decisions have made our community a better place to live in.
+
 134. (A) punctuality
 (B) punctual
 (C) punctualities
@@ -188,13 +220,16 @@ To: Denise Brooks <dbrooks@atland.com> From: Nelson Lee <nlee@atland.com> Subjec
 (B) proposed
 (C) proposal
 (D) prepositional
+
 136. (A) Please make sure that the final draft is thing in the morning.
 (C) They are unwilling to agree to the deal unless we revise it.
 (D) I haven't had the time to add these notes into the electronic file. <<MISSING>>
+
 137. (A) Though
 (B) Whoever
 (C) Whether
 (D) Unless
+
 138. (A) developer
 (B)vendor
 (C) supplier
@@ -208,14 +243,17 @@ James Gretsky Mythos Computers, Customer Inquiries Department 1511 South Lowell 
 (B) unhelpful
 (C) enthusiastic
 (D) supportive
+
 140. (A) visibly
 (B) partially
 (C) plausibly
 (D) immediately
+
 141. (A) He told me he would have to direct my call to his supervisor.
 (B) He suggested I let their technicians take a look at it as soon as possible.
 (C) It is not the responsibility of the manufacturer to detect technical flaws.
 (D) He highly recommended that I visit a local branch to get it repaired.
+
 142. (A) receives
 (B) will be receiving
 (C) have received
@@ -229,14 +267,18 @@ Seattle New Light Nursing Home We're Here to Help Many elderly people find thems
 (B) distant
 (C) distancing
 (D) distantly
+
 144. (A) recommend
 (B) maintain
 (C) require
 (D) evaluate
+
 145. (A) s their quality of life. W(B) Our center is located far f hectic urban landscape. Families may also consid (0) types of physical therapy. Some of our patients are
 (D) to leave the facility.
+
 146. (A)
 (B)
+
 146. (C)
 (D) <<MISSING>> <<MISSING>>
 
@@ -251,6 +293,7 @@ Dear Mr. Montaigne, I cannot thank you enough for assisting me with my checking 
 (B) To explain a problem with an online service
 (C) To request a transfer of funds
 (D) To report the possibility of a security threat
+
 148. What does Ms. Herald require from Burgundy Capital?
 (A) A security code
 (B) A banking card
@@ -268,6 +311,7 @@ Mitchell Roach [11:27 a.M.] Hi, Jillian, are you free for lunch this week? 'd li
 (B) Brighton Industrials
 (C) Cromwell Holdings
 (D) Astoria Enterprises
+
 150. At 11:34 a.m., what does Mr. Roach mean when he writes, "That's perfect for me as well"?
 (A) A lunchtime meeting fits into his schedule.
 (B) A case can be dealt with right away.
@@ -287,6 +331,7 @@ Day 1: April 23
 (B) Ming Chao
 (C) Gwen Carter
 (D) Padma Singh
+
 152. What is suggested about the conference?
 (A) It includes a social event in the evening.
 (B) It continues for a second day.
@@ -304,6 +349,7 @@ Telecommuting employees are eligible for a number of deductions that can be appl
 (B) An equipment manual
 (C) An employee handbook
 (D) An insurance policy
+
 154. What is indicated in the information?
 (A) Some expensive items require special permission to buy.
 (B) Call records may be needed to subtract some charges.
@@ -321,11 +367,13 @@ Dear Ms. Brunelli, We recently received your e-mail regarding tutoring for your 
 (B) To request additional details about a client
 (C) To describe career options for a student
 (D) To offer information regarding a service
+
 156. Where do Ms. Gatineau's tutoring sessions take place?
 (A) In the student's house
 (B) In an office in downtown Edmonton
 (C) At the student's school
 (D) At the University of Eastern Canada
+
 157. What will Mr. Harcourt be discussing in the future?
 (A) Grading systems
 (B) Class schedules
@@ -343,11 +391,13 @@ Spanning a career of more than three decades, the work of award-winning artist A
 (B) It will last for one week.
 (C) It was paid for by the Ministry of Culture.
 (D) It is free for DAFA instructors.
+
 159. What is mentioned about Annie O'Dell?
 (A) She is a staff member at the DAFA.
 (B) She will present awards to art students.
 (C) She is exhibiting her pieces for the first time.
 (D) She has worked as an artist for many years.
+
 160. What is NOT an event scheduled for the exhibition?
 (A) Tours of the exhibit
 (B) A movie screening
@@ -363,11 +413,13 @@ WOTICE This is a notice to everyone at GlobalFerm that the cafeteria on the sixt
 (B) To clarify a policy concerning lunch breaks
 (C) To inform employees of survey results
 (D) To apprise staff of a pending renovation
+
 162. Where can employees check food options?
 (A) In the lobby of the Superion Building
 (B) Next to the cafeteria's main entrance
 (C) On a bulletin board on the sixth floor
 (D) On the company's intranet site
+
 163. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "We agree with you that it is necessary to offer a variety of meal options to suit everyone."
 (A) [1]
 (B) [2]
@@ -383,16 +435,19 @@ First Global Expands Further December 28 Electronics giant First Global, which m
 (B) To report on sales of mobile phones
 (C) To profile the goals of a CEO
 (D) To announce plans for a new facility
+
 165. How does First Global plan to finance its newest project?
 (A) By selling company shares
 (B) By bringing in a partner
 (C) By increasing its line of credit
 (D) By relying on past profits
+
 166. What does the article suggest about First Global?
 (A) Factory working conditions are below standards.
 (B) Manufacturing will not grow as much as expected.
 (C) Smartphone manufacturers buy their products.
 (D) Expanding into Asia will be a new experience for them.
+
 167. In which of the positions marked [1], [2], llll [3], and [4] does the following sentence best belong? "This increase in output will help the company keep up with the strong demand for smartphones."
 (A) [1]
 (B) [2]
@@ -410,16 +465,19 @@ Send
 (B) Products to feature in a special promotion
 (C) Images for a retail site taken by a professional
 (D) Types of models to hire for an upcoming photoshoot
+
 169. At 1:38, what does Ms. Swenson mean when she writes, "give him another shot at it"?
 (A) She may hire Mr. Blake to develop an online shop.
 (B) She will ask a photographer to retake some sample pictures.
 (C) She may use the photos sent to her e-mail account.
 (D) She will try to make a reservation at an establishment.
+
 170. What is true about Ms. Swenson?
 (A) She manages sales at a home accessory store.
 (B) She also thinks that models should be used.
 (C) She has contacted other freelance photographers.
 (D) She wants to make a retail store more comfortable.
+
 171. What most likely is Ms. Orbison's job?
 (A) Payment system developer
 (B) Corporate image consultant
@@ -439,6 +497,7 @@ Why did Ms. Andrews write the e-mail?
 (B) She will be speaking at a conference there.
 (C) It is located close to her office.
 (D) She wants to try a new restaurant.
+
 175. What information does Ms. Andrews require of Mr. Pinkerton?
 (A) A seat assignment
 (B) A contact number
@@ -456,21 +515,25 @@ TO: Rachel Lamington <raclam@lamingtonranch.co.nz> FROM: Darius Carver <dcarver@
 (B) Renting out some land
 (C) Taking on employees
 (D) Applying for a bank loan
+
 177. What does the article say about Lamington Ranch?
 (A) It has changed ownership on numerous occasions.
 (B) It was inspired by a similar community in another country.
 (C) It is used exclusively for raising agricultural animals.
 (D) It is completely environmentally friendly.
+
 178. Why was the e-mail written?
 (A) To request a subscription renewal
 (B) To ask for an in person meeting
 (C) To point out a mistake in an article
 (D) To express interest in joining a cooperative
+
 179. What does Mr. Carver indicate about the Lamingtons?
 (A) They have motivated him to start a business.
 (B) They have become quite popular in Israel.
 (C) They could benefit from some free publicity.
 (D) They receive many offers of investment.
+
 180. What will Mr. Carver most likely do if his request is granted?
 (A) Hire a photographer
 (B) Visit Masterton
@@ -490,21 +553,25 @@ The Career Development Center Sunfield State University The Career Development C
 (B) To outline the details of a program
 (C) To identify needs for a luncheon
 (D) To discuss an upcoming lecture
+
 182. In the e-mail, the word "Since" in paragraph 2, line 2, is closest in meaning to
 (A) Although
 (B) Because
 (C) Even if
 (D) So that
+
 183. According to the e-mail, what should Mr. Flores do with his emergency information?
 (A) Write it down in a list on his desk
 (B) Save it in his cell phone
 (C) Create a memo on his tablet
 (D) Distribute it among family members
+
 184. Who is welcome to visit the Career Development Center?
 (A) Professionals in the field of human resources
 (B) Employed and retired adults
 (C) University students looking for jobs
 (D) Faculty members seeking a promotion
+
 185. What is indicated about Mr. Flores?
 (A) He will assist Dr. Rhodes with her lecture.
 (B) He has a lunch meeting in Durgan Hall
@@ -526,21 +593,25 @@ CAPITOL BANK LOAN APPLICATION Date: October 10 Applicant Information Applicant's
 (B) Discuss financing for small businesses
 (C) Give a talk on matters pertaining to law
 (D) Lead a discussion on attracting customer
+
 187. What is true about the Business 101 seminar?
 (A) It includes an activity led by a sponsoring organization.
 (B) It is exclusively for members of a business association.
 (C) It will be held at a group's headquarters in Pittsburgh.
 (D) It will allow companies to recruit new staff.
+
 188. What is mentioned about Mr. Ashley?
 (A) He has attended PBA events in the past.
 (B) He is familiar with the subject of a seminar.
 (C) He has been in the banking industry for decades.
 (D) He plans to distribute promotional material.
+
 189. What can be inferred about Ms. Castle?
 (A) She employs over two dozen staff members.
 (B) Her store is expanding to a second location.
 (C) She plans to hold classes at her establishment.
 (D) Her estimated expenses exceed her requested loan amount.
+
 190. What is suggested about Ms. Castle's loan application?
 (A) It is missing some required information.
 (B) It will be evaluated by Mr. Ashley.
@@ -562,21 +633,25 @@ Fashion Guide Magazine LA Scene By Beth Rowlands As always, the Meredith Fashion
 (B) It includes a meal for participants.
 (C) It coincides with the launch of a brand.
 (D) It charges visitors a fee to gain entrance.
+
 192. What does Ms. Cruise say that she appreciates about the event?
 (A) Profits from it will go toward helping aspiring designers.
 (B) It will help amateur photographers gain some much-needed publicity.
 (C) She will not have to bring her own equipment to it.
 (D) It will provide her with an opportunity to display some work.
+
 193. Why does Ms. Cruise want to set up a booth?
 (A) To interview a potential assistant
 (B) To register arriving guests
 (C) To get a chance to recover some costs
 (D) To have an area for taking short breaks
+
 194. What is true about Melvin Lee?
 (A) He provided entertainment for an event.
 (B) He teaches a class in fashion at MFI.
 (C) He attended the same school as Ms. Rowlands.
 (D) He has helped style models for a magazine.
+
 195. What does Ms. Rowlands mention about the fashions featured at MFI's event?
 (A) They are more colorful than those of previous seasons.
 (B) They hardly reflected the chosen theme of an event.
@@ -600,21 +675,25 @@ and the information is there. So, I would like the system to be changed to the o
 (B) They install fire alarms in clients' homes.
 (C) They adhere to standards set by the city.
 (D) They provide their services in several states.
+
 197. In the advertisement, the word "executed" in paragraph 1, line 4, is closest in meaning to
 (A) expected
 (B) measured
 (C) completed
 (D) selected
+
 198. What is suggested about the sprinklers Ms. Pierce wants in the lobby?
 (A) They are more expensive than most other systems.
 (B) They will replace older versions of the same type.
 (C) They must be specially ordered by PFS from a supplier.
 (D) They are not as likely to activate unintentionally. □ 0j| no\L\o □ 0j| \J0\L\2. □ OH DOl-Llo □ Oil nopLlo
+
 199. Which system did PFS install in the spa lobby?
 (A) Pre-action
 (B) Wet pipe
 (C) Dry pipe
 (D) Deluge
+
 200. What is Ms. Pierce entitled to?
 (A) A coupon for a free sprinkler
 (B) A full refund on one system

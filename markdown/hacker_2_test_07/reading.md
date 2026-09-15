@@ -5,8 +5,11 @@ Part 6 HI
 Part 7
 Self *113. ELIAM
 xwh E1| A E g Shoui-oj-
+
 1. 2SI°I vm s^a? □ oil
+
 2. Answer Sheet, 21, □ Oil
+
 3.A|7l|lgU|o^L|o? QOH
 SSgapl-aeElojont SH s [C|Sl#El|AElA|W°fL|Lh
 £*11 Mm ar=t|^ Apjg A|^E| 70^ _A| _MlL|Ch
@@ -23,151 +26,181 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. Please note that this establishment implements a time limit of 14 days for non-defective and unopened purchases.
 (A) return
 (B) returning
 (C) returns
 (D) returned
+
 102. No special seating arrangement was made for the seminar participants, but as arrive, attendants will show them to the available seats.
 (A) these
 (B) they
 (C) their
 (D) them
+
 103. Human resources will periodically ——- employees to determine if they are meeting the company's performance standards.
 (A) legitimize
 (B) register
 (C) evaluate
 (D) coordinate
+
 104. Having studied South America for several decades, Professor Hartley _____ the pre-eminent authority on its civilizations.
 (A) is considered
 (B) considering
 (C) consideration
 (D) considers
+
 105. The espresso machine comes with an easily _____ nozzle that allows users to control the amount of coffee dispensed.
 (A) adjust
 (B) adjusts
 (C) adjustable
 (D) to adjust
+
 106. _____ the new payment method postponed the pay date, the employees appreciate the benefits of the new system.
 (A) Because
 (B) Despite
 (C) Although
 (D) Perhaps
+
 107. _____ hearing the fire alarm, the students evacuated the building via the nearest exit.
 (A) Upon
 (B) From
 (C) Within
 (D) Besides
+
 108. Citizens expressed their _____ for the mayor, who helped the city become financially solvent after 10 years of being heavily in debt.
 (A) appreciation
 (B) applause
 (C) responsibility
 (D) reluctance
+
 109. Long Road Truck Rental posted an announcement stating that it _____ - employees to wear jeans with company shirts beginning on April 2.
 (A) allow
 (B) would allow
 (C) is allowed
 (D) were allowing
+
 110. With _____ information available on the terrain, the hikers hired a personal guide in order to ensure their safety.
 (A) few
 (B) little
 (C) most
 (D) this
+
 111. Ms. Latta usually uses her car to get to work, but she finds it simpler to commute via bus than _____ with city traffic.
 (A) deals
 (B) to deal
 (C) is dealing
 (D) has been dealing
+
 112. The program for the charity concert is and subject to change depending on the availability of performers.
 (A) exempt
 (B) privileged
 (C) tentative
 (D) finalized
+
 113. Following the retirement of popular video game company PB Play's founder, long-serving executive Robert Crane was president of the firm.
 (A) appointed
 (B) affiliated
 (C) resigned
 (D) consented
+
 114. _____ temperatures are expected to drop during the day, it might be wise to bring a warm winter coat.
 (A) Unless
 (B) Given that
 (C) Except for
 (D) As well as
+
 115. Mr. Powers informed a customer that the special security service was not customizable, but that the payment terms were
 (A) negotiable
 (B) probable
 (C) knowledgeable
 (D) profitable
+
 116. MevTech representatives _____ arranged a press conference in order to address the sudden surge in customer complaints regarding their products.
 (A) greatly
 (B) noticeably
 (C) severely
 (D) hastily
+
 117. _____ speculation that Whitmore Incorporated was in talks to merge with Busch & Hawley, stock prices for both companies began rising.
 (A) Amid
 (B) Abroad
 (C) Atop
 (D) Across
+
 118. Mr. Barton received a notice for an unpaid electricity bill and was asked to pay immediately to ensure _____ of the service.
 (A) application
 (B) continuation
 (C) origination
 (D) celebration
+
 119. The company Web site recently underwent significant changes, making _____ who logged on confused by the modifications.
 (A) all
 (B) either
 (C) more
 (D) none
+
 120. Mr. Simmons is _____ in charge of keeping financial records, but he also takes care of other minor duties.
 (A) steeply
 (B) shortly
 (C) mainly
 (D) affordably
+
 121. After closely inspecting the antique cabinet alongside the reproduction, the dealer could identify the _____ characteristics of each.
 (A) distinguished
 (B) distinguishing
 (C) distinguishes
 (D) distinguish
+
 122. The CEO _____ resisted appeals from investors to expand the business, but he has since changed his mind.
 (A) accordingly
 (B) exactly
 (C) ultimately
 (D) initially
+
 123. Ms. Muncy prefers investing in bonds and mutual funds rather than facing the daily of individual stocks.
 (A) pronunciations
 (B) fluctuations
 (C) experimentations
 (D) installations
+
 124. Sports commentators have been guessing of the weaker teams in the league will still be eligible to participate.
 (A) what
 (B) which
 (C) that
 (D) whose
+
 125. Crime rates have decreased considerably, thanks in part to the establishment of hotlines that people can use to ——- report suspicious behavior.
 (A) anonymously
 (B) anonymity
 (C) anonymousness
 (D) anonymous
+
 126. _____ letting recyclable materials at the office go to waste, the Colton Company brings them to a local recycling center.
 (A) After
 (B) Nevertheless
 (C) Instead of
 (D) Not only
+
 127. For the directors' luncheon, the administrative department reserved a room away from the main dining area to discuss sensitive issues.
 (A) relevant
 (B) crowded
 (C) decorated
 (D) private
+
 128. Dr. Marcus spoke _____ the allotted 30 minutes, leaving no time for questions after his speech.
 (A) beyond
 (B) about
 (C) under
 (D) around
+
 129. The Nigel Art Gallery was small relative to well-known museums, but its sculptures were ——- among the best in the world.
 (A) arguable
 (B) arguably
 (C) argument
 (D) argues
+
 130. In an attempt to make its products immediately _____ , the company worked with a top advertising agency on an eye-catching logo.
 (A) identifiable
 (B) identifying
@@ -182,14 +215,17 @@ To: All Staff From: Stephanie Johnstone Subject: Mr. Kaur's retirement Hello eve
 (B) over
 (C) upward
 (D) onward
+
 132. (A) has begun
 (B) will begin
 (C) will have begun
 (D) began
+
 133. (A) We will then ask Mr. Kaur to put off his retirement for a year.
 (B) Our employees will be expected to remain loyal to the company.
 (C) A board member will then present a loyalty award to Mr. Kaur.
 (D) The office staff should say whether they can attend the ceremony.
+
 134. (A) circulate
 (B) retrieve
 (C) determine
@@ -203,14 +239,17 @@ March 5 Jeanie Handa 837 River Ridge Street St. Louis, MO 63115 Dear Ms. Handa, 
 (B) achievement
 (C) development
 (D) promotion
+
 136. (A) You might lose more money it you don't take action now.
 (B) Accordingly, there are better jobs available in other larger companies.
 (C) We may have to meet at another time as I have some obligations.
 (D) It may be time to reconsider your investment strategy, however.
+
 137. (A) increased
 (B) to increase
 (C) increase
 (D) increases
+
 138. (A) prestige
 (B) order
 (C) degree
@@ -224,14 +263,17 @@ March 31 Annika Dahl 7898 Forest Road Boulder, CO 80301 Dear Ms. Dahl, Thank you
 (B) We are delighted with your generous donation to the hospital.
 (C) At High Point Medical, we always strive to meet the needs of each patient.
 (D) Our records show that you have been missing your appointments.
+
 140. (A) rates
 (B) rating
 (C) is rated
 (D) to rate
+
 141. (A) to include
 (B) include
 (C) included
 (D) inclusion
+
 142. (A) Likewise
 (B) In other words
 (C) Nonetheless
@@ -245,14 +287,18 @@ The GizmoTech Technology Showcase will be held at Somerset Hall on Friday, Octob
 (B) within
 (C) following
 (D) into
+
 144. (A) daily
 (B) lately
 (C) normally
 (D) readily
+
 145. (A) Best of all, they will be given priority status to buy the phone. ^ (B) GizPhone Golds will likely hit shelves a month after the product launch.
 (C) Their products will be sold at marked-down prices to all customers.
 (D) In fact, the company's other products sold remarkably well this year.
+
 146. (A) get
+
 146. (B) getting
 (C) gotten
 (D) got <<MISSING>>
@@ -268,6 +314,7 @@ Head of Accounts
 (B) He changed addresses.
 (C) He lost a student discount.
 (D) He was dissatisfied with a service.
+
 148. Who will be signing the form?
 (A) Wendy Shore
 (B) Darius Jackson
@@ -283,6 +330,7 @@ Hilltop Spa and Wellness Center 1141 Oak Street, Hillsborough, OR 97123 August 1
 (B) Analyze inventory levels
 (C) Produce sales data
 (D) Create custom invoices
+
 150. What is suggested about Hilltop Spa and Wellness Center?
 (A) It is open seven days a week.
 (B) It manufactures its own line of products.
@@ -300,11 +348,13 @@ Floor Representative 2nd Fleather Greenstone 3rd Roxanne Laddington 4th Elissa F
 (B) To clarify manager names by floor
 (C) To announce meeting regulations
 (D) To notify employees of room changes
+
 152. What is NOT indicated about the floor representatives?
 (A) One of them is the contact for scheduling system questions.
 (B) None of them are responsible for the 6th floor.
 (C) Only one of them is assigned to two floors.
 (D) All of them can be contacted for room changes by floor.
+
 153. What is suggested about the meeting rooms?
 (A) They can be reserved by calling representatives directly.
 (B) The hours for some of them have been extended.
@@ -322,6 +372,7 @@ Dorothy Lee [4:15] You're the intern in charge of booking Mr. Parker's flight to
 (B) He received two different sets of instructions.
 (C) He was busy with another assignment.
 (D) He misunderstood what he was supposed to do.
+
 155. At 4:29, what does Ms. Lee mean when she writes, "Don't bother"?
 (A) She wants Mr. Harter to cancel a reservation.
 (B) She does not want to disturb Mr. Parker while he is busy.
@@ -337,6 +388,7 @@ The Hyperbar is a Futuristic Solution to a Present-day Problem By Gregory Diehl 
 (B) It may produce more electricity than is needed for water purification.
 (C) It can charge up to 750 mobile devices at a time.
 (D) It has the potential to benefit entrepreneurs.
+
 157. What does Chaoji International plan to do within the year?
 (A) Establish partnerships with various governments
 (B) Start construction of over a thousand more machines
@@ -354,11 +406,13 @@ Hello all Ellis and Ellis Consulting staff, As you know, I've been trying to fin
 (B) It specializes in designing Web sites.
 (C) It recently released an annual report.
 (D) It has unnecessary expenditures on graphic design.
+
 159. What does Mr. Rogerson want to do?
 (A) Hire graphic designers as permanent employees
 (B) Get ideas from staff about some survey questions
 (C) Reduce the company's reliance on outside help
 (D) Boost employees' interest in a skill-building class
+
 160. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "Going through them, a couple of trends
 (A) [1]
 (B) [2]
@@ -376,11 +430,13 @@ This is a reminder that through this Friday, the school will be operating under 
 (B) School for the day will be over before 1 P.M.
 (C) Classes are finishing early because of the holidays.
 (D) Students may stay for after-school programs all week.
+
 162. How can students buy books at the fair?
 (A) By completing a document beforehand
 (B) By contacting the teacher in charge
 (C) By checking off items in a booklet
 (D) By sending a list to an e-mail address
+
 163. What is indicated about books on the winter reading lists?
 (A) Students will be tested on them.
 (B) They vary according to grade level,
@@ -398,16 +454,19 @@ Send
 (B) She cannot remember her account balance.
 (C) She does not have access to some information.
 (D) She discovered an issue with one of her transactions.
+
 165. What is suggested about Ms. Gonyer?
 (A) She held two accounts with RMP Financial Trust.
 (B) She has been abroad for at least two years.
 (C) She returned an ATM card to her bank at home.
 (D) She would like to set up online banking.
+
 166. What does Ms. Gonyer want to do?
 (A) Create an account to use overseas
 (B) Apply for a five-year credit card
 (C) Open a checking account
 (D) Withdraw funds from abroad
+
 167. According to Mr. Fournier, what must Ms. Gonyer do to open a new account?
 (A) Speak to a teller over the phone
 (B) Go to a financial institution personally
@@ -423,16 +482,19 @@ STRYKER AlWUSEiVlEWT PARK October is just around the corner, and that means ever
 (B) A special sale on tickets
 (C) A month of festivities
 (D) Amusement park admissions policies
+
 169. Where will the pumpkin decorating take place?
 (A) At the north pavilion
 (B) At the east pavilion
 (C) At the south parking lot
 (D) At the food court
+
 170. What is indicated about Fright Nights?
 (A) It tours around the country.
 (B) One of its features has been recognized by a publication.
 (C) It is geared mainly towards adults.
 (D) Those who attend it must pay an extra admission fee.
+
 171. What will NOT happen during the month of October?
 (A) A special screening of Darkness Rises will occur.
 (B) Halloween-themed rides will open to the public.
@@ -456,16 +518,19 @@ In addition to his legal experience, Mr. Estrada is active in the local communit
 (B) The results of a mayoral election
 (C) A lawyer's selection for a role
 (D) The activities of an organization
+
 173. What is indicated about Ms. Delwes?
 (A) She is being transferred to another city.
 (B) She taught law courses for many years.
 (C) She influenced Mr. Estrada's legal career.
 (D) She is running for a seat on the senate.
+
 174. What is NOT mentioned about Mr. Estrada?
 (A) He represents a real estate company.
 (B) He sometimes engages in unpaid work.
 (C) He is frequently involved in the community.
 (D) He has practiced law for over two decades.
+
 175. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "And in every legal matter he has handled, he has shown a firm commitment to the pursuit of justice."
 (A) [1]
 (B) [2]
@@ -485,21 +550,25 @@ To Whom It May Concern, 1 have visited the Lake Godard area before, but have nev
 (B) Transportation to the tops of slopes
 (C) Activities in a game room
 (D) Training for professional skiers
+
 177. In the Web page, the phrase "on hand" in paragraph 2, line 3, is closest in meaning to
 (A) vacant
 (B) possible
 (C) within reach
 (D) on behalf
+
 178. What is suggested about Ms. Fuller?
 (A) She wants to change a reservation.
 (B) She will cancel a booking at another hotel.
 (C) She prefers accommodations with a mountain view.
 (D) She would like recommendations on which slopes to ski.
+
 179. What can be inferred about Ms. Fuller's children?
 (A) They will reserve a guided hike through the woods.
 (B) They will be missing a few days of school.
 (C) They can receive free lessons from an expert instructor.
 (D) They can be involved in a light musical play.
+
 180. What does Ms. Fuller want to do?
 (A) Make time to see a performance
 (B) Book a room she has stayed in previously
@@ -519,21 +588,25 @@ O BigBuy Notice to All Employees In preparation for the holiday shopping season,
 (B) To update her on a previous request
 (C) To fill her in on a recent discussion
 (D) To discuss a scheduling conflict with her
+
 182. What is stated about BigBuy?
 (A) Its normal operating hours will change in the new year.
 (B) It pays its employees overtime for holiday work.
 (C) Its management is preparing for a restructuring.
 (D) It has had issues concerning absent staff.
+
 183. What is NOT mentioned as something department supervisors will do for the holidays?
 (A) Approve some requests for additional leave
 (B) Provide training to seasonal employees
 (C) Ensure there are enough workers
 (D) Address inquiries from the staff
+
 184. When can employees expect to receive confirmation of holiday leave?
 (A) By the end of September
 (B) No later than October 30
 (C) Before the 25th of November
 (D) Between December and January
+
 185. What is Ms. Porter required to do during the upcoming busy season?
 (A) Post work schedules more frequently
 (B) Make requests only for short vacations
@@ -557,21 +630,25 @@ Hi Henry, I've got an urgent request. Unfortunately, I received a call this morn
 (B) An anniversary banquet celebrating a facility's opening
 (C) A special event following a renovation
 (D) The exhibition of work by a local artist
+
 187. What is indicated about Ms. Resales?
 (A) She received a discount as she is a sponsor of the facility.
 (B) She plans to accompany children to an opening exhibit.
 (C) She intends to view the artifacts in the afternoon.
 (D) She will pay the price of admission at the museum.
+
 188. What are those who purchase tickets in advance asked to bring to the exhibition?
 (A) Official identification
 (B) Proof of purchase
 (C) A discount coupon
 (D) An open ticket
+
 189. What is suggested about the Brayman Museum of Art?
 (A) It will send artifacts to Perth immediately after the exhibit.
 (B) Its curator was informed about a delay in August.
 (C) Its new facility in Auckland will not be built in time for a show.
 (D) It is expecting to receive some exhibit items on September 27.
+
 190. What are those who already have tickets entitled to?
 (A) Free admission to an upcoming lecture
 (B) A refund of a payment
@@ -597,21 +674,25 @@ Home I Products I Your Shopping Cart I Customer Service Account holder: Techno T
 (B) To prepare for a major project
 (C) To conform to a policy change
 (D) To accommodate incoming staff
+
 192. What does Mr. Adams mention in the e-mail?
 (A) A supplier has run out of some requested office furnishings.
 (B) Some cubicles are missing important assembly components.
 (C) Techno Tel has placed previous orders with Office Interiors and Supplies.
 (D) The arriving staff members will start work on different days.
+
 193. In what department does Mr. Adams most likely work?
 (A) Research and development
 (B) Purchasing
 (C) Marketing
 (D) Administration
+
 194. What is inferred in the online form?
 (A) Office Interiors and Supplies gave the customer a discount.
 (B) Payment will be made by credit card.
 (C) The filing cabinets will be delivered separately.
 (D) The order is applicable for shipping charges.
+
 195. What is implied about Office Interiors and Supplies?
 (A) It will allow one of the items to be canceled within two days.
 (B) It will deliver more desks and chairs to Techno Tel before August 16.
@@ -637,21 +718,25 @@ Office Phone Number: (715) 298-5555 3. The bidder offers to perform the work in 
 (B) A lack of funds for the operation of a station
 (C) A plan for the renewal of a transportation hub
 (D) A government regulation regarding project funding
+
 197. What is implied about the Rochester Central Station Project?
 (A) Its schedule has been readjusted.
 (B) Bid proposals can no longer be submitted.
 (C) A cost will be higher than anticipated.
 (D) It has received adequate funding.
+
 198. What is NOT a requirement mentioned for submitting a bid?
 (A) A completed application form
 (B) An approved budget
 (C) A project feasibility study
 (D) A comprehensive proposal □ Oil nOl-Llo □ Oil □ 0(-L|o □ oil □0H-|o
+
 199. What is suggested about Mr. Vaughan?
 (A) He will be sent a letter if selected for the project.
 (B) His company may be ineligible for bid selection.
 (C) He will personally visit a city office to hand in some documents.
 (D) His proposal was selected by the city for further consideration.
+
 200. What is indicated about Pettus-Pagano?
 (A) It sent the city government some signed contracts.
 (B) It provided a company description with an application.

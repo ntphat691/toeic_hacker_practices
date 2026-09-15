@@ -21,146 +21,175 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. The airline's newly opened lounge in the international terminal can ——- hold up to 100 travelers.
 (A) comfortably
 (B) comfortable
 (C) comforts
 (D) comforted
+
 102. Bryant Cosmetics' marketing team developed a promotional campaign by ——rather than outsourcing the work.
 (A) theirs
 (B) them
 (C) themselves
 (D) they
+
 103. The human resources director asked for a complete _____ of each staff member hired since January.
 (A) alliance
 (B) evaluation
 (C) operation
 (D) leadership
+
 104. Those wishing to participate in the sales that will be held in the coming month must sign up by noon on Wednesday.
 (A) training
 (B) trained
 (C) trainer
 (D) trains
+
 105. Everyone attending one of Stanton Home's real estate investment workshops will be _____ the chance to apply for a loan.
 (A) distributed
 (B) declared
 (C) donated
 (D) offered
+
 106. The city council will not consider a project proposal until its ——- has been determined by an advisory committee.
 (A) pricey
 (B) priced
 (C) pricing
 (D) pricier
+
 107. The train from Piterburgh to Chamberlin travels _____ slowly because it has to make a lot of stops.
 (A) very
 (B) far
 (C) such
 (D) many
+
 108. Patrons who want a refund or exchange must make a request at the customer service center within one month _____ the date of purchase.
 (A) from
 (B) at
 (C) before
 (D) between
+
 109. Audience members _____ to switch off all electronic devices if they attend any of the presentations scheduled throughout the conference.
 (A) to remind
 (B) are reminded
 (C) will be reminding
 (D) reminding
+
 110. The tour guide gave assurances and said that the group would not depart for its destination until everyone was definitely the boat.
 (A) aboard
 (B) among
 (C) below
 (D) away
+
 111. Those who volunteered to work at the festival were given free T-shirts and gift certificates out of _____ for their efforts.
 (A) appreciative
 (B) appreciate
 (C) appreciation
 (D) appreciatively
+
 112. The meals served at Nightinvale's take a long time to cook, compared to other restaurants.
 (A) related
 (B) relative
 (C) relations
 (D) relatively
+
 113. After much discussion about the office's slow Internet connection, it was decided that the _____ solution would be to find a different provider.
 (A) simplify
 (B) simply
 (C) simplification
 (D) simplest
+
 114. Luxus Lotion is available _____ at Dashney Department Stores and cannot be found anywhere else.
 (A) heavily
 (B) moderately
 (C) exclusively
 (D) additionally
+
 115. Mr. Chang asked the other board members to think about _____ they would like to nominate as the next chairperson.
 (A) whom
 (B) which
 (C) that
 (D) whose
+
 116. The evaluator found that Ms. Benning was highly _____ of leading a group and suggested she begin training for a managerial position.
 (A) persuasive
 (B) grounded
 (C) confidential
 (D) capable
+
 117. _____ several complaints about the new security system, Chambers Corporation has decided to continue using it for now.
 (A) In spite of
 (B) Because
 (C) Except for
 (D) Close to
+
 118. Even after presenting a _____ case to the board, Mr. Wright failed to persuade them to invest in the development project.
 (A) ruling
 (B) shifting
 (C) convincing
 (D) limiting
+
 119. The bank officer ——- that it would take Mr. Gordon two more years to settle his remaining debt if he continued to repay it in small amounts.
 (A) divided
 (B) deducted
 (C) calculated
 (D) prolonged
+
 120. The purchasing manager can only order the company's list of approved suppliers.
 (A) on
 (B) by
 (C) with
 (D) around
+
 121. Lawrence Graham leased his new office space two weeks ago, but he has _____ to move his firm to the location.
 (A) also
 (B) ever
 (C) yet
 (D) always
+
 122. After buying out its closest rival, Tele-SA will undoubtedly become South Africa's mobile telecommunications provider.
 (A) identical
 (B) broad
 (C) dominant 123 _____ . _____ Patterson Coffeehouse only has one
 (D) similar branch in Australia, it plans to open six new stores by the conclusion of the fiscal year.
+
 124. When Rubicon Bank's growth rate is announced publicly next week, the information _____ a lot of interest from stock investors.
 (A) had attracted
 (B) attracted
 (C) attracting
 (D) will attract
+
 125. In his latest book, journalist Peter Ormond gives a _____ account of his experiences working in South America.
 (A) fascination
 (B) fascinating
 (C) fascinated
 (D) fascinatedly
+
 126. In a gesture of goodwill, the San Mateo High School will _____ allow local residents to use its sports facilities on weekends.
 (A) generously
 (B) accidentally
 (C) immensely
 (D) intensively
+
 127. The public's reactions to the monument in Penn Park reveal a difference in regarding how they feel tax money should be spent.
 (A) imagination
 (B) perspective
 (C) overview
 (D) reflection
+
 128. The cruise ship coming in from Alaska was nearly three hours late arriving at the port in Vancouver _____ stormy weather conditions at sea.
 (A) at least
 (B) in advance
 (C) owing to
 (D) aside from
+
 129. The - _____ argument in favor of reevaluating the company's product lines has to be that sales have been consistently declining for the past two years.
 (A) furthest
 (B) deepest
 (C) heaviest
 (D) strongest
+
 130. Throughout history, scientists have gathered much _____ to support the theory that many animals possess high levels of intelligence.
 (A) idea
 (B) time
@@ -175,14 +204,17 @@ Parking Notice Parking along the streets in the Frederickton downtown area is pr
 (B) The city's sanitation vehicles and crews will be working on roadways during this time.
 (C) This regulation has been implemented to reduce weekend traffic.
 (D) There are several ways you can pay the fees for parking.
+
 132. (A) receipt
 (B) receive
 (C) receivable
 (D) receives
+
 133. (A) flexible
 (B) technical
 (C) exemplary
 (D)subsequent
+
 134. (A) lead
 (B)leads
 (C) led
@@ -196,14 +228,17 @@ To: Denise Barton <dbarton@officetime.com> From: Elmer Wittson <elm_witt@wittson
 (B) stores
 (C) products
 (D) venues
+
 136. (A) acceptable
 (B) intense
 (C) eager
 (D) strong
+
 137. (A) popularize
 (B) popular
 (C) popularly
 (D) popularity
+
 138. (A) I sincerely appreciate your business as jMh a first-time client.
 (B) Don't forget to correct any errors before sending the next invoice.
 (C) It is fortunate that I was able to buy it last week.
@@ -217,14 +252,17 @@ The Tulsa Airport is getting a major facelift this year, as announced by officia
 (B) continued
 (C) continuation
 (D) continually
+
 140. (A) to undergo
 (B)underwent
 (C) has undergone
 (D) will undergo
+
 141. (A) The amount needed has forced officials to cancel the renovation. iS
 (B) This figure is reasonable given the project's significant size.
 (C) This is due to a decrease in the number of transit passengers.
 (D) Anticipated tourist arrivals could bring added revenues on top of that.
+
 142. (A) disclose
 (B) process
 (C) feature
@@ -238,14 +276,17 @@ Coapow Industries 5411 Superior Avenue Cleveland, OH 44103 Dear Ms. Lewis, I am 
 (B) will conduct
 (C) conducting
 (D) to conduct
+
 144. (A) enjoyed
 (B) derived
 (C) implemented
 (D) prevented
+
 145. (A) descriptions 145.
 (B) samples
 (C) surveys
 (D) formulas
+
 146. (A) * quality of the beans were very useful to w me. We produced a smaller quantity than
 (B) was originally projected. I hope you will consider ordering a
 (C) supply for your company. I plan to set up my first factory facilities
@@ -260,6 +301,7 @@ Mr. Joseph Sawyer Personnel director JTLA Financial Services 2278 Maple Court Ca
 (B) To submit a proposal for a joint project
 (C) To recommend a former staff member for a job
 (D) To gather data for a marketing study
+
 148. What is NOT mentioned about Ms. Glover?
 (A) She has excellent communication skills.
 (B) She was promoted to the level of supervisor.
@@ -287,6 +329,7 @@ Enrico Lopez 9:54 That'll do.
 (B) Try out a vehicle that is for sale
 (C) Send a payment for a van purchase
 (D) Pick up some mechanical test results
+
 150. At 9:54, what does Mr. Lopez mean when he writes, 'That'll do"?
 (A) hie is satisfied with a buyer's offer.
 (B) He has completed all of his errands.
@@ -304,6 +347,7 @@ Herstel is changing the hours of operation at its after-sales service centers to
 (B) An appliance seller
 (C) A training center
 (D) A parking facility
+
 152. Why might customers have to pay an additional fee?
 (A) They live outside the limits of a geographical area.
 (B) They have older items which require additional work.
@@ -319,6 +363,7 @@ MEMO Hexagon Plastics Manufacturing Regarding: Environmental policy Beginning ne
 (B) Government officials
 (C) Company employees
 (D) Program organizers
+
 154. What is NOT mentioned as a change the company will make?
 (A) Requiring staff to use their own cups
 (B) Lowering its electricity consumption
@@ -338,11 +383,13 @@ The NAA hopes that Uplift's experience will serve as a warning to other budget a
 (B) To describe a flight route change
 (C) To provide news about an airline
 (D) To confirm a corporate merger
+
 156. What was NOT among the measures taken by Uplift's board?
 (A) Hiring new top managers
 (B) Partnering with another airline
 (C) Purchasing newer aircrafts
 (D) Changing its work practices
+
 157. What does Mr. Hovis suggest about budget carriers?
 (A) Many of their planes need to be upgraded.
 (B) Some of them focus too much on costs.
@@ -360,11 +407,13 @@ Dear Mr. Clark, The National Post Office has just released a stamp and envelope 
 (B) To schedule an organization meeting
 (C) To provide information on some new products
 (D) To announce a public holiday
+
 159. Who most likely are the club members?
 (A) Visual artists
 (B) Stamp collectors
 (C) Environmentalists
 (D) Postal workers
+
 160. How can envelopes be obtained after June 6?
 (A) By sending a request to George Adachi
 (B) By visiting a branch of the post office
@@ -382,11 +431,13 @@ This item is currently in stock but is not yet available in stores. We are offer
 (B) A physical therapy clinic
 (C) A health care provider
 (D) A gym product retailer
+
 162. How can an EM-900 currently be purchased?
 (A) By placing an order online
 (B) By contacting a wholesaler
 (C) By visiting a sporting goods store
 (D) By calling a manufacturer
+
 163. What is NOT mentioned about the machine?
 (A) It reduces stress on users' legs.
 (B) It checks a bodily function.
@@ -402,16 +453,19 @@ March 14 Dianne Bradley 2935 Florence Street Tucker, TX 12345 Dear Ms. Bradley, 
 (B) To thank a customer for a purchase
 (C) To provide details about an organization
 (D) To request repayment from a borrower
+
 165. What is indicated about Yatna?
 (A) It is accepting applications for loan officers.
 (B) It charges an annual fee for membership.
 (C) It is seeking volunteers to travel abroad.
 (D) It helps underprivileged people.
+
 166. According to the letter, what else can Ms. Bradley do to assist the organization?
 (A) Offer business advice to borrowers
 (B) Attend regularly held events
 (C) Edit promotional videos
 (D) Provide translation services
+
 167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "You are also welcome to donate it to Yatna for operational expenses."
 (A) [1]
 (B) [2]
@@ -427,16 +481,19 @@ To: All staff From: Jean Walters Date: September 3 Subject: Annual meeting and b
 (B) To confirm arrangements for an event
 (C) To thank participants for attending a conference
 (D) To ask staff to take part in a survey
+
 169. What is indicated about the annual meeting?
 (A) It takes place over two days.
 (B) The venue has yet to be chosen.
 (C) Participants must make provisions for their own lunches.
 (D) There will be a short break before dinner.
+
 170. Why might some employees contact Ms. Walters?
 (A) To book overnight lodging
 (B) To get directions to the hotel
 (C) To notify her of dietary restrictions
 (D) To confirm attendance to a meeting
+
 171. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "There will also be a soup of the day as an appetizer and a slice of seasonal pumpkin pie for dessert."
 (A) [1]
 (B) [2]
@@ -454,16 +511,19 @@ Send
 (B) Winnipeg
 (C) Regina
 (D) Edmonton
+
 173. At 3:48 p.m., what does Mr. Nordstrom mean when he writes, "I am not sure I can make it"?
 (A) He doubts he will be able to complete a business transaction.
 (B) He is uncertain about his assistant manager's availability.
 (C) He cannot confirm that he will be able to travel to Vancouver.
 (D) He does not know how many employees will attend an event.
+
 174. What has Mr. Nordstrom decided to do?
 (A) Send Mr. Rembrandt to the conference in his place
 (B) Take care of his staff's travel and accommodation bookings
 (C) Increase his order for some agricultural equipment
 (D) Appoint a new assistant manager at his retail branch
+
 175. What is suggested about Ms. Lindsey?
 (A) She needs the names of participants by the end of the day.
 (B) She will have to travel for an upcoming business event.
@@ -485,11 +545,13 @@ Dear Ms. Pham, On behalf of Sondheim Enterprises, thank you very much for all yo
 (B) To request payment of a bill
 (C) To ask for details about a request
 (D) To inform a manager about a problem
+
 177. What is NOT true about Mr. Faubert?
 (A) He is a layout designer for commercial publications.
 (B) He wants Ms. Pham to do some additional work.
 (C) He is currently away on business.
 (D) He was sent a billing statement.
+
 178. In the first e-mail, the word "found" in paragraph 1, line 2, is closest in meaning to
 (A) searched
 (B) received
@@ -513,11 +575,13 @@ Name: Oliver Smith, Head of Physical Education, Hilliard High School Address: 36
 (B) The swimming pool is the size used in the Olympics.
 (C) The soccer pitch uses artificial grass.
 (D) The rock wall is strictly for experts.
+
 182. What do school groups receive?
 (A) A one-week introductory course
 (B) Free public transit tickets
 (C) Access to the center after closing time
 (D) A discount of 20 percent
+
 183. How many courts did Mr. Smith reserve for Badminton?
 (A) One
 (B) Two
@@ -547,21 +611,25 @@ Please note: - A discount has been applied for the paper items in your order. - 
 (B) search
 (C) track
 (D) inquire
+
 187. Why did Mr. Neilson write the e-mail?
 (A) To report a delay in receiving an order
 (B) To purchase some supplies in bulk
 (C) To ask for product price details
 (D) To inquire about a shipping status
+
 188. How will Clarkson Trading pay for the order?
 (A) By charging it to a credit card
 (B) By issuing a personal check
 (C) By wiring money to an account
 (D) By using accumulated points
+
 189. Why was Clarkson Trading charged an additional fee?
 (A) It exceeded a weight limitation.
 (B) It is located outside California.
 (C) It ordered a special item.
 (D) It missed a promotional period.
+
 190. What requested item did Office World forget to provide in the invoice?
 (A) The specialty paper
 (B) The storage boxes
@@ -589,21 +657,25 @@ Customer Review: Porta Bello Mobile Device Bag Manufacturer: Portami Bags Name: 
 (B) It has multiple pockets and compartments.
 (C) It comes in a variety of sizes.
 (D) It can be purchased on a Web site.
+
 192. Why is Bench Business Training Center giving away bags?
 (A) To reward loyal customers
 (B) To promote its facility
 (C) To recognize top employees
 (D) To publicize a future location
+
 193. In the e-mail, the word "noticeably" in paragraph 2, line 3, is closest in meaning to
 (A) prominently
 (B) diplomatically
 (C) significantly
 (D) capably
+
 194. What does Ms. Baron indicate about Portami Bags?
 (A) It added a number of bags to her order for free.
 (B) It customized an order for her in a color not offered.
 (C) It provided her with a complimentary gift for placing an order.
 (D) It suggested an alternative to a product she had previously requested.
+
 195. What can be inferred about Bench Business Training Center?
 (A) It purchased bags for two of its locations.
 (B) It was able to secure a discount on its order.
@@ -629,21 +701,25 @@ a E
 (B) It has service packages available for businesses.
 (C) It offers unlimited texting to any location.
 (D) It charges a minimum of $50 in regular monthly fees.
+
 197. What is indicated about Ms. Majors?
 (A) She places a lot of international calls because of her job.
 (B) She will get a free period of service if she takes Mr. Farmer's suggestion.
 (C) She previously attempted to call a number to ask some questions.
 (D) She is eligible for a free telephone upgrade after a period of two years.
+
 198. What might Ms. Majors use to register for a phone service?
 (A) A product serial code
 (B) A special number
 (C) A usage pattern report
 (D) A credit card TEST 4. Part 52[ Part 6119M 210)1 SHi^ch
+
 199. What does Mr. Farmer suggest about Elite Wireless?
 (A) It will waive cancellation fees under some circumstances.
 (B) It offers customers several subscription plan durations.
 (C) It requires that customers buy a mobile phone from the company.
 (D) It gives discounts on phones and devices to long-term subscribers.
+
 200. What did Ms. Majors ask Mr. Farmer to do?
 (A) Add unlimited international data to a contract
 (B) Provide figures that support statements in the letter

@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -146,6 +152,7 @@ Directions: In this part, you will listen to several conversations between two o
 (B) Share some data with a client
 (C) Print copies of a contract
 (D) Get help from a coworker i
+
 4. Why is the woman calling the man?
 (A) To request a letter of reference
 (B) To ask for an e-mail address

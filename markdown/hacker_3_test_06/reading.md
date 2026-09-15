@@ -6,8 +6,11 @@ I TEST 06
 
 § PART 7
 Self ||3
+
 1.°EH^o|^#mLfm? oj]
+
 2. Answer Sheet, oil, T|^m ^u|5H^o? n o||
+
 3.A|7j|l^H|S^o? coil
 - 2hSE|^ODi [CHI 1 El)AE^ A|^L|EK
 §A1| #0|#mife ApJ^ 70g °e! _A| _fe?JL|EK
@@ -25,151 +28,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
 © PARTS iFEt #o|A|y ng
+
 101. Ms. Berkin _____ nominees their invitations for the Outstanding Citizenship Awards Gala last week.
 (A) sends
 (B) sent
 (C) is sent
 (D) sending
+
 102. Patients undergoing a complete medical examination are asked _____ eating solid food for 12 hours prior to their appointment.
 (A) avoid
 (B) to avoid
 (C) avoiding
 (D) avoidably
+
 103. Strong winds knocked a tree down on the road and created a potential _____ for speeding motorists.
 (A) treatment
 (B) hazard
 (C) expectation
 (D) deliberation
+
 104. The finance director noticed that the reports _____ had submitted to the board were not the final version.
 (A) she
 (B) her
 (C) hers
 (D) herself
+
 105. Local transport regulations permit city buses to have _____ 32 seats for passengers.
 (A) as for
 (B) up to
 (C) next to
 (D) regardless of
+
 106. In response to the feedback that her manuscript was too lengthy, author Dawn Wentz _____ the number of pages.
 (A) reduction
 (B) reduce
 (C) reduced
 (D) are reducing
+
 107. Zoo-Croft Fashion's corporate income and expense documents were delivered to the outside accountant to get an unbiased financial
 (A) analysis
 (B) analyst
 (C) analyzed
 (D) analyze
+
 108. Mr. Cantrell realized he had overbilled the client and _____ contacted her to explain the error.
 (A) prompt
 (B) prompted
 (C) promptly
 (D) prompts
+
 109. According to the survey, a greater number of residents than ever before _____ in the city's recycling program.
 (A) participation
 (B) are participating
 (C) participating
 (D) participants
+
 110. Just one day after announcing that a new factory would be opened, KerbCo Manufacturing received _____ applications for jobs.
 (A) several
 (B) none
 (C) every
 (D) each
+
 111. After three months of intense negotiations, for the construction of new power plants were signed.
 (A) agreed
 (B) agreeable
 (C) agreements
 (D) agreeably
+
 112. Reviews of the Mardison Hotel chain's updated business centers are positive.
 (A) overwhelming
 (B) overwhelmingly
 (C) overwhelmed
 (D) overwhelm
+
 113. Mr. Holden's outgoing _____ is beneficial to him as his job requires a lot of networking and socializing.
 (A) person
 (B) personality
 (C) personable
 (D) personally
+
 114. Mr. Henry gave his staff additional training on the new office policy, but several of them were still
 (A) confusing
 (B) confused
 (C) confuse
 (D) confusion
+
 115. Southern Mutual Insurance _____ clients to sign up for long-term plans as they have lower rates.
 (A) was encouraged
 (B) encouraging
 (C) encourages
 (D) is encouraged
+
 116. The Loughton Youth Club _____ offered to help organize a community cleanup day and to recruit local volunteers.
 (A) manually
 (B) arguably
 (C) suggestively
 (D) generously
+
 117. Mr. Pullman has asked for _____ time to turn in his report because he requires some additional information.
 (A) any
 (B) a few
 (C) more
 (D) many
+
 118. Mayor David Lee's introduction of Senator Laura Moncton _____ her speech, giving an overview of her track record of political reforms.
 (A) required
 (B) preceded
 (C) performed
 (D) accomplished
+
 119. Album sales for rock band Trifecta have been low _____ their concert tickets have been selling out.
 (A) if only
 (B) as long as
 (C) even though
 (D) provided that
+
 120. Ms. Davies could only hear _____ of what was discussed since the restaurant chosen for the meeting was so noisy.
 (A) fragments
 (B) excerpts
 (C) summaries
 (D) shares
+
 121. There were _____ malfunctions with the agency's updated software, so management decided to use the old version temporarily.
 (A) competent
 (B) cautious
 (C) persistent
 (D) imperative
+
 122. In an emergency, an alarm in Hamley Towers will sound, indicating that everyone inside must _____ the building immediately.
 (A) oppose
 (B) dismiss
 (C) vacate
 (D) assemble
+
 123. The accommodations at the Grandview Hotel seemed less than _____ when compared to the attractive, reasonably priced options in town.
 (A) desirable
 (B) responsible
 (C) extensive
 (D) unlimited
+
 124. Madsen Industries' new microwave ovens are now available _____ high-quality kitchen appliances are sold.
 (A) by the time
 (B) as soon as
 (C) wherever
 (D) throughout
+
 125. The sequel to last year's film Galactic Express made $400 million worldwide, is more than the first movie earned.
 (A) this
 (B) what
 (C) whose
 (D) which
+
 126. Due to their limited experience in Asia, KDM's executives made the _____ choice to collaborate with a well-established firm in the region.
 (A) sense
 (B) sensing
 (C) sensible
 (D) sensibly
+
 127. The media have _____ named several medications that can be dangerous when taken without a doctor's prescription.
 (A) inconveniently
 (B) expressly
 (C) supportively
 (D) comparably
+
 128. Jessup Inc. chose Bill Torres to represent the firm in an upcoming meeting _____ his success in past negotiations.
 (A) likewise
 (B) instead of
 (C) apart from
 (D) given
+
 129. The machinery in Templex's factory has become so outdated that funds have been to purchase new ones.
 (A) exempted
 (B) hosted
 (C) conducted
 (D) designated
+
 130. The manager did his best to make decisions that took the finance division members' suggestions into
 (A) recommendation
 (B) calculation
@@ -184,14 +217,17 @@ Dear Ms. Clark, Thank you very much for your gift to The NewEd Foundation. As yo
 (B) volunteering
 (C) establishment
 (D) contribution
+
 132. (A) assess
 (B) restore
 (C) promote
 (D) place
+
 133. (A) Due to
 (B) As
 (C) By
 (D) Even if
+
 134. (A) Simply present it at the entrance on the day of the event.
 (B) We appreciate your offer to give a talk at this fundraiser.
 (C) Those who attended agree that the event was a great success,
@@ -205,11 +241,14 @@ Questions 135-138 refer to the following e-mail.
 (B) have arrived
 (C) will be arriving
 (D) arrived
+
 136. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
+
 137. (A) I didn't expect project to be delayed by Wm as much as one week.
 (B) As soon as the items are ready, send them immediately.
 (C) Unfortunately, I will be out of the office next week due to a conference.
 (D) The new desk and chair are now in the storage room.
+
 138. (A) immeasurable
 (B) nonessential
 (C) imprecise
@@ -223,14 +262,17 @@ MEMO DATE: March 31 TO: All operations employees FROM: Robin Evans, Chief of ope
 (B)gone up
 (C) dropped down
 (D) evened out
+
 140. (A) objected
 (B) objectively
 (C) object
 (D) objectives
+
 141. (A) I understood the feedback and will |||i| implement your suggestions in the future.
 (B) The only thing left to do is evaluate these concluded sessions.
 (C) Project managers should act on them as soon as possible.
 (D) Fortunately, everyone on the team was able to meet the revised deadline on short notice.
+
 142. (A) confirmation
 (B) attention
 (C) procedure
@@ -246,14 +288,17 @@ Sincerest regards, Lara Smith Hiring manager, LPR Analytics
 (B) interview
 (C) assignment
 (D) investigation
+
 144. (A) valid
 (B) inaccurate
 (C) optimistic
 (D) secretive
+
 145. (A) We were unable to contact one of your mm listed references,
 (B) Please also be prepared to give a short presentation about your career,
 (C) I will send them to you using the address you provided.
 (D) The information provided a lot of useful material for our discussion.
+
 146. (A) Afterwards
 (B) Nevertheless
 (C) Therefore
@@ -270,6 +315,7 @@ Do you want to be more tech-savvy? Are you interested in learning how to create 
 (B) To promote some recently updated software
 (C) To publicize a course at an establishment
 (D) To encourage enrollment in an online class
+
 148. What will Richard Hernandez discuss?
 (A) Making effective presentations
 (B) Studying literary classics
@@ -289,6 +335,7 @@ They want to ask questions about our upcoming product launch, so bring the marke
 (B) She cannot deal with an urgent problem.
 (C) She will call back some coworkers.
 (D) She is capable of managing a discussion alone.
+
 150. What has Ms. Flores been asked to prepare?
 (A) Some product samples
 (B) Videos from an event
@@ -304,6 +351,7 @@ Harwood Services 3372 South High Street Bloomington, Indiana, 47404 For attentio
 (B) A wedding planning business
 (C) A catering company
 (D) A fresh produce supplier
+
 152. What is indicated about the Indiana Agricultural Subsidy Seminar?
 (A) It featured two complete meal services.
 (B) It included more than one intermission.
@@ -319,11 +367,13 @@ Questions 153-155 refer to the following memo.
 (B) A firm's operational plan
 (C) A temporary supervisory staffing change
 (D) An available managerial position
+
 154. What did Mr. Mikkola do for Thumston International?
 (A) Expanded its offices in various locations
 (B) Formed stronger international partnerships
 (C) Increased total customer numbers
 (D) Helped it adopt new technology
+
 155. In what industry is Thumston International most likely involved?
 (A) Technical staff recruitment
 (B) Global financial investments
@@ -341,6 +391,7 @@ Back by popular demand, the Los Ramos Art Council (LRAC) will once again host Wi
 (B) It organizes a community festival.
 (C) It offers financial assistance to local craftspeople.
 (D) It is affiliated with a national organization.
+
 157. What will take place on July 13?
 (A) A festival in a downtown area will be canceled.
 (B) A group will play some music during a celebration.
@@ -356,11 +407,13 @@ Daily schedule for: Melissa Traynor Managing Editor, The Green Bay News Thursday
 (B) She is creating a new layout design for a magazine.
 (C) She is responsible for checking articles prior to publication.
 (D) She writes feature stories for a local newspaper.
+
 159. What is Ms. Traynor supposed to do at Mariano's?
 (A) Review next month's stories
 (B) Meet with Tim about upcoming issues
 (C) Have a work-lunch with Sarah
 (D) Talk about sources with Greg
+
 160. Why will Ms. Traynor contact Peter?
 (A) To set up a meeting
 (B) To offer feedback on an article
@@ -378,11 +431,13 @@ Dear Ms. Sukarno, Thank you for responding so quickly to my inquiry about visiti
 (B) A travel agent
 (C) A factory representative
 (D) A beauty item salesperson
+
 162. What is mentioned about Vert-Bleu Beauty?
 (A) Its headquarters is located in Jakarta.
 (B) It plans to build its own manufacturing plant.
 (C) It follows strict production guidelines.
 (D) It is unprepared for an upcoming inspection.
+
 163. In which of the positions marked [1], [2], best belong? "This will also help you get a better idea of our needs and vice versa."
 (A) [1]
 (B) [2]
@@ -400,16 +455,19 @@ Helen Gatlneau [3:35] I'm sure you've all heard that we're going to be merging w
 (B) The reassignment of job duties
 (C) Advantages of a corporate merger
 (D) A visit to a new office building
+
 165. What are some personnel required to do?
 (A) Contact a list of clients
 (B) Revise some company policies
 (C) Relocate to a different office
 (D) Arrange a warehouse visit
+
 166. In what department does Mr, Mason most likely work?
 (A) Human Resources
 (B) Administration
 (C) Marketing
 (D) Shipping
+
 167. At 3:47, what does Ms. Gatineau most likely mean when she writes, "That makes sense"?
 (A) She agrees that some workers will need to attend a class.
 (B) Her knowledge of meat products could be improved.
@@ -425,16 +483,19 @@ Starting Up A Foreword by Michael Lawman Starting Up is Anne Schubert's first no
 (B) It motivated Mr. Lawman to pursue a career in business.
 (C) It is about the career of an entrepreneur.
 (D) It was published prior to the opening of Swift Enterprises.
+
 169. What is mentioned about Swift World?
 (A) It was developed in collaboration with a partner.
 (B) It has seen its sales levels decline in recent years.
 (C) It carries a wide selection of used sports products.
 (D) It expanded globally after opening in Seattle.
+
 170. What is suggested about Ms. Schubert?
 (A) She has an educational background in marketing.
 (B) She went to university with Mr. Lawman.
 (C) She experienced success in retailing shoes,
 (D) She plans to increase the number of her company's branches.
+
 171. In which of the positions marked [1], [2], best belong? "However, she learned quickly that idea creation alone was simply not enough to bring a product to market."
 (A) [1]
 (B) [2]
@@ -458,16 +519,19 @@ trip to some of the smaller Tibetan towns that surround the city. In these towns
 (B) In a history text book
 (C) In a travel magazine
 (D) In a company newsletter
+
 173. What does the article suggest about Chengdu?
 (A) It has a large Tibetan population.
 (B) It needs more tour agencies for international visitors.
 (C) It hosts many professional meetings.
 (D) It attracts more travelers than other nearby cities.
+
 174. The word "overshadowed" in paragraph 1, line 1, is closest in meaning to
 (A) enclosed
 (B) dominated
 (C) modified
 (D) governed
+
 175. What is NOT mentioned as an activity tourists can do?
 (A) Trying the food in a nearby town
 (B) Taking a train to a mountain area
@@ -491,21 +555,25 @@ The driver then took our visitors to the Crown Diamond Airport Hotel instead of 
 (B) Different types of vehicles are available to clients.
 (C) Limousines can only be booked during certain seasons.
 (D) Services are not provided on national holidays.
+
 177. What is Sunfield Limousines now offering?
 (A) A program for mobile devices
 (B) Complimentary phone consultations
 (C) Coupon books for returning customers
 (D) A worldwide service
+
 178. How did Mr. Puccini most likely make his reservation?
 (A) By telephone
 (B) In person at a store
 (C) On a Web site
 (D) Through a friend
+
 179. What occurred on December 10?
 (A) The Sunfield Limousines company sent a driver to the incorrect location.
 (B) Mr. Puccini's clients were unable to reach an airport in time for a flight.
 (C) Mr, Karrington's staff did not respond to telephone calls from visitors.
 (D) The driver offered a small discount on driving services to make up for an
+
 180. What is indicated about Mr. Puccini?
 (A) He made a reservation on Saturday.
 (B) He has no time in his schedule to meet some arriving guests.
@@ -527,21 +595,25 @@ II I do look forward to meeting with you and possibly working together with you 
 (B) A team of maintenance crew members
 (C) A financial institution's clients
 (D) A company's software developers
+
 182. What is stated about the upcoming maintenance work?
 (A) It is carried out on all bank systems on a monthly basis.
 (B) It will not affect the operation of automated teller machines.
 (C) It will take an entire day for technicians to complete it.
 (D) An outside service team has been hired to deal with it.
+
 183. What most likely is Datup Solutions?
 (A) A computer repair center
 (B) A corporate equipment retailer
 (C) An information technology company
 (D) A conference organizer
+
 184. What is mentioned about Datup Solutions?
 (A) It offers free assessments to clients using its maintenance programs,
 (B) It is developing an operating system for computers.
 (C) It regularly participates in technology conferences.
 (D) It has an online retailer as a client.
+
 185. What does Mr. Richards want to do?
 (A) Dispatch an assistant to perform an inspection
 (B) Meet with Mr. Black sometime before May 22
@@ -577,21 +649,25 @@ Do not patrosiize this store! B Review posted on May 9 by S. Eggers I This is a 
 (B) They can be delivered free of charge.
 (C) Some of them are on sale for a limited time.
 (D) They are all environmentally friendly.
+
 187. What is stated about Vibra paint?
 (A) It has been the store's best-selling paint for years.
 (B) It can be blended with more than two colors.
 (C) It requires a minimum purchase for a discount.
 (D) It is normally the most expensive paint.
+
 188. What brand did Ms. Eggers most likely receive initially?
 (A) Vibra waterproof paint
 (B) Densen metallic paint
 (C) Fulmax blended paint
 (D) Alpha basic paint
+
 189. In the review, the phrase "get back to" in paragraph 1, line 2, is closest in meaning to
 (A) reply
 (B) recover
 (C) repay
 (D) retrieve
+
 190. What is suggested about Ms. Eggers?
 (A) She changed her mind about a paint color.
 (B) She had to visit a store in Conway,
@@ -617,21 +693,25 @@ Dear Mr. Partido, This is to confirm that we have received your registration for
 (B) Testing guidelines for students
 (C) Professional skills training
 (D) Course schedule changes
+
 192. In the announcement, the word "discretion" in paragraph 3, line 6, is closest in meaning to
 (A) substitute
 (B) choice
 (C) attention
 (D) disparity
+
 193. Which instructor is teaching a new course?
 (A) Ted Angelotti
 (B) Harold Singh
 (C) Sandy Packard
 (D) Wendy Dufresne
+
 194. Based on the e-mail, what is true about Mr. Partido?
 (A) He has paid for all of his tuition tees.
 (B) He plans to take the same course he has taken before.
 (C) He is currently working for a company.
 (D) He has an account with Oak Valley Bank.
+
 195. What class did Mr. Partido most likely enroll in?
 (A) Real Estate Brokering
 (B) Automobile Safety
@@ -651,21 +731,25 @@ Markovich Insurance Date: August 22 To: All staff From: Lois Butler Subject: 9th
 (B) A dining area
 (C) Membership privileges
 (D) Discounts on catering
+
 197. What does Ms. Butler inquire about on the form?
 (A) The availability of temporary staff
 (B) The price of renting equipment
 (C) The possibility of extending rental hours
 (D) The venue's policies on parking
+
 198. What is indicated about Markovich Insurance?
 (A) It is bringing its own sports equipment.
 (B) It requires the assistance of additional staff.
 (C) It is renting a facility during its off-peak hours.
 (D) It must settle all rental charges by August 29.
+
 199. In the memo, the phrase "in store" in paragraph 1, line 2, is closest in meaning to
 (A) preserved
 (B) arrived
 (C) donated
 (D) prepared
+
 200. Where will the employees most likely meet on the morning of August 29?
 (A) Zone 1
 (B) Zone 2

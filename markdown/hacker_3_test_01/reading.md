@@ -18,146 +18,175 @@ answer choices will be provided for each statement. Select the best answer and m
 (B) accommodates
 (C) accommodating
 (D) accommodations
+
 102. Charles Wang submitted a resume that ______ his years of experience in advertising.
 (A) emphasized
 (B) enclosed
 (C) estimated
 (D) employed
+
 103. Beginning next week, Zumwalt, Inc.'s new smartphone will be available for purchase at ____ retailers across Korea and Japan.
 (A) authorizing
 (B) authority
 (C) authorization
 (D) authorized
+
 104. Highway construction has been postponed indefinitely as Hampshire County residents have ____ to the plan.
 (A) preferences
 (B) arrangements
 (C) considerations
 (D) objections
+
 105. The Trescott Chamber of Commerce _____ local businessman Brian Larue at a ceremony next week.
 (A) was honoring
 (B) to honor
 (C) will honor
 (D) honor
+
 106. Please review your contract, and feel free to ask us _____ questions you might have,
 (A) few
 (B) either
 (C) any
 (D) much
+
 107. The manager announced that a few office supply _______ would be delayed because of weather conditions.
 (A) shipment
 (B) shipments
 (C) to ship
 (D) shipping
+
 108. By adding extra flights between Dubai and Istanbul, Euroblue Airlines will increase its ____ for this route by more than 50 percent.
 (A) endurance
 (B) motivation
 (C) location
 (D) capacity
+
 109. Halmilton Hospital’s purchase of a medical scanning device will permit doctors to diagnose patients more ____ than ever before.
 (A) precise
 (B) precisely
 (C) precision
 (D) preciseness
+
 110. ____ a bank has approved Flynn Co.'s business loan, the company can begin its planned expansion.
 (A) Even if
 (B) As though
 (C) Consequently
 (D) Now that
+
 111. Online reviewers praise Alpha Fashion's ______ deliveries and its generous return policy.
 (A) tangible
 (B) measured
 (C) timely
 (D) subsequent
+
 112. Though Bruce Guthrie's concert is planned _______ August 1, the organizers have said that this is subject to change.
 (A) at
 (B) for
 (C) since
 (D) in
+
 113. The public speaking course presents trainees with opportunities _____ themselves in front of a group.
 (A) will express
 (B) to express
 (C) are expressing
 (D) expressed
+
 114. The speaker at the Westicon Literature Seminar told an _____ story that had the entire audience laughing in enjoyment.
 (A) amusing
 (B) amusement
 (C) amused
 (D) amuse
+
 115. A fee of $100 will be _____ to office rental payments that are more than two weeks late.
 (A) applied
 (B) applying
 (C) apply
 (D) application
+
 116. Last month's issue of Wise Finance _________ an exclusive interview with Chuck Granville, founder of financial firm Granville Investments.
 (A) subscribed
 (B) admitted
 (C) featured
 (D) dedicated
+
 117. Broadcasting the ________ latest news 24 hours a day, cable station CPP allows viewers to keep up-to-date on world events.
 (A) fewer
 (B) very
 (C) far
 (D) more
+
 118. The software _____ that New-Tech offers remove security risks and improve the performance of computers.
 (A) increments
 (B) enhancements
 (C) certificates
 (D) exceptions
+
 119. Mr. Evans took a taxi to avoid being late, but the theater show had ____ begun by the time he arrived.
 (A) usually
 (B) seldom
 (C) hourly
 (D) already
+
 120. Notices _______ residents of possible power outages were mailed out a week before crews began work on the power lines.
 (A) inform
 (B) information
 (C) informed
 (D) informing
+
 121. Mr. Clemon’s work was so impressive that he was made a senior manager _____ only six months with the company.
 (A) on
 (B) after
 (C) while
 (D) owing to
+
 122. In anticipation of an increase in visitors during the summer holiday, the Shoreline Inn decided to ______ hire additional housekeeping staff.
 (A) adversely
 (B) uncontrollably
 (C) temporarily
 (D) relatively
+
 123. Although a graduate degree is a requirement for the position, none of _______ who responded to the job announcement have one.
 (A) they
 (B) these
 (C) themselves
 (D) those
+
 124. Travel writer Arthur Chaplin will give a short presentation tomorrow _____ the trip the described in his new book, Walking in Peru.
 (A) along
 (B) regarding
 (C) in exchange for
 (D) by means of
+
 125. Having written multiple books on the effects of global warming, Ms. Black is widely regarded as a _______ expert on environmental issues.
 (A) naive
 (B) notable
 (C) tolerant
 (D) mundane
+
 126. Local water quality is ____ to improve once the sewage treatment center is upgraded.
 (A) grown
 (B) limited
 (C) bound
 (D) acquired
+
 127. Charles Kapoor was not considered a suitable candidate for a financial analyst position ______ he possessed exceptional investment experience.
 (A) accordingly
 (B) in spite of
 (C) as if
 (D) even though
+
 128. The tour bus did not stop at Sheffield Stadium, so its passengers could only take pictures as they drove ______ it.
 (A) until
 (B) past
 (C) onto
 (D) within
+
 129. Mercer Incorporated carefully goes over _______ its customer surveys and market research before making important decisions.
 (A) as well as
 (B) both
 (C) between
 (D) neither
+
 130. For the purpose of increasing sales, Mendelbaum Electronics is giving a prize to _____ is the 100th person to buy a refrigerator.
 (A) whichever
 (B) another
@@ -180,14 +209,17 @@ Sincerely, Laura Hahn, Delrio CEO
 (B) manufacturer
 (C) manufacturing
 (D) manufactured 132.
+
 132. (A) nuisance
 (B) attitude
 (C) reputation
 (D) condition 133.
+
 133. (A) In this way
 (B) In contrast
 (C) In particular
 (D) In reality
+
 134. (A) Perhaps we can discuss the issue further at the trade fair.
 (B) If I like the results, I'd be willing to work with you on a regular basis.
 (C) Once I make the design changes, I will send you the order.
@@ -203,14 +235,17 @@ Northrup Apartment management (136) _____ you a detailed report of the amount th
 (B) repetitive
 (C) conservative
 (D) extensive 136.
+
 136. (A) will send
 (B) has sent
 (C) to be sent
 (D) is sending 137.
+
 137. (A) declined
 (B) agreed
 (C) encompassed
 (D) attempted
+
 138. (A) Those who haven't paid the charge yet will receive a fine.
 (B) The additional fee will be charged until the expenses are all paid for.
 (C) Please let us know when you will be using the new services.
@@ -228,14 +263,17 @@ Furthermore, they cannot be exchanged for cash. Our raffle on January 1 will det
 (B) was offering
 (C) will have offered
 (D) is offering 140.
+
 140. (A) inside
 (B) beside
 (C) upon
 (D) without
+
 141. (A) You can save more if you buy ski lift tickets for five or more days.
 (B) Each one must be used by the date and time stamped on it.
 (C) Discounts are not applicable if coupons are past their expiration dates.
 (D) The country's ski resorts are among the best the world has to offer. 142.
+
 142. (A) claim
 (B) deliver
 (C) redeem
@@ -251,14 +289,17 @@ Most residents, however, believe the center is a (145)_______ Karen Petrowski, (
 (B) It has so far proven quite popular with people of all ages.
 (C) But there was some opposition to the project when it started.
 (D) The city has become a model for other cities to follow. 144.
+
 144. (A) repaired
 (B) repairing
 (C) repairs
 (D) repair
+
 145. (A) commitment
 (B) necessity
 (C) responsibility
 (D) coincidence 146.
+
 146. (A) instead
 (B) who
 (C) later
@@ -275,6 +316,7 @@ Are you moving out of your parents' home for the first time to work or study and
 (B) A television program
 (C) A recipe book
 (D) A school cafeteria
+
 148. What is suggested about Alexandra Maldini?
 (A) She has released several books.
 (B) She gives lectures at a university.
@@ -298,6 +340,7 @@ Thank you,
 (B) Relocating to a new office
 (C) Replenishing basic office necessities
 (D) Ensuring deliveries are complete
+
 150. What is indicated about departmental supervisors?
 (A) They are authorized to buy materials on their own.
 (B) They are responsible for approving employees' purchases.
@@ -321,6 +364,7 @@ Nicky Candela 11:10 A.M. Exactly. We'll finish that this morning and then begin 
 (B) A resarticlec critic
 (C) A wedding planner
 (D) An event caterer
+
 152. At 11:08 a.m., what does Mr. Brosky most likely mean when he writes, "I'm guessing"?
 (A) He would like to confirm the details of a request.
 (B) He believes someone already went to a store.
@@ -336,6 +380,7 @@ Seafoam Park Admit one adult [age 18-65] PAID : $34.00 Our park opens at 7 a.m.;
 (B) At 8 p.m.
 (C) At 9 p.m.
 (D) At 10 p.m
+
 154. What information is NOT included on the ticket?
 (A) The price of the ticket
 (B) The expiration date of a voucher
@@ -359,11 +404,13 @@ Thank you for your understanding and cooperation. Aston Towers Management
 (B) To outline requirements for potential renters
 (C) To tell about upcoming maintenance work
 (D) To provide assignment details to construction workers
+
 156. What is stated about the Residents' Association?
 (A) It has been demanding changes.
 (B) It has meetings every month.
 (C) It is planning further construction.
 (D) It is recruiting volunteers for a project.
+
 157. What will the Aston Towers Management do soon?
 (A) Add a garden to an apartment building
 (B) Repair a road that passes a property
@@ -387,16 +434,19 @@ Kansas City mayor Lester Hickman celebrated the team's move, saying, "This is gr
 (B) The foundation of an athletic association
 (C) The building of a new suburb
 (D) The relocation of a sports team
+
 159. What is mentioned about the Kansas City Bluecoats?
 (A) It previously won first place in a competition.
 (B) It lost one of its corporate sponsors.
 (C) Its coach was recruited locally.
 (D) Its players are the highest paid in the league.
+
 160. What is true about the new stadium?
 (A) It will formally open after two months.
 (B) It has yet to be given a name.
 (C) It will be the site of a championship game.
 (D) It is located within Kansas City's downtown area.
+
 161. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "Fans and out-of-town supporters will be better served by these changes."
 (A) [1]
 (B) [2]
@@ -426,16 +476,19 @@ Gina Adenan [10:28 A.M.] Okay, thanks everyone. It sounds like we should be able
 (B) Answering calls from customers
 (C) Announcing information in some publications
 (D) Posting about the issue online
+
 163. What is suggested about the company?
 (A) It sells products internationally.
 (B) It plans to launch a new toaster model.
 (C) It conducted a press conference.
 (D) It runs advertisements in local papers.
+
 164. What can be inferred about Mr. Lee?
 (A) He has contacts with members of the press.
 (B) He will send an announcement to the public.
 (C) He has previously worked on a product recall.
 (D) He writes promotional material for the company.
+
 165. At 10:25 a.m., what does Mr. Lee most likely mean when he writes, “I’ll get right on it”?
 (A) He will call the marketing department.
 (B) He needs to hire more staff.
@@ -459,11 +512,13 @@ MORE
 (B) To collect feedback from customers
 (C) To provide contact information
 (D) To recruit local tour guides
+
 167. What is NOT stated as an activity visitors can do in Indonesia?
 (A) Scuba diving
 (B) Visiting temples
 (C) Surfing in the sea
 (D) Camping in a jungle
+
 168. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "Outside the city awaits a world of natural and historical wonders."
 (A) [1]
 (B) [2]
@@ -487,11 +542,13 @@ I appreciate all of your cooperation in this and hope that these issues cease to
 (B) To inform workers about regulations
 (C) To announce a penalty for absences
 (D) To notify staff of scheduled maintenance
+
 170. What is indicated about the daily report?
 (A) It must be signed by a supervisor.
 (B) It should be drawn up as simply as possible.
 (C) It needs to be submitted in person.
 (D) It can be used to evaluate work efficiency.
+
 171. From when will the new measure be implemented?
 (A) From November
 (B) From December
@@ -513,16 +570,19 @@ Ghorinburg does not stand alone, as other municipalities across the nation are f
 (B) Consumption patterns among online shoppers
 (C) The adoption of new training programs
 (D) Opposition to an economic trend
+
 173. What does the article suggest about the sharing economy?
 (A) It allows workers to charge more for their services.
 (B) It has encouraged charitable giving in a local community.
 (C) It benefits individuals more than traditional companies.
 (D) It can function without the Internet.
+
 174. What happened last year in Ghorinburg?
 (A) A mobile application was introduced.
 (B) A new mayor was elected to office.
 (C) A business association held a protest
 (D) A ban against the sharing economy was lifted.
+
 175. What is mentioned about Browenville?
 (A) Its residents are largely unwilling to adopt new technologies.
 (B) Local businesses are essential to its economic development.
@@ -556,21 +616,25 @@ SEND
 (B) It introduces new deals every month.
 (C) It will not deliver to some residences.
 (D) It does not have any physical stores.
+
 177. In the advertisement, the word "comfort" in paragraph 1, line 4, is closest in meaning to
 (A) alleviation
 (B) service
 (C) consolation
 (D) ease
+
 178. According to the advertisement, what is a benefit of buying large amounts at Bulk Land Supermarket?
 (A) Wider product options
 (B) Lower packaging costs
 (C) Cheaper prices on products
 (D) Better membership incentives
+
 179. What can be inferred about Mr. Johnson?
 (A) He has placed orders with Bulk Land Supermarket before.
 (B) He did not get his preferred delivery date.
 (C) He will receive his order on Thursday night.
 (D) He will call Bulk Land Supermarket to confirm his order.
+
 180. What special offer is Mr. Johnson eligible for?
 (A) A coupon for a future purchase
 (B) A complimentary item of his choice
@@ -608,21 +672,25 @@ Thanks for your assistance, and we look forward to taking part in another succes
 (B) It is located far from any accommodation facilities.
 (C) It provides vendors with complimentary Internet access.
 (D) It hosts the beauty product fair every year.
+
 182. Where can Ms, Danbury find information on Tradevent Incorporated's prices?
 (A) On an application form
 (B) In an advertising flyer
 (C) On a corporate Web site
 (D) In a trade Journal
+
 183. What is implied about Brittany Cosmetics?
 (A) It is ineligible for a rental price reduction.
 (B) It is in the process of expanding its range of products.
 (C) It had satisfactory results at an event in Denver.
 (D) It registered for a trade fair online.
+
 184. What does Ms. Danbury inquire about?
 (A) Extra tickets
 (B) Hotel amenities
 (C) A detailed floor plan
 (D) A reservation procedure
+
 185. In the e-mail, the phrase "taking part in" in paragraph 3, line 1, is closest in meaning to
 (A) supporting
 (B) encouraging
@@ -644,21 +712,25 @@ Port Royal Cruises Your comments are very important to us... Please take a few m
 (B) It had fewer staff than necessary.
 (C) The deck party included very good food.
 (D) It cost more than she had anticipated.
+
 187. What is mentioned about the H.M.S. Lady Blackbeard?
 (A) It recently underwent a restoration.
 (B) It can be viewed in online pictures.
 (C) It includes a variety of room types.
 (D) It departs from Port Royal every Saturday.
+
 188. What is the purpose of the e-mail?
 (A) To request specific dates for a trip
 (B) To inquire about the cost of a cruise ticket
 (C) To discuss a possible staff activity
 (D) To ask for a change to a booking date
+
 189. What is indicated about the comment card?
 (A) It should be mailed to the cruise company.
 (B) It can be submitted in person.
 (C) It was found in the ship's main lounge.
 (D) It will be sent to the traveler's address after the trip.
+
 190. What did Ms. Webb most likely have to do?
 (A) Prepare some audiovisual equipment
 (B) Pay extra to have clothes washed
@@ -702,21 +774,25 @@ Marnie Hefner, producer Screen Action
 (B) He has played roles that are different occupations.
 (C) He performed in leading roles in all productions.
 (D) He received multiple nominations for Therein Lies the Truth.
+
 192. What can be inferred about Ms. Oakland?
 (A) She worked with Henry Spencer in her latest film.
 (B) She received a Sci-Fi Award for one of her films.
 (C) She collaborated with Jerry Bradbury on a past project.
 (D) She plans to make a sequel to Bandits of Time II.
+
 193. Who most likely is Korinna McKay?
 (A) A television producer
 (B) A talk show host
 (C) A broadcast network executive
 (D) An interview guest
+
 194. What is suggested about Mr. Voorhies?
 (A) He was contacted by Korinna McKay previously.
 (B) He provided feedback about the June 7 show online.
 (C) He had a query about Bandits of Time II during a show.
 (D) He listened to a rerun of Screen Action.
+
 195. Why has Ms. Hefner asked Mr. Voorhies to sign a document?
 (A) To signify his willingness to be interviewed
 (B) To allow a program recording to be publicly released
@@ -760,21 +836,25 @@ If my application is approved, I will give appropriate credit to Health Note. �
 (B) A disease that commonly affects the elderly
 (C) Some advice regarding the consumption of supplements
 (D) A medication proven to be effective for seniors
+
 197. What does the e-mail suggest about Health Note?
 (A) It does not approve all petitions for reprints.
 (B) It is published on a weekly basis.
 (C) It has allowed Mr. Hopson to reprint excerpts before.
 (D) It does not provide copies of previous issues.
+
 198. What is true about Psychology Guide?
 (A) It is a new publication.
 (B) It is inaccessible to members of the public.
 (C) It has long supported Health Note.
 (D) It is not available online.
+
 199. What is indicated about Mr. Hopson's request?
 (A) It will not incur a charge for printing.
 (B) It requires that a research study be conducted.
 (C) It has to be approved by the Research Institute for Aging.
 (D) It is for a newly launched medical journal.
+
 200. When will Mr. Hopson receive a response?
 (A) At the end of March
 (B) At the beginning of April

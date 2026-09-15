@@ -10,11 +10,17 @@ Directions: For each question, you will listen to four short statements about a 
 Sample Answer
 (A)(B)(C)(D)
 The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
+
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
 
 ### PART 2
@@ -485,6 +491,7 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) It will be expanded this year.
 (C) It offers internship opportunities.
 (D) It cannot take in any more animals. 1
+
 00. Look at the graphic. What will the listeners Ull see first?
 (A)A sand fox
 (B) A jackal

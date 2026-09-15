@@ -20,151 +20,181 @@ PARTS
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 101. Concordia Bank may fill the vice-president's position with an executive _____ works for one of its competitors.
 (A) whose
 (B) whoever
 (C) whom
 (D) who
+
 102. In an effort to attract more customers, Hanford Jewelers now offers cleaning services for silver items at its five branches.
 (A) persuaded
 (B) compensated
 (C) unbound
 (D) complimentary
+
 103. _____ the passengers of the overbooked flight to San Diego, only four said they would be willing to travel at a later time.
 (A) Among
 (B) Into
 (C) Between
 (D) Throughout
+
 104. Mr. Ing chose to fly to the conference in Los Angeles earlier than scheduled he would have extra time to visit some potential clients.
 (A) so that
 (B) in order
 (C) but for
 (D) ahead of
+
 105. Multiple studies have shown that even exercise can lead to marked improvements in physical health.
 (A) moderate
 (B) patient
 (C) influential
 (D) movable
+
 106. The introductory art class meets every week at the community center on Vine Avenue.
 (A) each
 (B) soon
 (C) much
 (D) once
+
 107. The brochures released by Towler Prudential provide additional information on _____ insurance coverage plans.
 (A) prevailed
 (B) various
 (C) conquered
 (D) cautious
+
 108. Most downtown hotels are fully booked for the long weekend, but _____ on the outskirts of the city still have vacancies.
 (A) another
 (B) others
 (C) each
 (D) anything
+
 109. The vast majority of citizens approved of the city's urban development plan, and complaints were submitted to City Hall.
 (A) a lot of
 (B) any
 (C) many
 (D) few
+
 110. Many submissions for the essay contest were _____ well-written, considering most of the participants are students.
 (A) remarkably
 (B) remarking
 (C) remarked
 (D) remarkable
+
 111. _____ repeated reminders about efficient energy consumption, more households are buying energy-efficient appliances.
 (A) In response to
 (B) Apart from
 (C) In spite of
 (D) Except for
+
 112. Before entering the construction site, all personnel must wear appropriate gear to provide them with full protection.
 (A) safely
 (B) safety
 (C) safest
 (D) safe
+
 113. Invited guests were informed that the banquet for the sales department would start _____ at 7 p.m. at the Ogilvy Hotel.
 (A) frequently
 (B) promptly
 (C) lately
 (D) mostly
+
 114. Ray's Automotive Center provides window coating for vehicles to keep glass clear when _____ to heavy rains or snow.
 (A) exposed
 (B) revealed
 (C) intended
 (D) deprived
+
 115. The manager of the restaurant is considering hiring two more waiters to address complaints from diners _____ slow service.
 (A) unlike
 (B) regarding
 (C) within
 (D) because
+
 116. Sales clerks are trained _____ customers with all product inquiries and can conduct demonstrations of store devices.
 (A) aid
 (B) to aid
 (C) aiding
 (D) aided
+
 117. Vail Enterprises' stock price is 16 percent since the start of the year, mostly because of an increase in its overseas revenues.
 (A) behind
 (B) toward
 (C) up
 (D) around
+
 118. The family-owned company maintains a policy of promoting a member to a senior position only _____ he or she has earned a graduate degree in business.
 (A) where
 (B) than
 (C) whereas
 (D) after
+
 119. Exhausted by her weeklong apartment search, Ms. Stein decided to rent the one on Albright Avenue, as it was the least of all those she had seen.
 (A) expend
 (B) expenses
 (C) expensively
 (D) expensive
+
 120. Management at the new mall on Broad Street expects to draw large crowds on the first day of the celebration, as the grand opening _____ - with a national holiday.
 (A) escorts
 (B) coincides
 (C) contains
 (D) substitutes
+
 121. The Hammersmith Business Association will subsidize a new _____ of lectures to promote entrepreneurship.
 (A) series
 (B) trade
 (C) content
 (D) advance
+
 122. Volunteers providing assistance during the Main Street Parade _____ by the bright green shirts they are wearing.
 (A) distinguish
 (B) distinguished
 (C) are distinguished
 (D) are distinguishing
+
 123. With the shipment already running late, the truck driver did not stop until _____ his destination, nearly a thousand miles away from where he started in Nevada.
 (A) reach
 (B) reaches
 (C) reaching
 (D) reached
+
 124. Guests will be entitled to discounted tours and unlimited use of the resort's pool facilities _____ October 1.
 (A) as of
 (B) such as
 (C) now that
 (D) along with
+
 125. Although the board has given its final to the firm, neither party will sign the contract until a price is agreed upon.
 (A) achievement
 (B) contemplation
 (C) approval
 (D) supervision
+
 126. A brief _____ from the newly released novel by Nigel Murphy was featured in the daily newspaper along with a glowing book review.
 (A) extract
 (B) extractor
 (C) extractive
 (D) extracting
+
 127. _____ being able to accommodate more participants, the new event venue is more conveniently accessible from the city center.
 (A) In accordance with
 (B) On account of
 (C) As well as
 (D) With respect to
+
 128. _____ by a group of advertising professionals, Speedline Concepts is a leader in the field of brand and logo creation.
 (A) Identified
 (B) Established
 (C) Persuaded
 (D) Manufactured
+
 129. Visitors are not permitted to stay overnight with patients unless arrangements have been made _____ with the hospital administration.
 (A) beforehand
 (B) thereby
 (C) enough
 (D) however
+
 130. The plant's safety officers conduct inspections _____ throughout the year with no warning, so staff must always be prepared for such an event.
 (A) alternatively
 (B) approximately
@@ -179,14 +209,17 @@ Scott Harper has been ---- - to lead Canada's national sailing team in the upcom
 (B) educated
 (C) refused
 (D) reserved
+
 132. (A) No one expected the Canadian team to lose at the Regatta.
 (B) He also answered questions from journalists at the event.
 (C) This year's contest has been the toughest in years.
 (D) The media conference is scheduled for this coming weekend.
+
 133. (A) their
 (B) which
 (C) this
 (D) while
+
 134. (A) Instead
 (B) In fact
 (C) Despite
@@ -200,14 +233,18 @@ TO: Randy Huffington <r.huffington@megadelta.com> FROM: Olivia Cottrell <o_cottr
 (B) to malfunction
 (C) malfunctions
 (D) malfunctioned
+
 136. (A) boldly 136.
 (B) violently
 (C) effortlessly
 (D) instantly
+
 137. (A) machine at your expense. Si W (B) However, fixing the machine may require more time. Therefore, the equipment we
 (C) purchased is still under warranty, (t was already repaired at least or
 (D) the past year.
+
 138. (A)
+
 138. (B)
 (C)
 (D) <<MISSING>>
@@ -220,14 +257,17 @@ DiMaggiano's Frozen Pizzas Cooking Instructions Remove the pizza from the packag
 (B) as
 (C) by
 (D) of
+
 140. (A) Store uncooked pizzas in your refrigerator's freezer compartment.
 (B) Order our pizzas online or buy them at any supermarket.
 (C) Do not cook it if the pizza is still frozen.
 (D) Take it out when the crust is golden and the cheese has melted.
+
 141. (A) wooden
 (B) clean
 (C) smaller
 (D) hotter
+
 142. (A) cool
 (B) cools
 (C) to cool
@@ -241,14 +281,17 @@ TO: Tara Fanning <ethan12@beautydeep.com> FROM: Sarah Monaco <monaco2323@litmail
 (B) market
 (C) label
 (D) gather
+
 144. (A) Additionally
 (B) Meanwhile
 (C) Nonetheless
 (D) Consequently
+
 145. (A) enjoyment
 (B) freedom
 (C) humor
 (D) vitality
+
 146. (A) So I was surprised at how young my skin looked, using your cream.
 (B) But I am not sure if you received my order in my previous e-mail.
 (C) First, I'd like to know when your representative can visit my home.
@@ -267,6 +310,7 @@ Having trouble with your tax forms? Are the finances of your small business more
 (B) Help with creating a contract
 (C) Investment consultation
 (D) Handling accounting systems
+
 148. Why would a customer visit the EGA Web site?
 (A) To arrange a personal tax consultation
 (B) To read feedback from other clients
@@ -282,6 +326,7 @@ The New Hampton Professionals Society would like to invite you to the Twelfth An
 (B) Attendees are required to dress formally.
 (C) It will be held on a weekend.
 (D) Refreshments will be served to all guests.
+
 150. Who are Johannes Linden and Vladimir Tepanor?
 (A) Prominent conductors of an orchestra
 (B) Representatives of a charitable organization
@@ -309,11 +354,13 @@ Time Out Vendors Refresh D-02 Cold Drink Vending Machine The all-new Refresh D-0
 (B) Its storage capacity
 (C) The cost of renting it out
 (D) A list of items it is capable of holding
+
 154. According to the advertisement, what has Time Out Vendors done?
 (A) Established a service center
 (B) Modified a previous machine model
 (C) Started serving hot drinks
 (D) Launched an online site
+
 155. What is stated about the machine's payment device?
 (A) It accepts paper money.
 (B) It identifies foreign currency.
@@ -333,11 +380,13 @@ o
 (B) Convention center employees
 (C) Holiday shoppers
 (D) Interested booth renters
+
 157. What is NOT indicated about the fair?
 (A) It will include free prizes.
 (B) It will exhibit a variety of products.
 (C) It is free for 10-year-old children.
 (D) It is scheduled to last for two weeks
+
 158. What is suggested about the convention center?
 (A) It was recently constructed.
 (B) It has several exhibit halls.
@@ -355,6 +404,7 @@ Dear Mr. Feldstein, Thank you for informing us about the intermittent reception 
 (B) To report an Internet connection problem
 (C) To respond to a customer's inquiry
 (D) To persuade a client to renew a subscription
+
 160. What does Ms. Winslow offer to provide Mr. Feldstein?
 (A) An extended service contract
 (B) A day's worth of free phone calls
@@ -370,6 +420,7 @@ j/ ~\i The City of Burbank provides a number of additional services for the bene
 (B) A directory of government employees
 (C) Directions to City Hall
 (D) Details on other services
+
 162. For which service is an appointment NOT 164.
 (A) Energy use consultations
 (B) Drinking water safety testing
@@ -385,16 +436,19 @@ Questions 165-168 refer to the following online chat discussion.
 (B) It is interested in taking over another business.
 (C) It is supplied by firms in at least three countries.
 (D) Its customers are mostly based in Thailand.
+
 166. What will Ms. Bailey use for her analysis?
 (A) A company booklet
 (B) A presentation handout
 (C) A business magazine
 (D) An advertising analysis
+
 167. At 10:27 a.m., what does Mr. Brenner
 (A) He will begin doing some analyses.
 (B) He will work on a presentation right away.
 (C) He will confirm figures for a report.
 (D) He will write staff role descriptions.
+
 168. What will Mr. Zalewski probably do on July 18?
 (A) Give the majority of the main talk
 (B) Provide responses to financial inquiries
@@ -410,11 +464,13 @@ May 25 Barbara Koteva, Director of Public Relations Ademus Petroleum, 4493 24th 
 (B) To report on the results of a survey
 (C) To provide an account of an organization
 (D) To project revenues for the upcoming year
+
 170. Who most likely is Ms. Koteva?
 (A) A representative of a corporate donor
 (B) An employee of a nonprofit group
 (C) An event organizer for Earth Awareness
 (D) A founder of a charitable foundation
+
 171. What is NOT mentioned as a recent change at the SPEE?
 (A) It added a multilingual function to its Web site.
 (B) Its membership increased in Eastern Europe.
@@ -430,16 +486,19 @@ Midland Zoo Opens Crocodile Farm Always a favorite among locals, Midland Zoo ope
 (B) deliver
 (C) function
 (D) sustain
+
 173. What has the facility recently added for visitors?
 (A) An open feeding area
 (B) A wildlife viewing spot
 (C) A picture-taking platform
 (D) A souvenir shop
+
 174. What does Midland Zoo plan to do in the future?
 (A) Stop charging admission for students
 (B) Apply for a government grant
 (C) Begin showing educational films
 (D) Launch an updated Web site
+
 175. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "It is hoped that the facility will enable zoo staff to increase certain species' population numbers."
 (A) [1]
 (B) [2]
@@ -469,11 +528,13 @@ Polyester
 (B) It has exceptional customer service.
 (C) It has a wide selection of sewing machines.
 (D) It offers helpful dressmaking tutorials.
+
 177. On the Web page, the word "taste" in paragraph 1, line 4, is closest in meaning to
 (A) preference
 (B) flavor
 (C) decision
 (D) feeling
+
 178. What is indicated about Ms. Palmer?
 (A) She needs samples of fabrics.
 (B) She has recommended the store to her associates.
@@ -501,21 +562,25 @@ Delivery & Billing Information Bill to: Ms. Cameron Foster Ms. Cameron Foster 64
 (B) They find it hard to part with some items.
 (C) They will pay a higher fee for good service.
 (D) They demand that she put up more branches.
+
 182. According to Ms. Solis, how is For-U-Storage unlike other providers?
 (A) It has more locations around the country.
 (B) It utilizes highly advanced security systems.
 (C) It offers discounts for all online orders.
 (D) It uses box sizes as a basis for charges.
+
 183. According to the article, what will For-U-Storage do for free?
 (A) Pack boxes for customers
 (B) Deliver containers for storage
 (C) Ship customers' personal items
 (D) Collect unwanted goods for recycling
+
 184. What is indicated about Mr. Johansen?
 (A) He only recently moved to Orlando.
 (B) He pays to store a deluxe-size box.
 (C) He referred Ms. Foster as a customer.
 (D) He is a co-founder of For-U-Storage.
+
 185. What is mentioned in the order form?
 (A) There will be nobody at Ms. Foster's home on the delivery date.
 (B) There is only one type of box requested.
@@ -541,21 +606,25 @@ jewelry, you want us to conduct surveys to learn what specific items customers w
 (B) To celebrate a special anniversary
 (C) To prepare the store for new merchandise
 (D) To promote a new product line
+
 187. What is NOT mentioned about Babson's Department Store?
 (A) It sells items through a Web site.
 (B) It operates out of several retail locations.
 (C) It offers regular discounts to some customers.
 (D) It manufactures its own brand of products.
+
 188. What is indicated about the Watches and Jewelry Department?
 (A) Its products yielded less profit per item due to high costs.
 (B) It earned the least amount of money over two months.
 (C) Its earnings rose in September despite being excluded from a sale.
 (D) It will be priced down during the upcoming shopping period.
+
 189. Which department will receive additional funds for a market study?
 (A) Women's
 (B) Men's
 (C) Kids & Teens
 (D) Bed & Bath
+
 190. What can be inferred about Ms. Atkins?
 (A) She produces sales reports for the company.
 (B) She is in charge of procuring watches and jewelry.
@@ -577,20 +646,24 @@ Big Success Magazine Leadership Course Registration Form By registering for this
 (B) It is affiliated with a business-oriented publication.
 (C) It will take place over a five-day period in April.
 (D) The recipient of an award will be presenting at it.
+
 192. What most likely is Mr. Marcoux having difficulty doing?
 (A) Winning over its strongest competitor
 (B) Completing Big Success Magazine's course (0) Selling his skateboards over the Internet
 (D) Registering for the entrepreneur conference <<MISSING>>
+
 193. What is suggested about Ms. Maille?
 (A) She has recently gone into business for herself.
 (B) She was not entirely satisfied with an online course.
 (C) She is in the same line of business as Mr. Marcoux.
 (D) She is planning to open an office in Kitchener.
+
 194. What is mentioned about the course?
 (A) It is for invited participants only.
 (B) It can be paid for in installments.
 (C) It is offered at a discount to subscribers.
 (D) Its fees can be refunded six weeks before a start date.
+
 195. Where will the conference take place?
 (A) Toronto
 (B) Waterloo
@@ -612,21 +685,25 @@ FOREWORD In Tony s Tune, the follow-up to his best-selling novel Adriana's Song,
 (B) A request for an introduction to an original work
 (C) A critique on a recently released sequel
 (D) A change made to a manuscript draft
+
 197. What is true about Ms. Harkness?
 (A) She has written several best-selling books.
 (B) She has edited Mr. Dansen's manuscripts before.
 (C) She required some further details from Mr. Dansen.
 (D) She has been in contact with Mr. Dansen's publisher.
+
 198. What did Ms. Harkness receive on June 9?
 (A) A magazine subscription form
 (B) A manuscript for Adriana's Song
 (C) A draft of a literary review
 (D) A copy of Tony's Tune TEST 2. □ oil □ omo □ Oil QOI-LIO □ Oil □omo
+
 199. In the foreword of a book, the word "Drawing" in paragraph 1, line 2, is closest in meaning to
 (A) Getting inspiration
 (B) Making sketches
 (C) Taking notice
 (D) Attracting attention
+
 200. What is implied about Cry of the SeagulH
 (A) It is the sequel to a previous best-selling novel written by Mr. Dansen.
 (B) It was given a positive review by Ms. Harkness in Print Media Magazine.

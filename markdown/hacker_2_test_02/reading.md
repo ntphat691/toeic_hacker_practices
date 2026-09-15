@@ -17,146 +17,175 @@ corresponding letter (A), (B), (C), or (D) on the answer sheet.
 (B) neither
 (C) each
 (D) that
+
 102. Cardston Corporation's fiscal records are kept in _____ boxes and are stored according to year.
 (A) separate
 (B) separately
 (C) separates
 (D) separation
+
 103. Prior to permanently shutting down, Rebound Media thanked customers for the they had shown over the years.
 (A) regret
 (B) support
 (C) strategy
 (D) comfort
+
 104. Visitors to Holidayland need not worry about bringing enough cash, as credit cards are accepted _____ in the resort.
 (A) away
 (B) above
 (C) forward
 (D) anywhere
+
 105. Having decided to enter the Asian market, Edgeware Electronics is now seeking regional _____ for its products.
 (A) distribute
 (B) distributors
 (C) distributive
 (D) to distribute
+
 106. _____ who wants to reserve a conference room for a meeting can simply e-mail Ms. Bloomberg in administration.
 (A) Anyone
 (B) Others
 (C) Them
 (D) Nobody
+
 107. After _____ to build a new home in Victoria, Mr. Redmond hired an interior designer to assist him with decorating the house.
 (A) decide
 (B) decides
 (C) decided
 (D) deciding
+
 108. First Bonneville Bank _____ 35 branches of CPG Financial Trust for $90 million, strengthening its presence in the region.
 (A) explained
 (B) canceled
 (C) acquired
 (D) committed
+
 109. Psychologists conducted an _____ study about the negative effects of video games on young children.
 (A) extent
 (B) extensive
 (C) extensively
 (D) extend
+
 110. Reginald Rentals _____ opened a branch in Sacramento, and after a very short time the new location became profitable.
 (A) hardly
 (B) recently
 (C) habitually
 (D) potentially
+
 111. The city council has taken steps improving air quality by introducing measures that limit factory pollution.
 (A) out of
 (B) toward
 (C) owing to
 (D) versus
+
 112. The factory is preparing to hire workers for selected manufacturing plants to meet its quarterly production goals.
 (A) temporary
 (B) inspected
 (C) sustained
 (D) instructive
+
 113. -- — reviews for Leonard Atwood's new book were very positive, orders for the novel were lower than the publisher had expected.
 (A) Furthermore
 (B) Yet
 (C) Although
 (D) Hence
+
 114. Those planning to join the historic district tour are asked to be _____ the center's reception area at 8 a.m. tomorrow.
 (A) on
 (B) from
 (C) in
 (D) of
+
 115. _____ ski resorts are frequently busier during peak season in the winter, they do attract hikers in the summer.
 (A) Along
 (B) While
 (C) Once
 (D) Apart
+
 116. The organizer of the publicity convention said there is still _____ - work to be done, but was not concerned about meeting the deadline.
 (A) many
 (B) few
 (C) much
 (D) a lot
+
 117. The appliance maker _____ all repair charges for items that are accompanied by valid warranties.
 (A) trades
 (B) waives
 (C) resists
 (D) confines
+
 118. The executive director has asked all production supervisors to monitor the work schedule _____ in the future.
 (A) most attentive
 (B) attentive
 (C) more attentively
 (D) attention
+
 119. Ms. Tennyson has a _____ for spotting good investments and a reputation for being bold and visionary.
 (A) talent
 (B) contest
 (C) promise
 (D) trend
+
 120. By the time its weeklong promotion was over, Polk Mobile _____ to sell almost its entire inventory of Kelstra smart phones.
 (A) manages
 (B) to manage
 (C) had managed
 (D) will manage
+
 121. With the financial crisis over and banks eager to provide loans, it has never been easy for the average person to own a home.
 (A) which
 (B) this
 (C) some
 (D) who
+
 122. Dr. Boyle does not generally see any patients _____ - appointments, except for cases of emergency.
 (A) beside
 (B) without
 (C) inside
 (D) under
+
 123. Customers who sign up for a one-year to Emerald Cable TV by the end of the week will receive a month of free service.
 (A) subscribe
 (B) subscriber
 (C) subscription
 (D) subscribes
+
 124. Well attended by dozens of enthusiasts, the launch party for Fiesta Motors' newest sports car was deemed an _____ success.
 (A) eligible
 (B) occasional
 (C) idle
 (D) absolute
+
 125. Hector Calma _____ - project leader for all Axos activities based in South Africa and is busy preparing to move there for an extended period.
 (A) appoint
 (B) appointed
 (C) will appoint
 (D) has been appointed
+
 126. The supervisor is skilled at managing the balance between the needs of staff and those of upper management.
 (A) sudden
 (B) delicate
 (C) lenient
 (D) vague
+
 127. Even though subscriptions to the The Marinberg Herald's print edition have steadily declined, its online continues to grow.
 (A) definition
 (B) policy
 (C) readership
 (D) broadcast
+
 128. _____ the malfunctions with the Clarity Dishwasher are due to defects or low-quality materials is still being investigated.
 (A) So
 (B) Whether
 (C) While
 (D) Among
+
 129. _____ those in the delivery industry had predicted, Volo-Air's new routes helped boost its quarterly earnings significantly.
 (A) Instead of
 (B) Up to
 (C) Regardless of
 (D) Just as
+
 130. The mayor was able to _____ her plans for improving job creation through the help of local businesses.
 (A) operate
 (B) solidify
@@ -171,13 +200,16 @@ The next time you're in downtown Houston and would like a taste of Asia, visit S
 (B) materials
 (C) components
 (D) directions
+
 132. (A) Our chefs use exotic seasonings in all of our grilled food. being refurbished.
 (C) We serve a wide range of popular Asian cuisine every day.
 (D) Our food is delicious but limited to seafood selections. <<MISSING>>
+
 133. (A) prepares
 (B) prepared
 (C) is prepared
 (D) preparing
+
 134. (A) Conversely
 (B) In short
 (C) To that end
@@ -191,14 +223,17 @@ To: Scott Douglas <sdouglas@evergladeprints.com> From: Edward Kovac <edward.k@co
 (B) satisfied
 (C) credited
 (D) troubled
+
 136. (A) allowed
 (B) asserted
 (C) moving
 (D) missing
+
 137. (A) We are not sure why these details ||m were included.
 (B) We need each correction to be reflected precisely.
 (C) We would like you to change the entire layout.
 (D) We ask that you send the invoice for the design we chose.
+
 138. (A) cover
 (B)covered
 (C) covering
@@ -212,14 +247,18 @@ June 21 Magnum Insurance 337 Deerborne Avenue Banff, Alberta, T2N 4S5 Canada Dea
 (B) currently
 (C) surprisingly
 (D) typically
+
 140. (A) requests
 (B) were requested
 (C) have requested
 (D) had requested
+
 141. (A) |||| claim as soon as possible. W (B) He has provided you with the assistance you require. Making this investment will rai:
 (C) home's market value. If possible, start photographinc
 (D) damaged areas of your home.
+
 142. (A) score
+
 142. (B) estimate
 (C) history
 (D) receipt <<MISSING>>
@@ -232,13 +271,16 @@ Questions 143-146 refer to the following memo.
 (B) inspect
 (C) address
 (D) ignore
+
 144. (A) A provisional copy of this handbook will be distributed at the next meeting. v.r»y.- IT w (B) Your comments on the revised manual were very much appreciated.
 (C) A copy of the article may be found in last month's company newsletter.
 (D) We are glad that everyone is now up-to-date on our meeting schedule. <<MISSING>>
+
 145. (A) establish
 (B) established
 (C) establishing
 (D) establishment
+
 146. (A) access
 (B) accessible
 (C) accesses
@@ -255,6 +297,7 @@ We are sorry to hear that you would like to cancel your subscription. To complet
 (B) Call the customer service department
 (C) Visit a regional office
 (D) Mail a document
+
 148. Why does Mr. Davis want to end his subscription to Fit Body Monthly?
 (A) He finds the magazine too expensive.
 (B) He has a subscription with a similar magazine.
@@ -274,6 +317,7 @@ Reservations need to be made in advance^ so please contact Lionel Grimm of the p
 (B) Taking time off for holidays
 (C) An annual company gathering
 (D) Completing a project by a deadline
+
 150. What are staff members asked to do?
 (A) Come to a client meeting
 (B) Send an e-mail to a colleague
@@ -291,6 +335,7 @@ C )
 (B) She knew that a colleague was visiting a worksite.
 (C) She thought the paint would not match.
 (D) She realized Ms. Bryant might not be in her office.
+
 152. What color of paint will be delivered to Dandridge & Associates?
 (A) Deep green
 (B) Light brown
@@ -306,11 +351,13 @@ Dear participants, Welcome to the Fifth Spatial Computing Conference (SCC). Once
 (B) To tell participants about events
 (C) To inform attendees of timetable changes
 (D) To propose a tentative conference schedule
+
 154. What is NOT indicated about the welcome reception?
 (A) Seating will be assigned by organizers.
 (B) It will begin with an introductory speech.
 (C) It will involve people from different fields.
 (D) Food and beverages will be offered. 64 !?St!E2jei|?!aojm)-gotg{7B5i9oia
+
 155. Which venue will be available to attendees after the seminars end?
 (A) The Granville Room
 (B) The Halifax Room
@@ -330,6 +377,7 @@ Product Old Price New Price % Increase Domestic letter mail $1.00 $1.20 20% Comm
 (B) It recently lost its financial aid.
 (C) It is closing some of its branches.
 (D) It plans to offer a metered mail service.
+
 157. Why might rates be raised by the postal service in the future?
 (A) To cover expenses related to an expansion
 (B) To adjust for changes in inflation
@@ -347,11 +395,13 @@ Welcome to Ocean Breeze Resort! The Kostiak Islands are known for their rich mar
 (B) To provide a travel schedule
 (C) To promote special discounts
 (D) To highlight a natural attraction
+
 159. What is indicated in the notice?
 (A) All tours need at least two participants.
 (B) Boats will be used on some tours.
 (C) Tourists must pay in advance.
 (D) Reduced rates are not available.
+
 160. According to the notice, what will NOT be seen during an Island Hopping trip?
 (A) A tropical forest
 (B) Underwater wildlife
@@ -367,15 +417,18 @@ O Corrine Dealba 4:32 p.m. Hi everyone. So, it sounds like Osment Industrial is 
 (B) It is constructing a new office space.
 (C) It has asked a firm for a project presentation.
 (D) It rejected several indoor gardening proposals.
+
 162. What is Mr. Wong most likely going to do next week?
 (A) Modify the terms of a contract
 (B) Measure a potential project space
 (C) Inspect a new rooftop garden
 (D) Oversee a work crew doing an installation
+
 163. At 4:38 p.m., what does Mr. Wong mean when he writes, "That works perfectly for me"?
 (A) He has no problems with his vehicle.
 (B) He accepts the offer of a ride to an office. (0) He is confident he can meet a deadline.
 (D) He feels a presentation needs to be shortened. <<MISSING>>
+
 164. What might Ms. Pearson do on Tuesday afternoon?
 (A) Assist Ms. Dealba with a presentation
 (B) Take charge of a gardening firm's office (0) Do a job in her coworker's absence
@@ -390,11 +443,13 @@ Sampat Labs Cosmetic Testing 525 Hilltop Road, New Brunswick, NJ 08901 April 14 
 (B) A store branch manager
 (C) A client relations representative
 (D) A makeup manufacturer employee
+
 166. What is NOT indicated about Sampat Labs?
 (A) It has decades of experience in the industry.
 (B) It can determine how long a product will last.
 (C) It will not perform tests on animals.
 (D) It makes its research data available online. 68 ^ my eoi?PI5i D
+
 167. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "In this regard, you can be assured that they will be able to provide you with expert service."
 (A) [1]
 (B) [2]
@@ -410,16 +465,19 @@ Shopping for Free? Virtual Mall is the creation of programmer Pat Gustin, who la
 (B) A study about online advertising
 (C) A software manufacturing company
 (D) A simulation game for mobile devices
+
 169. What is NOT mentioned about Virtual Mall?
 (A) It has a significant number of players.
 (B) It does not charge its members for downloading.
 (C) It helps to promote the products of real companies.
 (D) It allows user to create multiple characters.
+
 170. What is indicated about Pat Gustin?
 (A) He left his former job nine months ago.
 (B) He profits from the sale of merchandise.
 (C) He has a background in advertising.
 (D) He is developing a new game.
+
 171. In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? "They can then use these earnings to improve their stores or purchase items from other sellers."
 (A) [1]
 (B) [2]
@@ -435,16 +493,19 @@ Business Insider By Tony Litzmark A 24-hour convenience store franchise has been
 (B) To provide product dietary information
 (C) To describe how a business became successful
 (D) To encourage people to start a franchise
+
 173. What is indicated about Felix Richardson?
 (A) He was a cofounder of the Stop Avenue stores.
 (B) He made significant changes to increase revenues.
 (C) He works under Mr. Patel's supervision.
 (D) He appeared in a televised promotion.
+
 174. What was NOT a method used by Felix Richardson?
 (A) Redecorating store interiors
 (B) Adjusting marketing strategies
 (C) Advertising on social network sites
 (D) Offering product discounts
+
 175. According to the article, what is expected to happen over the next two years?
 (A) The franchise's management structure will be reorganized.
 (B) Store branches will be linked by a computer network.
@@ -476,21 +537,25 @@ Schedule For: Linda Atkins PLAINS REALTY From the desk of: Edwin Matthews APRIL 
 (B) To share ideas for a business venture
 (C) To recommend a mode of transportation
 (D) To inform a new employee of some job details
+
 177. What is indicated about Mr. Matthews?
 (A) He is looking to purchase a new home.
 (B) He prefers traveling by car over flying.
 (C) He prepares Ms. Atkins' appointment schedule.
 (D) He wants to meet with Mr. Blackburn.
+
 178. Who has not yet confirmed a meeting with Ms. Atkins?
 (A) Ms. Harrow
 (B) Mrs. Robinson
 (C) Mr. Abraham
 (D) Mr. Choi
+
 179. On which date will Ms. Larson probably not be required to work?
 (A) April 14
 (B) April 16
 (C) April 18
 (D) April 25
+
 180. What is NOT indicated about Ms. Atkins?
 (A) She will speak at a convention.
 (B) She will meet with one client twice in April.
@@ -514,11 +579,13 @@ Good Times to Be Had at Toronto's Edge Festival By Tim Cosgrove If you have neve
 (B) It allows performers to compete for a prize.
 (C) It consists of events at several different venues.
 (D) It is free for members of an art organization.
+
 182. What can visitors do with the mobile application?
 (A) Purchase tickets at a discount
 (B) Book room accommodations
 (C) Obtain directions to performances
 (D) Read reviews of each show
+
 183. What is indicated about Mr. Cosgrove?
 (A) He used to be an amateur performer.
 (B) He was in Scotland the year before.
@@ -548,21 +615,25 @@ Car Rental $180.00 Driver Services* $340.00 SUBTOTAL $520.00 $52.00 TAX DEPOSIT 
 (B) It provides services for different types of events.
 (C) It is still in business after two decades.
 (D) It has service desks at airports and stations.
+
 187. What will Mr. Lopez be given?
 (A) A vehicle upgrade
 (B) A complete refund
 (C) A cash voucher
 (D) A train ticket
+
 188. What is true about Benjamin Lopez?
 (A) He is planning to borrow money from a bank.
 (B) He is using a discount coupon for a service.
 (C) He is making a booking for a guest.
 (D) He is meeting a visitor at Central Station.
+
 189. What happens if a booking is canceled one day before a rental date?
 (A) Customers can receive a coupon.
 (B) A deposit payment must be given up.
 (C) Credit cards are charged the total amount.
 (D) A cancellation fee must be paid.
+
 190. What is true about Solomon Nyongo?
 (A) He will wait for William Bail on a station platform.
 (B) He will drive a stretch limousine on April 18.
@@ -586,21 +657,25 @@ Date/Time Event Event type Location Free with registration 11/03 Creative Writin
 (B) An online seminar
 (C) A learning opportunity
 (D) A community club meeting
+
 192. In the e-mail, the word "surrounding" in paragraph 2, line 1, is closest in meaning to
 (A) closing
 (B) encircling
 (C) concerning
 (D) approaching
+
 193. Which activity does Mr. Jackson NOT request for his group?
 (A) The complimentary demonstration
 (B) The video presentation on technology
 (C) The hands-on practice using a printing device
 (D) The discussion led by library staff
+
 194. What is indicated about the Warner City Library on the schedule?
 (A) It is holding an invitation only event at its main location.
 (B) It closes at noon sometimes to host special events.
 (C) It has multiple locations in the same city.
 (D) It operates a tutoring center for students.
+
 195. What is suggested about the event on November 16?
 (A) It is free for members of an art group.
 (B) It is the second one of a series to be held.
@@ -622,21 +697,25 @@ Get $3 off Peakland Dairy's New Organic Ice Cream! Thank you for visiting Kentle
 (B) It will release a new product line.
 (C) It requires fruit to be frozen before delivery.
 (D) It only sells ice cream during the summer.
+
 197. In the e-mail, the word "means" in paragraph 1, line 4, is closest in meaning to
 (A) intention
 (B) capacity
 (C) revenue
 (D) process
+
 198. What has Mr. Craig most likely requested?
 (A) A department's contact number
 (B) A revised billing statement
 (C) A discount on a bulk purchase
 (D) A delivery to Spruce Road TEST 02fe 1. Lfe 70M mo\ EjlAEOfl □ oil nomo □ oil nomo
+
 199. What is suggested about Mr. Craig?
 (A) He was unable to purchase raspberries from Ms. Kentley.
 (B) He had to increase the quantity for his strawberry order,
 (C) He is searching for a supplier of organic dairy products.
 (D) He was given a complimentary ice cream coupon.
+
 200. What is indicated about Kentley Farm?
 (A) It offers discounts to stores placing bulk orders.
 (B) It supplies fresh strawberries to Wilton Groceries.
