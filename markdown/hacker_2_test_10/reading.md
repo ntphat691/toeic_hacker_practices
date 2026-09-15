@@ -192,22 +192,26 @@ Questions 131-134 refer to the following announcement.
 
 Attention residents of Sudbury: A neighborhood gathering _____ at the community center next Thursday evening. This meeting is open to all local residents. The main issue up for discussion is the implementation of traffic calming measures on Kingston Road. This must be resolved as soon as possible because of the sharp _____ 'n number of cars using that street. Other issues on the agenda include the garbage collection schedule and the rezoning of Hammersmith Drive. -------- 1 d J. Refreshments will be served from 7:30 p.m., and business will begin at 8 p.m. Please arrive to ensure that we have enough time to address everything.
 
-131. (A) took place
+131.
+(A) took place
 (B) will take place
 (C) has taken place
 (D) to take place
 
-132. (A) increase
+132.
+(A) increase
 (B) prohibition
 (C) advance
 (D)exchange
 
-133. (A) We appreciate your having taken the time to express your opinions.
+133.
+(A) We appreciate your having taken the time to express your opinions.
 (B) You may familiarize yourself with these issues on our Web site.
 (C) It is our decision to provide alternative routes for those using the street.
 (D) Your decisions have made our community a better place to live in.
 
-134. (A) punctuality
+134.
+(A) punctuality
 (B) punctual
 (C) punctualities
 (D) punctually
@@ -216,21 +220,25 @@ Questions 135-138 refer to the following text.
 
 To: Denise Brooks <dbrooks@atland.com> From: Nelson Lee <nlee@atland.com> Subject: Acton Date: January 18 Hello Denise, As you know, I have an appointment with a potential client from Acton, the firm interested in purchasing our computer components on a regular basis. Since the meeting will take place in a few days, I have been hard at work trying to finalize a sales _____ However, I seem to have misplaced the copy that I printed out. Although I have the file on my hard drive, the printed one is especially important because I wrote some notes on it. _____ Could you please check whether the draft was filed away by mistake? _____ I can get that particular copy back, I'll have to go over the one I have and make notes again. It's essential that we secure the Acton as a _____ so I would really appreciate it if you could locate the missing document for me. Thank you. Nelson Lee
 
-135. (A) propose
+135.
+(A) propose
 (B) proposed
 (C) proposal
 (D) prepositional
 
-136. (A) Please make sure that the final draft is thing in the morning.
+136.
+(A) Please make sure that the final draft is thing in the morning.
 (C) They are unwilling to agree to the deal unless we revise it.
 (D) I haven't had the time to add these notes into the electronic file. <<MISSING>>
 
-137. (A) Though
+137.
+(A) Though
 (B) Whoever
 (C) Whether
 (D) Unless
 
-138. (A) developer
+138.
+(A) developer
 (B)vendor
 (C) supplier
 (D) customer
@@ -239,22 +247,26 @@ Questions 139-142 refer to the following letter.
 
 James Gretsky Mythos Computers, Customer Inquiries Department 1511 South Lowell Boulevard, Denver, Colorado, 80236 Dear Mr. Gretsky, I recently called your company's customer service line to report a problem with my laptop. I rarely make use of such services because the employees are usually _____ However, in this case I was pleasantly surprised. The employee I spoke to, Patrick Kelley, _____ understood my problem. He was well informed and assured me that he had encountered issues similar to mine before. _____ So I followed his advice and sent my laptop in for repair. Mr. Kelley showed me some of the finest service that I _____ in my life. I would appreciate if you could convey my thanks to him, and I will definitely ask for his assistance if I ever experience another problem with my device. Best wishes, Sandra Stevenson
 
-139. (A) secretive
+139.
+(A) secretive
 (B) unhelpful
 (C) enthusiastic
 (D) supportive
 
-140. (A) visibly
+140.
+(A) visibly
 (B) partially
 (C) plausibly
 (D) immediately
 
-141. (A) He told me he would have to direct my call to his supervisor.
+141.
+(A) He told me he would have to direct my call to his supervisor.
 (B) He suggested I let their technicians take a look at it as soon as possible.
 (C) It is not the responsibility of the manufacturer to detect technical flaws.
 (D) He highly recommended that I visit a local branch to get it repaired.
 
-142. (A) receives
+142.
+(A) receives
 (B) will be receiving
 (C) have received
 (D) to receive
@@ -263,23 +275,28 @@ Questions 143-146 refer to the following advertisement.
 
 Seattle New Light Nursing Home We're Here to Help Many elderly people find themselves in nursing homes far from city life and at a considerable 143 fr0m fam''y and friends- This is not the case at Seattle New Light Nursing Home. The physical and mental health of seniors is our number one priority. We therefore help residents to _____ a healthy degree of social interaction by keeping them occupied with a variety of stimulating activities each day including exercise classes, games, and musical performances. _____ Furthermore, because public transportation, community centers, and parks are all easily accessible from our location, residents are free to pursue their interests while also benefiting from the daily _____ and attention our staff provides. Call us at 206-665-8924 to reserve a time to tour our facilities.
 
-143. (A) distance
+143.
+(A) distance
 (B) distant
 (C) distancing
 (D) distantly
 
-144. (A) recommend
+144.
+(A) recommend
 (B) maintain
 (C) require
 (D) evaluate
 
-145. (A) s their quality of life. W(B) Our center is located far f hectic urban landscape. Families may also consid (0) types of physical therapy. Some of our patients are
+145.
+(A) s their quality of life. W(B) Our center is located far f hectic urban landscape. Families may also consid (0) types of physical therapy. Some of our patients are
 (D) to leave the facility.
 
-146. (A)
+146.
+(A)
 (B)
 
-146. (C)
+146.
+(C)
 (D) <<MISSING>> <<MISSING>>
 
 Questions 147-148 refer to the following e-mail.

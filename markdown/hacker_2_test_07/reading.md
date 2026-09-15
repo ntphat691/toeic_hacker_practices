@@ -211,22 +211,26 @@ Questions 131-134 refer to the following memo.
 
 To: All Staff From: Stephanie Johnstone Subject: Mr. Kaur's retirement Hello everyone, This is just a reminder that we have organized a retirement party for Mr. Kaur next Friday from 6 p.m. _____ I would appreciate it if you could all attend unless you have good reason IU I . not to. After everyone is seated, the program ----- at precisely 6:15 p.m. The CEO plans to give a congratulatory speech. ------- As our longest-serving staff member, he has certainly Idd. earned this recognition. CD I have asked the supervisors of each department to _____ ~ a book in which members of staff o may write messages to Mr. Kaur wishing him well upon his retirement. The book will be passed around starting tomorrow morning. It will be given to him at the end of the ceremony, so please make the time to write something.
 
-131. (A) around
+131.
+(A) around
 (B) over
 (C) upward
 (D) onward
 
-132. (A) has begun
+132.
+(A) has begun
 (B) will begin
 (C) will have begun
 (D) began
 
-133. (A) We will then ask Mr. Kaur to put off his retirement for a year.
+133.
+(A) We will then ask Mr. Kaur to put off his retirement for a year.
 (B) Our employees will be expected to remain loyal to the company.
 (C) A board member will then present a loyalty award to Mr. Kaur.
 (D) The office staff should say whether they can attend the ceremony.
 
-134. (A) circulate
+134.
+(A) circulate
 (B) retrieve
 (C) determine
 (D) reveal
@@ -235,22 +239,26 @@ Questions 135-138 refer to the following letter.
 
 March 5 Jeanie Handa 837 River Ridge Street St. Louis, MO 63115 Dear Ms. Handa, I heard about the good news from one of your colleagues. Congratulations on your ------- to _____ senior systems analyst! The reason I am writing is to update you on your investments, which are doing satisfactorily. Now that your career is flourishing, you can invest in other funds or additional stock _____ your earnings and develop your portfolio. I'd like to set an appointment with you so that _____ we can discuss your options in more detail. I am free to meet with you as early as next week. We can review the _____ of your current portfolio and explore additional financial opportunities. Please contact me at 555-8343 or send an e-mail to j.clark@secureinvestments. com to set up an appointment. Sincerely, Jack Clark Consultant Secure investments
 
-135. (A) contribution
+135.
+(A) contribution
 (B) achievement
 (C) development
 (D) promotion
 
-136. (A) You might lose more money it you don't take action now.
+136.
+(A) You might lose more money it you don't take action now.
 (B) Accordingly, there are better jobs available in other larger companies.
 (C) We may have to meet at another time as I have some obligations.
 (D) It may be time to reconsider your investment strategy, however.
 
-137. (A) increased
+137.
+(A) increased
 (B) to increase
 (C) increase
 (D) increases
 
-138. (A) prestige
+138.
+(A) prestige
 (B) order
 (C) degree
 (D) status
@@ -259,22 +267,26 @@ Questions 139-142 refer to the following letter.
 
 March 31 Annika Dahl 7898 Forest Road Boulder, CO 80301 Dear Ms. Dahl, Thank you for your recent visit. _____ We hope that you are fully satisfied with the quality of care that you received. We would like to know more about your experience at our medical facility through our Patient Care Survey. Please fill out the questionnaire, and make sure that each of the five items as directed. If you have additional comments, please _____ them in the space provided. _____ Keep in mind that the information you provide in the survey will be analyzed and used to improve our services in the future. _____ your privacy will be protected. We will not be able to track any of your responses back to you. Thank you for your participation. Stanley Waite Hospital Consumer Assessment
 
-139. (A) Please accept our sincere apologies for the treatment you were given.
+139.
+(A) Please accept our sincere apologies for the treatment you were given.
 (B) We are delighted with your generous donation to the hospital.
 (C) At High Point Medical, we always strive to meet the needs of each patient.
 (D) Our records show that you have been missing your appointments.
 
-140. (A) rates
+140.
+(A) rates
 (B) rating
 (C) is rated
 (D) to rate
 
-141. (A) to include
+141.
+(A) to include
 (B) include
 (C) included
 (D) inclusion
 
-142. (A) Likewise
+142.
+(A) Likewise
 (B) In other words
 (C) Nonetheless
 (D) For instance
@@ -283,23 +295,28 @@ Questions 143-146 refer to the following text.
 
 The GizmoTech Technology Showcase will be held at Somerset Hall on Friday, October 3 from 7:00 p.m. to 11:45 p.m. The most highly anticipated item, the GizPhone Gold, is expected to draw a huge crowd of people anxious to purchase the device as soon as it goes on sale at midnight _____ the event. During the showcase, GizmoTech employees will be _____ available 143. _____ K _____ 144. to answer people's questions. Attendees will also have the opportunity to try the device out for themselves after a demonstration of its functions. _____ Given that GizmoTech inventory 145. _____ y has been known to sell out in a matter of minutes, this is sure to provide consumers with added incentive to sign up early. Anyone interested is advised to register at www.GizmoTech.com/Showcase as soon as possible to avoid _____ shut out of the exhibit.
 
-143. (A) throughout
+143.
+(A) throughout
 (B) within
 (C) following
 (D) into
 
-144. (A) daily
+144.
+(A) daily
 (B) lately
 (C) normally
 (D) readily
 
-145. (A) Best of all, they will be given priority status to buy the phone. ^ (B) GizPhone Golds will likely hit shelves a month after the product launch.
+145.
+(A) Best of all, they will be given priority status to buy the phone. ^ (B) GizPhone Golds will likely hit shelves a month after the product launch.
 (C) Their products will be sold at marked-down prices to all customers.
 (D) In fact, the company's other products sold remarkably well this year.
 
-146. (A) get
+146.
+(A) get
 
-146. (B) getting
+146.
+(B) getting
 (C) gotten
 (D) got <<MISSING>>
 

@@ -5,6 +5,7 @@
 In this section, you must demonstrate your ability to read and comprehend English.
 You will be given a variety of texts and asked to answer questions about these texts.
 This section is divided into three parts and will take 75 minutes to complete.
+
 Do not mark the answers in your test book.
 Use the answer sheet that is separately provided.
 
@@ -14,181 +15,181 @@ Directions: In each question, you will be asked to review a statement that is mi
 Four answer choices will be provided for each statement.
 Select the best answer and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
 
-101. Emily introduced before starting the interview for the management job.
+101. Emily introduced _____ before starting the interview for the management job.
 (A) she
 (B) herself
 (C) hers
 (D) her
 
-102. to the e-mail from the supervisor as soon as possible and ask questions if anything is unclear.
+102. _____ to the e-mail from the supervisor as soon as possible and ask questions if anything is unclear.
 (A) Response
 (B) Responding
 (C) Respond
 (D) Responds
 
-103. The of the retreat was to allow all of the employees to bond with one another.
+103. The _____ of the retreat was to allow all of the employees to bond with one another.
 (A) measure
 (B) convention
 (C) scheme
 (D) purpose
 
-104. The wildlife preserve was created by the Florida Nature Commission to the state's endangered species.
+104. The wildlife preserve was created by the Florida Nature Commission to _____ the state's endangered species.
 (A) protect
 (B) protection
 (C) protective
 (D) protecting
 
-105. Staff members with engagements need not feel obliged to attend next week's field trip.
+105. Staff members with _____ engagements need not feel obliged to attend next week's field trip.
 (A) prior
 (B) timely
 (C) late
 (D) old
 
-106. The building's new tenants in the next couple of days, so the staff is getting everything ready.
+106. The building's new tenants _____ in the next couple of days, so the staff is getting everything ready.
 (A) to arrive
 (B) have arrived
 (C) are arriving
 (D) arrival
 
-107. The banquet hall was decorated for the fund-raising gala on June 11.
+107. The banquet hall was _____ decorated for the fund-raising gala on June 11.
 (A) elaborated
 (B) elaborately
 (C) elaborate
 (D) elaborator
 
-108. The Whitby Town Council recently prepared a brochure recommending ways that residents can play an role in the community.
+108. The Whitby Town Council recently prepared a brochure recommending ways that residents can play an _____ role in the community.
 (A) activate
 (B) active
 (C) action
 (D) activity
 
-109. Ms. Johnson a feasible solution to the customer's network problem.
+109. Ms. Johnson _____ a feasible solution to the customer's network problem.
 (A) came up with
 (B) dropped by
 (C) looked in on
 (D) ran out of
 
-110. The human resources department is -- pressure to find a replacement for the senior accountant.
+110. The human resources department is _____ pressure to find a replacement for the senior accountant.
 (A) within
 (B) through
 (C) under
 (D) among
 
-111. BelTrax has ranked as one of the top providers of marketing research since its foundation seven years ago.
+111. BelTrax has _____ ranked as one of the top providers of marketing research since its foundation seven years ago.
 (A) conveniently
 (B) temporarily
 (C) consistently
 (D) wishfully
 
-112. Mansfield Chemical built an extension that additional space for the newly purchased machinery.
+112. Mansfield Chemical built an extension that _____ additional space for the newly purchased machinery.
 (A) will have furnished
 (B) would furnish
 (C) had furnished
 (D) to furnish
 
-113. As the argument raised at the last meeting was on a point, it did not affect the proposal's overall plan.
+113. As the argument raised at the last meeting was on a _____ point, it did not affect the proposal's overall plan.
 (A) defensive
 (B) creative
 (C) minor
 (D) critical
 
-114. who still wish to submit applications after the deadline must pay a $45 late fee in order to be considered.
+114. _____ who still wish to submit applications after the deadline must pay a $45 late fee in order to be considered.
 (A) Anyone
 (B) Those
 (C) Though
 (D) Seldom
 
-115. Everyone at Hammond Construction, Inc. was surprised to find out that the year's greatest cost saving measure was by an intern.
+115. Everyone at Hammond Construction, Inc. was surprised to find out that the year's greatest cost saving measure was _____ by an intern.
 (A) attracted
 (B) reserved
 (C) continued
 (D) suggested
 
-116. Upon his retirement, Mr. Ross was highly commended for his vital contributions during the company's years.
+116. Upon his retirement, Mr. Ross was highly commended for his vital contributions during the company's _____ years.
 (A) formed
 (B) formation
 (C) formative
 (D) form
 
-117. Ms. Waddill provided a few members of her department with an covering the key points of the CEO's speech.
+117. Ms. Waddill provided a few members of her department with an _____ covering the key points of the CEO's speech.
 (A) objection
 (B) expansion
 (C) overview
 (D) experience
 
-118. The doubts among investors the company's ability to expand in the coming year led to a steep decline in the stock's price.
+118. The doubts among investors _____ the company's ability to expand in the coming year led to a steep decline in the stock's price.
 (A) behind
 (B) from
 (C) regarding
 (D) across
 
-119. — at the Latipa Film Festival increased by nearly 30 percent this year thanks to an online marketing campaign.
+119. _____ at the Latipa Film Festival increased by nearly 30 percent this year thanks to an online marketing campaign.
 (A) Attend
 (B) Attendee
 (C) Attendant
 (D) Attendance
 
-120. During the summer, rooms at the Marigold Hotel are always fully booked the large size of the facility.
+120. During the summer, rooms at the Marigold Hotel are always fully booked _____ the large size of the facility.
 (A) thereby
 (B) even though
 (C) aside from
 (D) notwithstanding
 
-121. All employees need a written from the manager to access the office during off-hours.
+121. All employees need a written _____ from the manager to access the office during off-hours.
 (A) permit
 (B) permissive
 (C) permits
 (D) permissively
 
-122. Since the trainees were having difficulty following the instruction manual, the trainer decided to create a version.
+122. Since the trainees were having difficulty following the instruction manual, the trainer decided to create a _____ version.
 (A) simplified
 (B) similar
 (C) controversial
 (D) contradictory
 
-123. HGS Company was awarded the construction contract as it had a bid than any of the other competing firms.
+123. HGS Company was awarded the construction contract as it had a _____ bid than any of the other competing firms.
 (A) worthiest
 (B) worth
 (C) worthier
 (D) worthy
 
-124. Ms. Nissim, the founder of Hartwell Industries, will a talk on effective sales strategies at the marketing convention.
+124. Ms. Nissim, the founder of Hartwell Industries, will _____ a talk on effective sales strategies at the marketing convention.
 (A) deliver
 (B) register
 (C) showcase
 (D) imply
 
-125. Many people have succeeded in reducing household waste by buying fewer products.
+125. Many people have succeeded in reducing household waste by buying fewer _____ products.
 (A) basic
 (B) decisive
 (C) effective
 (D) disposable
 
-126. The next work of art for sale one of the finest paintings ever exhibited at the Cole Morton Museum.
+126. The next work of art for sale _____ one of the finest paintings ever exhibited at the Cole Morton Museum.
 (A) has considered
 (B) is considered
 (C) is considering
 (D) considered
 
-127. The tenor received widespread for his superb performances at the annual opera festival.
+127. The tenor received widespread _____ for his superb performances at the annual opera festival.
 (A) criticism
 (B) persuasion
 (C) deliberation
 (D) recognition
 
-128. having television stations across the state, the American Media Corporation owns several magazines and newspapers.
+128. _____ having television stations across the state, the American Media Corporation owns several magazines and newspapers.
 (A) Besides
 (B) Rather
 (C) Among
 (D) Along
 
-129. Delegates from the industry's most widely social media marketing firms will speak at next week's summit.
+129. Delegates from the industry's most widely _____ social media marketing firms will speak at next week's summit.
 (A) respectful
 (B) respecting
 (C) respected
 (D) respective
 
-130. TNP Tech will allow users to download its new software for free until September 1 but will start charging for it .
+130. TNP Tech will allow users to download its new software for free until September 1 but will start charging for it _____ .
 (A) since
 (B) thereafter
 (C) consequently
@@ -204,7 +205,12 @@ Questions 131-134 refer to the following notice.
 
 ```
 ATTENTION ALL TENANTS
-Wimberley Group will _____ its rent collection system to electronic one. This change will apply to all apartments effective February 1. _____ Cash and personal checks will no longer be accepted. Every tenant needs to create a user profile at www.wimberlygroup.com. After logging in, tenants will be able to _____ a payment. You can do this by selecting the unpaid bill and then clicking on the button at the bottom of the screen. _____ you h't "pay", the amount you designate will be deducted from your registered credit card or bank account. If you wish to arrange automatic payments, please click the button labeled "Pay this amount every month." Thank you for your cooperation. If you have any questions, e-mail us at help@wimberlygroup.com.
+
+Wimberley Group will _____ its rent collection system to electronic one. This change will apply to all apartments effective February 1. _____. Cash and personal checks will no longer be accepted.
+
+Every tenant needs to create a user profile at www.wimberlygroup.com. After logging in, tenants will be able to _____ a payment. You can do this by selecting the unpaid bill and then clicking on the button at the bottom of the screen. _____ you hit "pay", the amount you designate will be deducted from your registered credit card or bank account. If you wish to arrange automatic payments, please click the button labeled "Pay this amount every month."
+
+Thank you for your cooperation. If you have any questions, e-mail us at help@wimberlygroup.com.
 ```
 
 131.
@@ -238,9 +244,16 @@ To: Angela Thornberry <athornberry@fastmail.com>
 From: Vincent Nakamura <vnakamura@traxcomputers.com>
 Subject: Your laptop
 Date: June 18
+
 Dear Ms. Thornberry,
-I am writing about the Trax 2700 laptop you dropped off at our store on June 15 because of problems with its screen. After sending it to our _____ for examination, we discovered that it contained a faulty component. At present, your laptop is being _____ As requested, we are also thoroughly testing the device to see if there are any other issues. As this problem appears to have been entirely our fault, we will provide you with a $50 voucher to use at our retail store. _____ e-coupons for our Web site are also available. Just let us know which you'd prefer. If you have not received it by then, please call customer service. _____
+
+I am writing about the Trax 2700 laptop you dropped off at our store on June 15 because of problems with its screen. After sending it to our _____ for examination, we discovered that it contained a faulty component. At present, your laptop is being _____. As requested, we are also thoroughly testing the device to see if there are any other issues.
+
+As this problem appears to have been entirely our fault, we will provide you with a $50 voucher to use at our retail store. _____, e-coupons for our Web site are also available. Just let us know which you'd prefer.
+_____. If you have not received it by then, please call customer service.
+
 Best wishes,
+
 Vincent Nakamura
 Customer Satisfaction Department
 ```
@@ -264,7 +277,7 @@ Customer Satisfaction Department
 (D) Alternatively
 
 138.
-(A) The model you inquired about is no ||||| longer available at this location.
+(A) The model you inquired about is no longer available at this location.
 (B) We will send the computer back to you within three days.
 (C) You are not covered under the warranty as it has expired.
 (D) We have been receiving a number of complaints about our service.
@@ -272,7 +285,16 @@ Customer Satisfaction Department
 Questions 139-142 refer to the following announcement.
 
 ```
-Notice for All Staff The shopping mall our store is located in will be closed from December 24 to 26. _____ , some of you will be coming in on December 24 to set up for our post-holiday sale. The guard who usually opens the mall doors in the morning is off duty during this time. _____ Daniel Monahan is the most senior staff member, so I will give it to him, and he will let everyone inside. It is vital that you ------ Daniel at the entrance at exactly 10 a.m. We don't want to waste time making him go back and forth to open the doors, so please be considerate and arrive as as you can. 142. _____ y Thank you for your understanding. Alison Culpepper Store manager
+Notice for All Staff
+
+The shopping mall our store is located in will be closed from December 24 to 26. _____, some of you will be coming in on December 24 to set up for our post-holiday sale. The guard who usually opens the mall doors in the morning is off duty during this time. _____. Daniel Monahan is the most senior staff member, so I will give it to him, and he will let everyone inside.
+
+It is vital that you ------ Daniel at the entrance at exactly 10 a.m. We don't want to waste time making him go back and forth to open the doors, so please be considerate and arrive as _____ as you can.
+
+Thank you for your understanding.
+
+Alison Culpepper
+Store manager
 ```
 
 139.
@@ -302,7 +324,21 @@ Notice for All Staff The shopping mall our store is located in will be closed fr
 Questions 143-146 refer to the following e-mail.
 
 ```
-To: Rajesh Singh <rajesh.singh@indiaclothing.in> From: Faria Deveraj <f.deveraj@mumbai.gov.in> Subject: Scheduled Inspection Date: October 12 Dear Mr. Singh, On October 17, your clothing factory will face its yearly government inspection. This annual will verify that all labor laws are being followed. Your factory passed the _____ _____ evaluation with no major problems, so our inspectors hope to see a similar level of compliance this time around. You are _____ obliged to provide access to any part of the factory that the inspectors may wish to see. Failure to comply in this regard may result in fines and further investigation. Also, the inspectors need to confirm that workers are being properly compensated. 146. Thank you for your attention to this matter. Faria Deveraj Inspection Team Leader City Government of Mumbai
+To: Rajesh Singh <rajesh.singh@indiaclothing.in>
+From: Faria Deveraj <f.deveraj@mumbai.gov.in>
+Subject: Scheduled Inspection
+Date: October 12
+
+Dear Mr. Singh,
+
+On October 17, your clothing factory will face its yearly government inspection. This annual _____ will verify that all labor laws are being followed. Your factory passed the _____ evaluation with no major problems, so our inspectors hope to see a similar level of compliance this time around.
+
+You are _____ obliged to provide access to any part of the factory that the inspectors may wish to see. Failure to comply in this regard may result in fines and further investigation. Also, the inspectors need to confirm that workers are being properly compensated. _____.
+Thank you for your attention to this matter.
+
+Faria Deveraj
+Inspection Team Leader
+City Government of Mumbai
 ```
 
 143.
@@ -329,10 +365,23 @@ To: Rajesh Singh <rajesh.singh@indiaclothing.in> From: Faria Deveraj <f.deveraj@
 (C) Consequently, the company wishes to avoid paying any such penalties.
 (D) We are interested in hearing about certain products that were recalled.
 
+### PART 7
+
+Directions: In this part, you will be asked to read several texts, such as advertisements, articles, instant messages, or examples of business correspondence. Each text is followed by several questions.
+Select the best answer and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet. 
+
 Questions 147-148 refer to the following invitation.
 
 ```
-Cardigan Bay General Hospital Fundraising Dinner You are cordially invited to attend a dinner fundraiser in aid of Cardigan Bay General Hospital on April 25 at 7:30 p.m. in the Iris Room at the Beaufort Hotel. The hospital was first built in 1960, and while much of it has been completely renovated, the east wing has barely changed since the opening day. In order to make improvements to it, the hospital needs about £300,000, which this dinner will raise funds for. Tickets can be purchased for £100 at the hospital's main reception desk. Those purchasing four tickets or more at one time will receive a copy of Dr. Dianne Larsen's book on nutrition, Food Fit, valued at £25, as a gift. We sincerely hope you will attend so that the hospital can make some necessary upgrades that will improve the level of care we provide.
+Cardigan Bay General Hospital Fundraising Dinner
+
+You are cordially invited to attend a dinner fundraiser in aid of Cardigan Bay General Hospital on April 25 at 7:30 p.m. in the Iris Room at the Beaufort Hotel.
+
+The hospital was first built in 1960, and while much of it has been completely renovated, the east wing has barely changed since the opening day. In order to make improvements to it, the hospital needs about £300,000, which this dinner will raise funds for.
+
+Tickets can be purchased for £100 at the hospital's main reception desk. Those purchasing four tickets or more at one time will receive a copy of Dr. Dianne Larsen's book on nutrition, Food Fit, valued at £25, as a gift.
+
+We sincerely hope you will attend so that the hospital can make some necessary upgrades that will improve the level of care we provide.
 ```
 
 147. Why does the hospital need funding?
@@ -351,8 +400,29 @@ Questions 149-150 refer to the following ticket.
 
 ```
 WALLACE TRANSPORTATION: TICKET
+                                  *PLEASE PRINT THIS OUT*
+------------------------------------------------------------------------------- 
+PASSENGER: William Singer
+PHONE NUMBER: (212) 555-3201
+HOME ADDRESS: 21 West 74th St., New York, NY 10023
+------------------------------------------------------------------------------- 
+TICKET NUMBER: 41249101ABKOA
+CLASS: Regular
+FARE: $52.00
+------------------------------------------------------------------------------- 
+DATE OF DEPARTURE: August 11
 
-PASSENGER: William Singer PHONE NUMBER: (212) 555-3201 HOME ADDRESS: 21 West 74th St., New York, NY 10023 TICKET NUMBER: 41249101ABKOA CLASS: Regular FARE: $52.00 DATE OF DEPARTURE: August 11 ITINERARY: Depart: New York City 5:10 a.M. Arrive: Pittsburgh 12:12 p.m. 1:20 P.M. Depart: Pittsburgh Arrive: Columbus 4:50 P.M. Depart: Columbus 5:30 P.M. Arrive: Chicago 10:05 P.M. Your bus will leave the Park Avenue Coach Terminal in New York City at 5:10 a.m. Please have your ticket ready to present to the driver when you arrive. Passengers are permitted to bring two pieces of luggage on board, one for carry-on and one that can be stored away. No refunds will be provided to passengers who miss their departure. If you would like to cancel your ticket, please call (212) 555-8843.
+ITINERARY: 
+            Depart: New York City   5:10 A.M.
+            Arrive: Pittsburgh      12:12 P.M.
+            ----------------------------------
+            Depart: Pittsburgh      1:20 P.M.
+            Arrive: Columbus        4:50 P.M.
+            ----------------------------------
+            Depart: Columbus        5:30 P.M.
+            Arrive: Chicago         10:05 P.M.
+
+Your bus will leave the Park Avenue Coach Terminal in New York City at 5:10 a.m. Please have your ticket ready to present to the driver when you arrive. Passengers are permitted to bring two pieces of luggage on board, one for carry-on and one that can be stored away. No refunds will be provided to passengers who miss their departure. If you would like to cancel your ticket, please call (212) 555-8843.
 ```
 
 149. What is indicated about Mr. Singer?
@@ -371,8 +441,24 @@ Questions 151-152 refer to the following letter.
 
 ```
 Nisa Miskin
+Inman Pharmaceuticals
+92450 Interstate 164
+Boise, ID 83714
 
-Inman Pharmaceuticals 92450 Interstate 164 Boise, ID 83714 August 12 Dear Ms. Miskin, I am a representative from Well Time Benefits, and we would be very interested in meeting with you to discuss what we can offer your firm. At Well Time Benefits, we understand your role as a company's benefits manager and can offer plans that make your job easier, as well as suit the needs of your company. That's why our employee benefits packages rate number one with many businesses and organizations. Well Time Benefits offers a variety of packages covering every type of insurance need, such as medical, mental health, dental, life, and more. Popular packages include "Health Plus" and the comprehensive "Choice Care." You can customize either of these to suit your organization's needs. Disability and parental leave benefits are inclusive with the Choice Care package. I will contact your office within the next two weeks to find out if you'd like to set up an appointment. If you would like to speak with me sooner, please call 555-4433. Sincerely, Lucas Moreland Well Time Benefits Client Services
+August 12
+
+Dear Ms. Miskin,
+
+I am a representative from Well Time Benefits, and we would be very interested in meeting with you to discuss what we can offer your firm. At Well Time Benefits, we understand your role as a company's benefits manager and can offer plans that make your job easier, as well as suit the needs of your company. That's why our employee benefits packages rate number one with many businesses and organizations.
+
+Well Time Benefits offers a variety of packages covering every type of insurance need, such as medical, mental health, dental, life, and more. Popular packages include "Health Plus" and the comprehensive "Choice Care." You can customize either of these to suit your organization's needs. Disability and parental leave benefits are inclusive with the Choice Care package.
+
+I will contact your office within the next two weeks to find out if you'd like to set up an appointment. If you would like to speak with me sooner, please call 555-4433.
+
+Sincerely,
+
+Lucas Moreland
+Well Time Benefits Client Services
 ```
 
 151. What is the purpose of the letter?
@@ -390,19 +476,26 @@ Inman Pharmaceuticals 92450 Interstate 164 Boise, ID 83714 August 12 Dear Ms. Mi
 Questions 153-154 refer to the following text message chain.
 
 ```
-Sonya Meadows 1:45 p.m. Brian, sorry to bother you, but I need to ask a favor. I have to deliver the final rental contract for an office space, but my last appointment ran long. I don't think I can make it there on time.
+Sonya Meadows 1:45 p.m.
+Brian, sorry to bother you, but I need to ask a favor. I have to deliver the final rental contract for an office space, but my last appointment ran long. I don't think I can make it there on time.
 
-Brian Hull 1:46 p.m. I can probably deliver it for you. Send me the details.
+Brian Hull 1:46 p.m.
+I can probably deliver it for you. Send me the details.
 
-Sonya Meadows 1:48 p.m. Thanks! The client is Coventry Financial, and they're renting a space at State Tower on Market Street. It's Unit 1804.
+Sonya Meadows 1:48 p.m.
+Thanks! The client is Coventry Financial, and they're renting a space at State Tower on Market Street. It's Unit 1804.
 
-Brian Hull 1:49 p.m. OK, What time is the appointment?
+Brian Hull 1:49 p.m.
+OK, What time is the appointment?
 
-Sonya Meadows 1:49 p.m. 2:40. You should be able to make it if you leave in the next 10-15 minutes. v
+Sonya Meadows 1:49 p.m.
+2:40. You should be able to make it if you leave in the next 10-15 minutes.
 
-Brian Hull 1:50 p.m. I'll take a cab so I get there faster. It'd take me twice as long if I had to look for parking in that area. What about the contract?
+Brian Hull 1:50 p.m.
+I'll take a cab so I get there faster. It'd take me twice as long if I had to look for parking in that area. What about the contract?
 
-Sonya Meadows 1:51p.m. It should be sitting on my desk. I asked our receptionist to make copies of it earlier and leave it in my office.
+Sonya Meadows 1:51p.m.
+It should be sitting on my desk. I asked our receptionist to make copies of it earlier and leave it in my office.
 ```
 
 153. What is suggested about Market Street?
@@ -420,9 +513,23 @@ Sonya Meadows 1:51p.m. It should be sitting on my desk. I asked our receptionist
 Questions 155-157 refer to the following e-mail.
 
 ```
-TO: Steven Joyce <sjoyce@fastmail.com> FROM: Fast Track Records <information@fasttrackrecords.com> DATE: May 20 SUBJECT: Information
+TO: Steven Joyce <sjoyce@fastmail.com>
+FROM: Fast Track Records <information@fasttrackrecords.com>
+DATE: May 20
+SUBJECT: Information
 
-Dear Mr. Joyce, Every year on the third Saturday of May, we celebrate Record Store Day as a way to honor the independent spirit of record stores. That means Fast Track Records will once again be partnering with all the other major stores in the city for a day of music celebration. As you are a member of our Music Fans Club, we are forwarding you some of the planned highlights of the day; 11 a.m.-12 p.m. John Kher, Sarah Feinstein, Ernest Yates, and other local music critics will be reading selections from their work at Gold Sounds Records. 12 p.m.-5 p.m. Marshalltown Records will be offering a special discount on all jazz and blues records. Stop by their store and receive up to 50% off on your favorite albums. 1 p.m..-5 p.m. Duke Records will stage a raffle for a variety of merchandise, including vinyl cases, T-shirts, and other memorabilia. 2:30 p.m.-3:30 p.m. Local rock band The Chimney Sweeps will be performing an in-store concert at Desert Island Records. 4 p.m.-5 p.m. Gold Sounds Records will be holding a music-themed trivia competition. Winners will receive special prizes including autographed CDs and posters. CO 5 p.m. A small after-party will be held at Marshalltown Records. OD If you have questions about the events and activities, call Fast Track Records at 555-3009 or send a reply to this e-mail. A detailed schedule with further festivities can be found at www.fasttrackrecords.com/ o recordstoreday.
+Dear Mr. Joyce,
+
+Every year on the third Saturday of May, we celebrate Record Store Day as a way to honor the independent spirit of record stores. That means Fast Track Records will once again be partnering with all the other major stores in the city for a day of music celebration. As you are a member of our Music Fans Club, we are forwarding you some of the planned highlights of the day:
+
+11 a.m.-12 p.m.   John Kher, Sarah Feinstein, Ernest Yates, and other local music critics will be reading selections from their work at Gold Sounds Records.
+12 p.m.-5 p.m. Marshalltown Records will be offering a special discount on all jazz and blues records. Stop by their store and receive up to 50% off on your favorite albums.
+1 p.m.-5 p.m. Duke Records will stage a raffle for a variety of merchandise, including vinyl cases, T-shirts, and other memorabilia.
+2:30 p.m.-3:30 p.m. Local rock band The Chimney Sweeps will be performing an in-store concert at Desert Island Records.
+4 p.m.-5 p.m. Gold Sounds Records will be holding a music-themed trivia competition. Winners will receive special prizes including autographed CDs and posters. 
+5 p.m. A small after-party will be held at Marshalltown Records.
+
+If you have questions about the events and activities, call Fast Track Records at 555-3009 or send a reply to this e-mail. A detailed schedule with further festivities can be found at www.fasttrackrecords.com/recordstoreday.
 ```
 
 155. What is the main purpose of the e-mail?
@@ -450,9 +557,12 @@ Eagle Canyon City Park
 
 Over the past month, there has been a sharp increase in reported sightings of raccoons in the open spaces of the park. The park rangers suspect the creatures are attracted by food scraps that are left—whether on purpose or accidentally—by visitors to the park. — [i] —. The city's public health department does not want to encourage the raccoons to leave the wooded areas of the park as they can be carriers of disease and pose a risk to visitors and their pets. — [2] —. With that in mind:
 
-place it in the closed garbage bins that are provided throughout the park.
+• Please do not leave any garbage in the park—either take it with you when you leave, or 
+  place it in the closed garbage bins that are provided throughout the park.
+• If you see raccoons, do not approach them or give them food as they are wild animals 
+  with sharp claws and can be dangerous when they feel frightened.
 
-with sharp claws and can be dangerous when they feel frightened. — [3] —• Along with this, we will be holding volunteer park cleanups on the last Saturday of each month. Our next one is scheduled for June 27. Anyone interested in taking part should report to the park visitor center to register. — [4] —. All participants will be provided with protective gloves and vests, water, and a light lunch.
+— [3] —• Along with this, we will be holding volunteer park cleanups on the last Saturday of each month. Our next one is scheduled for June 27. Anyone interested in taking part should report to the park visitor center to register. — [4] —. All participants will be provided with protective gloves and vests, water, and a light lunch.
 ```
 
 158. Why was the announcement written?
@@ -482,9 +592,17 @@ with sharp claws and can be dangerous when they feel frightened. — [3] —• 
 Questions 162-165 refer to the following online chat discussion.
 
 ```
-O O Michelle Hanson 11:40| Can I get an update from everyone on the promotion project for N-Genz Auto? Our next presentation's been moved up to Tuesday, August 10. Barry Carr 11 ;42| The script changes for the TV commercial will be done this afternoon. Other than that, I'm just waiting for production to give me permission to proceed. Dustin Rodriguez 11:45j Barry, our first choice for the lead actor backed out, so I'm waiting to hear back from the talent agency about a replacement. But still, we can proceed with our shoot on July 18 at Snappy Studios. Michelle Hanson 11:47| Thank you both. What about the online campaign? My contact at N-Genz Auto is eager to see what's been done. Willa Hopkins 11:50| Well, I'm in the final stages of developing the Web site. I need about a week more to do the finishing touches, but I'm quite confident we'll be done in time. Dustin Rodriguez 11:54| Good news. I called the agency and was told that my second choice for a performer can do the job. Barry Carr 11:55| Great, Dustin. I'll send you a copy of the finished script tonight. By the way, I can't make it on the 18th as I need to be at a client meeting, so I'll send Brianna Johns in my place. Dustin Rodriguez 11:571 No problem, Barry. I'll get in touch with her shortly to make further arrangements. 11:58) It looks like we are on the right track. Dustin, keep me posted on your O Michelle Hanson schedule. Willa, could you send me a link to the site so I can see the progress so far? Dustin Rodriguez 11:59) Understood. I'll send you the most current schedule I have right now. Willa Hopkins 11:59) OK, Michelle. 1 can send you the link now. Just bear in mind there are some issues to work out.
-
-<Send>
+Michelle Hanson   [11:40]   Can I get an update from everyone on the promotion project for N-Genz Auto? Our next presentation's been moved up to Tuesday, August 10.
+Barry Carr        [11:42]   The script changes for the TV commercial will be done this afternoon. Other than that, I'm just waiting for production to give me permission to proceed.
+Dustin Rodriguez  [11:45]   Barry, our first choice for the lead actor backed out, so I'm waiting to hear back from the talent agency about a replacement. But still, we can proceed with our shoot on July 18 at Snappy Studios.
+Michelle Hanson   [11:47]   Thank you both. What about the online campaign? My contact at N-Genz Auto is eager to see what's been done.
+Willa Hopkins     [11:50]   Well, I'm in the final stages of developing the Web site. I need about a week more to do the finishing touches, but I'm quite confident we'll be done in time.
+Dustin Rodriguez  [11:54]   Good news. I called the agency and was told that my second choice for a performer can do the job.
+Barry Carr        [11:55]   Great, Dustin. I'll send you a copy of the finished script tonight. By the way, I can't make it on the 18th as I need to be at a client meeting, so I'll send Brianna Johns in my place.
+Dustin Rodriguez  [11:57]   No problem, Barry. I'll get in touch with her shortly to make further arrangements.
+Michelle Hanson   [11:58]   It looks like we are on the right track. Dustin, keep me posted on your schedule. Willa, could you send me a link to the site so I can see the progress so far?
+Dustin Rodriguez  [11:59]   Understood. I'll send you the most current schedule I have right now.
+Willa Hopkins     [11:59]   OK, Michelle. I can send you the link now. Just bear in mind there are some issues to work out. 
 ```
 
 162. What type of business does Ms. Hanson most likely work for?
@@ -514,7 +632,15 @@ O O Michelle Hanson 11:40| Can I get an update from everyone on the promotion pr
 Questions 166-168 refer to the following information.
 
 ```
-Hanlan's Coffee Company — Ethical Purchasing Policy At Hanlan's, we know that our customers like to drink only the finest coffee from around the world. We also recognize that they want to be sure that the people who grow that coffee are treated fairly. Many coffee producers provide their employees with poor working conditions and low pay, which are practices that Hanlan's does not support. — [I] —. Coffee companies that buy fheir stock on the open market never know exactly where it comes from. But at Hanlan's, we take a different approach. We have exclusive contracts with farms in Guatemala, Ethiopia, and Vietnam. — [2] —. Because of this, we know exactly who is producing our coffee and the conditions in which it is being grown. We appreciate all the hard work of our farmers and ensure that they have acceptable working conditions and wages. But our commitment doesn't end there. — [3] —. Hanlan's pays them an additional I0 percent above current market prices as our way of saying "thanks." Furthermore, to give even more back to these communities, we have started the Hanlan's Development Foundation. Each year through this organization, we put five percent of our total corporate profits into building schools, water pumps and purification plants, and health care facilities in the towns and villages near where our coffee is grown. The main goal is to make certain that all our workers' children are safe, healthy, and have the chance to go to school and receive a full education. — [4] —. Find out more about Hanlan's development projects, our coffee producers, and what you can do to support our cause at www.hanlancoffee.com/foundation.
+Hanlan's Coffee Company — Ethical Purchasing Policy
+
+At Hanlan's, we know that our customers like to drink only the finest coffee from around the world. We also recognize that they want to be sure that the people who grow that coffee are treated fairly. Many coffee producers provide their employees with poor working conditions and low pay, which are practices that Hanlan's does not support. — [1] —.
+
+Coffee companies that buy fheir stock on the open market never know exactly where it comes from. But at Hanlan's, we take a different approach. We have exclusive contracts with farms in Guatemala, Ethiopia, and Vietnam. — [2] —. Because of this, we know exactly who is producing our coffee and the conditions in which it is being grown. We appreciate all the hard work of our farmers and ensure that they have acceptable working conditions and wages. But our commitment doesn't end there. — [3] —. Hanlan's pays them an additional I0 percent above current market prices as our way of saying "thanks."
+
+Furthermore, to give even more back to these communities, we have started the Hanlan's Development Foundation. Each year through this organization, we put five percent of our total corporate profits into building schools, water pumps and purification plants, and health care facilities in the towns and villages near where our coffee is grown. The main goal is to make certain that all our workers' children are safe, healthy, and have the chance to go to school and receive a full education. — [4] —.
+
+Find out more about Hanlan's development projects, our coffee producers, and what you can do to support our cause at www.hanlancoffee.com/foundation.
 ```
 
 166. What is indicated about Hanlan's Coffee Company's partner farms?
@@ -538,7 +664,14 @@ Hanlan's Coffee Company — Ethical Purchasing Policy At Hanlan's, we know that 
 Questions 169-171 refer to the following article.
 
 ```
-Plug Software's Head Honored as Tech Woman of the Year By Carmen Marshall Rebecca Curtis, CEO of software company Ping, lias been named the most successful woman in the tech world by Gadget Lover magazine. Ms. Curtis, who took over the company five years ago and transformed it into a thriving multi-platform enterprise, is expected to deliver an acceptance speech at the Gadget Lover annual conference on December 2. Ms. Curtis's achievements as CEO have been widely celebrated. When she replaced the previous CEO, Mark Spalding, Ping was mainly known for its word processing software. Due to the influx of new word- processing products, Ping's software was not selling as well as it once had. Ms. Curtis quickly reversed that situation by developing a wide range of high-quality software including photo-editing and spreadsheet programs. Now the name "Ping" is notable for its cutting-edge, dependable technology. Over the next several years, Ms. Curtis says Ping will create a membership plan for its frequent users. Those who sign up will be able to download new Ping products at a reduced rate. Ms. Curtis says the company also plans to redevelop its Web site. With all these plans ahead. Ping is expected to grow even more. Most experts agree that Ms. Curtis has been the primary reason behind the company's success.
+Plug Software's Head Honored as Tech Woman of the Year
+                                                             By Carmen Marshall
+
+Rebecca Curtis, CEO of software company Ping, lias been named the most successful woman in the tech world by Gadget Lover magazine. Ms. Curtis, who took over the company five years ago and transformed it into a thriving multi-platform enterprise, is expected to deliver an acceptance speech at the Gadget Lover annual conference on December 2.
+
+Ms. Curtis's achievements as CEO have been widely celebrated. When she replaced the previous CEO, Mark Spalding, Ping was mainly known for its word processing software. Due to the influx of new word- processing products, Ping's software was not selling as well as it once had. Ms. Curtis quickly reversed that situation by developing a wide range of high-quality software including photo-editing and spreadsheet programs. Now the name "Ping" is notable for its cutting-edge, dependable technology.
+
+Over the next several years, Ms. Curtis says Ping will create a membership plan for its frequent users. Those who sign up will be able to download new Ping products at a reduced rate. Ms. Curtis says the company also plans to redevelop its Web site. With all these plans ahead. Ping is expected to grow even more. Most experts agree that Ms. Curtis has been the primary reason behind the company's success.
 ```
 
 169. What is stated about Ping?
@@ -562,7 +695,15 @@ Plug Software's Head Honored as Tech Woman of the Year By Carmen Marshall Rebecc
 Questions 172-175 refer to the following report.
 
 ```
-City Trends Report — Valencia Tourism numbers in Valencia have been increasing for three years running as people are beginning to discover this often underrated city on the eastern coast of Spain. At the beginning of the survey period, the city received just under a million visitors a year, but the latest figures show this has jumped to over 1.4 million. There are a number of factors that can account for this change. The new Sanchez Museum of Iberian Art and its nearby conference facilities have proven to be a big draw since opening last year. And updates to rail services from Valencia to Madrid and Barcelona have reduced travel time significantly. With a major airport expansion due to be completed before the end of the year, things are expected to get even better for Valencia. In addition, the city government's launch of an international advertising campaign two years ago has also proved beneficial. The city was marketed by television, print, and social media as a tourism destination. Reaction to the campaign continues to be positive. Finally, as well as its attraction to tourists and business visitors, Valencia is increasingly being recognized as an excellent place to live. The consultancy Apollo and Company recently put the city in third place in a report measuring the quality of life in small European cities. They cited its lovely waterfront location, low housing costs, and modern infrastructure as reasons for its high place.
+City Trends Report — Valencia
+
+Tourism numbers in Valencia have been increasing for three years running as people are beginning to discover this often underrated city on the eastern coast of Spain. At the beginning of the survey period, the city received just under a million visitors a year, but the latest figures show this has jumped to over 1.4 million.
+
+There are a number of factors that can account for this change. The new Sanchez Museum of Iberian Art and its nearby conference facilities have proven to be a big draw since opening last year. And updates to rail services from Valencia to Madrid and Barcelona have reduced travel time significantly. With a major airport expansion due to be completed before the end of the year, things are expected to get even better for Valencia.
+
+In addition, the city government's launch of an international advertising campaign two years ago has also proved beneficial. The city was marketed by television, print, and social media as a tourism destination. Reaction to the campaign continues to be positive.
+
+Finally, as well as its attraction to tourists and business visitors, Valencia is increasingly being recognized as an excellent place to live. The consultancy Apollo and Company recently put the city in third place in a report measuring the quality of life in small European cities. They cited its lovely waterfront location, low housing costs, and modern infrastructure as reasons for its high place.
 ```
 
 172. What is the report mainly about?
@@ -592,11 +733,41 @@ City Trends Report — Valencia Tourism numbers in Valencia have been increasing
 Questions 176-180 refer to the following letter and e-mail.
 
 ```
-Maxfield Financial Group May 10 Bethany Aldridge 18 Juniper Road Westport. CT 06880 Dear Ms. Aldridge. This letter is in response to your request to sign up for paperless statements. Your statements will now be sent via e-mail on the 25th of each month. All such statements will also be accessible from your online account, and you will be able to print them at your convenience. They will contain all of the same information that is included in your paper statements. In order to protect your account details, please ensure that the device you use to download and save your paperless statements is secure. If you would like a paper statement mailed to your primary address in addition to the paperless one. log on to your account and check the "Mail my Statement" box under "Delivery Preferences." Keep in mind that Maxfield Financial group does charge an annual fee of $24 to clients who choose to receive paper statements. If you would like to stop receiving paperless statements and revert back to mailed paper statements only, return to your account and uncheck "E-mail my Statement." Best regards, Customer Service Maxfield Financial Group
+Maxfield Financial Group
+                                                                         May 10
 
-To: Bethany Aldridge <bethanyal2i(a>totalmail.net> From: Customer Service <cs@maxfieldfin.com> Date; May 25 Subject: Your May Statement Attachment: May_Statement
+Bethany Aldridge
+18 Juniper Road
+Westport. CT 06880
 
-Dear Ms. Aldridge, Please find your Maxfield Financial Group electronic account statement for the month of May attached. As this is the first electronic statement that has been sent to you, please review it carefully and contact our service center if you have any questions or concerns. We have received your payment, and your copy will arrive via mail within the next five to seven days. To ensure that you receive monthly statement notifications, make sure to keep a current e-mail and postal address on file with us. If you are planning to change them, simply update them in the "Personal Information" section of our Web site. If you use a work e-mail address, keep in mind that some companies may block the receipt of employees' personal e-mail. Sincerely, Customer Service Maxfield Financial Group
+Dear Ms. Aldridge,
+
+This letter is in response to your request to sign up for paperless statements. Your statements will now be sent via e-mail on the 25th of each month. All such statements will also be accessible from your online account, and you will be able to print them at your convenience. They will contain all of the same information that is included in your paper statements. In order to protect your account details, please ensure that the device you use to download and save your paperless statements is secure.
+
+If you would like a paper statement mailed to your primary address in addition to the paperless one. log on to your account and check the "Mail my Statement" box under "Delivery Preferences." Keep in mind that Maxfield Financial group does charge an annual fee of $24 to clients who choose to receive paper statements. If you would like to stop receiving paperless statements and revert back to mailed paper statements only, return to your account and uncheck "E-mail my Statement."
+
+Best regards,
+
+Customer Service
+Maxfield Financial Group
+
+---
+
+To: Bethany Aldridge <bethanyal2i@totalmail.net>
+From: Customer Service <cs@maxfieldfin.com>
+Date: May 25
+Subject: Your May Statement
+Attachment: May_Statement
+
+Dear Ms. Aldridge,
+
+Please find your Maxfield Financial Group electronic account statement for the month of May attached. As this is the first electronic statement that has been sent to you, please review it carefully and contact our service center if you have any questions or concerns. We have received your payment, and your copy will arrive via mail within the next five to seven days.
+
+To ensure that you receive monthly statement notifications, make sure to keep a current e-mail and postal address on file with us. If you are planning to change them, simply update them in the "Personal Information" section of our Web site. If you use a work e-mail address, keep in mind that some companies may block the receipt of employees' personal e-mail.
+
+Sincerely,
+Customer Service
+Maxfield Financial Group
 ```
 
 176. Why was the letter written?
@@ -632,9 +803,30 @@ Dear Ms. Aldridge, Please find your Maxfield Financial Group electronic account 
 Questions 181-185 refer to the following announcement and schedule.
 
 ```
-Announcement for Woodlands Business Owners: The Woodlands Merchants Association is planning to host Thursday evening concerts on the Center Square lawn from May 28 through July 2, from 6 P.M. until 9 p.m. We have held die concerts over the past few years and have had a good turnout every dme. However, these events do entail a significant expense for the association, as we most pay our performers. As a result, we are offering local businesses the opportunity to sponsor a concert. This will help the associadon to control costs while promoting your stores or shops to the public. A sponsorship includes a banner with your business name on it that will be attached to the performance stage. You have the option of setting up a promotional booth on the lawn and are allowed to hand out flyers or give away coupons and product samples. Those sponsoring a concert for S500 or more will also have their business's name, logo, and contact information printed with event advertisements in T/je Woodlands Times newspaper. The Woodlands Merchants Association aims to bring together the business community and local residents, and the sponsored concerts will be an enjoyable way to achieve that goal. If you would like to participate, contact the event coordinator, Dan Perry, at DanPerry@woodlandsmerchantsassn.com to finalize the sponsorship arrangements.
+Announcement for Woodlands Business Owners:
 
-Woodlands Merchants Association Summer Concert Schedule Below is the concert schedule. Sponsorship rates were determined by the cost of the performer or band. Each sponsorship package includes a banner and one promotional booth if desired. Co-sponsorship by two companies is also permissible. Any distributed items are not part of the listed cost and must be paid for by the sponsor. Sponsors must be current members of the Woodlands Merchants Association. Date Performer or Band Style of Music Sponsorship Cost May 28 Pearson Trio Jazz $450 June 4 Amy Evans Children's Folk $150 June 11 Throwback 1950's Pop $500 June 18 University Chorus* Broadway Tunes $550 June 25 Treble Trouble Dance and Pop $550 July 2 Joe Thomas* Blues $150 *Contract not yet signed. Performers subject to change.
+The Woodlands Merchants Association is planning to host Thursday evening concerts on the Center Square lawn from May 28 through July 2, from 6 P.M. until 9 p.m. We have held die concerts over the past few years and have had a good turnout every dme. However, these events do entail a significant expense for the association, as we most pay our performers. As a result, we are offering local businesses the opportunity to sponsor a concert. This will help the associadon to control costs while promoting your stores or shops to the public.
+
+A sponsorship includes a banner with your business name on it that will be attached to the performance stage. You have the option of setting up a promotional booth on the lawn and are allowed to hand out flyers or give away coupons and product samples. Those sponsoring a concert for S500 or more will also have their business's name, logo, and contact information printed with event advertisements in T/je Woodlands Times newspaper.
+
+The Woodlands Merchants Association aims to bring together the business community and local residents, and the sponsored concerts will be an enjoyable way to achieve that goal. If you would like to participate, contact the event coordinator, Dan Perry, at DanPerry@woodlandsmerchantsassn.com to finalize the sponsorship arrangements.
+
+---
+
+Woodlands Merchants Association Summer Concert Schedule
+
+Below is the concert schedule. Sponsorship rates were determined by the cost of the performer or band. Each sponsorship package includes a banner and one promotional booth if desired. Co-sponsorship by two companies is also permissible. Any distributed items are not part of the listed cost and must be paid for by the sponsor. Sponsors must be current members of the Woodlands Merchants Association.
+
+| Date    | Performer or Band  | Style of Music  | Sponsorship Cost |
+|---------|--------------------|-----------------|------------------|
+| May 28  | Pearson Trio       | Jazz            | $450             |
+| June 4  | Amy Evans          | Children's Folk | $150             |
+| June 11 | Throwback          | 1950's Pop      | $500             |
+| June 18 | University Chorus* | Broadway Tunes  | $550             |
+| June 25 | Treble Trouble     | Dance and Pop   | $550             |
+| July 2  | Joe Thomas*        | Blues           | $150             |
+
+*Contract not yet signed. Performers subject to change.
 ```
 
 181. What is the announcement mainly about?
@@ -670,15 +862,40 @@ Woodlands Merchants Association Summer Concert Schedule Below is the concert sch
 Questions 186-190 refer to the following article, Web page, and e-mail.
 
 ```
-Gunton City Council to Consider Blandfolk Superstore Proposal At a Gunton City Council meeting on May 2, members listened to a presentation from representatives of Blandfolk Superstore about building a branch locally. The retail giant proposed erecting an outlet measuring 9,500 square meters just within city limits on Medford Avenue. However, the chosen land has not yet been authorized for commercial establishments, so Blandfolk has requested that the property be rezoned. Gunton mayor Claire O'Rourke told representatives that the council would discuss the proposition this month and address it at their next meeting in June. A spokesperson for Blandfolk said the corporation hopes the proposal will pass, emphasizing that the development would provide employment for up to 190 local residents.
+Gunton City Council to Consider Blandfolk Superstore Proposal 
 
-Gunton Herald www.guntonherald.com
+At a Gunton City Council meeting on May 2, members listened to a presentation from representatives of Blandfolk Superstore about building a branch locally. The retail giant proposed erecting an outlet measuring 9,500 square meters just within city limits on Medford Avenue. However, the chosen land has not yet been authorized for commercial establishments, so Blandfolk has requested that the property be rezoned. Gunton mayor Claire O'Rourke told representatives that the council would discuss the proposition this month and address it at their next meeting in June. A spokesperson for Blandfolk said the corporation hopes the proposal will pass, emphasizing that the development would provide employment for up to 190 local residents.
 
-Readers' Comments Ronald Pinero posted on May 7: I am writing in regard to an article printed in your newspaper's May 3 edition about the construction proposal from Blandfolk Superstore. As a long-time business owner in Gunton, I am concerned. I manage Ballas Boutique, a clothing store in the downtown area, and many of my friends and business acquaintances also operate private shops in the city. Large corporate retailers have forced many smaller stores out of business in other locations where they have opened, even when such establishments have been situated on the outskirts of towns. I'm not sure most businesses like mine will be able to compete without significantly dropping prices and, by extension, the quality of our goods. For now, Gunton is a very vibrant and diverse city, and I hope the mayor and council members will reject the proposal in order to keep it that way.
+---
 
-TO Ronald Pinero <rpinero@dailymaily.com> FROM Adeline Morris <amorris@guntoncoc.org> SUBJECT Request from Gunton COC DATE May 8
+Gunton Herald
+www.guntonherald.com
 
-Dear Mr. Pinero, I came across your comments on the Gunton Herald Web site. Your concern is something the board of the Gunton Chamber of Commerce has been discussing, and we agree that something must be done to protect stores in the downtown area, like yours. On June 3, the city council will be holding a public meeting that some of us will be attending. It would be helpful if you joined us at the event. You could give a short talk describing the concerns you mentioned in your comments. You are welcome to use visual aids, bring supporting documents, and invite others who share our concerns. Please let me know if you would like to participate. Sincerely yours, Adeline Morris Secretary, Gunton Chamber of Commerce
+----------------------------------------------------------------------------------
+Home | News | Sports | Business | Entertainment | Lifestyle | Opinion | Contact Us
+----------------------------------------------------------------------------------
+
+Readers' Comments
+
+Ronald Pinero posted on May 7:
+
+I am writing in regard to an article printed in your newspaper's May 3 edition about the construction proposal from Blandfolk Superstore. As a long-time business owner in Gunton, I am concerned. I manage Ballas Boutique, a clothing store in the downtown area, and many of my friends and business acquaintances also operate private shops in the city. Large corporate retailers have forced many smaller stores out of business in other locations where they have opened, even when such establishments have been situated on the outskirts of towns. I'm not sure most businesses like mine will be able to compete without significantly dropping prices and, by extension, the quality of our goods. For now, Gunton is a very vibrant and diverse city, and I hope the mayor and council members will reject the proposal in order to keep it that way.
+
+---
+
+TO      Ronald Pinero <rpinero@dailymaily.com>
+FROM    Adeline Morris <amorris@guntoncoc.org>
+SUBJECT Request from Gunton COC
+DATE    May 8
+
+Dear Mr. Pinero,
+
+I came across your comments on the Gunton Herald Web site. Your concern is something the board of the Gunton Chamber of Commerce has been discussing, and we agree that something must be done to protect stores in the downtown area, like yours. On June 3, the city council will be holding a public meeting that some of us will be attending. It would be helpful if you joined us at the event. You could give a short talk describing the concerns you mentioned in your comments. You are welcome to use visual aids, bring supporting documents, and invite others who share our concerns. Please let me know if you would like to participate.
+
+Sincerely yours,
+
+Adeline Morris
+Secretary, Gunton Chamber of Commerce
 ```
 
 186. What is the article mainly about?
@@ -714,13 +931,49 @@ Dear Mr. Pinero, I came across your comments on the Gunton Herald Web site. Your
 Questions 191-195 refer to the following invoice, e-mail, and message.
 
 ```
-Invoice Date: October From: Oresund Graphics and Design 49 Rozenstraat, Arnhem, Netherlands To: Kaiser Investment Services 1 Kornmarkt, Floor 4, Frankfurt, Germany Services Charges Design, Layout, and Photography of Annual Shareholders Report €745 Design and Layout of Investing with Kaiser Brochure €545 Design and Layout of Terms and Conditions Booklet €300 TOTAL DUE €2,240 Payment is due in 15 days. Requests for additional changes will incur a €100 surcharge per document. For rush printing, add €250. Please note that we no longer accept checks. All payments must be made by direct bank transfer or electronically through www.friendpay.com. Thank you for your cooperation.
+Invoice                                                         Date: October 4
+From: Oresund Graphics and Design
+      49 Rozenstraat, Arnhem, Netherlands
+To:   Kaiser Investment Services
+      1 Kornmarkt, Floor 4, Frankfurt, Germany
 
-To: Alexander Svensson <alex.svensson@oresund.nl> From: Christine Kaufmann <ckaufmann@kaiserinvestment.de> Subject: Changes to publications Date: October 7
+| Services                                                      | Charges |
+|---------------------------------------------------------------|---------|
+| Design, Layout, and Photography of Annual Shareholders Report | €745    |
+| Design and Layout of Investing with Kaiser Brochure           | €545    |
+| Design and Layout of Terms and Conditions Booklet             | €300    |
+| TOTAL DUE                                                     | €2,240  |
 
-Dear Mr. Svensson, We received your invoice yesterday along with the proofs. Thank you for your excellent work. I showed the final drafts to our managing director and, overall, he was pleased. However, he has requested that we change the photograph used on the front cover. He thinks it failed to convey the mood we were going for. We have commissioned a photographer to take a new picture, and I will send it to you by Friday. Unfortunately, we cannot move our original due date as the brochures have to be shipped in time for a campaign launch event we have planned for November. If our request presents a problem, please let me know right away. You can reach me by phone at 555-2309, extension #42. Otherwise, I will wait to receive your revised invoice. Thank you! Christine Kaufmann Publications Manager Kaiser Investment Service
+Payment is due in 15 days. Requests for additional changes will incur a €100 surcharge per document. For rush printing, add €250. Please note that we no longer accept checks. All payments must be made by direct bank transfer or electronically through www.friendpay.com. Thank you for your cooperation.
 
-Kaiser Investment Services Company Newsletter Year-end Message from our CEO As we come to the end of another year, I want to take this opportunity to thank everyone for their commitment and hard work. Once again, Kaiser Investment Services has outperformed analysts' expectations and generated substantial profits for its clients and shareholders. Not only that, but we also continue to top customer satisfaction surveys on financial services companies in Germany. As we reflect on these successes, let us continue to look forward with optimism. In this December issue of the newsletter, learn more about our ongoing expansion into North America and see photos from last month's launch of our marketing campaign in the United States, which was well attended by several potential clients. Other than that, I will see you all at our annual holiday party! Sincerely, Matthias Furst
+---
+
+To:       Alexander Svensson <alex.svensson@oresund.nl>
+From:     Christine Kaufmann <ckaufmann@kaiserinvestment.de>
+Subject:  Changes to publications
+Date:     October 7
+
+Dear Mr. Svensson,
+
+We received your invoice yesterday along with the proofs. Thank you for your excellent work. I showed the final drafts to our managing director and, overall, he was pleased. However, he has requested that we change the photograph used on the front cover. He thinks it failed to convey the mood we were going for. We have commissioned a photographer to take a new picture, and I will send it to you by Friday. Unfortunately, we cannot move our original due date as the brochures have to be shipped in time for a campaign launch event we have planned for November.
+
+If our request presents a problem, please let me know right away. You can reach me by phone at 555-2309, extension #42. Otherwise, I will wait to receive your revised invoice. Thank you!
+
+Christine Kaufmann
+Publications Manager
+Kaiser Investment Service
+
+---
+
+Kaiser Investment Services Company Newsletter
+
+Year-end Message from our CEO
+
+As we come to the end of another year, I want to take this opportunity to thank everyone for their commitment and hard work. Once again, Kaiser Investment Services has outperformed analysts' expectations and generated substantial profits for its clients and shareholders. Not only that, but we also continue to top customer satisfaction surveys on financial services companies in Germany. As we reflect on these successes, let us continue to look forward with optimism. In this December issue of the newsletter, learn more about our ongoing expansion into North America and see photos from last month's launch of our marketing campaign in the United States, which was well attended by several potential clients. Other than that, I will see you all at our annual holiday party!
+
+Sincerely,
+
+Matthias Furst
 ```
 
 191. What is true about Oresund Graphics and Design?
@@ -756,19 +1009,53 @@ Kaiser Investment Services Company Newsletter Year-end Message from our CEO As w
 Questions 196-200 refer to the following e-mail, program, and form.
 
 ```
-TO: El Paso Center for the Digital Arts <questions@elpasodigital.com> FROM: Raymond Hardy <rayhardy@goodmail.com> SUBJECT: Classes DATE: April 30 To Whom It May Concern: My name is Raymond Hardy, and I'm the president of an amateur photography club here in El Paso. We heard that your center will be teaching some classes on photography this summer. I also understand you offer a special rate for groups. If so, we are interested in registering. Four of us want to take landscape photography at beginners' level. Another three of our members want to take a more advanced class and would like to know whether you offer any. Could you send me some more information? Please include details about where these classes are going to take place and how much they'll cost, and I will pass the information on. Best regards, Raymond Hardy President Homestead Photo Club
+TO: El Paso Center for the Digital Arts <questions@elpasodigital.com>
+FROM: Raymond Hardy <rayhardy@goodmail.com>
+SUBJECT: Classes
+DATE: April 30
+
+To Whom It May Concern:
+
+My name is Raymond Hardy, and I'm the president of an amateur photography club here in El Paso. We heard that your center will be teaching some classes on photography this summer. I also understand you offer a special rate for groups. If so, we are interested in registering. Four of us want to take landscape photography at beginners' level. Another three of our members want to take a more advanced class and would like to know whether you offer any. Could you send me some more information?
+
+Please include details about where these classes are going to take place and how much they'll cost, and I will pass the information on.
+
+Best regards,
+Raymond Hardy
+President
+Homestead Photo Club
+
+---
 
 El Paso Center for the Digital Arts: Upcoming One-Day Classes May 7-12
 
-May 8 (Mon) May 9 (Tues) May 10 (Wed) May 11 (Thurs) May 12 (Fri) 7:30 P.M. 8:00 P.M. 8:00 P.M. 8:30 P.M. 7:00 p.M. Professional Marketing your Photographing With Landscape Wedding Photography Photos Natural Light Photography Photography Software Instructor: Carrie Instructor: Ben Instructor: Sue Instructor: Finley Instructor: Lindsay Felix Greenwood Adler Kolwalski Arias Cost: $48 Cost: $52 Cost: $54 Cost: $47 Cost: $50 *Friday's class is for advanced participants only.
+| May 8 (Mon)         | May 9 (Tues)       | May 10 (Wed)       | May 11 (Thurs)  | May 12 (Fri)       |
+|---------------------|--------------------|--------------------|-----------------|--------------------|
+| 7:30 P.M.           | 8:00 P.M.          | 8:00 P.M.          | 8:30 P.M.       | 7:00 p.M.          |
+| Professional        | Marketing your     | Photographing With | Landscape       | Wedding            |
+| Photography         | Photos             | Natural Light      | Photography     | Photography        |
+| Software            | Instructor: Carrie | Instructor: Ben    | Instructor: Sue | Instructor: Finley |
+| Instructor: Lindsay | Felix              | Greenwood          | Adler           | Kolwalski          |
+| Arias               | Cost: $48          | Cost: $52          | Cost: $54       | Cost: $47          |
+| Cost: $50           |                    |                    |                 |                    |
 
-El Paso Center for the Digital Arts: Class Registration Form Please fill in the following details:
+*Friday's class is for advanced participants only.
 
-Name Raymond Hardy Address 2094 Firebird Drive, El Paso, TX 79901
+---
 
-Phone 555-3004 E-mail rayhardy@goodmail.com Yes □ No ■ Do you have any professional photography experience?
-
-Course Landscape Photography Payment method Cash The El Paso Center for the Digital Arts is a nonprofit organization focused on advancing people's knowledge of film, photography, and graphic design. Please note that the center does not provide any cameras or accessories, and participants must supply their own. Those signing up as a group of three or more pay $30 each except for weekend classes. We will confirm your registration within 24 hours of receiving payment. Tuition fees are nonrefundable and must be paid one week prior to the start of any course.
+El Paso Center for the Digital Arts: Class Registration Form
+-------------------------------------------------------------------------------
+Please fill in the following details:
+-------------------------------------------------------------------------------
+| Name  | Raymond Hardy || Address | 2094 Firebird Drive, El Paso, TX 79901   |
+| Phone | 555-3004      || E-mail  | rayhardy@goodmail.com                    |
+|-----------------------------------------------------------------------------|
+| Do you have any professional photography experience?             Yes □ No ■ |
+|-----------------------------------------------------------------------------|
+| Course         | Landscape Photography                                      |
+| Payment method | Cash                                                       |
+-------------------------------------------------------------------------------
+The El Paso Center for the Digital Arts is a nonprofit organization focused on advancing people's knowledge of film, photography, and graphic design. Please note that the center does not provide any cameras or accessories, and participants must supply their own. Those signing up as a group of three or more pay $30 each except for weekend classes. We will confirm your registration within 24 hours of receiving payment. Tuition fees are nonrefundable and must be paid one week prior to the start of any course.
 ```
 
 196. What is the main purpose of the e-mail?

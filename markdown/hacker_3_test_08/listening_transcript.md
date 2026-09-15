@@ -203,7 +203,7 @@ M: Welcome to Harvey Home Goods. How can I help you?
 W: Yes. I need hooks that adhere to the wall—not ones that are drilled in—to hang paintings in my apartment.
 M: Those are in Aisle 13, which is where we keep hardware and fixtures. Is there anything else I can give you a hand locating?
 W: Thanks, but I’m pretty sure I remember where the other products I need are located.
-M: All right. Just in case you have trouble finding other products, there’s a . . . um . . . computer that you can use to search for store merchandise. The machine indicates where specific goods are shelved as well as whether they’re in stock. It’s situated near the front doors.
+M: All right. Just in case you have trouble finding other products, there’s a ... um ... computer that you can use to search for store merchandise. The machine indicates where specific goods are shelved as well as whether they’re in stock. It’s situated near the front doors.
 
 Questions 38-40 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
@@ -215,7 +215,7 @@ Questions 41-43 refer to the following conversation.
 `캐나다식 발음 → 영국식 발음`
 M: Jackie, do you have a comprehensive list of our clients’ e-mail addresses? I seem to have lost mine.
 W: Not on hand, but why don’t you look them up on our new online marketing database?
-M: Oh . . . I didn’t realize that was possible.
+M: Oh ... I didn’t realize that was possible.
 W: It is. A trainer from the IT department taught our team members how to get those types of details from the database during last Tuesday’s workshop.
 M: The session sounds like it was very helpful. I wish I had made it, but I was in Richmond for the International Advertising Conference.
 W: Yeah, it was quite educational. If you want, I can tell you more about it during our break.
@@ -265,14 +265,14 @@ M: This is Jim.
 W: Mr. Risen, you own a blue Dent Razor with the license plate number 124FGA, right? If so, your car is blocking the garbage bins in the parking lot, which is an issue.
 M: I’m sorry about that. There were no vacant spaces in the lot when I returned home last night.
 W: I see. Well, since that isn’t an authorized spot, I’ll need you to move the car immediately, especially since trash is being collected today.
-M: Ah . . . I apologize. I’ll be at work until 5 p.m. But I can move it afterward.
+M: Ah ... I apologize. I’ll be at work until 5 p.m. But I can move it afterward.
 W: In that case, I’m sorry to inform you that your car will have to be towed. That’s the building policy.
 
 Questions 62-64 refer to the following conversation and table.
 `캐나다식 발음 → 영국식 발음`
 M: You’ve reached Frost Beauty. Adrian speaking.
 W: Hello. Will your salon’s current special offer on beauty treatments continue throughout this month?
-M: We actually have sales on two services each month. For this month . . . ah . . . April, we’ll be discounting nail art and hair dyeing.
+M: We actually have sales on two services each month. For this month ... ah ... April, we’ll be discounting nail art and hair dyeing.
 W: Perfect. I bought a box of brown dye in March, but it didn’t work well. So now I need my hair to be recolored. Can I make an appointment for 4 p.m. today?
 M: Yes. I should also mention that we’ll have a booth at Denver’s Professional Salon Expo on April 20. There will be promotions on various hair and nail products that day, so you should come by.
 
@@ -302,11 +302,11 @@ I have an important announcement for all administrative staff. Over the weekend,
 
 Questions 77-79 refer to the following telephone message.
 `미국식 발음`
-Hello, Mr. Hong. It’s Denise Reynolds. I may have found a suitable tenant for the apartment you are trying to sublease through my firm. A visiting researcher at Forest University named Brad Patterson contacted me about it. He wants to rent your home until September 1. Um, you asked me to find someone to take the apartment until the end of September, but . . . um, few people have shown interest. This is the best I can do. Mr. Patterson would like to visit your unit this week. I know you work on Thursday and Friday, so how about on the weekend? He mentioned that he was free on Saturday afternoon. Call me at 555-0394 to let me know what time would be best.
+Hello, Mr. Hong. It’s Denise Reynolds. I may have found a suitable tenant for the apartment you are trying to sublease through my firm. A visiting researcher at Forest University named Brad Patterson contacted me about it. He wants to rent your home until September 1. Um, you asked me to find someone to take the apartment until the end of September, but ... um, few people have shown interest. This is the best I can do. Mr. Patterson would like to visit your unit this week. I know you work on Thursday and Friday, so how about on the weekend? He mentioned that he was free on Saturday afternoon. Call me at 555-0394 to let me know what time would be best.
 
 Questions 80-82 refer to the following talk.
 `호주식 발음`
-Our CEO organized this four-day retreat for managers in order to express gratitude for the hard work you have done. She recognizes that you all strive to perform at a high level and wants you to know that you are essential to the firm’s success. Now, in addition to relaxing and enjoying this beautiful resort, we’re going to carry out a few team-building exercises together over the next few days. While the exercises are designed to be lighthearted and fun, they will also give you a chance to enhance your communication abilities. One more thing . . . The CEO would like a picture of everyone together. So, please meet in the resort’s main event room at 4 p.m.
+Our CEO organized this four-day retreat for managers in order to express gratitude for the hard work you have done. She recognizes that you all strive to perform at a high level and wants you to know that you are essential to the firm’s success. Now, in addition to relaxing and enjoying this beautiful resort, we’re going to carry out a few team-building exercises together over the next few days. While the exercises are designed to be lighthearted and fun, they will also give you a chance to enhance your communication abilities. One more thing ... The CEO would like a picture of everyone together. So, please meet in the resort’s main event room at 4 p.m.
 
 Questions 83-85 refer to the following telephone message.
 `미국식 발음`
@@ -330,4 +330,4 @@ Are you looking for ways to save money on airfare and accommodations? Then be su
 
 Questions 98-100 refer to the following telephone message and receipt.
 `영국식 발음`
-My name is Janis Lyle, and I rented a car from your company when I visited a client in Manchester last week. While filling out an application for reimbursement from my company, I noticed an error on my receipt. I was told that if I upgraded to a larger vehicle, I would receive the navigation system for free, but I realize now that I was charged for it. I’d like to have that amount refunded to my credit card. In addition, I . . . ah . . . I’ve got one more request. Your Web site mentions that your company has a rewards program. Could you send me a brochure that describes the benefits of membership? I’m going to be taking a lot of business trips this year, so I might sign up. Thanks.
+My name is Janis Lyle, and I rented a car from your company when I visited a client in Manchester last week. While filling out an application for reimbursement from my company, I noticed an error on my receipt. I was told that if I upgraded to a larger vehicle, I would receive the navigation system for free, but I realize now that I was charged for it. I’d like to have that amount refunded to my credit card. In addition, I ... ah ... I’ve got one more request. Your Web site mentions that your company has a rewards program. Could you send me a brochure that describes the benefits of membership? I’m going to be taking a lot of business trips this year, so I might sign up. Thanks.

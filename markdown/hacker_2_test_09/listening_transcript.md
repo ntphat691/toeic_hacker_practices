@@ -201,7 +201,7 @@ Questions 35-37 refer to the following conversation.
 W: Thank you for coming in to be interviewed for the junior contractor position at our building firm, Mr. Shore. Now that the interview is over, do you have any questions?
 M: Yes, I do. Will the job require much travel? I went on many business trips at my last company and wasn’t very fond of that.
 W: Off-site training seminars will be held occasionally, but they typically take place at facilities within this city.
-M: So, I won’t be traveling on a regular basis? I just want to be clear about this . . .
+M: So, I won’t be traveling on a regular basis? I just want to be clear about this ...
 W: Right. And we will give advance notice if it is necessary.
 M: Great. Actually, I’m glad that your company provides professional training, since it’ll likely help me become aware of building changes.
 
@@ -228,7 +228,7 @@ M: Excuse me. I know you sell green and white curtains made by Pearlman, but I c
 W: I’m sorry, but we sold out a couple of days ago. And because Pearlman will release a new product line next month, we won’t be ordering any more.
 M: Oh, no. I purchased several sets for my apartment three weeks ago, but the curtains I got for my living room are almost five inches too short. I guess I made a mistake when measuring the window.
 W: Well, it’s not all bad news. We carry another brand in the store that is made of a similar material and has an identical pattern. Here, let me show it to you.
-M: Hmm . . . that’ll work. Thanks for the suggestion.
+M: Hmm ... that’ll work. Thanks for the suggestion.
 
 Questions 47-49 refer to the following conversation.
 `호주식 발음 → 미국식 발음`
@@ -241,7 +241,7 @@ Questions 50-52 refer to the following conversation with three speakers.
 W: For the next stage of this focus group meeting, I want to ask about the instruction manual for our desktop computer. What are your impressions of it?
 M1: Personally, I think it could be improved.
 W: Can you elaborate on which aspects of it need to be revised?
-M1: Well . . . the part explaining how to plug in the various cords is too vague.
+M1: Well ... the part explaining how to plug in the various cords is too vague.
 M2: Yeah, and I couldn’t find any directions on how to use the orange cable that’s provided.
 W: OK, I’ll make a note of that.
 M2: It’d also be useful if the manual had more graphics.
@@ -274,7 +274,7 @@ M: I’ll arrange a meeting with our team about the matter as soon as I get back
 Questions 62-64 refer to the following conversation.
 `영국식 발음 → 캐나다식 발음`
 W: A problem has been discovered in our latest coffeemaker. Apparently, it overheats when it’s left on for more than an hour, which is a safety hazard.
-M: Hmm . . . That’s definitely a problem. We’d better play it safe. Let’s instruct our engineers to begin working to improve the design immediately.
+M: Hmm ... That’s definitely a problem. We’d better play it safe. Let’s instruct our engineers to begin working to improve the design immediately.
 W: They’ve already been notified and will be prioritizing the task over the next few days. Nevertheless, we should push back the product’s launch a week or so in order to have the flaw fixed.
 M: I think you’re right. It doesn’t appear as though we have any other options.
 
@@ -289,9 +289,9 @@ M: No, that application has already been dealt with. Actually, I’m talking abo
 Questions 68-70 refer to the following conversation and label.
 `영국식 발음 → 호주식 발음`
 W: I’m going to buy an Orange Blast soda because the gas station shop is having a special on this brand. If I buy two, I’ll get one free. Do you want one?
-M: Can I look at the label? Hmm . . . although it contains a sizeable amount of vitamins, I’ll pass. I’m fine with the amount of fat and sodium it contains, but I’m trying to avoid drinks with more than 40 grams of this other ingredient.
+M: Can I look at the label? Hmm ... although it contains a sizeable amount of vitamins, I’ll pass. I’m fine with the amount of fat and sodium it contains, but I’m trying to avoid drinks with more than 40 grams of this other ingredient.
 W: No problem. Is there anything else you’d like? It’s on me.
-M: Really? Thanks! Umm . . . could you grab me a bottle of green tea, please? I’ll go out and pump the gas. That way, we’ll be able to leave as soon as you’re finished.
+M: Really? Thanks! Umm ... could you grab me a bottle of green tea, please? I’ll go out and pump the gas. That way, we’ll be able to leave as soon as you’re finished.
 
 ### PART 4
 
@@ -333,4 +333,4 @@ Hello, Mr. Hall. This is Bianca from Queen Spa calling about the appointment you
 
 Questions 98-100 refer to the following announcement and floor plan.
 `캐나다식 발음`
-We’re glad that so many of you could attend the Cape Breton History Museum’s donors’ event tonight. After six months of renovations, our facility has been completely modernized. Before we begin, I’d like to express the museum’s gratitude to Kendall Construction for finishing the renovations ahead of schedule. At 7:45 p.m., we’ll be taking a group photograph in front of the temporary exhibit located between the Tyrannosaurus statue and the gift shop for tomorrow’s newspaper. Until then, you are free to explore the exhibits on your own. Oh, before I forget . . . Please take the time to fill out the visitor’s experience survey that one of our staff members will hand out now. We’d really appreciate your feedback on the museum.
+We’re glad that so many of you could attend the Cape Breton History Museum’s donors’ event tonight. After six months of renovations, our facility has been completely modernized. Before we begin, I’d like to express the museum’s gratitude to Kendall Construction for finishing the renovations ahead of schedule. At 7:45 p.m., we’ll be taking a group photograph in front of the temporary exhibit located between the Tyrannosaurus statue and the gift shop for tomorrow’s newspaper. Until then, you are free to explore the exhibits on your own. Oh, before I forget ... Please take the time to fill out the visitor’s experience survey that one of our staff members will hand out now. We’d really appreciate your feedback on the museum.

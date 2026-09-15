@@ -200,22 +200,26 @@ Questions 131-134 refer to the following notice.
 
 Parking Notice Parking along the streets in the Frederickton downtown area is prohibited every second and fourth Tuesday of the month between 8 a.m. and 12 p.m. for cleaning. _____ Anyone who violates this rule will be ticketed and charged a $15 penalty for the first three offenses. This must be paid within 30 days of _____ City statutes permit vehicle owners to challenge a ticket's validity within the same 30-day period, and owners may make an appeal if they disagree with the outcome. On _____ violations, vehicles will be towed at the owner's expense. Repeated negligence could also to the suspension of a driver's license.
 
-131. (A) The city had to adjust parking rates every two months.
+131.
+(A) The city had to adjust parking rates every two months.
 (B) The city's sanitation vehicles and crews will be working on roadways during this time.
 (C) This regulation has been implemented to reduce weekend traffic.
 (D) There are several ways you can pay the fees for parking.
 
-132. (A) receipt
+132.
+(A) receipt
 (B) receive
 (C) receivable
 (D) receives
 
-133. (A) flexible
+133.
+(A) flexible
 (B) technical
 (C) exemplary
 (D)subsequent
 
-134. (A) lead
+134.
+(A) lead
 (B)leads
 (C) led
 (D) leading
@@ -224,22 +228,26 @@ Questions 135-138 refer to the following e-mail,
 
 To: Denise Barton <dbarton@officetime.com> From: Elmer Wittson <elm_witt@wittsons.com> Date: July 8 Subject: Inquiry Dear Ms. Barton, I am writing in regard to one of the ——- advertised in your sales flyer last week. The Cambridge XD multi-function printer was listed at a discounted price of only $449. As I have never seen it offered at such a large markdown, I am _____ to buy one. However, I noticed the listing says that supplies may be limited. This is not surprising given that it is a very _____ model. _____ I am looking forward to hearing back from you. Thank you, Elmer Wittson
 
-135. (A) positions
+135.
+(A) positions
 (B) stores
 (C) products
 (D) venues
 
-136. (A) acceptable
+136.
+(A) acceptable
 (B) intense
 (C) eager
 (D) strong
 
-137. (A) popularize
+137.
+(A) popularize
 (B) popular
 (C) popularly
 (D) popularity
 
-138. (A) I sincerely appreciate your business as jMh a first-time client.
+138.
+(A) I sincerely appreciate your business as jMh a first-time client.
 (B) Don't forget to correct any errors before sending the next invoice.
 (C) It is fortunate that I was able to buy it last week.
 (D) Please let me know if there are any left as soon as possible.
@@ -248,22 +256,26 @@ Questions 139-142 refer to the following article.
 
 The Tulsa Airport is getting a major facelift this year, as announced by officials from the Department of Aviation. At a press conference held earlier, spokesperson Oliver Conway shared some details about the project. "In response to _____ growth in regional aviation, city authorities and airport management have decided that now is the time to make renovations. In addition to an extra runway and gate facilities, the airport's interior _____ a significant transformation designed to enhance security and ease passenger flow," he said. The airport was first constructed over four decades ago at a cost of $11 million, but the cost of the current work is expected to exceed $1 billion. _____ If all goes according to plan, the new Tulsa Airport will be completed next year. It will _____ state-of-the-art equipment and facilities.
 
-139. (A) continue
+139.
+(A) continue
 (B) continued
 (C) continuation
 (D) continually
 
-140. (A) to undergo
+140.
+(A) to undergo
 (B)underwent
 (C) has undergone
 (D) will undergo
 
-141. (A) The amount needed has forced officials to cancel the renovation. iS
+141.
+(A) The amount needed has forced officials to cancel the renovation. iS
 (B) This figure is reasonable given the project's significant size.
 (C) This is due to a decrease in the number of transit passengers.
 (D) Anticipated tourist arrivals could bring added revenues on top of that.
 
-142. (A) disclose
+142.
+(A) disclose
 (B) process
 (C) feature
 (D) distract
@@ -272,22 +284,26 @@ Questions 143-146 refer to the following text.
 
 Coapow Industries 5411 Superior Avenue Cleveland, OH 44103 Dear Ms. Lewis, I am writing in reference to a conversation we had at last year's Food Expo in Beijing. You asked me to contact you if an opportunity _____ business together ever arose. As it happens, I have since established a cocoa farm and processing plant called Ecuacao near Quito, Ecuador. I recall you mentioning your interest in products _____ from Forastero cocoa beans. It was difficult to grow at first, but I have successfully produced a good quantity of beans, as you can see from the catalog I sent you. Enclosed in the package that came with this letter are some ------- of my products. After trying them, please let me know what you think of the quality. ------. I'm certain our product will add to your revenues. Thank you, and I look forward to hearing from you. Sincerely, Daniel Gerber
 
-143. (A) conduct
+143.
+(A) conduct
 (B) will conduct
 (C) conducting
 (D) to conduct
 
-144. (A) enjoyed
+144.
+(A) enjoyed
 (B) derived
 (C) implemented
 (D) prevented
 
-145. (A) descriptions 145.
+145.
+(A) descriptions 145.
 (B) samples
 (C) surveys
 (D) formulas
 
-146. (A) * quality of the beans were very useful to w me. We produced a smaller quantity than
+146.
+(A) * quality of the beans were very useful to w me. We produced a smaller quantity than
 (B) was originally projected. I hope you will consider ordering a
 (C) supply for your company. I plan to set up my first factory facilities
 (D) with the money.

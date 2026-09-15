@@ -16,20 +16,17 @@ Select the statement that best describes what is happening in the picture and ma
 Sample Answer
 (A)(B)(C)(D)
 
+<img src="image0.jpg" alt="Image 1">
+
 The statement that best describes the picture is (B), "The man is sitting at the desk."
 So, you should mark letter (B) on the answer sheet.
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
+1. <img src="image1.jpg" alt="Image 1">
+2. <img src="image2.jpg" alt="Image 2">
+3. <img src="image3.jpg" alt="Image 3">
+4. <img src="image4.jpg" alt="Image 4">
+5. <img src="image5.jpg" alt="Image 5">
+6. <img src="image6.jpg" alt="Image 6">
 
 ### PART 2
 
@@ -37,55 +34,31 @@ Directions: For each question, you will listen to a statement or question follow
 They will not be printed and will only be spoken one time.
 Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
-7. Mark your answer on your answer sheet.
-
-8. Mark your answer on your answer sheet.
-
-9. Mark your answer on your answer sheet.
-
-10. Mark your answer on your answer sheet.
-
-11. Mark your answer on your answer sheet.
-
-12. Mark your answer on your answer sheet.
-
-13. Mark your answer on your answer sheet.
-
-14. Mark your answer on your answer sheet.
-
-15. Mark your answer on your answer sheet.
-
-16. Mark your answer on your answer sheet.
-
-17. Mark your answer on your answer sheet.
-
-18. Mark your answer on your answer sheet.
-
-19. Mark your answer on your answer sheet.
-
-20. Mark your answer on your answer sheet.
-
-21. Mark your answer on your answer sheet.
-
-22. Mark your answer on your answer sheet.
-
-23. Mark your answer on your answer sheet.
-
-24. Mark your answer on your answer sheet.
-
-25. Mark your answer on your answer sheet.
-
-26. Mark your answer on your answer sheet.
-
-27. Mark your answer on your answer sheet.
-
-28. Mark your answer on your answer sheet.
-
-29. Mark your answer on your answer sheet.
-
-30. Mark your answer on your answer sheet.
-
-31. Mark your answer on your answer sheet.
+7. [Mark your answer on your answer sheet.]
+8. [Mark your answer on your answer sheet.]
+9. [Mark your answer on your answer sheet.]
+10. [Mark your answer on your answer sheet.]
+11. [Mark your answer on your answer sheet.]
+12. [Mark your answer on your answer sheet.]
+13. [Mark your answer on your answer sheet.]
+14. [Mark your answer on your answer sheet.]
+15. [Mark your answer on your answer sheet.]
+16. [Mark your answer on your answer sheet.]
+17. [Mark your answer on your answer sheet.]
+18. [Mark your answer on your answer sheet.]
+19. [Mark your answer on your answer sheet.]
+20. [Mark your answer on your answer sheet.]
+21. [Mark your answer on your answer sheet.]
+22. [Mark your answer on your answer sheet.]
+23. [Mark your answer on your answer sheet.]
+24. [Mark your answer on your answer sheet.]
+25. [Mark your answer on your answer sheet.]
+26. [Mark your answer on your answer sheet.]
+27. [Mark your answer on your answer sheet.]
+28. [Mark your answer on your answer sheet.]
+29. [Mark your answer on your answer sheet.]
+30. [Mark your answer on your answer sheet.]
+31. [Mark your answer on your answer sheet.]
 
 ### PART 3
 
@@ -293,12 +266,14 @@ Select the best response and mark the corresponding letter (A), (B), (C), or (D)
 (D) To show that a talk will run longer than expected
 
 ```
-Show Name           | Channel
---------------------|----------
-Wake-Up Pittsburgh  | 3
-Morning Buzz        | 5
-Pennsylvania Today  | 7
-Mornings with Jerry | 10
+----------------------------------
+| Show Name           | Channel  |
+| --------------------|----------|
+| Wake-Up Pittsburgh  | 3        |
+| Morning Buzz        | 5        |
+| Pennsylvania Today  | 7        |
+| Mornings with Jerry | 10       |
+----------------------------------
 ```
 
 65. Who most likely are the speakers?
@@ -320,14 +295,16 @@ Mornings with Jerry | 10
 (D) 10
 
 ```
-LEPA WINDOWS
-FIRST-TIME CUSTOMER PROMOTION
-20% off window installations
--------------------------------
-        Lepa Windows Locations:
-Tulsa   Shelbyville**   Reno  Carson City
-
-**not participating in this promotion
+---------------------------------------------
+| LEPA WINDOWS                              |
+| FIRST-TIME CUSTOMER PROMOTION             |
+| 20% off window installations              |
+|-------------------------------------------|
+|         Lepa Windows Locations:           |
+| Tulsa   Shelbyville**   Reno  Carson City |
+|                                           |
+| **not participating in this promotion     |
+---------------------------------------------
 ```
 
 68. Where most likely is the conversation taking place?
@@ -445,24 +422,6 @@ Select the best response and mark the corresponding letter (A), (B), (C), or (D)
 (C) Contact details for speakers
 (D) An information packet
 
-89. What does Harford Snow promise to do?
-(A) Provide the lowest rates
-(B) Inspect properties at no charge
-(C) Perform a task within a few hours
-(D) Contact customers before arriving
-
-90. According to the speaker, what service is available for an extra fee?
-(A) Window replacement
-(B) Driveway cleaning
-(C) Sidewalk repair
-(D) Ice removal
-
-91. What information might listeners get on the company's Web site?
-(A) Appointment availability
-(B) Consumer reviews
-(C) Discount options
-(D) Refund instructions
-
 86. What will most likely happen at the end of May?
 (A) A firm will open a new office.
 (B) A business deal will be completed.
@@ -481,14 +440,32 @@ Select the best response and mark the corresponding letter (A), (B), (C), or (D)
 (C) He has applied for a new job.
 (D) He is in the financial field.
 
+89. What does Harford Snow promise to do?
+(A) Provide the lowest rates
+(B) Inspect properties at no charge
+(C) Perform a task within a few hours
+(D) Contact customers before arriving
+
+90. According to the speaker, what service is available for an extra fee?
+(A) Window replacement
+(B) Driveway cleaning
+(C) Sidewalk repair
+(D) Ice removal
+
+91. What information might listeners get on the company's Web site?
+(A) Appointment availability
+(B) Consumer reviews
+(C) Discount options
+(D) Refund instructions
+
 ```
-Currents Readership
-40,000          |                                                   .         
-35,000          |                     .         .         .                   
-30,000          | .         .                                                 
-25,000          |                                                             
-20,000          |                                                             
-New Subcribers    January   February  March     April     May       June      
+| Currents Readership                                                           |
+| 40,000          |                                                   .         |
+| 35,000          |                     .         .         .                   |
+| 30,000          | .         .                                                 |
+| 25,000          |                                                             |
+| 20,000          |                                                             |
+| New Subcribers    January   February  March     April     May       June      |
 ```
 
 92. Who is Francine Austen?
@@ -510,7 +487,7 @@ New Subcribers    January   February  March     April     May       June
 (D) A sponsorship agreement
 
 ```
-
+-----------------------------------------------
 | Rainforest  |-----| Rose    |-----| Bamboo  |
 | Habitat     |-----| Garden  |     | Jungle  |
                       |               |       
@@ -518,7 +495,7 @@ New Subcribers    January   February  March     April     May       June
             |                         |       
 | Visitors    |-----| Lily    |-----| Orchid  |
 | Center      |     | Pond    |     | House   |
-
+-----------------------------------------------
 ```
 
 95. Why was the tour delayed?

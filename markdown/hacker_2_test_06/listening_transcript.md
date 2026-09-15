@@ -206,12 +206,12 @@ M: Oh, that’s right! I forgot you’re conducting research for a financial ana
 Questions 38-40 refer to the following conversation.
 `미국식 발음 → 호주식 발음`
 W: Hello. I have a reservation at your resort. My name is Wanda Fleming.
-M: Welcome to the Oasis Hotel. Let me check our database for your booking . . . That’s odd. I don’t see your name, Ms. Fleming.
+M: Welcome to the Oasis Hotel. Let me check our database for your booking ... That’s odd. I don’t see your name, Ms. Fleming.
 W: Really? I booked it on your Web site earlier in the day while I was in Boston. Here’s the receipt.
-M: Hmm . . . yes, this looks accurate.
+M: Hmm ... yes, this looks accurate.
 W: Then, why isn’t it on record?
 M: Did you receive any error messages when you made the booking? I really have no idea how this could have happened.
-W: No . . . nothing like that. I’m a little worried, since the room has already been charged to my card.
+W: No ... nothing like that. I’m a little worried, since the room has already been charged to my card.
 M: I’ll get my manager. This is an unusual case, so she’ll have to help you. Just a moment.
 
 Questions 41-43 refer to the following conversation.
@@ -239,17 +239,17 @@ Questions 50-52 refer to the following conversation with three speakers.
 W: I really appreciate you two stopping to help me out.
 M1: Don’t worry about it. We couldn’t pass by knowing someone was stranded on the roadside.
 M2: Now, what seems to be the problem with your car?
-W: Well . . . I’ve got a flat tire, so I guess I’ll have to call a tow truck.
+W: Well ... I’ve got a flat tire, so I guess I’ll have to call a tow truck.
 M2: That’s not necessary if you have a spare and a jack in the trunk.
-W: I . . . um . . . I think I do. Let me see. Yeah, everything’s good to go.
+W: I ... um ... I think I do. Let me see. Yeah, everything’s good to go.
 M1: In that case, we can help you change the tire. The replacement work shouldn’t take us very long.
 
 Questions 53-55 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
 W: Please stand over here and raise your arms. I need to take one final measurement for your jacket.
-M: Certainly. But, before I forget . . . how much will everything cost?
+M: Certainly. But, before I forget ... how much will everything cost?
 W: About $75. However, if the jacket takes longer than two hours to alter, it’ll be slightly more.
-M: That seems a bit steep, but I suppose it’s worth it for quality work. Oh . . . one last thing. When will the suit be ready?
+M: That seems a bit steep, but I suppose it’s worth it for quality work. Oh ... one last thing. When will the suit be ready?
 W: I should be done altering it by next Tuesday.
 M: That’s actually convenient, since I need to consult with a customer in this neighborhood then anyway.
 W: Great. Just note that we don’t open until 11 a.m.
@@ -273,7 +273,7 @@ Questions 62-64 refer to the following conversation and table.
 M: Excuse me. I’m in the market for a kitchen range. I have the dimensions of the space that the stove will fill with me, but I need help making a selection.
 W: How wide do you need the device to be? And are there any specific features that you want the appliance to have?
 M: Thirty inches. Plus, I’d like a built-in timer, a gas- powered cooktop and oven, and a stainless steel exterior.
-W: Hmm . . . then, either the Brenmar or Flame is the best option. Other brands like Hegal and Anderson only come in larger sizes.
+W: Hmm ... then, either the Brenmar or Flame is the best option. Other brands like Hegal and Anderson only come in larger sizes.
 M: Also, my budget tops out at $1,800.
 W: In that case, we’ve got just the model for you.
 
@@ -289,8 +289,8 @@ Questions 68-70 refer to the following conversation and map.
 `미국식 발음 → 호주식 발음`
 W: I’m glad you’ve joined me at the Mint Gallery today. I’m a huge fan of the painter being featured here right now.
 M: Well, thanks for inviting me. Should we go buy our passes now?
-W: We don’t have to. My company gave me a couple of free tickets for this event. Oh, by the way . . . where did you park?
-M: I couldn’t find a spot on West Street, so I parked in front of the store on the corner of Lilac and Fern Street . . . the one closest to the gallery.
+W: We don’t have to. My company gave me a couple of free tickets for this event. Oh, by the way ... where did you park?
+M: I couldn’t find a spot on West Street, so I parked in front of the store on the corner of Lilac and Fern Street ... the one closest to the gallery.
 W: But that’s a no parking zone. There’s a parking lot just down the street, um, next to the café. You should move your car there right away.
 
 ### PART 4
@@ -301,7 +301,7 @@ Welcome to the Stanbridge Museum of History. Drop by our information counter in 
 
 Questions 74-76 refer to the following announcement.
 `캐나다식 발음`
-Before we leave for the day, I’d like to remind everyone that our second office will open next week. The new furniture has been delivered and our moving date has been scheduled. But . . . well . . . we’ve got a lot to do before then. Those of you transferring will need to return your ID badges, pick up new security clearance tags, update your listings in the employee directory, and notify your clients of your new contact information in advance. If you have any questions about things like the office layout or available facilities, contact George Jennings, who is in charge of the new office.
+Before we leave for the day, I’d like to remind everyone that our second office will open next week. The new furniture has been delivered and our moving date has been scheduled. But ... well ... we’ve got a lot to do before then. Those of you transferring will need to return your ID badges, pick up new security clearance tags, update your listings in the employee directory, and notify your clients of your new contact information in advance. If you have any questions about things like the office layout or available facilities, contact George Jennings, who is in charge of the new office.
 
 Questions 77-79 refer to the following telephone message.
 `미국식 발음`
@@ -329,8 +329,8 @@ As most of you are aware, the provincial government has hired our firm to develo
 
 Questions 95-97 refer to the following talk and graph.
 `호주식 발음`
-Thank you all for joining Synergy’s beta test session. As you know, we produce bookkeeping programs for small companies such as yours. Well . . . in February, we’re replacing our best-selling program with a successor. Ledger Pro—the new program—builds upon the strengths of our top program and adds features that were requested in the customer experience surveys you previously submitted. For the test session, we’ll update your systems to Ledger Pro, and you will simply continue to perform your bookkeeping duties as you have in the past. If you come across any glitches or errors, just send us a quick e-mail. It’s that simple.
+Thank you all for joining Synergy’s beta test session. As you know, we produce bookkeeping programs for small companies such as yours. Well ... in February, we’re replacing our best-selling program with a successor. Ledger Pro—the new program—builds upon the strengths of our top program and adds features that were requested in the customer experience surveys you previously submitted. For the test session, we’ll update your systems to Ledger Pro, and you will simply continue to perform your bookkeeping duties as you have in the past. If you come across any glitches or errors, just send us a quick e-mail. It’s that simple.
 
 Questions 98-100 refer to the following telephone message and order form.
 `영국식 발음`
-Good morning. This is Glenda Brown from LMZ Investments. I need to change an order that I recently placed on your Web site. Christina Chine, the manager of our new office in Miami, just notified me that she will have a larger staff than planned. We have some extra desks that can be used, and we won’t require additional cubicle partitions or file cabinets . . . but I need to double the number of seats. We’ll need, uh, 30 in total. The accounting manager wants me to use a different company credit card to pay for the new charges, so please call me back for the number and expiration date. My contact details are included on the original order form. Thank you.
+Good morning. This is Glenda Brown from LMZ Investments. I need to change an order that I recently placed on your Web site. Christina Chine, the manager of our new office in Miami, just notified me that she will have a larger staff than planned. We have some extra desks that can be used, and we won’t require additional cubicle partitions or file cabinets ... but I need to double the number of seats. We’ll need, uh, 30 in total. The accounting manager wants me to use a different company credit card to pay for the new charges, so please call me back for the number and expiration date. My contact details are included on the original order form. Thank you.

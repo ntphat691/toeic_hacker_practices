@@ -215,23 +215,23 @@ Questions 41-43 refer to the following conversation.
 M: Good morning, Ms. Willard. This is Hiro Kusanagi from Décor Max. I visited your booth at the Virginia Crafts Exhibition, and I was impressed with the wooden picture frames you make. Would you be willing to sell them at my store on a commission basis?
 W: I’d be very interested, Mr. Kusanagi. Why don’t I bring some samples to your store later this week?
 M: Great. We can talk about prices and other details then as well. Um, how many frames can you produce each month?
-W: About 40 . . . But I could make more if I hired a couple of assistants for my workshop.
+W: About 40 ... But I could make more if I hired a couple of assistants for my workshop.
 M: That probably won’t be necessary right away. But we can talk more about that when we meet.
 
 Questions 44-46 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
 W: Alonso, are you done creating the blueprints for the Morissey Building? Our supervisor wants to review them in our meeting at 4:00 p.m.
 M: Not yet. I’m still working on the presentation slideshow for the seminar I’m leading tomorrow on finding architectural inspiration. It’s been taking me longer than anticipated.
-W: Hmm . . . I gave a similar presentation to new hires last year. How about I finish the slideshow so that you can focus on the blueprints?
+W: Hmm ... I gave a similar presentation to new hires last year. How about I finish the slideshow so that you can focus on the blueprints?
 M: I’ll e-mail you the presentation materials in a minute. Let me just wrap up the design for this slide and save the file to my computer. I really appreciate your assistance.
 
 Questions 47-49 refer to the following conversation with three speakers.
 `캐나다식 발음 → 미국식 발음 → 호주식 발음`
 M1: Yumi and Brian, will Hall A in our museum have enough room for the Egyptian art exhibition?
 W: Maybe. There aren’t many pieces to display, right?
-M2: Just two dozen. But they’re all large, so we need a big space . . . I recommend Hall C instead. Is it available?
+M2: Just two dozen. But they’re all large, so we need a big space ... I recommend Hall C instead. Is it available?
 M1: It will be. Korean tapestries are there now, but our director said to take them down on August 1.
-W: Umm . . . I’m a little worried, since that only gives us three days to set up the necessary pieces.
+W: Umm ... I’m a little worried, since that only gives us three days to set up the necessary pieces.
 M2: How about printing the labels for the Egyptian works beforehand? Then we could just move everything into the hall prior to the event.
 W: OK. I’ll grab the artwork list for us to reference now.
 
@@ -253,7 +253,7 @@ W: OK. I’ll do that right now.
 Questions 56-58 refer to the following conversation.
 `캐나다식 발음 → 미국식 발음`
 M: Hi. My name is Cody Tate, and I’m calling from the Bryant Park Activities Center. I’d like to talk to you about the neighborhood event you’ve volunteered to work at tomorrow.
-W: Oh . . . I assume you’re referring to the Bryant Town Carnival.
+W: Oh ... I assume you’re referring to the Bryant Town Carnival.
 M: That’s correct. According to our records, you’ve agreed to set up game booths at the carnival. Would you be able to work at the ticket booth for a few hours once the event begins as well? The person who was assigned that responsibility has fallen ill, so we need someone to fill in for her.
 W: Yes, of course. However, I can only stay until about 5 p.m., as I have another engagement later in the day.
 
@@ -272,13 +272,13 @@ W: We can browse that site when we return from our lunch break.
 Questions 62-64 refer to the following conversation.
 `호주식 발음 → 미국식 발음`
 M: It’s Liam O’Reilly from the Cypress Mall branch. I’m assisting a customer who is interested in renting a van that can seat a minimum of eight people. Do you happen to have any available? Unfortunately, the two we have on our lot are reserved for use later today.
-W: Let me check the database. Ah . . . yes, it appears we have three that would be appropriate. Why don’t I ask a staff member to drive one to your location right away? It shouldn’t take more than 15 minutes or so.
+W: Let me check the database. Ah ... yes, it appears we have three that would be appropriate. Why don’t I ask a staff member to drive one to your location right away? It shouldn’t take more than 15 minutes or so.
 M: That’s great. I’m sure the customer won’t mind waiting. Please tell the employee to inform me upon reaching the facility. Thanks.
 
 Questions 65-67 refer to the following conversation and map.
 `캐나다식 발음 → 영국식 발음`
 M: Excuse me. Where is the observation deck for the harbor located?
-W: Just walk toward Starfish Beach after you exit this visitor center. The deck is on the corner. Ah . . . and it’s fortunate you came today. The boardwalk will be filled with people tomorrow because of a kite-flying competition.
+W: Just walk toward Starfish Beach after you exit this visitor center. The deck is on the corner. Ah ... and it’s fortunate you came today. The boardwalk will be filled with people tomorrow because of a kite-flying competition.
 M: Good to know. By the way, I’ll be able to see Dune Island from the deck, right?
 W: Yes. New viewing machines were just installed there, and the weather is clear today.
 M: Great! Also, I’m curious how much the parking fee for the nearby lot is.
@@ -315,7 +315,7 @@ I want to begin by saying it’s been an honor to spend the final two decades of
 
 Questions 86-88 refer to the following talk.
 `영국식 발음`
-Thank you for volunteering at our community center’s basketball tournament. I have a few last-minute things to discuss with you before the event begins. First of all, two volunteers should stay outside this gymnasium to direct traffic. While you are doing this, please make sure that visitors do not park near the rear entrance. That area must be kept clear for emergency vehicles. Once the event is over, all of you should help the janitorial staff by picking up any garbage left by attendees. OK . . . that’s it for now. I’ll let you know if I need your assistance with anything else.
+Thank you for volunteering at our community center’s basketball tournament. I have a few last-minute things to discuss with you before the event begins. First of all, two volunteers should stay outside this gymnasium to direct traffic. While you are doing this, please make sure that visitors do not park near the rear entrance. That area must be kept clear for emergency vehicles. Once the event is over, all of you should help the janitorial staff by picking up any garbage left by attendees. OK ... that’s it for now. I’ll let you know if I need your assistance with anything else.
 
 Questions 89-91 refer to the following radio broadcast.
 `호주식 발음`
@@ -325,7 +325,7 @@ Welcome to This Week in Brooklyn on Central Radio
 
 Questions 92-94 refer to the following telephone message and building directory.
 `영국식 발음`
-Kenny, it’s Nina Emerson. I’m calling about our conversation yesterday afternoon concerning the firm’s incoming recruits. You asked if I’d be willing to take charge of their orientation session next Friday. I just remembered that I’ll be out of town for a convention that day, so I can’t assist you. However, Victoria Styles has directed training workshops in the past, and she’s offered to help out. I suggest talking with her in person sometime today. Just note that her office is no longer on the third floor . . . She moved to the top floor when she transferred to another department. As for your comments about the Greenway Project, we’ll have to discuss that when I get back.
+Kenny, it’s Nina Emerson. I’m calling about our conversation yesterday afternoon concerning the firm’s incoming recruits. You asked if I’d be willing to take charge of their orientation session next Friday. I just remembered that I’ll be out of town for a convention that day, so I can’t assist you. However, Victoria Styles has directed training workshops in the past, and she’s offered to help out. I suggest talking with her in person sometime today. Just note that her office is no longer on the third floor ... She moved to the top floor when she transferred to another department. As for your comments about the Greenway Project, we’ll have to discuss that when I get back.
 
 Questions 95-97 refer to the following announcement and ticket.
 `미국식 발음`
@@ -333,4 +333,4 @@ May I have your attention, please? Passengers bound for Hartsville may begin boa
 
 Questions 98-100 refer to the following excerpt from a meeting and table.
 `캐나다식 발음`
-First of all, thank you for developing the new solar panel so quickly. I didn’t expect the prototype to be ready for another two weeks. And it looks like this panel will be a significant improvement over our existing model. Assuming it functions as expected, we should see a 15 percent increase in power generation. Which brings me to the next stage of the project . . . The initial test of the panel will be conducted next week. The forecast calls for rain on Monday, and Tuesday is a national holiday, so we’ll do it on the next clear day. My assistant—Charlotte Cruz—confirmed with the maintenance department this morning that we’ll be able to gain access to the building’s roof to set up our equipment. Any questions?
+First of all, thank you for developing the new solar panel so quickly. I didn’t expect the prototype to be ready for another two weeks. And it looks like this panel will be a significant improvement over our existing model. Assuming it functions as expected, we should see a 15 percent increase in power generation. Which brings me to the next stage of the project ... The initial test of the panel will be conducted next week. The forecast calls for rain on Monday, and Tuesday is a national holiday, so we’ll do it on the next clear day. My assistant—Charlotte Cruz—confirmed with the maintenance department this morning that we’ll be able to gain access to the building’s roof to set up our equipment. Any questions?

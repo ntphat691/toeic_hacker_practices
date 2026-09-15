@@ -202,7 +202,7 @@ W: Hey, Mark and Floyd. Did you guys see the memo about the upcoming changes to 
 M1: Yes, Samantha. I’m glad the company has decided to increase the amount that employees will be reimbursed for transportation to $5,000 per trip.
 M2: That’ll really help when booking flights for business trips.
 W: Don’t you think it’s a bit high? On my last business trip, I didn’t spend more than $1,600 for all my travel expenses.
-M1: Sure . . . but your team members don’t have to travel internationally.
+M1: Sure ... but your team members don’t have to travel internationally.
 M2: Exactly. Members of the technology team, like Floyd and I, go abroad frequently to complete projects.
 W: Oh, right. I forgot that your department is putting in the computer system for one of our international partners’ new headquarters.
 
@@ -221,7 +221,7 @@ M: I don’t think she’ll mind, but I’ll ask her anyway.
 
 Questions 44-46 refer to the following conversation.
 `호주식 발음 → 미국식 발음`
-M: Beth . . . I’m glad I caught you. Our company is designing Fieldstone Incorporated’s new Portland office, so I’m meeting with one of their representatives next week to discuss the project time table. I’d like you to join me.
+M: Beth ... I’m glad I caught you. Our company is designing Fieldstone Incorporated’s new Portland office, so I’m meeting with one of their representatives next week to discuss the project time table. I’d like you to join me.
 W: OK. I heard about the new contract, but I didn’t know I’d be involved. I assume you’re going to be running the project, right?
 M: I’m helping out during the early stages. As Jenna Adams is the team leader, I won’t really have a supervisory role.
 W: This is going to be her first time in a management role, isn’t it?
@@ -247,7 +247,7 @@ W: I just went through the income statement prepared by the accounting team. I�
 M: I know. Apparently, our main competitor now offers an online service. Customers can order products through the company’s Web site and have them delivered on the same day.
 W: That is a lot more convenient than visiting one of our shops in person.
 M: That’s what I’m getting at. We need to figure out a way to be more competitive.
-W: Well, the solution seems obvious . . . We should develop a similar service.
+W: Well, the solution seems obvious ... We should develop a similar service.
 M: Yeah. I’m going to put together a presentation about this for the CEO.
 
 Questions 56-58 refer to the following conversation.
@@ -266,16 +266,16 @@ W: It should take about three to five business days.
 Questions 62-64 refer to the following conversation and map.
 `미국식 발음 → 호주식 발음`
 W: Jonathan, have you found a place to order a cake from for our company’s 10th anniversary dinner?
-M: I want to use Norman’s Bakery again this time. It usually does a stellar job and it’s . . . uh . . . right next to Marshall Park.
+M: I want to use Norman’s Bakery again this time. It usually does a stellar job and it’s ... uh ... right next to Marshall Park.
 W: That’s true, but they don’t offer any gluten-free options, which several staff members require. What about Medley Cakes?
 M: Haven’t you heard? Medley Cakes closed last month. A new bakery called French Delights took over that location.
-W: Hmm . . . I guess we’ll have to use Katy’s Confections. It’s quite expensive, though.
+W: Hmm ... I guess we’ll have to use Katy’s Confections. It’s quite expensive, though.
 M: Actually, someone mentioned that a new vegan, gluten-free bakery had opened across from where Medley Cakes used to be. I’ll try to get in touch with them.
 
 Questions 65-67 refer to the following conversation and table.
 `캐나다식 발음 → 영국식 발음`
 M: Hello. I’m interested in taking your center’s ceramics course. I filled out the registration form ahead of time and brought it with me today.
-W: Great. I’ll take the form and get you registered. So, you’d . . . ah . . . you’d prefer the Thursday night class. Unfortunately, that class is full.
+W: Great. I’ll take the form and get you registered. So, you’d ... ah ... you’d prefer the Thursday night class. Unfortunately, that class is full.
 M: I see. Well, I’ll register for another day in the evening, then. I need to take the class at night, since I work until 7 p.m. every day.
 W: OK. You’re signed up for the day and time I’ve circled on this table. If you don’t know where the class is being held, I can give you a map showing that as well.
 
@@ -324,7 +324,7 @@ Today marks an important development for both Hanaway Industries and Glarris Tec
 
 Questions 95-97 refer to the following telephone message and invoice.
 `호주식 발음`
-Hello, Mr. Meade. This is Matthew from Bellville Interiors. I want to let you know that we’ll be able to put up the wallpaper in your new office next week on March 29 rather than April 3, as one of our current projects will end earlier than expected. You wanted us to start as soon as possible, so I assume this plan is acceptable, but . . . um, please call me back to let me know for sure. One more thing. I double-checked the measurements of your office, and it will actually take 11 rolls of wallpaper to cover the walls. I’ll update the original invoice and send you a new copy this afternoon. The only change will be the additional charge of $38 . . . plus tax, of course.
+Hello, Mr. Meade. This is Matthew from Bellville Interiors. I want to let you know that we’ll be able to put up the wallpaper in your new office next week on March 29 rather than April 3, as one of our current projects will end earlier than expected. You wanted us to start as soon as possible, so I assume this plan is acceptable, but ... um, please call me back to let me know for sure. One more thing. I double-checked the measurements of your office, and it will actually take 11 rolls of wallpaper to cover the walls. I’ll update the original invoice and send you a new copy this afternoon. The only change will be the additional charge of $38 ... plus tax, of course.
 
 Questions 98-100 refer to the following talk and graph.
 `영국식 발음`

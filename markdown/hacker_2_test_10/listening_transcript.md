@@ -194,7 +194,7 @@ Questions 32-34 refer to the following conversation.
 `미국식 발음 → 호주식 발음`
 W: Good morning. I’m planning to take golf lessons, and I’d like to rent a set of clubs from your shop. I’ll need them for three months, starting from today.
 M: Not a problem. Our rental prices are quite competitive, and the fee includes damage insurance for the clubs. However, we recently modified our rental rules, so you’ll have to rent them for at least six months, which is a bit too long for you, I think.
-W: Hmm . . . well, that should be fine. I might want to practice with the clubs after the lessons are finished.
+W: Hmm ... well, that should be fine. I might want to practice with the clubs after the lessons are finished.
 M: All right. A piece of photo ID is required to rent our equipment, so I’ll need to look at that first.
 
 Questions 35-37 refer to the following conversation.
@@ -272,11 +272,11 @@ W: Sure. Saturday at 1 p.m. works for me.
 
 Questions 65-67 refer to the following conversation and coupon.
 `호주식 발음 → 미국식 발음`
-M: Hello, this is Jack Parker. I made a reservation for Friday at 12:30 p.m., but I’d like to move it to the evening . . . um . . . to 6:00 p.m. Some important clients will be at our office for a presentation that afternoon, and I will need to participate.
+M: Hello, this is Jack Parker. I made a reservation for Friday at 12:30 p.m., but I’d like to move it to the evening ... um ... to 6:00 p.m. Some important clients will be at our office for a presentation that afternoon, and I will need to participate.
 W: No problem, Mr. Parker. And just to let you know, we recently updated our menu, and there are several new entrées available.
 M: I saw that on your Web site when I downloaded a coupon this morning.
 W: The one for a free entrée? Actually, you won’t be able to use that with your reservation. I’m sorry about that.
-M: Oh . . . yeah, I see what the problem is. I’ll just use it some other time.
+M: Oh ... yeah, I see what the problem is. I’ll just use it some other time.
 
 Questions 68-70 refer to the following conversation and map.
 `캐나다식 발음 → 영국식 발음`
@@ -316,7 +316,7 @@ It is my pleasure to welcome you all to the opening day of Keller University’s
 
 Questions 89-91 refer to the following telephone message.
 `캐나다식 발음`
-Hello, Ms. Cooper. This is Trevor from Fairfield Travel returning your call about a last-minute flight to Paris tomorrow. I could only find you two options. I can book you on the earliest available direct flight, which . . . um . . . which leaves at 7 p.m. and arrives at 2 a.m. The other option is a flight departing at 1:00 p.m. that will get you there at 11:00 p.m., but it has a three-hour layover in Brussels. I know neither is ideal, but unfortunately there were no morning departures as you had requested. I’ll be meeting with another client until noon, so call me back anytime after that to let me know which flight you’d prefer. Thank you.
+Hello, Ms. Cooper. This is Trevor from Fairfield Travel returning your call about a last-minute flight to Paris tomorrow. I could only find you two options. I can book you on the earliest available direct flight, which ... um ... which leaves at 7 p.m. and arrives at 2 a.m. The other option is a flight departing at 1:00 p.m. that will get you there at 11:00 p.m., but it has a three-hour layover in Brussels. I know neither is ideal, but unfortunately there were no morning departures as you had requested. I’ll be meeting with another client until noon, so call me back anytime after that to let me know which flight you’d prefer. Thank you.
 
 Questions 92-94 refer to the following television broadcast.
 `미국식 발음`
@@ -328,4 +328,4 @@ Thank you for calling Fanli Technologies. To learn more about our home entertain
 
 Questions 98-100 refer to the following excerpt from a meeting and chart.
 `캐나다식 발음`
-There is one more matter to discuss during today’s board meeting . . . our new Glide cell phone. It looks like the sales team was right about our customers wanting a phone with a smaller screen. It’s been an amazing success since its second quarter release. Our concerns about a smaller, more expensive phone not being able to compete with cheaper models were clearly misguided. Not only has it outsold our budget model for three straight quarters, but it also eclipsed our larger, top-of-the-line model during the last quarter to become our second-highest-selling phone. If its sales continue to increase, the Glide will soon be our best-selling model.
+There is one more matter to discuss during today’s board meeting ... our new Glide cell phone. It looks like the sales team was right about our customers wanting a phone with a smaller screen. It’s been an amazing success since its second quarter release. Our concerns about a smaller, more expensive phone not being able to compete with cheaper models were clearly misguided. Not only has it outsold our budget model for three straight quarters, but it also eclipsed our larger, top-of-the-line model during the last quarter to become our second-highest-selling phone. If its sales continue to increase, the Glide will soon be our best-selling model.

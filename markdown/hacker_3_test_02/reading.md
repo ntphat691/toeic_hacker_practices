@@ -213,22 +213,26 @@ Questions 131-134 refer to the following e-mail.
 
 To: Christine Lata <clata2@consumermail.com> From: Dr. Miles Hamilton <mhamilton@hamiltonmedical.com:> Date: March 15 Subject: Retirement Dear Ms. Lata, My 40-year career as a physician is coming to an end as I plan to _____ from my position on June 1. Although I look forward to enjoying my golden years, I will miss my work helping patients. As your doctor, I believe I should suggest an appropriate replacement. _____ , I'd like to recommend Dr. Jennifer Jana. She is an excellent physician whose clinic is _____ to my current office. With your consent, your medical records will be transferred to her on June 2. , I wish you good health and a happy future. Best regards, Dr. Miles Hamilton Hamilton Medical Clinic
 
-131. (A) step down
+131.
+(A) step down
 (B) move out
 (C) take over
 (D) hold off
 
-132. (A) Therefore
+132.
+(A) Therefore
 (B) Likewise
 (C) Afterward
 (D) Conversely
 
-133. (A) addressable
+133.
+(A) addressable
 (B) straight
 (C) divided
 (D) close
 
-134. (A) Your chart shows a marked milk improvement since her last visit.
+134.
+(A) Your chart shows a marked milk improvement since her last visit.
 (B) Of course, I am glad that you have decided to remain with me.
 (C) Otherwise, you may retrieve them from my staff before that date.
 (D) There are many forms of treatment for your condition.
@@ -237,22 +241,26 @@ Questions 135-138 refer to the following letter.
 
 April 7 William Randell 118 West Ocean Boulevard Oceanside, California 92049 Dear Mr. Randell, Your application has been _____ We are pleased to welcome you to West Coast State University. In the coming weeks, we will be sending more information about how you should prepare for your first semester. _____ you meet the enrollment deadline, you will be allowed to sign up for a full course load and pay your tuition in the last week of July. We will also issue you a student ID card then. _____ Should you wish to have a dormitory room at that point, we will assign you one a week prior to the start of classes. You will be authorized to move in shortly Once again, congratulations on your successful application, and we hope to see you this fall, Sincerely, Admissions and Financial Aid West Coast State University
 
-135. (A) rejected
+135.
+(A) rejected
 (B) deferred
 (C) replaced
 (D) accepted
 
-136. (A) Up until
+136.
+(A) Up until
 (B) On condition that
 (C) Though
 (D) Rather than
 
-137. (A) Now that you have sent the amount, f||| please wait for confirmation,
+137.
+(A) Now that you have sent the amount, f||| please wait for confirmation,
 (B) We hope that you found your classes to be both fun and informative.
 (C) Once you receive it, you may access all of the facilities on campus.
 (D) The additional charge to your account is for the card you lost.
 
-138. (A) before
+138.
+(A) before
 (B)soon
 (C) thereafter
 (D) now
@@ -261,22 +269,26 @@ Questions 139-142 refer to the following article.
 
 New Transit Options Coming! City Council yesterday _____ - to approve the proposed subway extension into the Glostrup zone of Copenhagen. _____ This has encouraged developers to build more apartments there. Moreover, the creation of the nearby Albertslund Technology Park has added thousands of new jobs. These ------- opportunities have been the key to attracting more people to the district. Since development began, however, it _____ the area's transit capacity to its limits, causing local residents and businesses to campaign for a subway extension. A few council members opposed the proposal, pointing out the high expense of underground transit. Nevertheless, the building of the subway extension will proceed at an estimated cost of €650 million and should be operational within five years.
 
-139. (A) failed
+139.
+(A) failed
 (B) reacted
 (C) voted
 (D) hesitated
 
-140. (A) Tourism to the area has grown in |||| recent years thanks to a popular campaign.
+140.
+(A) Tourism to the area has grown in |||| recent years thanks to a popular campaign.
 (B) The population in this area has been increasing because of low property costs.
 (C) The district's transportation costs are increasing at an unprecedented rate.
 (D) The closure of the Glostrup line was announced just two months earlier.
 
-141. (A) education
+141.
+(A) education
 (B) employment
 (C) volunteer
 (D) sponsorship
 
-142. (A) will stretch
+142.
+(A) will stretch
 (B) stretches
 (C) will be stretched
 (D) has stretched
@@ -285,22 +297,26 @@ Questions 143-146 refer to the following memo.
 
 To; All staff From: Louise Nixon, Director of operations Subject: VIP event Date: September 6 We have confirmed a booking for over 200 guests from September 27 to 30. Many of are important people from respected organizations who anticipate a high level of service from us. They will be our only guests over the entire four-day period. For privacy reasons, you are expected to cooperate with requests from their security personnel and _____ from discussing the event outside the hotel. We've also agreed that guests will be allowed complimentary use of the spa, gym, and business center. _____ they should be billed if they order room service or make long-distance
 
-143. (A) whom
+143.
+(A) whom
 (B) them
 (C) their
 (D) which
 
-144. (A) to refrain
+144.
+(A) to refrain
 (B) refraining
 (C) refrained
 (D) refrains
 
-145. (A) The guests were very pleased with the mm service we provided.
+145.
+(A) The guests were very pleased with the mm service we provided.
 (B) Another group needs to use our small meeting room on the 28th.
 (C) The contract states that their meals should be provided free of charge.
 (D) Event participants will be entitled to a discount upon booking.
 
-146. (A) Specifically
+146.
+(A) Specifically
 (B) Sometimes
 (C) Otherwise
 (D) On the other hand

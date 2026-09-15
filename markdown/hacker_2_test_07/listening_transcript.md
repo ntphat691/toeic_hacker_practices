@@ -215,14 +215,14 @@ W: I’ve been asked to do just that, actually. I’m about to go to our head ed
 Questions 41-43 refer to the following conversation with three speakers.
 `호주식 발음 → 캐나다식 발음 → 영국식 발음`
 M1: Allen and Carla, there isn’t enough space in our garage for the amount of repair work that we have been getting. What do you two think about moving to a larger facility?
-M2: Hmm . . . I’m not sure. We’d probably have to move far away. I’m worried that local patrons will take their business to competitors if we relocate.
+M2: Hmm ... I’m not sure. We’d probably have to move far away. I’m worried that local patrons will take their business to competitors if we relocate.
 W: Actually, the vacant lot next door was just put up for sale. If we acquire it, we could have a bigger facility constructed on the land. That way, we would be able to expand right here.
 M1: That would be perfect! Let’s start by determining how much the parcel of land is being sold for.
 
 Questions 44-46 refer to the following conversation.
 `캐나다식 발음 → 미국식 발음`
 M: Good afternoon. I’m currently employed as an intern at a law firm, and I’m interested in registering for the writing course your institute offers for legal professionals.
-W: OK. We have two courses on that subject . . . um, Writing 103 and 204.
+W: OK. We have two courses on that subject ... um, Writing 103 and 204.
 M: Yeah, I saw that when I went through your online course catalog this morning. I’d like to take the advanced class because the lower-level one covers a lot of material that I’m already familiar with. Will that be a problem?
 W: Not at all. I’ll give you a few forms to fill out now, and then you will have four days to make the payment for the course. Once you are registered, the instructor will e-mail you further information about the class.
 
@@ -253,7 +253,7 @@ M: I see. In that case, I’ll prescribe you some pain- killing medication. Howe
 Questions 56-58 refer to the following conversation.
 `캐나다식 발음 → 미국식 발음`
 M: Candace, we’ve been advertising the programmer position for three weeks, but very few people have applied. Plus, none of the candidates have enough relevant work experience.
-W: Hmm . . . I’ll tell representatives from the recruitment Web site to run the advertisement for another week. Also, I think we should consider placing the job posting on some social media sites to attract applicants.
+W: Hmm ... I’ll tell representatives from the recruitment Web site to run the advertisement for another week. Also, I think we should consider placing the job posting on some social media sites to attract applicants.
 M: I agree. Dylan Marks from the human resources department is familiar with those types of sites. After our 10 a.m. staff meeting, I’ll ask which ones he feels are most effective.
 W: If he offers specific suggestions, can you let me know after lunch? That way I can upload the posting this afternoon.
 
@@ -280,8 +280,8 @@ Questions 65-67 refer to the following conversation and receipt.
 `호주식 발음 → 미국식 발음`
 M: Hello, and welcome to Engel’s Department Store. Is there anything I can help you with?
 W: There is. I recently purchased some clothing here, and I noticed this pair of shoes was incorrectly scanned in as the more expensive deluxe version of the Wriggly line.
-M: Let me confirm the error quickly . . . Yes, you’re right. I apologize for the mistake. I can give you a slip indicating store credit for the difference.
-W: That’ll do. Oh . . . by the way, I wanna return this shirt, which I purchased at the same time.
+M: Let me confirm the error quickly ... Yes, you’re right. I apologize for the mistake. I can give you a slip indicating store credit for the difference.
+W: That’ll do. Oh ... by the way, I wanna return this shirt, which I purchased at the same time.
 M: Sorry, but sale items can’t be refunded.
 W: Actually, this one wasn’t discounted.
 
@@ -297,7 +297,7 @@ M: Sure. But please note that photography is not permitted, and you should keep 
 
 Questions 71-73 refer to the following telephone message.
 `호주식 발음`
-Hi, Ryan. It’s Martin Dickey from the International Business Institute. I just received a copy of the speech you plan to give for our lecture series on infrastructure investment and overseas development. Overall, I’m very pleased with it. However, I do have a recommendation. You might want to use visual materials to illustrate the data in your report— photographs or charts, for example. One other thing . . . I’m wondering if you would mind presenting on June 14 instead of June 15. Carol Wilkins was originally scheduled for the 14th, but she has to travel to New York to meet with a supplier. She asked me to push her lecture back a day, so it’d be great if you could move yours forward.
+Hi, Ryan. It’s Martin Dickey from the International Business Institute. I just received a copy of the speech you plan to give for our lecture series on infrastructure investment and overseas development. Overall, I’m very pleased with it. However, I do have a recommendation. You might want to use visual materials to illustrate the data in your report— photographs or charts, for example. One other thing ... I’m wondering if you would mind presenting on June 14 instead of June 15. Carol Wilkins was originally scheduled for the 14th, but she has to travel to New York to meet with a supplier. She asked me to push her lecture back a day, so it’d be great if you could move yours forward.
 
 Questions 74-76 refer to the following talk.
 `캐나다식 발음`
@@ -313,7 +313,7 @@ May I have everyone’s attention? As the volunteer coordinator, I’d like to w
 
 Questions 83-85 refer to the following talk.
 `미국식 발음`
-One last thing before we finish up today . . . It looks like we are going to be understaffed next Friday because several of our employees will be participating in a customer service workshop. This will be a great opportunity for them to improve their skills and learn new techniques in assisting our service center clients. However, we still have to meet the deadline for our current project. So, I would like you to notify your team members that leave applications for that day will be denied unless there is an emergency situation. Don’t misunderstand me, though. The policy only applies to new requests. Anyone who has already been approved to take that day off won’t be affected.
+One last thing before we finish up today ... It looks like we are going to be understaffed next Friday because several of our employees will be participating in a customer service workshop. This will be a great opportunity for them to improve their skills and learn new techniques in assisting our service center clients. However, we still have to meet the deadline for our current project. So, I would like you to notify your team members that leave applications for that day will be denied unless there is an emergency situation. Don’t misunderstand me, though. The policy only applies to new requests. Anyone who has already been approved to take that day off won’t be affected.
 
 Questions 86-88 refer to the following talk.
 `영국식 발음`
@@ -333,4 +333,4 @@ In local news, limited power outages will occur in some Atlanta neighborhoods ov
 
 Questions 98-100 refer to the following telephone message and sign.
 `캐나다식 발음`
-Hi, Sandra. I got your message about the team-building exercise you’re arranging for our department. I like your idea of playing a soccer game at a park, but it’d be best to do it after work rather than on the weekend like you originally planned. Many employees commute from the suburbs and won’t want to travel on their day off. If you agree, then Baker Park isn’t suitable because it closes at six o’clock on weekdays. And while Pine Park is open until 10:00 p.m., it doesn’t have a playing field. So, that leaves Taylor Park or . . . um . . . maybe Riverview Park. Let me know which one you prefer sometime today. Thanks.
+Hi, Sandra. I got your message about the team-building exercise you’re arranging for our department. I like your idea of playing a soccer game at a park, but it’d be best to do it after work rather than on the weekend like you originally planned. Many employees commute from the suburbs and won’t want to travel on their day off. If you agree, then Baker Park isn’t suitable because it closes at six o’clock on weekdays. And while Pine Park is open until 10:00 p.m., it doesn’t have a playing field. So, that leaves Taylor Park or ... um ... maybe Riverview Park. Let me know which one you prefer sometime today. Thanks.

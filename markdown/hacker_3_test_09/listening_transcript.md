@@ -208,12 +208,12 @@ Questions 38-40 refer to the following conversation.
 W: Excuse me. I’d like to leave my car in this indoor parking lot for a couple of hours while I run some errands. My husband works at a dental clinic down the street, and he gave me his parking pass. Can I use it here?
 M: Unfortunately, it looks like your husband’s pass expired two days ago. You’ll have to pay to use our space.
 W: Oh, OK. How does the payment process work?
-M: The fee for parking is $3.50 an hour. Here . . . I’ll print a new ticket for you. When you leave, you can insert it into the machine located near the exit and pay using cash or credit card.
+M: The fee for parking is $3.50 an hour. Here ... I’ll print a new ticket for you. When you leave, you can insert it into the machine located near the exit and pay using cash or credit card.
 
 Questions 41-43 refer to the following conversation.
 `미국식 발음 → 호주식 발음`
 W: Tyler, have you read the quarterly sales report yet?
-M: No. I’m planning to look through it on Thursday. I have to fly to Seattle this afternoon for . . . um . . . a trade exhibition, and I won’t be back until Wednesday evening. Why? Is there a problem?
+M: No. I’m planning to look through it on Thursday. I have to fly to Seattle this afternoon for ... um ... a trade exhibition, and I won’t be back until Wednesday evening. Why? Is there a problem?
 W: Actually, there is. Sales of the company’s latest dishwasher model are much lower than expected. The CEO wants our team to develop some new marketing strategies and present them tomorrow morning. We don’t have much time to prepare, so I could really use your assistance.
 M: I’ll take a later flight, then. This sounds important, and I don’t want to let the team down.
 
@@ -227,7 +227,7 @@ M: I probably missed that piece of news while I was on vacation three weeks ago.
 Questions 47-49 refer to the following conversation.
 `미국식 발음 → 호주식 발음`
 W: Walter, I need you to update the staff manual for our investment bank’s stock market research software. Here’s a copy of the current handbook.
-M: Thanks. But . . . ah . . . when does the document need to be completed?
+M: Thanks. But ... ah ... when does the document need to be completed?
 W: You’ll have three days to work on it. Also, you should make revisions based on the version of the software that our IT workers are developing now. I asked the team to provide you with a list of changes to the program.
 M: Got it. But can I look at the manual in an electronic format instead of this printout? It will be easier for me to refer to that.
 
@@ -236,7 +236,7 @@ Questions 50-52 refer to the following conversation.
 M: My name is Stanley Coburn. When I logged in to my library account today, I saw that I have an overdue book. But I never received a voice mail reminder about this. I’m a little upset about the situation.
 W: We switched to sending notices by e-mail last month, Mr. Coburn. You should’ve received a message about the development.
 M: Really? I check my e-mails regularly, and I never received one. Maybe the library hasn’t been using my correct e-mail address.
-W: I apologize for the inconvenience. Umm . . . here’s what I can do . . . If you return the book today, you won’t have to pay a late fee.
+W: I apologize for the inconvenience. Umm ... here’s what I can do ... If you return the book today, you won’t have to pay a late fee.
 
 Questions 53-55 refer to the following conversation with three speakers.
 `미국식 발음 → 캐나다식 발음 → 호주식 발음`
@@ -261,7 +261,7 @@ Questions 59-61 refer to the following conversation.
 `미국식 발음 → 캐나다식 발음`
 W: Hi. I’d like to buy a watch as a gift for my assistant, since he was really helpful while I was creating my latest clothing line.
 M: Certainly. Our store has a number of great choices. For instance, this piece has a leather band and costs $145.
-W: I really like that. But . . . It looks like the face on it is cracked. See here? Do you have any others in stock? If so, I’ll take it.
+W: I really like that. But ... It looks like the face on it is cracked. See here? Do you have any others in stock? If so, I’ll take it.
 M: My apologies. Yes, let me grab another from our back room.
 W: By the way, I’d appreciate it if you could gift-wrap it too. That’ll save me the hassle of doing it myself.
 
@@ -302,7 +302,7 @@ At Durand Incorporated, we believe that cleaning supplies should not include har
 
 Questions 77-79 refer to the following telephone message.
 `호주식 발음`
-This is Michael Danton calling from Harford Legal Services. It’s regarding the retirement party for another attorney at my firm that your company is catering tonight. I just spoke to one of your employees who is setting up at the banquet hall we rented, and she mentioned that there will be sufficient food for 50 people. But over 75 guests will be attending this event. I’m not sure how this mistake happened . . . I was very clear when I met with you to organize the party, and the contract I signed states the number of attendees. I expect to see you here at the hall within the hour with a plan to deal with this situation.
+This is Michael Danton calling from Harford Legal Services. It’s regarding the retirement party for another attorney at my firm that your company is catering tonight. I just spoke to one of your employees who is setting up at the banquet hall we rented, and she mentioned that there will be sufficient food for 50 people. But over 75 guests will be attending this event. I’m not sure how this mistake happened ... I was very clear when I met with you to organize the party, and the contract I signed states the number of attendees. I expect to see you here at the hall within the hour with a plan to deal with this situation.
 
 Questions 80-82 refer to the following announcement.
 `캐나다식 발음`
@@ -314,11 +314,11 @@ Are you confused by all the different types of investments? Worried about making
 
 Questions 86-88 refer to the following telephone message.
 `캐나다식 발음`
-Hello, Ms. Chen. It’s Damien Marks from Vox Wireless. I have some bad news . . . I won’t be able to repair your phone. I know I told you that it would be easy to replace the cracked screen. However, the problem is more serious than I thought. When you dropped your phone, you broke several internal components. This means that it’s going to cost more to fix your phone than to buy a new one. Why don’t you stop by the store to look at the models in stock? We’ll even give you a $100 store credit for your broken phone to use on your purchase. We’re open from 8 a.m. to 10 p.m. each day, and I’m here from 9 a.m. to 6 p.m. on weekdays if you have any questions.
+Hello, Ms. Chen. It’s Damien Marks from Vox Wireless. I have some bad news ... I won’t be able to repair your phone. I know I told you that it would be easy to replace the cracked screen. However, the problem is more serious than I thought. When you dropped your phone, you broke several internal components. This means that it’s going to cost more to fix your phone than to buy a new one. Why don’t you stop by the store to look at the models in stock? We’ll even give you a $100 store credit for your broken phone to use on your purchase. We’re open from 8 a.m. to 10 p.m. each day, and I’m here from 9 a.m. to 6 p.m. on weekdays if you have any questions.
 
 Questions 89-91 refer to the following instructions.
 `영국식 발음`
-Thank you for this opportunity to give a sales presentation on my company’s newest application. I think it’ll be perfect for your insurance firm. Um, Scheduler 2.0 is an integrated online platform that makes it easy to manage client appointments. A customer who visits your Web site will be prompted to select an appointment time, and the program will then automatically assign an agent. Uh, the employee will be able to access the client’s information to prepare for the meeting. For managers, this system can be used to see how many clients each team member is meeting and what products they have sold. OK . . . let me show you how it works. Then, I’ll answer any questions you might have.
+Thank you for this opportunity to give a sales presentation on my company’s newest application. I think it’ll be perfect for your insurance firm. Um, Scheduler 2.0 is an integrated online platform that makes it easy to manage client appointments. A customer who visits your Web site will be prompted to select an appointment time, and the program will then automatically assign an agent. Uh, the employee will be able to access the client’s information to prepare for the meeting. For managers, this system can be used to see how many clients each team member is meeting and what products they have sold. OK ... let me show you how it works. Then, I’ll answer any questions you might have.
 
 Questions 92-94 refer to the following telephone message and table.
 `영국식 발음`
@@ -326,7 +326,7 @@ Good morning, Mr. Davis. This is Marsha Foster. I’m calling about my interview
 
 Questions 95-97 refer to the following broadcast and map.
 `호주식 발음`
-This is Colin Edwards reporting live from the 20th Annual Pottery Expo, which is being held in Canberra this year. Hundreds of people have gathered here at Melville Hall to see the work of artists from 12 different countries. Today, I’ll be interviewing Matthew Walsh, the owner of the popular local studio Rustic Ceramics. Be sure to check out his booth next to the stairway on the ground floor to view some of his creations. Before I introduce him, though, I want to let you know that free pottery lessons are being offered to all attendees. If this interests you, just stop by the information desk to sign up for a session. Now, let’s meet Mr. Walsh . . .
+This is Colin Edwards reporting live from the 20th Annual Pottery Expo, which is being held in Canberra this year. Hundreds of people have gathered here at Melville Hall to see the work of artists from 12 different countries. Today, I’ll be interviewing Matthew Walsh, the owner of the popular local studio Rustic Ceramics. Be sure to check out his booth next to the stairway on the ground floor to view some of his creations. Before I introduce him, though, I want to let you know that free pottery lessons are being offered to all attendees. If this interests you, just stop by the information desk to sign up for a session. Now, let’s meet Mr. Walsh ...
 
 Questions 98-100 refer to the following telephone message and coupon.
 `미국식 발음`

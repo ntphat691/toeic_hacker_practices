@@ -213,22 +213,26 @@ Questions 131-134 refer to the following letter.
 
 Dear Ms. Clark, Thank you very much for your gift to The NewEd Foundation. As you requested, your ------ lu I will support the education of children enrolled in public school systems in the local area. At NewEd, we work to provide educational institutions with funding for after-school programs, materials, and training for instructors. We also strongly ------ salary increases for teachers 1 Ol.. and specialists employed at educational institutions. a way of thanking you for supporting our cause, The NewEd Foundation welcomes you to join our annual conference on science education. I have enclosed an invitation for you and a guest. _____ Thank you again for your ongoing financial support of our organization. Kindest regards, Marianne Lexington Program coordinator, The NewEd Foundation
 
-131. (A) expertise
+131.
+(A) expertise
 (B) volunteering
 (C) establishment
 (D) contribution
 
-132. (A) assess
+132.
+(A) assess
 (B) restore
 (C) promote
 (D) place
 
-133. (A) Due to
+133.
+(A) Due to
 (B) As
 (C) By
 (D) Even if
 
-134. (A) Simply present it at the entrance on the day of the event.
+134.
+(A) Simply present it at the entrance on the day of the event.
 (B) We appreciate your offer to give a talk at this fundraiser.
 (C) Those who attended agree that the event was a great success,
 (D) Provide the volunteers with instructions when you arrive.
@@ -237,19 +241,22 @@ Questions 135-138 refer to the following e-mail.
 
 |A|| OS! To; Andrea Gershon <a.gershon@wwconsult.com> From: Takeshi Miyagi <t,miyagi@wwconsult.com> Date: Friday, October 10 Subject: Furniture delivery Flello Andrea, I ordered a new chair and desk on October 5 to replace the ones I've been using since I started working for the company. A couple of days ago, I received an e-mail from the manufacturer stating that the items _____ It said that they had been shipped and delivery was expected within the week. I have yet to receive a call from the delivery person, I suppose I won't get my furniture until next week. _____ When the delivery comes, could you please sign for me and then call Mike Flarrison in the maintenance division? Fle's responsible for putting furniture together and removing _____ items, so he will get everything set up in my workspace. Thanks a lot. Takeshi
 
-135. (A) had arrived
+135.
+(A) had arrived
 (B) have arrived
 (C) will be arriving
 (D) arrived
 
 136. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 
-137. (A) I didn't expect project to be delayed by Wm as much as one week.
+137.
+(A) I didn't expect project to be delayed by Wm as much as one week.
 (B) As soon as the items are ready, send them immediately.
 (C) Unfortunately, I will be out of the office next week due to a conference.
 (D) The new desk and chair are now in the storage room.
 
-138. (A) immeasurable
+138.
+(A) immeasurable
 (B) nonessential
 (C) imprecise
 (D) impartial
@@ -258,22 +265,26 @@ Questions 139-142 refer to the following memo.
 
 MEMO DATE: March 31 TO: All operations employees FROM: Robin Evans, Chief of operations SUBJECT: Reports review Last week, I distributed a report detailing the department's performance in the first quarter. There are some items in the report that I think should be addressed. First of all, it seems that costs in the maintenance department have _____ since last quarter. I have asked Terrence Howard's team to provide some details related to specific increases in maintenance expenses. Also, I am quite surprised that certain project ----- have not been met. _____ Lastly, inventory levels are currently lower than projected, I would like to set up a _____ meeting with Carmine Gosford's group to discuss our ----- for managing inventory going forward. We will be doing other performance reviews throughout the year, and I hope that this will help us become a more efficient and productive department.
 
-139. (A) stayed over
+139.
+(A) stayed over
 (B)gone up
 (C) dropped down
 (D) evened out
 
-140. (A) objected
+140.
+(A) objected
 (B) objectively
 (C) object
 (D) objectives
 
-141. (A) I understood the feedback and will |||i| implement your suggestions in the future.
+141.
+(A) I understood the feedback and will |||i| implement your suggestions in the future.
 (B) The only thing left to do is evaluate these concluded sessions.
 (C) Project managers should act on them as soon as possible.
 (D) Fortunately, everyone on the team was able to meet the revised deadline on short notice.
 
-142. (A) confirmation
+142.
+(A) confirmation
 (B) attention
 (C) procedure
 (D) registration
@@ -284,22 +295,26 @@ l*r OS] To: Marilyn Farris <marilyn_farris@madmail,net> From: Lara Smith clara.s
 
 Sincerest regards, Lara Smith Hiring manager, LPR Analytics
 
-143. (A) examination
+143.
+(A) examination
 (B) interview
 (C) assignment
 (D) investigation
 
-144. (A) valid
+144.
+(A) valid
 (B) inaccurate
 (C) optimistic
 (D) secretive
 
-145. (A) We were unable to contact one of your mm listed references,
+145.
+(A) We were unable to contact one of your mm listed references,
 (B) Please also be prepared to give a short presentation about your career,
 (C) I will send them to you using the address you provided.
 (D) The information provided a lot of useful material for our discussion.
 
-146. (A) Afterwards
+146.
+(A) Afterwards
 (B) Nevertheless
 (C) Therefore
 (D) Conversely
@@ -586,7 +601,7 @@ NOTICE: Upcoming maintenance Posted on May i
 
 County Line Bank's mission is to do everything we can to earn the trust and respect of our customers. We extend that mission to our online services as well. To do this, we must continually update our computer systems and software. Unfortunately, making these necessary improvements requires that we shut down parts of our online banking services for short periods of time. In this regard, on May 22 from 5 p.m. to 10 p.m, some online banking features will become temporarily unavailable. During this time, customers will be unable to check balances, pay bills, transfer money, stop payments, or deposit money for checking and savings accounts registered on our online system. We apologize for any inconvenience this may cause you. To take care of time-sensitive transactions during the shutdown period, you may call our 24-hour customer service line at 1-800-555-3278. You will be required to provide your account number and may also be asked security questions to verify your identity. Alternatively, you may conduct all regular transactions available through any automated teller machine or visit any County Line branch for personal service from one of our professional tellers. Thank you for your patience and your continued business.
 
-May 8 y, | County Line Bank Headquarters Mr. Roger Black 950 Crestside Drive Q St. Louis, MO 63112 m Dear Mr. Black, < . . . ..... S! i am an account engineer with Datup Solutions, specializing in online systems. I have learned that you are the director of information technology for County Line Bank. I would like to discuss briefly with you how our company is helping clients like you to minimize their system downtime. Datup recognizes the financial consequences for companies or institutions who regularly have to take parts of their systems offline for maintenance, as your bank does with its site. With this in mind, Datup's main business focus has always been to keep systems running during upgrades and upkeep. We have been successfully helping financial institutions, insurance firms, and online retail companies do exactly that for four years now, with most clients reporting substantial returns on their !V| investments. If you are interested, I would like to meet with you and any other key personnel related to your system s operations. Ideally, it would be a good idea to have an appointment one week before your upgrade takes place. We can review the bank's current system, and my associate Michaela Owens and I can explain to you face-to-face how Datup can help to improve the situation. We are available to meet with you any day this week apart from Thursday, which is the day of a company conference. And f\ you can also select any time between 8 a.m. and 7 p.m. Please call me at 555-6420 to make § arrangements.
+May 8 y, | County Line Bank Headquarters Mr. Roger Black 950 Crestside Drive Q St. Louis, MO 63112 m Dear Mr. Black, < ... ..... S! i am an account engineer with Datup Solutions, specializing in online systems. I have learned that you are the director of information technology for County Line Bank. I would like to discuss briefly with you how our company is helping clients like you to minimize their system downtime. Datup recognizes the financial consequences for companies or institutions who regularly have to take parts of their systems offline for maintenance, as your bank does with its site. With this in mind, Datup's main business focus has always been to keep systems running during upgrades and upkeep. We have been successfully helping financial institutions, insurance firms, and online retail companies do exactly that for four years now, with most clients reporting substantial returns on their !V| investments. If you are interested, I would like to meet with you and any other key personnel related to your system s operations. Ideally, it would be a good idea to have an appointment one week before your upgrade takes place. We can review the bank's current system, and my associate Michaela Owens and I can explain to you face-to-face how Datup can help to improve the situation. We are available to meet with you any day this week apart from Thursday, which is the day of a company conference. And f\ you can also select any time between 8 a.m. and 7 p.m. Please call me at 555-6420 to make § arrangements.
 
 II I do look forward to meeting with you and possibly working together with you and County Line Bank in the future. Sincerely, Jason Richards Datup account engineer
 

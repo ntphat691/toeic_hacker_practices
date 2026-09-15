@@ -199,7 +199,7 @@ W: Just let me know as soon as you’re free. I want to take care of everything 
 Questions 35-37 refer to the following conversation.
 `캐나다식 발음 → 영국식 발음`
 M: Hey, Soojin. I’m about to head to Forest Café to buy coffee for our team. Would you like something, too?
-W: Yes. I love the seasonal espresso drink sold there . . . the pumpkin latte.
+W: Yes. I love the seasonal espresso drink sold there ... the pumpkin latte.
 M: I think that one was discontinued. It was being offered in the fall only. The café is advertising winter drinks now.
 W: Too bad. Well, I’ll just have a cappuccino, then.
 M: All right. And you recently mentioned you’re on a diet, so should I ask if they can use low-fat milk instead of regular milk?
@@ -218,7 +218,7 @@ M: Hi. This is Larry Bates. I ordered a textbook from your store two weeks ago, 
 
 42345.
 W: According to the tracking information, your book was delivered almost three days ago. However, the courier must not have brought it directly to your door, since you didn’t include a specific apartment number with the shipping information.
-M: Hmm . . . But I never saw the item by my complex’s main door either.
+M: Hmm ... But I never saw the item by my complex’s main door either.
 W: Why don’t you talk to your building manager to find out whether the package is being held for you? Otherwise, you can get in touch with the courier service, Package Express. They may be able to help you.
 
 Questions 44-46 refer to the following conversation.
@@ -237,7 +237,7 @@ W: No problem. I’ll take care of those updates right now.
 Questions 50-52 refer to the following conversation.
 `캐나다식 발음 → 미국식 발음`
 M: Hi, Sophia. Do you know what the procedure for securing vacation time at our company is?
-W: It was changed not too long ago . . . Let me check my manual. Are you hoping to take some days off?
+W: It was changed not too long ago ... Let me check my manual. Are you hoping to take some days off?
 M: Yes—February 21 to 25.
 W: OK. Well, the handbook says you have to fill in a form on the human resources Web page. Two days later, you’ll receive a notification indicating whether your supervisor has approved the request.
 M: Where exactly is the form posted on the page?
@@ -249,7 +249,7 @@ Questions 53-55 refer to the following conversation with three speakers.
 M: Excuse me. I’m hoping to learn more about your Chinese language classes, since many of my clients are based in China.
 W1: Our course of business Chinese should be perfect for you. Oh, the instructor is coming down the hallway now. Jenny, can you provide some details about your class?
 W2: Sure. We focus on expressions used in corporate settings. We meet twice weekly for two months. And the next course starts on June 2—this Friday.
-M: Hmm . . . Two months? That’ll be difficult for me, as I’m traveling to Hong Kong in July.
+M: Hmm ... Two months? That’ll be difficult for me, as I’m traveling to Hong Kong in July.
 W2: In that case, there’s another one starting in August.
 W1: Yes, and you’ll also be eligible for an advance registration discount if you enroll at our institute before July 10.
 M: Great. I’ll sign up for it now.
@@ -257,11 +257,11 @@ M: Great. I’ll sign up for it now.
 Questions 56-58 refer to the following conversation.
 `영국식 발음 → 캐나다식 발음`
 W: Now that the Evergreen Project is over, let’s begin our next assignment.
-M: You mean creating the advertisement for the furniture shop . . . ah . . . Redwood Home, right?
+M: You mean creating the advertisement for the furniture shop ... ah ... Redwood Home, right?
 W: Exactly. We first need to plan the concept for the TV commercial.
 M: Maybe we should concentrate on the business’s selection of outdoor furniture.
 W: That’s a good suggestion. Can you collaborate with Alyssa to put together a storyboard with that focus?
-M: Oh, Alyssa’s at an off-site training session all day today about . . . um . . . digital media. So, I’ll get started on that by myself and continue with her when she returns to the office tomorrow.
+M: Oh, Alyssa’s at an off-site training session all day today about ... um ... digital media. So, I’ll get started on that by myself and continue with her when she returns to the office tomorrow.
 
 Questions 59-61 refer to the following conversation.
 `캐나다식 발음 → 영국식 발음`
@@ -283,8 +283,8 @@ Questions 65-67 refer to the following conversation and map.
 M: Thanks for calling Tuscan Sun Excursions. What can I help you with today?
 W: Do you offer guided tours of art galleries around the area? I’m hoping to view some during my four-day trip here.
 M: Absolutely. Our art tour stops by the city’s three major museums. It takes place twice daily and begins right outside our office on Truro Avenue.
-W: Oh, I’m actually hoping to browse smaller galleries. There’s one at the intersection of Riviera Street and Fresco Road . . . umm . . . just opposite the theater downtown.
-M: Hmm . . . Our company doesn’t provide tours there, unfortunately. But I can give you the phone number of Complete Activities—another tourism firm in the area. They offer tours of those locations.
+W: Oh, I’m actually hoping to browse smaller galleries. There’s one at the intersection of Riviera Street and Fresco Road ... umm ... just opposite the theater downtown.
+M: Hmm ... Our company doesn’t provide tours there, unfortunately. But I can give you the phone number of Complete Activities—another tourism firm in the area. They offer tours of those locations.
 
 Questions 68-70 refer to the following conversation and label.
 `미국식 발음 → 호주식 발음`
@@ -313,7 +313,7 @@ Welcome to Top Science on WRP 101.5. I’m your host, Nina Esteban. As part of o
 
 Questions 83-85 refer to the following excerpt from a meeting.
 `미국식 발음`
-One last thing . . . I want to discuss the product testing for our upcoming lipstick line. We posted an advertisement seeking paid test subjects to participate in the research, and . . . well, now we’ve got a problem. A lot more people than we need signed up. I don’t want to turn anyone away, though. Instead, let’s see if they’d be willing to take part in other studies. I just spoke to our research manager Beth Meyers, and she told me that more people are needed to test some eye makeup that we’re developing. She’s going to reach out to those who applied to see whether they’d be open to trying those products instead.
+One last thing ... I want to discuss the product testing for our upcoming lipstick line. We posted an advertisement seeking paid test subjects to participate in the research, and ... well, now we’ve got a problem. A lot more people than we need signed up. I don’t want to turn anyone away, though. Instead, let’s see if they’d be willing to take part in other studies. I just spoke to our research manager Beth Meyers, and she told me that more people are needed to test some eye makeup that we’re developing. She’s going to reach out to those who applied to see whether they’d be open to trying those products instead.
 
 Questions 86-88 refer to the following introduction.
 `영국식 발음`
@@ -321,7 +321,7 @@ I’d like you all to meet Ivan Schwartz. Mr. Schwartz is the head application d
 
 Questions 89-91 refer to the following telephone message.
 `미국식 발음`
-Hi, Carol. I just called to thank you for asking me to attend your dinner party on Saturday. It was great to see you and some of the other people from our neighborhood. Um, one of your guests mentioned that she ran an interior design firm. If I remember correctly, her name was, uh, Kathy Turner. Could you give me her contact information? I’m going to remodel my kitchen, and I’ll need the services of a professional designer. Also, before I forget . . . I just received word that the community center will no longer provide transportation for its summer program. Your children are enrolled in classes there as well, right? Maybe we can take turns driving them each day. Let me know if you’re interested in doing that.
+Hi, Carol. I just called to thank you for asking me to attend your dinner party on Saturday. It was great to see you and some of the other people from our neighborhood. Um, one of your guests mentioned that she ran an interior design firm. If I remember correctly, her name was, uh, Kathy Turner. Could you give me her contact information? I’m going to remodel my kitchen, and I’ll need the services of a professional designer. Also, before I forget ... I just received word that the community center will no longer provide transportation for its summer program. Your children are enrolled in classes there as well, right? Maybe we can take turns driving them each day. Let me know if you’re interested in doing that.
 
 Questions 92-94 refer to the following radio broadcast.
 `캐나다식 발음`
@@ -329,8 +329,8 @@ According to a recent press conference held by the city’s mayor, Shenzhen will
 
 Questions 95-97 refer to the following telephone message and form.
 `미국식 발음`
-My name is Miranda Cruz, and I’m calling regarding Elegant Fashion Magazine. About a week ago, I was e-mailed a subscription renewal form for the publication. At the time, I signed up for a year-and-a-half subscription. However, I learned yesterday that I’ll be traveling to France in December for a work project. Since the length of my stay in the country is open-ended, I . . . uh . . . I can only commit to a one-year subscription to the magazine. Of course, I would like the amount I overpaid to be returned to me. If you have any questions, you can reach me at 555-2197.
+My name is Miranda Cruz, and I’m calling regarding Elegant Fashion Magazine. About a week ago, I was e-mailed a subscription renewal form for the publication. At the time, I signed up for a year-and-a-half subscription. However, I learned yesterday that I’ll be traveling to France in December for a work project. Since the length of my stay in the country is open-ended, I ... uh ... I can only commit to a one-year subscription to the magazine. Of course, I would like the amount I overpaid to be returned to me. If you have any questions, you can reach me at 555-2197.
 
 Questions 98-100 refer to the following announcement and graph.
 `호주식 발음`
-May I have everyone’s attention? I’ve got a quick announcement to make before the Eastern Hills National Park opens today. The number of shuttle buses will increase next month. Specifically, buses will run from the main parking lot to the Cold Bridge National Monument every 20 minutes instead of every 30. We will resume our regular schedule at the end of the peak season . . . uh, the month in which we usually receive less than 10,000 visitors. I also wanted to remind you about the special lectures that will be held at the information center. Each week, a different expert will discuss an aspect of the park’s history. Um, Brenda Kirk did a great job of organizing this program, so make sure to tell visitors about it.
+May I have everyone’s attention? I’ve got a quick announcement to make before the Eastern Hills National Park opens today. The number of shuttle buses will increase next month. Specifically, buses will run from the main parking lot to the Cold Bridge National Monument every 20 minutes instead of every 30. We will resume our regular schedule at the end of the peak season ... uh, the month in which we usually receive less than 10,000 visitors. I also wanted to remind you about the special lectures that will be held at the information center. Each week, a different expert will discuss an aspect of the park’s history. Um, Brenda Kirk did a great job of organizing this program, so make sure to tell visitors about it.

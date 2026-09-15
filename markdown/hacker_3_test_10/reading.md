@@ -6,11 +6,12 @@ In this section, you must demonstrate your ability to read and comprehend Englis
 variety of texts and asked to answer questions about these texts. This section is divided into three parts
 and will take 75 minutes to complete.
 Do not mark the answers in your test book. Use the answer sheet that is separately provided.
-PART 5
+
+### PART 5
+
 Directions: In each question, you will be asked to review a statement that is missing a word or phrase.
 Four answer choices will be provided for each statement. Select the best answer and mark the
 corresponding letter (A), (B), (C), or (D) on the answer sheet.
-© parts *0I IIS
 
 101. Body-Wise Gym _____ closes for minor renovations and cleaning.
 (A) periodic
@@ -184,22 +185,26 @@ Questions 131-134 refer to the following advertisement.
 
 Do you find _____ your home more trouble than it's worth? If so, call Wimberley's—the most trusted housekeeping service in Kent. Since opening five years ago, we have consistently received top ratings from our customers. Our crew takes care of window and floor washing, vacuuming, and tile polishing. We _____ use state-of-the-art equipment to get rid of the odors, dirt, and stains you've been struggling with. Furthermore, if you need to remove large _____ items such as furniture or appliances, the Wimberley's staff can do this for a small additional fee. We _____ your home at whatever time is most convenient for you! So, if you're interested, _____ please call us at 555-9190.
 
-131. (A) buying
+131.
+(A) buying
 (B) cleaning
 (C) furnishing
 (D) decorating
 
-132. (A) You may join the crew by sending in your application.
+132.
+(A) You may join the crew by sending in your application.
 (B) We also sell a wide range of cleaning products.
 (C) Wimberley's does all the tiresome jobs that you don't have the time for.
 (D) Our service schedule will be posted online once we resume operations.
 
-133. (A) extensive
+133.
+(A) extensive
 (B) foreseeable
 (C) unwanted
 (D) infrequent
 
-134. (A) are visiting
+134.
+(A) are visiting
 (B) had visited
 (C) have visited
 (D) can visit
@@ -208,22 +213,26 @@ Questions 135-138 refer to the following e-mail.
 
 To: Talia Moroz <talia.moroz@homemail.com> From: Miles Kaufmann <m.kaufmann@coldmaker.com> Date: July 31 Subject: Your request Dear Ms. Moroz, I am writing in reply to your inquiry about the Coldmaker refrigerator you purchased recently. In your e-mail, you stated that the compartment does not close properly. _____ issue was brought up by other customers in the past. Our technicians have since discovered what the problem is. _____ As indicated in the manual, to ---— the door, you must push it forward until a clicking sound is heard. If you simply close the compartment without holding the tab, the door will not remain closed. Could you please try this method first? If you continue to have a problem, please contact a service center _____ on our Web site. Thank you for writing, and I hope I have been of service to you. Sincerely, Miles Kaufmann Warranty service agent
 
-135. (A) This
+135.
+(A) This
 (B) Their
 (C) The other
 (D) Such
 
-136. (A) We are glad that you have found a solution to the problem.
+136.
+(A) We are glad that you have found a solution to the problem.
 (B) It appears that users are not following product manual guidelines.
 (C) A serviceman will visit your home in a day or two.
 (D) The appliance you purchased is no longer for sale due to this defect.
 
-137. (A) enclose 137.
+137.
+(A) enclose 137.
 (B) fill
 (C) obstruct ( ) secure 138.
 (A) lists
 
-138. (B) listing
+138.
+(B) listing
 (C) listed
 (D) to list <<MISSING>>
 
@@ -231,22 +240,26 @@ Questions 139-142 refer to the following e-mail.
 
 To: Henry Chan <h.chan@followmail.com> From: Gleeson Consulting <hr@gleeson.com> Date: March 14 Subject: Re: Application for project manager position Dear Mr. Chan, We received your application for project manager at Gleeson Consulting. The company had a large number of applicants, so _____ for the position was rather strong. I therefore regret to inform you that you have not been shortlisted for this post. _____ we have closely examined your qualifications and consider you eligible for the project assistant position. _____ • Interviews for this vacancy will take place on March 20 from 10 a.m. to 3 p.m. Please get in touch with me to let me know if you are interested in the job and can come in between these times. If you are not _____ perhaps we can arrange a date that is more convenient for you. Yours truly, Jacqueline Hart Human resources manager Gleeson Consulting
 
-139. (A) supposition
+139.
+(A) supposition
 (B) allocation
 (C) competition
 (D) entry
 
-140. (A) Likewise
+140.
+(A) Likewise
 (B) Nonetheless
 (C) Therefore
 (D) Henceforth
 
-141. (A) Some of the documents we requested |||| were missing from your application.
+141.
+(A) Some of the documents we requested |||| were missing from your application.
 (B) We do not have vacancies at this time, but may consider your application in the future.
 (C) Your offer to find a suitable applicant was accepted.
 (D) We hope you will consider being interviewed for this opening.
 
-142. (A) anxious
+142.
+(A) anxious
 (B) determined
 (C) fortunate
 (D) available
@@ -255,22 +268,26 @@ Questions 143-146 refer to the following announcement.
 
 CALL FOR PAPERS The Department of Sociology at the University of Northern Wisconsin _____ an academic conference on social transformation in the Midwestern United States from June 7 to 9. _____ Interested professors and lecturers are asked to submit their abstracts before May 1. You will be sent a notification from the department if your _____ is selected. Once you receive this notice, you will be required to submit the full paper for review and approval. Submissions are welcome from all universities, and we look forward to seeing a range of topics. _____ the conference's focus on the Midwest, we welcome work from other regions as _____ long as it relates to the needs of the target area.
 
-143. (A) can be held
+143.
+(A) can be held
 (B) has held
 (C) will be held
 (D) is holding
 
-144. (A) A number of applicants were awarded grants for this project.
+144.
+(A) A number of applicants were awarded grants for this project.
 (B) In this regard, we are now accepting proposals related to this topic.
 (C) We are pleased to have you on the committee and will provide needed support.
 (D) In addition, it featured speakers from regional education establishments.
 
-145. (A) outline 145.
+145.
+(A) outline 145.
 (B) drawing (0) certificate
 (D) assistant
 (A) Prior to 146.
 
-146. (B) During
+146.
+(B) During
 (C) Despite
 (D) Up until <<MISSING>>
 

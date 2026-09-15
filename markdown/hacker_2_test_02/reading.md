@@ -196,21 +196,25 @@ Questions 131-134 refer to the following advertisement.
 
 The next time you're in downtown Houston and would like a taste of Asia, visit Sensasia on the second floor of Cheviston Center. Sensasia offers authentic _____ from China, Japan, India, Thailand, Korea, and Vietnam. From Monday to Friday, enjoy handmade sushi prepared with fresh seafood, delicious _____ Korean bibimbap, and tasty Vietnamese pho. On weekends, Hong Kong style dim sum, consisting of various bite-size portions of food, _____ along with our regular menu items. And once a month, our chefs introduce something new for diners to try. _____ only Sensasia can give you such a wide variety of meals in one location. For group reservations, please call 555-4272. To view our menu, please visit our Web site at www.sensasia.com. J
 
-131. (A) dishes
+131.
+(A) dishes
 (B) materials
 (C) components
 (D) directions
 
-132. (A) Our chefs use exotic seasonings in all of our grilled food. being refurbished.
+132.
+(A) Our chefs use exotic seasonings in all of our grilled food. being refurbished.
 (C) We serve a wide range of popular Asian cuisine every day.
 (D) Our food is delicious but limited to seafood selections. <<MISSING>>
 
-133. (A) prepares
+133.
+(A) prepares
 (B) prepared
 (C) is prepared
 (D) preparing
 
-134. (A) Conversely
+134.
+(A) Conversely
 (B) In short
 (C) To that end
 (D) Not to mention
@@ -219,22 +223,26 @@ Questions 135-138 refer to the following text.
 
 To: Scott Douglas <sdouglas@evergladeprints.com> From: Edward Kovac <edward.k@collinsconsulting,com> Subject: Brochure alterations Date: 8 May Dear Mr. Douglas, Please find attached a copy of the brochure you designed with our comments. Our team has reviewed the draft, and we are _____ with the quality of the pamphlet thus far. Despite this, we do require a few changes. In particular, there were minor layout and color errors and some important information was as well. We left notes in the brochure regarding where the omitted details should go. 136. Please send us a revised draft when it is ready. We will, of course, be happy to _____ _____ the extra cost. Best wishes, Edward
 
-135. (A) concerned
+135.
+(A) concerned
 (B) satisfied
 (C) credited
 (D) troubled
 
-136. (A) allowed
+136.
+(A) allowed
 (B) asserted
 (C) moving
 (D) missing
 
-137. (A) We are not sure why these details ||m were included.
+137.
+(A) We are not sure why these details ||m were included.
 (B) We need each correction to be reflected precisely.
 (C) We would like you to change the entire layout.
 (D) We ask that you send the invoice for the design we chose.
 
-138. (A) cover
+138.
+(A) cover
 (B)covered
 (C) covering
 (D) covers
@@ -243,23 +251,28 @@ Questions 139-142 refer to the following letter.
 
 June 21 Magnum Insurance 337 Deerborne Avenue Banff, Alberta, T2N 4S5 Canada Dear Mr. Clayburn, This letter is to inform you that we have received your insurance claim for hail damage to your home, and we are _____ processing it. As you know, the powerful storm last week affected the entire city. As a result, an overwhelming number of homeowners _____ assistance. Nevertheless, we are working as speedily as we can to handle these applications. An adjuster can inspect your property in a few days. _____ You can speed up the process by presenting documentary evidence ahead of time. Still, it may take some weeks to complete all the necessary forms and prepare a compensation ——We hope you understand. The funds you'll need to carry out the necessary repairs will be transmitted to you as quickly as possible. Thank you for your cooperation. Judith Underwood Claims coordinator
 
-139. (A) previously
+139.
+(A) previously
 (B) currently
 (C) surprisingly
 (D) typically
 
-140. (A) requests
+140.
+(A) requests
 (B) were requested
 (C) have requested
 (D) had requested
 
-141. (A) |||| claim as soon as possible. W (B) He has provided you with the assistance you require. Making this investment will rai:
+141.
+(A) |||| claim as soon as possible. W (B) He has provided you with the assistance you require. Making this investment will rai:
 (C) home's market value. If possible, start photographinc
 (D) damaged areas of your home.
 
-142. (A) score
+142.
+(A) score
 
-142. (B) estimate
+142.
+(B) estimate
 (C) history
 (D) receipt <<MISSING>>
 
@@ -267,21 +280,25 @@ Questions 143-146 refer to the following memo.
 
 ■^To: All staff From: Susan Ward Subject: Employee handbook Date: April 15 Thank you to everyone who participated in the discussions with company management. Your comments about some employees being unaware of the procedures for day-to-day operations have been heard. We are now working to _____ the situation. For starters, we will be publishing the company's standard operating procedures as soon as possible. A printed guide will give management and staff an official reference on the performance of daily tasks. ---—. Flopefully, it will help move us closer to our goal of having firmly _____ policies. If any revisions are required, these will be incorporated into a later version of the manual. The final version will also be _____ through the company's internal network. If you have any questions, please direct them to your departmental supervisors.
 
-143. (A) maintain
+143.
+(A) maintain
 (B) inspect
 (C) address
 (D) ignore
 
-144. (A) A provisional copy of this handbook will be distributed at the next meeting. v.r»y.- IT w (B) Your comments on the revised manual were very much appreciated.
+144.
+(A) A provisional copy of this handbook will be distributed at the next meeting. v.r»y.- IT w (B) Your comments on the revised manual were very much appreciated.
 (C) A copy of the article may be found in last month's company newsletter.
 (D) We are glad that everyone is now up-to-date on our meeting schedule. <<MISSING>>
 
-145. (A) establish
+145.
+(A) establish
 (B) established
 (C) establishing
 (D) establishment
 
-146. (A) access
+146.
+(A) access
 (B) accessible
 (C) accesses
 (D) accessing

@@ -205,22 +205,26 @@ Questions 131-134 refer to the following letter.
 
 September 18 Dear Ms. Murillo, Thank you for inquiring about our services for obtaining _____ Based on the information in your letter, your daughter may have acquired citizenship by being the child of a U.S. citizen. This will need to be _____ through documentation, which was not included with your letter. Your child's record of birth abroad is considered proof if it was registered with a U.S. consulate or embassy. _____ , the parent with citizenship must have been living in the United States for at least five years before your child's birth. For more information, feel free to visit us. Our Web site provides the address of the local office in your area. Simply click on the state or country you presently live in. _____ . Please bring all related documents when you visit. Sincerely, Sonia Esteban
 
-131. (A) healthcare
+131.
+(A) healthcare
 (B) transportation
 (C) nationality
 (D) education
 
-132. (A) decorated
+132.
+(A) decorated
 (B) verified
 (C) corrected
 (D) postponed
 
-133. (A) Afterward
+133.
+(A) Afterward
 (B) For example
 (C) Additionally
 (D) Henceforth
 
-134. (A) documents are lost. iSl w (B) There is no record c in that country. You can then select
+134.
+(A) documents are lost. iSl w (B) There is no record c in that country. You can then select
 (C) office nearest you. The office in your ar
 (D) last year. <<MISSING>>
 
@@ -228,22 +232,26 @@ Questions 135-138 refer to the following letter.
 
 May 30 Cayman Interior Decorating 23 Arbor Drive Cleveland, Ohio, 39005 Dear Mr. Maximus, I am writing to - _____ you and your crew for redecorating the interior of our lobby. The results are even better than we had initially expected. _____ Overall, our guests appreciate the new look, and they love the authentic 1920s _____ and the comfortable furniture. We thought we'd mention that the hotel intends to renovate the guest rooms. If things go according to plan, we expect to begin renovating next month. In addition, we _____ expanding the business center on the second floor. More space will be allocated to permit the installation of new facilities. I would like to contact you again once our plans become more definite. We hope that your calendar will permit you to work for us when we are ready. I look forward to hearing from you soon. Sincerely, Devon Green Manager, Nuance Hotel
 
-135. (A) commend
+135.
+(A) commend
 (B) persuade
 (C) invoice
 (D) encourage
 
-136. (A) We would have preferred it if you had followed our original plan.
+136.
+(A) We would have preferred it if you had followed our original plan.
 (B) They contacted us to let us know what they thought about our work.
 (C) We are equally impressed by how quickly the job was done.
 (D) They should have informed us right away about these changes.
 
-137. (A) explanation
+137.
+(A) explanation
 (B) atmosphere
 (C) combination
 (D) condition
 
-138. (A) were
+138.
+(A) were
 (B) will be
 (C) are being
 (D) have been
@@ -252,22 +260,26 @@ Questions 139-142 refer to the following advertisement.
 
 Discover great deals at Dan's Hardware Store! In order to thank our loyal customers for giving us years of business, Dan's Hardware Store is inviting everyone to attend its yearly inventory clearance sale. From September 1 to 15, all merchandise will be _____ Take advantage of reduced prices of up to 80 percent off on everything from gardening supplies to outdoor equipment. _____ In addition, customers who buy $500 or more worth of merchandise will _____ to receive a $50 coupon, redeemable until December 31. A limit of one coupon _____ transaction applies. For further information on the sale and directions to the store nearest you, visit our Web site at www.danshardware.com.
 
-139. (A) held out
+139.
+(A) held out
 (B) done over
 (C) marked down
 (D) given away
 
-140. (A) We have exciting offers for you in |||| every department.
+140.
+(A) We have exciting offers for you in |||| every department.
 (B) The sale is for one day only, so hurry before it ends.
 (C) This product is sold in various sizes to suit your needs.
 (D) Make sure to go online and send in your product orders.
 
-141. (A) be entitled
+141.
+(A) be entitled
 (B) be entitling
 (C) entitle
 (D) have entitled
 
-142. (A) away
+142.
+(A) away
 (B) among
 (C) per
 (D) next
@@ -276,22 +288,26 @@ Questions 143-146 refer to the following article.
 
 Grimsby's Feed Satisfies Viewers In the three-part miniseries Feed, filmmaker David Grimsby _____ explores the modern food industry. The series takes viewers behind the scenes at farms and factories to reveal shocking details about the things we eat and how they are produced. While there are numerous other documentaries on this _____ , a combination of smart narration, intriguing interviews, and animated graphics makes Feed stand out. _____ It _____ presents both the benefits and drawbacks of modern food production without endorsing any one point of view. Richly informative and visually interesting, the series is _____ captivating that many people will want to see it twice. The first episode of Feed will air this month on the Modern Film Channel.
 
-143. (A) enthusiasm
+143.
+(A) enthusiasm
 (B) enthusiastic
 (C) enthusiastically
 (D) enthused
 
-144. (A) trend
+144.
+(A) trend
 (B) level
 (C) schedule
 (D) topic 240 oapDj aoi^■
 
-145. (A) The show attracted millions of viewers iffil when it was televised last year.
+145.
+(A) The show attracted millions of viewers iffil when it was televised last year.
 (B) What is perhaps most distinctive about the film is its lack of bias.
 (C) Mr. Grimsby plans to begin filming the documentary next month.
 (D) Ratings for the network jumped when the final episode was aired.
 
-146. (A) so
+146.
+(A) so
 (B) even
 (C) such
 (D) right

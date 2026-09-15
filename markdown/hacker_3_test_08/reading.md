@@ -212,22 +212,26 @@ hw0l ^ _____ se
 
 Royal Exchange Building Reborn as Hotel Nationwide hotel operator Verdant Group _____ niillions of pounds over three years converting the Royal Exchange Building on Quay Street, a historical landmark, into a hotel. "We wanted to preserve the building's key architectural elements," says Verdant's CEO Gaile Edwards, "That's why we hired a group of historical experts to work with our team." The building retains much of its original charm as the 18th century structure and stonework remain intact. However, the building's interior has all the _____ found at any other five-star accommodations, such as a pool and spa. The combination of the hotel's modern facilities with its historic appearance makes the venue a major _____ for tourists. Already, suites are fully booked for its opening weekend, which is scheduled for late next month.
 
-131. (A) spends
+131.
+(A) spends
 (B)spent
 (C) will spend
 (D) spending
 
-132. (A) It will take another year before the ||j| hotel opens its doors.
+132.
+(A) It will take another year before the ||j| hotel opens its doors.
 (B) This is Verdant Group's first project that is a joint venture.
 (C) Judging from the results, it seems that they were successful.
 (D) Consequently, the construction firm's initial proposal was rejected.
 
-133. (A) activities
+133.
+(A) activities
 (B) priorities
 (C) opportunities
 (D) amenities
 
-134. (A) issue
+134.
+(A) issue
 (B) accomplishment
 (C) attraction
 (D) commitment
@@ -236,22 +240,26 @@ Questions 135-138 refer to the following letter.
 
 July 15 Allison Morita Vestige Insurance 4186 Maryland Avenue Pinellas, FL 34624 Dear Ms. Morita, I am writing to you in the hope that you can _____ my insurance claim. I spoke with general claims agent Gary Fink on July 6, _____ , at the time, explained the process and recommended that I write this letter. Last month, on June 20, I suffered an injury when I slipped and fell in my kitchen. The impact caused me to break my wrist, which forced me to undergo surgery. Does my policy cover injuries of this nature? _____ I expect to be reimbursed. Currently, my medical expenses amount to about $900. Please respond as soon as you review my documentation. Thank you. Sincerely, June Miller
 
-135. (A) cancel
+135.
+(A) cancel
 (B) handle
 (C)change
 (D) summarize
 
-136. (A) when
+136.
+(A) when
 (B) who
 (C) how
 (D) why
 
-137. (A) If so
+137.
+(A) If so
 (B) Until then
 (C) After that
 (D) On condition of
 
-138. (A) I have enclosed receipts to support this ill claim'
+138.
+(A) I have enclosed receipts to support this ill claim'
 (B) Only half of the amount has been paid by your company.
 (C) It is difficult to determine who was at fault for the accident.
 (D) Let me know when my insurance contract has been authorized.
@@ -260,22 +268,26 @@ Questions 139-142 refer to the following announcement.
 
 Welcome to Redstone National Park For the protection of the park, all visitors are asked to observe some basic _____ Redstone National Park officially closes at 8 p.m. _____ there are a number of campsites situated throughout the park for those who wish to stay overnight. It is important to note that this option is only available to those with permits. We also ask that all visitors be thoughtful about maintaining the premises. Please make sure that rubbish and anything brought into wildlife areas is taken out upon leaving or disposed of in the appropriate receptacles. Following these rules will help to ensure the _____ of the park's beauty for future visitors. For any questions or concerns, please call 555-9092.
 
-139. (A) preventions
+139.
+(A) preventions
 (B) demonstrations
 (C) policies
 (D) corrections
 
-140. (A) Previously
+140.
+(A) Previously
 (B) Besides
 (C) However
 (D) Moreover
 
-141. (A) We project that these campsites will be |||| completed by the end of the year.
+141.
+(A) We project that these campsites will be |||| completed by the end of the year.
 (B) It must be closely monitored by park rangers at all times,
 (C) The easiest way to get to the park is by taking a shuttle bus.
 (D) These can be obtained at the visitor center every day until noon.
 
-142. (A) preserves
+142.
+(A) preserves
 (B) preservation
 (C) preservative
 (D) preserved
@@ -284,22 +296,26 @@ Questions 143-146 refer to the following e-mail.
 
 To: Janet Boyle <jboyle55@overmail.net> From: Customer Service <service@lagoonair.com> Subject: Your inquiry Date: July 29 Attachment: Baggage claim form Dear Ms. Boyle, This is in reply to your inquiry about _____ baggage. Problems involving luggage on domestic flights must be reported to airline personnel at an airport within 48 hours of flight arrival. However, if you have flown in from outside the country, you may report any destruction to your luggage to claims@lagoonair.com using the attached form. Claims can also be _____ in _____ person at an airline office. _____ , The airline will not grant any claim made more than 14 days following your flight. Lagoon Airlines is not liable for any harm to luggage that is of poor quality or possesses an inherent defect. _____ , reimbursement for repairs is not offered for minor wear and tear. Sincerely, Lagoon Airlines Customer Service
 
-143. (A) delayed
+143.
+(A) delayed
 (B) damaged
 (C) unattended
 (D) allowable
 
-144. (A) submitted
+144.
+(A) submitted
 (B) retrieved
 (C) denied
 (D) waived
 
-145. (A) You will receive confirmation of your flight reservation by e-mail.
+145.
+(A) You will receive confirmation of your flight reservation by e-mail.
 (B) Refer to your ticket to view the baggage allowance for this flight.
 (C) We will deliver the bag to your address after it has been recovered.
 (D) Please note that there is a deadline to apply for reimbursement.
 
-146. (A) Thereafter
+146.
+(A) Thereafter
 (B) Nonetheless
 (C) Additionally
 (D) Otherwise

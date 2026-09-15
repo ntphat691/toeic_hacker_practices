@@ -204,22 +204,26 @@ Questions 131-134 refer to the following letter.
 
 March 15 Dear Mr. Weber, I would like to thank you for your comprehensive _____ Your talk on creative problem-solving was informative and very enjoyable, not only for me but for all my _____ students. I especially appreciated that you incorporated problem-solving examples applicable to several different fields of learning into your session. My students, _____ major in various disciplines, all rated the session highly as they were able to gain something from your insights. _____ Accordingly, I would like to invite you back next month. If you're available, please let me know so we can discuss the details. Thank you again. Mila Hyatt, Ph.D. Rappleton University Professor
 
-131. (A) discovery
+131.
+(A) discovery
 (B) examination
 (C) submission
 (D) lecture
 
-132. (A) attend
+132.
+(A) attend
 (B) attended
 (C) attending
 (D) attendance
 
-133. (A) who
+133.
+(A) who
 (B) their
 (C) whose
 (D)they
 
-134. (A) importance to the university. ^ (B) I honestly believe you are my mos successful guest speaker to date. My sessions lasted longer than tb
+134.
+(A) importance to the university. ^ (B) I honestly believe you are my mos successful guest speaker to date. My sessions lasted longer than tb
 (C) ones. There were some points that I too
 (D) issue with. <<MISSING>>
 
@@ -227,22 +231,26 @@ Questions 135-138 refer to the following memo.
 
 To: All deans of Mount Westerly University From: Patricia Griffin, Chief academic officer Date: April 29 Subject: Promotions for next semester The time has come for us to determine which faculty members will be promoted. _____ Therefore, please consider the potential candidates carefully. We advise you to keep in mind their _____ teaching performance and academic accomplishments before writing letters of _____ recommendation for the board to take into account. You will also need to submit some evaluative documents. Please answer all of the questions as ----- as possible. I will forward the requisite paperwork to you later today with some instructions. These should _____ the _____ decision-making process.
 
-135. (A) The criteria for recruitment will be modified by the manager.
+135.
+(A) The criteria for recruitment will be modified by the manager.
 (B) We have received your applications and will let you know the results soon.
 (C) The choices we make will have a significant impact on the university.
 (D) Some of you failed to fully complete the recommendation form.
 
-136. (A) courteous
+136.
+(A) courteous
 (B) infamous
 (C) descriptive
 (D) previous
 
-137. (A) specific
+137.
+(A) specific
 (B) specifically
 (C) specify
 (D) specification
 
-138. (A) impede
+138.
+(A) impede
 (B) negotiate
 (C) prolong
 (D) guide
@@ -251,22 +259,27 @@ Questions 139-142 refer to the following information.
 
 Farmer's Market Rules of Operation for All Vendors The market opens to the public at 8:30 a.m. but will be accessible to vendors at 6:00 a.m. Vendors should arrive _____ than 30 minutes before opening time in order to set up their stalls. Also, please be reminded that vendors must adhere to the state regulations on food safety and customer protection listed on our Web site. It is the vendor's responsibility to stay informed about these guidelines. _____ Furthermore, any applicable fees should be paid on time. The amount will depend on your stall's _____ Those closer to the entrance will be charged more. _____ Finally, it is illegal to leave any litter in your sales area. _____ all vendors should have a receptacle on hand to dispose of any refuse.
 
-139. (A) shortly
+139.
+(A) shortly
 (B) no more
 (C) already
 (D) no later
 
-140. (A) Those who do not comply with them may lose their vending license. ^ (B) You may request an application form if you are interested.
+140.
+(A) Those who do not comply with them may lose their vending license. ^ (B) You may request an application form if you are interested.
 (C) Some of the food items have been identified as top sellers.
 (D) We believe the status of our regular vendors has changed. <<MISSING>>
 
-141. (A) design
+141.
+(A) design
 (B) location (O) merchandise
 (D) dimension
 
-142. (A) Meanwhile
+142.
+(A) Meanwhile
 
-142. (B) Fortunately
+142.
+(B) Fortunately
 (C) Therefore
 (D) Regardless <<MISSING>>
 
@@ -274,22 +287,26 @@ Questions 143-146 refer to the following article.
 
 » *41 ^ _____ Sports Complex Put to a Vote Gainesburg, June 3—Gainesburg residents ----- on whether a sports complex should be built in town. It was concluded that 82 percent are _____ of the project. In consideration of the results, the city approved its construction, and development plans are expected to commence in the coming months. Gainesburg's one existing fitness club was _____ last year after 30 years of use. This left the area without any functional leisure facilities at all, and residents had been pushing for a sports complex ever since. "Having a fitness center will make athletic resources readily accessible to a wider _____ range of people. It will also help unite the community in a fun and healthy way," said council member Claire Faukes.
 
-143. (A) will vote
+143.
+(A) will vote
 (B) are voting
 (C) have been voting
 (D) voted
 
-144. (A) supportive
+144.
+(A) supportive
 (B) support
 (C) supportable
 (D) supports
 
-145. (A) looked over
+145.
+(A) looked over
 (B) paid for
 (C) fixed up
 (D) shut down
 
-146. (A) Opposition to the plan remains llpl prevalent at this point in time.
+146.
+(A) Opposition to the plan remains llpl prevalent at this point in time.
 (B) Most believe such facilities will be highly beneficial for Gainesburg.
 (C) The mayor delivered an inspiring opening speech.
 (D) Some modifications were required before the decision was made.

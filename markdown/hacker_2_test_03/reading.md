@@ -195,22 +195,26 @@ Questions 131-134 refer to the following notice.
 
 NOTE: All Eddington's Membership Card Holders We will be adjusting the frequency that point accumulation statements are sent to our _____ members. From January 1, statements will be mailed every six months instead of quarterly. ------ this change, members may continue to log in at www.eddingtons.com/members to find current details. You can —your accumulated points and see what rewards are available in exchange for them through your online account. Or you can call us during business hours at 555-4955, and we will give you a total. _____ you can drop by a service counter at any Eddington's Department Store, and one of our staff will inform you of your current total.
 
-131. (A) We no longer accept membership applications.
+131.
+(A) We no longer accept membership applications.
 (B) Eddington's is set to introduce a change to its membership program.
 (C) We apologize for the recent difficulties with our card payment system.
 (D) Eddington's Department Store has a special promotion for point cards.
 
-132. (A) Apart from
+132.
+(A) Apart from
 (B) In case of
 (C) Regardless of
 (D) On behalf of
 
-133. (A) submit
+133.
+(A) submit
 (B) monitor
 (C) mediate
 (D) convey
 
-134. (A) Consequently
+134.
+(A) Consequently
 (B) Nevertheless
 (C) Moreover
 (D) Occasionally
@@ -219,22 +223,26 @@ Questions 135-138 refer to the following letter.
 
 Claire Staley 874 Country Lane Stillwater, OK 74074 Dear Ms. Staley, Best Link Telecom recently upgraded its network and is offering high-speed Internet in your area. We began delivering service - _____ July 17. Best Link _____ fast and reliable service for the lowest cost. We promise to match the price of any competitor charging less than us. As our customer, you may use our online storage services for free. Whether you're downloading videos and photos or sharing your work, you'll be able to get it done in less time than ever. _____ And those already using our telephone service can get a discount of 20 percent by upgrading to a high-speed Internet package. The reduced rates will be reflected in your _____ for the following month. Please call 555-1573 during regular business hours to arrange an installation appointment. Yours truly, George Hyde Best Link Telecom Sales
 
-135. (A) to
+135.
+(A) to
 (B) within
 (C) on
 (D) off
 
-136. (A) improves
+136.
+(A) improves
 (B) guarantees ■
 (C) demands
 (D) receives
 
-137. (A) This service is no longer available in |p| your area.
+137.
+(A) This service is no longer available in |p| your area.
 (B) Your bill will vary based on how many files you store.
 (C) This will cause the cost of computers to be cut.
 (D) Our high-speed Internet service can handle it all.
 
-138. (A) password
+138.
+(A) password
 (B) statement
 (C) demonstration
 (D) repair
@@ -243,22 +251,26 @@ Questions 139-142 refer to the following article.
 
 City Officials Close to Selecting Developers for Downtown Building Marinville officials have shortlisted developers they are considering to redo the Halpern building. There are now only three ——- remaining from an initial 25. As stipulated when the project first started, the firms left in the running must now add more detail to the plans they submitted at the beginning of the year. In their ----- presentations, they should demonstrate that they can meet all of the board's remodeling requirements. "If all goes well," says Brian Schmidt, director of the Marinville Downtown Authority, "We'll select the most _____ candidate, draw up an agreement, and get started before the year is out."
 
-139. (A) obstacles
+139.
+(A) obstacles
 (B) agencies
 (C) locations
 (D) questionnaires
 
-140. (A) preceding
+140.
+(A) preceding
 (B) general
 (C) forthcoming
 (D) incomplete
 
-141. (A) The candidates all came up with compelling final proposals.
+141.
+(A) The candidates all came up with compelling final proposals.
 (B) They hoped to develop a construction plan at that time.
 (C) The deadline was extended to allow for additional projects.
 (D) A complete budget and detailed blueprints must also be included in the proposal.
 
-142. (A) impression
+142.
+(A) impression
 (B) impressionable
 (C) impressed
 (D) impressive
@@ -267,22 +279,26 @@ Questions 143-146 refer to the following e-mail
 
 To: Anthony Lilly <AnthonyLilly@ hotline.com> From: Customer Service <CS@ComprehensiveAutolns.com> Date: November 14 Subject: Name Change Our records show that you ----- an automobile policy with us. We pride ourselves on keeping customers up-to-date on company business, so we are writing to _____ you that we are changing the name of our company from Comprehensive Auto Insurance to Complete Auto and Life Insurance. All of our communications will be labeled with the new name beginning next month. You'll find our new name on bills, e-mails, letters, claim forms, and on our Web site. _____ At this time, you may also want to take the opportunity to renew your life insurance. _____ an _____ appointment, please reply to this e-mail, and you will be contacted by a representative. Best Regards, Customer Service Comprehensive Auto Insurance
 
-143. (A) had held
+143.
+(A) had held
 (B) will hold
 (C) hold
 (D) were holding
 
-144. (A) invite
+144.
+(A) invite
 (B) extend
 (C) offer
 (D) inform
 
-145. (A) They have been sent to the name provided on the form.
+145.
+(A) They have been sent to the name provided on the form.
 (B) We will mail them to your residence on a monthly basis.
 (C) They must be submitted in person to one of our staff.
 (D) We will modify our name on our policy documents as well.
 
-146. (A) Makes
+146.
+(A) Makes
 (B) Making
 (C) To make
 (D) Having made

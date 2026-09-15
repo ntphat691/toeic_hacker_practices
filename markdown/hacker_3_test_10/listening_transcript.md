@@ -208,8 +208,8 @@ Questions 38-40 refer to the following conversation.
 W: Good morning. This is Christy from the administrative team. Seeing as you began working in a new position last Wednesday, you should come to our office to replace your employee ID.
 M: OK. However, I can’t stop by tomorrow because I’m attending a convention in Baton Rouge. Would sometime next Monday be possible?
 W: I’m afraid not. You’re supposed to get a new ID before the end of the week according to company policy.
-M: Hmm . . . I might be able to visit your office later this afternoon. Could I come at 4 p.m.?
-W: That should work . . . I have a meeting at 3 p.m., but it shouldn’t last long. Why don’t you give me a call at around 3:30 p.m. to make sure I’m available?
+M: Hmm ... I might be able to visit your office later this afternoon. Could I come at 4 p.m.?
+W: That should work ... I have a meeting at 3 p.m., but it shouldn’t last long. Why don’t you give me a call at around 3:30 p.m. to make sure I’m available?
 
 Questions 41-43 refer to the following conversation with three speakers.
 `미국식 발음 → 캐나다식 발음 → 호주식 발음`
@@ -230,15 +230,15 @@ Questions 47-49 refer to the following conversation.
 `미국식 발음 → 캐나다식 발음`
 W: Hi. I’d like to book one of the barbecue areas near the community center’s outdoor swimming pool. I want to use it for a party next Sunday.
 M: All right. You’ll need to fill this out and pay a $100 security deposit.
-W: Umm . . . sorry, but can I ask what the deposit is for?
+W: Umm ... sorry, but can I ask what the deposit is for?
 M: We need it in case you damage any of the equipment. It should be given back to you following an inspection of the area after your party.
-W: That’s understandable. Oh, also . . . Do you provide charcoal for the grill?
+W: That’s understandable. Oh, also ... Do you provide charcoal for the grill?
 M: We don’t. There’s a convenience store one block down Harvest Street. It should have some for sale.
 
 Questions 50-52 refer to the following conversation.
 `호주식 발음 → 영국식 발음`
 M: Hello. I’m here to inquire about traveler’s insurance for college students.
-W: I’m sorry. Our location doesn’t offer insurance plans for students. Ah . . . did you mean to visit our branch near Northside Park? It’s closer to Gregtown University, so they offer plans for students.
+W: I’m sorry. Our location doesn’t offer insurance plans for students. Ah ... did you mean to visit our branch near Northside Park? It’s closer to Gregtown University, so they offer plans for students.
 M: I just got the address for your travel agency from a flyer. I found it at a local study abroad fair I attended recently. So, I wasn’t aware you have multiple locations. Anyway, if you could give me the other branch’s address, I’d appreciate it.
 W: Certainly. I’ll write it down for you. Um, that branch is about a mile away, so you might want to get a taxi.
 
@@ -259,7 +259,7 @@ Questions 59-61 refer to the following conversation with three speakers.
 `호주식 발음 → 미국식 발음 → 캐나다식 발음`
 M1: Cathy, do you have any more questions for Mr. Williams before we conclude his interview?
 W: Just one. While you provided your résumé and cover letter, I didn’t notice a letter of recommendation. Do you have one?
-M2: Oh, yes. I thought I attached it to the other documents, but let me check my briefcase. Ah . . . here it is.
+M2: Oh, yes. I thought I attached it to the other documents, but let me check my briefcase. Ah ... here it is.
 W: I appreciate it. I think that will do it for me, Chris.
 M1: In that case, we’re done here, Mr. Williams. We’ll send you the interview results by e-mail no later than next Wednesday. I can walk you back to the main lobby now.
 M2: Wonderful. Thanks for your assistance, and I look forward to hearing back from you.
@@ -283,7 +283,7 @@ M: No problem. I’ll wait here until you return.
 
 Questions 68-70 refer to the following conversation and sign.
 `캐나다식 발음 → 영국식 발음`
-M: Anika, I just received a memo from Donald Powell . . . uh . . . the head of maintenance. He said the parking areas in our industrial complex will be repainted.
+M: Anika, I just received a memo from Donald Powell ... uh ... the head of maintenance. He said the parking areas in our industrial complex will be repainted.
 W: OK. When will the work begin?
 M: Well, each parking area will be closed for one day next month. The research laboratory lot will be first, and then the factory lot will be painted on May 5. The next day, the workers will paint the administration office lot, and they’ll finish up with the warehouse lot on May 7. Signs will be posted in the respective buildings for each lot on the days when the work will be carried out.
 W: Where can staff park on those days?
@@ -301,7 +301,7 @@ Are you thinking about buying a new residential property? Then be sure to talk t
 
 Questions 77-79 refer to the following announcement.
 `호주식 발음`
-Everyone, I have an announcement to make. Up until now, our yoga studio hasn’t had a dress code. You’ve been able to wear whatever you like in the workplace. But starting next month, you’ll be required to wear a uniform. It’s a security issue . . . Some parts of the studio are off-limits to customers, and this policy change will make it easier to notice anyone who shouldn’t be in these areas. I know everyone enjoys dressing casually at work, but you don’t have anything to worry about. The uniform is simply a white polo shirt with the company logo on it. I’ll order these shirts from the supplier tomorrow, so please put your size on this chart. Thanks.
+Everyone, I have an announcement to make. Up until now, our yoga studio hasn’t had a dress code. You’ve been able to wear whatever you like in the workplace. But starting next month, you’ll be required to wear a uniform. It’s a security issue ... Some parts of the studio are off-limits to customers, and this policy change will make it easier to notice anyone who shouldn’t be in these areas. I know everyone enjoys dressing casually at work, but you don’t have anything to worry about. The uniform is simply a white polo shirt with the company logo on it. I’ll order these shirts from the supplier tomorrow, so please put your size on this chart. Thanks.
 
 Questions 80-82 refer to the following talk.
 `미국식 발음`
@@ -317,16 +317,16 @@ Thousands of people are expected to flock to Elk Lake this weekend for the first
 
 Questions 89-91 refer to the following talk.
 `캐나다식 발음`
-OK . . . I was just informed that we’ll be participating in the Marketing Convention in Portland on August 17. This will be a great opportunity for us to introduce potential clients to the distinctive promotional campaigns we create. Derek, I’d like you to contact the convention center to book a booth with the necessary audio-visual equipment. You can use the company credit card to pay the deposit. We’ll also require brochures to hand out at the convention. Document Express printed the materials for our previous event in Ottawa, and I was very pleased with their work. I’ll contact that firm for this project as well.
+OK ... I was just informed that we’ll be participating in the Marketing Convention in Portland on August 17. This will be a great opportunity for us to introduce potential clients to the distinctive promotional campaigns we create. Derek, I’d like you to contact the convention center to book a booth with the necessary audio-visual equipment. You can use the company credit card to pay the deposit. We’ll also require brochures to hand out at the convention. Document Express printed the materials for our previous event in Ottawa, and I was very pleased with their work. I’ll contact that firm for this project as well.
 
 Questions 92-94 refer to the following talk.
 `미국식 발음`
-I’d like to let you know about the company’s latest wellness initiative. Studies have shown that stretching on a regular basis can improve a person’s health. So, beginning on Monday, all employees who are logged in to the company’s Intranet system will receive a pop-up message twice a day. If you click it, a five-minute instructional video of various stretching exercises will play. Just follow along in your workspace. It’s not mandatory but, um . . . why not give it a try? You’ll probably feel a lot better. I also wanted to mention that the fitness center in the building is holding a special promotion tomorrow. If you show your employee ID, you will receive a 15 percent discount on a membership. You should take advantage of this offer.
+I’d like to let you know about the company’s latest wellness initiative. Studies have shown that stretching on a regular basis can improve a person’s health. So, beginning on Monday, all employees who are logged in to the company’s Intranet system will receive a pop-up message twice a day. If you click it, a five-minute instructional video of various stretching exercises will play. Just follow along in your workspace. It’s not mandatory but, um ... why not give it a try? You’ll probably feel a lot better. I also wanted to mention that the fitness center in the building is holding a special promotion tomorrow. If you show your employee ID, you will receive a 15 percent discount on a membership. You should take advantage of this offer.
 
 Questions 95-97 refer to the following telephone message and list.
 `영국식 발음`
-Good afternoon. This is Jia Chen calling from Denver Flooring. I’d like to respond to the phone inquiry you made yesterday, when our business was closed . . . um, about our prices. We generally charge $30 per hour for installation. Additionally, the flooring cost per square meter varies depending on the type of material you choose. Based on the flooring type you mentioned in your message, the amount we’d charge you per square meter is $35. If you find this to be too expensive, please consider some of the other flooring options—our most popular one is $20 per square meter. You can find details about these materials at www.denfloor.com. If you would like to schedule a consultation, you can reach me at 555-4988.
+Good afternoon. This is Jia Chen calling from Denver Flooring. I’d like to respond to the phone inquiry you made yesterday, when our business was closed ... um, about our prices. We generally charge $30 per hour for installation. Additionally, the flooring cost per square meter varies depending on the type of material you choose. Based on the flooring type you mentioned in your message, the amount we’d charge you per square meter is $35. If you find this to be too expensive, please consider some of the other flooring options—our most popular one is $20 per square meter. You can find details about these materials at www.denfloor.com. If you would like to schedule a consultation, you can reach me at 555-4988.
 
 Questions 98-100 refer to the following announcement and directory.
 `호주식 발음`
-Attention, front desk staff. Tomorrow, the remodeled Presswood Hotel will be opened to the public. Here are a few things to keep in mind . . . First, when guests check in, make sure they know that our room service hours have been extended. Um, they can place orders until midnight now. Also, there is a problem with the housekeeping office’s extension. For the time being, guests should just contact the front desk if they need things like towels or pillows. Finally, we will be offering a complimentary continental breakfast this week. It will be served in the main dining room until 10 a.m. every day. OK. That’s all.
+Attention, front desk staff. Tomorrow, the remodeled Presswood Hotel will be opened to the public. Here are a few things to keep in mind ... First, when guests check in, make sure they know that our room service hours have been extended. Um, they can place orders until midnight now. Also, there is a problem with the housekeeping office’s extension. For the time being, guests should just contact the front desk if they need things like towels or pillows. Finally, we will be offering a complimentary continental breakfast this week. It will be served in the main dining room until 10 a.m. every day. OK. That’s all.

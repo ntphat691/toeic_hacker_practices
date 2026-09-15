@@ -205,22 +205,26 @@ Questions 131-134 refer to the following invitation.
 
 You are Cordially Invited Dogorail would like to invite its business associates to the 25th Dogorail Transport and Logistics Exhibition scheduled for November 9 to 11 in Prague. Dogorail will be displaying its the three-day products and services on the main floor of the Zidenic Convention Center _____ event. And there will be a special presentation by Dogorail CEO Miroslav Sergeyev on the final night. . Representatives from Dogorail will be in attendance to assist visitors with their queries. Private _____ on any of our offerings are welcome if you wish to obtain advice about your particular requirements. To confirm your attendance to this event, please return the enclosed form, _____ filled out and with your signature appended, on or before April 30.
 
-131. (A) onto
+131.
+(A) onto
 (B) upon
 (C) throughout
 (D) outside
 
-132. (A) Dogorail products will be unveiled to event invitees once he has finished.
+132.
+(A) Dogorail products will be unveiled to event invitees once he has finished.
 (B) He will be discussing the recent rail projects in Moldova, Bulgaria, and Greece.
 (C) Requests to use a meeting room at the event must be submitted in advance.
 (D) His special address has been arranged to begin at 9:00 a.m.
 
-133. (A) occupations
+133.
+(A) occupations
 (B) consultations
 (C) dominions
 (D) possessions
 
-134. (A) primarily
+134.
+(A) primarily
 (B) fluently
 (C) fully
 (D) temporarily
@@ -229,22 +233,26 @@ Questions 135-138 refer to the following letter.
 
 April 28 The Missourian 438 East St. Louis Street Springfield, MO 65806 To the Editor: I wish to point out an error in a recent article in your newspaper. Last week, it _____ that over a thousand workers could lose their jobs if Liberty Medical Group merges with Midland Health Services. This is untrue. I would like to emphasize that _____ have not been completed. I can say this because I am involved in the talks on behalf of Liberty Medical Group. In addition, if these two organizations merge, they would be in a better position to create new employment opportunities. This is because a consolidated firm can ----y- jobs that each of the companies would have been unable to offer on their own. It is our expectation that you will print a retraction. _____ I am hoping for your immediate response. Sincerely, Andrew Sweet Company spokesperson
 
-135. (A) was reported
+135.
+(A) was reported
 (B) is reported
 (C) will report
 (D) will be reported
 
-136. (A) evaluations
+136.
+(A) evaluations
 (B) acquisitions
 (C) assignments
 (D) negotiations
 
-137. (A) review
+137.
+(A) review
 (B) generate
 (C) perfect
 (D) monitor
 
-138. (A) We will be holding a press conference llll regarding the recent merger.
+138.
+(A) We will be holding a press conference llll regarding the recent merger.
 (B) Midland Health Services will be closing its doors this month.
 (C) This will correct any misunderstanding caused by your earlier article.
 (D) This will reduce the number of employees in our establishment.
@@ -253,22 +261,26 @@ Questions 139-142 refer to the following e-mail.
 
 To: Margo Sloane <msloane@bowenassociates.com> From: Jan Fitch <jfitch@bowenassociates.com> Subject: Equipment delivery Date: October 11 Mr. Jurgens at the new branch called to say that the office equipment we ordered from Filepros arrived on October 9. He and the technicians are now busy installing the machinery. Unfortunately, I learned that the shipment of other items from Draper _____ longer. The earliest they can guarantee delivery is after October 16, which could force us to delay our opening to October 25. If management prefers, we can ----- the order. I have asked Mr. Sampson, one of our suppliers, ~ _____ if he can get the needed items at short notice. He understands the situation and has confirmed that he can obtain the materials immediately. 142 " ' Wi" Wait f0r WOrd fr0m y0U regarding the DraPer order and w' 11 keeP sending you updates.
 
-139. (A) took
+139.
+(A) took
 (B)takes
 (C) had taken
 (D) will take
 
-140. (A) dispatch
+140.
+(A) dispatch
 (B) refund
 (C) process
 (D) cancel
 
-141. (A) to check
+141.
+(A) to check
 (B) checking
 (C) checks
 (D) checked
 
-142. (A) Meanwhile, we will order the equipment from another supplier. v (B) As a result, we had no choice but to announce a new opening date.
+142.
+(A) Meanwhile, we will order the equipment from another supplier. v (B) As a result, we had no choice but to announce a new opening date.
 (C) Unfortunately, the items from Mr. Sampson will be delayed again.
 (D) In other words, we will be able to get what we need on time. <<MISSING>>
 
@@ -278,23 +290,29 @@ Goldline Staffing is seeking payroll clerks for its rapidly expanding head offic
 
 _____ Newly hired employees will be placed in positions best suited to their educational background and experience. We have noted that most applicants ask if there are opportunities to gain new skills. _____ In fact, employee development is one of our key programs. _____ , _____ appropriate training will be provided to all successful applicants. To apply, send your resume and other required documents to jobs@goldline.com.
 
-143. (A) delegated
+143.
+(A) delegated
 (B) devoted (0) outdated
 (D) confused
 
-144. (A) just
+144.
+(A) just
 
-144. (B) complete
+144.
+(B) complete
 (C) equal
 (D) alike <<MISSING>>
 
-145. (A) provide the needed support. w (B) Pleasing our customers is just < the company's many goals. The number of employees on c
+145.
+(A) provide the needed support. w (B) Pleasing our customers is just < the company's many goals. The number of employees on c
 (C) payroll is likely to decrease. There is an increasing need for
 (D) who have already had training.
 
-146. (A)
+146.
+(A)
 
-146. (B)
+146.
+(B)
 (C)
 (D) On the other hand <<MISSING>>
 

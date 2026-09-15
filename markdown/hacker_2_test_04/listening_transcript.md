@@ -215,7 +215,7 @@ Questions 41-43 refer to the following conversation.
 W: Next in line, please.
 M: Hello. I’m here to take a written exam and renew my driver’s license.
 W: OK. Just note that many people are ahead of you.
-M: Oh . . . If I stick around, when do you think I’d be able to take the test? I’m free for about an hour but need to leave for my work shift no later than 4 p.m.
+M: Oh ... If I stick around, when do you think I’d be able to take the test? I’m free for about an hour but need to leave for my work shift no later than 4 p.m.
 W: Because of the number of people here, I doubt you’ll be finished by then. I suggest coming back on another day. Mornings are usually quite slow. That would probably be your best option.
 
 Questions 44-46 refer to the following conversation.
@@ -258,14 +258,14 @@ W1: Actually, we ran into an unforeseen problem.
 W2: Yeah. The owner of Oakridge Restaurant just called to cancel our reservation.
 M: Really? Why?
 W1: The private room we reserved for Friday was accidentally double-booked. However, the owner said he would take 25 percent off our total bill if we decide to hold the event on a different night.
-M: Hmm . . . in that case, why don’t you check if there is a room available on Saturday? We can push the event back one evening.
+M: Hmm ... in that case, why don’t you check if there is a room available on Saturday? We can push the event back one evening.
 W2: Sure thing.
 
 Questions 62-64 refer to the following conversation and floor plan.
 `영국식 발음 → 호주식 발음`
 W: Hello, I’m Patty Alpert. I was supposed to be here at 9 a.m. for my orientation since I’m a new hire. I got into a minor car accident, though, so I’m a bit late.
 M: Oh, that’s unfortunate. I hope that you’re all right.
-W: Yes, it wasn’t too serious . . . just time consuming. Where should I go now?
+W: Yes, it wasn’t too serious ... just time consuming. Where should I go now?
 M: Right now, everyone is working in groups doing customer service role-playing exercises.
 W: OK. Which group am I in?
 M: Let me check. Um, we’re just inside the entrance to the auditorium now. Looking straight ahead, you should join the group directly to the left of the stage. I can bring you over if you’d like.
@@ -283,7 +283,7 @@ M: Bradley is making a sign with those details now. Once he’s finished, the re
 Questions 68-70 refer to the following conversation and sign.
 `미국식 발음 → 호주식 발음`
 W: Simon, have you heard? Our building’s parking lot is going to be closed next week. It’s being expanded and resurfaced.
-M: Yeah. Everyone from our office is gonna have to park elsewhere for four days . . . Luckily, Friday’s a holiday.
+M: Yeah. Everyone from our office is gonna have to park elsewhere for four days ... Luckily, Friday’s a holiday.
 W: Right. Fortunately, our company has offered to pay the fees we’re charged for parking. But the garage they recommended is four blocks away.
 M: Oh, really? Why can’t we use Madison Street Parking? It’s just one block from here.
 W: I guess that one and the Mulberry Lane Lot are for private use only. We could use Clyde’s Parking Tower or Casey’s Garage, but only the former costs under $10 a day, which is our daily reimbursement limit. So, we’ve got to go there.
@@ -328,4 +328,4 @@ Attention, Fresh Mart shoppers. The store will be closed from May 13 to 16 due t
 
 Questions 98-100 refer to the following telephone message and building directory.
 `영국식 발음`
-Good afternoon, Mr. Reynolds. This is Marsha Fields from Cline and Peterman Law Firm returning your call. I’m fine with moving our meeting about your patent from 11 a.m. Thursday to 2 p.m. Friday as you requested in your message. It will give me more time to do some research for our meeting. Um, I have a few ideas about how to resolve your patent dispute that I look forward to discussing with you. Oh, one thing I should mention . . . Our office is being renovated, so we are temporarily using the one that was occupied by an accounting firm. That company relocated last month and is still listed on the directory. Don’t get confused. Thanks.
+Good afternoon, Mr. Reynolds. This is Marsha Fields from Cline and Peterman Law Firm returning your call. I’m fine with moving our meeting about your patent from 11 a.m. Thursday to 2 p.m. Friday as you requested in your message. It will give me more time to do some research for our meeting. Um, I have a few ideas about how to resolve your patent dispute that I look forward to discussing with you. Oh, one thing I should mention ... Our office is being renovated, so we are temporarily using the one that was occupied by an accounting firm. That company relocated last month and is still listed on the directory. Don’t get confused. Thanks.

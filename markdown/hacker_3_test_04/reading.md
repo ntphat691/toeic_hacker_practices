@@ -212,22 +212,26 @@ Questions 131-134 refer to the following memo.
 
 To: All staff members From: Greg Birch, CTO Subject: Server Date: March 2 As you may know, our company server _____ Although the disruption was only temporary and the server is now running, I am considering switching to a different system. ------- the server goes down again, it could create a serious problem. Because we want to prevent that from happening, I've spoken with Jason, the head of our IT team. He can install a new server that will be less _____ to malfunctions. _____ Thankfully, we will be able to transfer files from the old server to the new one without any difficulty. I will continue to send you updates as I receive more information from Jason.
 
-131. (A) disconnecting
+131.
+(A) disconnecting
 (B) was disconnected
 (C) has been disconnected
 (D) has disconnected
 
-132. (A) Before
+132.
+(A) Before
 (B) But
 (C) If
 (D) So
 
-133. (A) vulnerable
+133.
+(A) vulnerable
 (B) flexible
 (C) dangerous
 (D) faulty
 
-134. (A) The breakdown is expected to be ||||| repaired over the next few days.
+134.
+(A) The breakdown is expected to be ||||| repaired over the next few days.
 (B) In addition, it will have a greater memory capacity and better security.
 (C) However, this solution is impractical as it is much too costly.
 (D) Several companies in the affected area reported similar outages.
@@ -236,19 +240,22 @@ Questions 135-138 refer to the following letter.
 
 osil lLTr<?J -y- Nicole Freemont 1452 Reservoir Road NW Washington, D.C. 20057 Dear Ms. Freemont, I am pleased to confirm your membership to the Georgetown Food Cooperative. _____ , we _____ have enclosed your membership card. By supporting us, you are helping to make food more affordable for the community. This is because we get our products from local businesses with lower shipping and manufacturing expenses. Flowever, we can only _____ with the active assistance of all our members. That is why we ask each member to provide four hours of voluntary work at our store every month. Moreover, we encourage you to stop by and familiarize yourself with issues pertaining to the costs of food and to learn about other ways you can help. Best wishes, Edwin Krueger Membership coordinator, Georgetown Food Cooperative
 
-135. (A) Instead
+135.
+(A) Instead
 (B) Accordingly
 (C) Ever since
 (D) Unfortunately
 
 136. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 
-137. (A) We are forced to increase membership |i|j| fees for this reason.
+137.
+(A) We are forced to increase membership |i|j| fees for this reason.
 (B) We are delighted that you have contributed so much of your time.
 (C) The cooperative is still accepting bids from local food suppliers.
 (D) You can pay a monthly surcharge of $20 if you are unable to do so.
 
-138. (A) growingly
+138.
+(A) growingly
 (B) grown
 (C) growing
 (D) grows
@@ -257,22 +264,26 @@ Questions 139-142 refer to the following press release.
 
 New Territory for Aarhus Clothing The British public is excited about the opening of Aarhus Clothing's first UK-based store. The Danish company has gained a reputation for achieving consistently high rates of customer _____ It quickly became a well-known brand in its home country. ------ _____ Aarhus Clothing launched its first German store two years ago, after which the company quickly moved into Belgium and the Netherlands. With the inauguration of a flagship store on London's Oxford Street next month, the company hopes to stand out in the ------ UK market. I. Designer Mads Jensen told reporters, "Our products have been sought after in Europe for many years now because they are simple and _____ As they are basic and long-lasting, we expect them to be just as popular in the UK."
 
-139. (A) satisfying
+139.
+(A) satisfying
 (B) satisfactorily
 (C) to satisfy
 (D) satisfaction
 
-140. (A) Its popularity subsequently spread to ||||| neighboring nations.
+140.
+(A) Its popularity subsequently spread to ||||| neighboring nations.
 (B) Therefore, the company has only one store left in the country.
 (C) Nevertheless, the peak of its fame was reached in Britain last year.
 (D) This had a negative effect on the brand in the years that followed.
 
-141. (A) multiple
+141.
+(A) multiple
 (B) lucrative
 (C) duplicate
 (D) diligent
 
-142. (A) disposable
+142.
+(A) disposable
 (B) attentive
 (C) collective
 (D) durable
@@ -281,22 +292,26 @@ Questions 143-146 refer to the following advertisement.
 
 Turn Your Scuba Diving Dreams into a Reality! The Estrella Diving Center's summer certification courses will begin at our Playa Del Carmen facility on June 2. No prior _____ is necessary because our trainers will cover all the basic techniques for beginner students. _____ As always, enrollees must have no existing medical conditions and be at least 13 years old. Those who cannot satisfy ----- of these requirements will be unable to sign up. All equipment will be provided, and training will be delivered in three _____ sessions. Held on the same day, each lesson will last an hour with short breaks in between. Enrollment opens on Monday, May 3.
 
-143. (A) negotiation
+143.
+(A) negotiation
 (B) compensation
 (C) instruction
 (D) registration
 
-144. (A) Certain criteria must be met before ||||| taking the course.
+144.
+(A) Certain criteria must be met before ||||| taking the course.
 (B) Divers have stated that they agree with the new rule,
 (C) Such challenges are not easily overcome.
 (D) Diving instructor applicants will be contacted shortly.
 
-145. (A) either
+145.
+(A) either
 (B) whatever
 (C) extra
 (D) couple
 
-146. (A) coincidental
+146.
+(A) coincidental
 (B) inadequate
 (C) remote
 (D) consecutive
@@ -511,7 +526,7 @@ Cheryl Stone [3:54] Can't we do the presentation ourselves? Allan Franklin [3:55
 
 Questions 176-180 refer to the following notice and letter.
 
-..... . ... .. .
+......... .. .
 
 CITY OF GRIGGSTON PUBLIC MEETING NOTICE
 

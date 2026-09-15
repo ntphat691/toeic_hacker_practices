@@ -215,22 +215,26 @@ To: Jennifer Mendez <jmendez@imshampoo.com> From: Rick Holloway <rholloway@imsha
 
 Dear Jennifer, O -O I just met with the new head of PPJ Marketing, Robert Pierson, and he is ------ to helping _____ |S|| 1 ul . update the look of our product. Like me, he believes that our shampoos are overdue for en rebranding and thinks that marketing them to young, free-spirited people is an excellent idea. _____ — --J in this regard, he feels that researching the needs of consumers between the ages of 132. _____ g 18 and 24 would be helpful for developing television advertisements. This will provide us with O LD information to effectively _____ this group. Over the next few weeks, he and his team will 133. _____ o create concepts for 30-second commercials, which they will _____ to us for consideration. _____ — 134. _____ s
 
-131. (A) accustomed
+131.
+(A) accustomed
 (B) committed
 (C) indifferent
 (D) confused
 
-132. (A) None of our shampoo advertisements |||j| are presently directed to that group,
+132.
+(A) None of our shampoo advertisements |||j| are presently directed to that group,
 (B) The new product line would significantly expand our merchandise selection.
 (C) This has helped them make a better decision about what to buy.
 (D) Our biggest concern is increasing our share in the international market.
 
-133. (A) convey
+133.
+(A) convey
 (B) authorize
 (C) gather
 (D) target
 
-134. (A) be delivered
+134.
+(A) be delivered
 (B) are delivering
 (C) deliver
 (D) have been delivering
@@ -239,22 +243,26 @@ Questions 135-138 refer to the following e-mail.
 
 i! To: Customer Service <cs.interair@interair,com> From: Alex Hogan <ahogan@dallasmail.com> Subject: Reservation #JHK2105 Date: June 21 To Whom It May Concern, I apologize for the inconvenience, but a personal matter has come up, _____ me from _____ flying to Budapest as planned. I would like to get my money back. If this is possible, can you please _____ my request? I am hoping to book a different flight to Sydney in less than five days. I understand that I will have to pay a _____ for this change. You may deduct this from the amount that will be returned to me. Please let me know if you need any other information, Sincerely, Alex Hogan
 
-135. (A) I am writing to inquire about having my |||| seat upgraded.
+135.
+(A) I am writing to inquire about having my |||| seat upgraded.
 (B) My frequent flier points have not been applied to my account.
 (C) My luggage was lost on a recent flight with your airline,
 (D) I would like to cancel my flight and obtain a refund for it.
 
-136. (A) prevents
+136.
+(A) prevents
 (B) prevention
 (C) preventing
 (D) preventive
 
-137. (A) renew
+137.
+(A) renew
 (B) generate
 (C) expedite
 (D) prove
 
-138. (A) ticket
+138.
+(A) ticket
 (B) charge
 (C) royalty
 (D) reward
@@ -263,22 +271,26 @@ Questions 139-142 refer to the following advertisement.
 
 If you own a small or medium-sized business and are looking for professional accounting services, Johnson and Eversham Accounting can help! We _____ our expertise to a wide variety of businesses. Established three decades ago, _____ Johnson and Eversham Accounting began by assisting small firms in Manchester, New Hampshire, and we have been expanding our reach ever since. -------- All of our accountants are _____ by the Organization of Chartered Accountants, which allows us to guarantee that our clients always receive top-notch services. Each of our employees in distinct business accounting fields, so we can handle any financial matter you might _____ have. To find out more, contact us today at 555-6277 or go to www.jeaccounting.com.
 
-139. (A) provided
+139.
+(A) provided
 (B) provide
 (C) will be providing
 (D) had provided
 
-140. (A) Our expansion was completed several Ipl years ago.
+140.
+(A) Our expansion was completed several Ipl years ago.
 (B) These firms have announced that they will form an association.
 (C) We now have 60 offices in cities across the nation.
 (D) This prevented us from launching our first office in the region.
 
-141. (A) careful
+141.
+(A) careful
 (B) eligible
 (C) suspended
 (D) certified
 
-142. (A) specializes
+142.
+(A) specializes
 (B) specialize
 (C) specialist
 (D) special
@@ -289,17 +301,20 @@ Questions 143-146 refer to the following notice.
 
 143. <<MISSING>> <<MISSING>> <<MISSING>> <<MISSING>>
 
-144. (A) evaluations
+144.
+(A) evaluations
 (B) experiences
 (C) eliminations
 (D) expenditures
 
-145. (A) The homeowner's association WSk management made some repairs over the winter.
+145.
+(A) The homeowner's association WSk management made some repairs over the winter.
 (B) Tenants were satisfied with the estimate provided to them by the contractor.
 (C) We had to pay more than usual last winter due to a steep hike in gas prices.
 (D) We hope the building's improved security system will attract more businesses.
 
-146. (A) in case
+146.
+(A) in case
 (B) given that
 (C) even as
 (D) whether

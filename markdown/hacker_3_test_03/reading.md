@@ -222,22 +222,26 @@ your payment history.
 
 Virginia Payton Clarks Telecom
 
-131. (A) totaled
+131.
+(A) totaled
 (B) totally
 (C) totaling
 (D) totals
 
-132. (A) canceled
+132.
+(A) canceled
 (B) settled
 (C) insured
 (D) forgotten
 
-133. (A) This may affect when you start |||i| receiving high-speed service.
+133.
+(A) This may affect when you start |||i| receiving high-speed service.
 (B) The money you owe will be paid on the scheduled date through this means.
 (C) We have sent a receipt confirming payment of the charges.
 (D) Your service will be restored once you send the amount that is due.
 
-134. (A) encourage
+134.
+(A) encourage
 (B) encouraging
 (C) are encouraged
 (D) will encourage
@@ -246,22 +250,26 @@ Questions 135-138 refer to the following advertisement.
 
 Waterview Valley Ranch is the perfect place to take a horse-riding holiday. Discover the beauty of the surrounding area and _____ about its past as our knowledgeable guides delight you with interesting stories of its history. _____ you like riding horses for relaxation or prefer a challenging ride in the open country, we have all the equipment you'll need to fulfill your requirements. _____ In addition, should you choose to bring your own horses, we can _____ them during your stay with us. This is because our stables have ample space, where they will be well cared for. Simply let us know what your party needs when you call us at 555-7823 to book your spot.
 
-135. (A) learned
+135.
+(A) learned
 (B) learns
 (C) learn
 (D) to learn
 
-136. (A) Even
+136.
+(A) Even
 (B) Although
 (C) Only if
 (D) Whether
 
-137. (A) Our regularly scheduled guided tours have been overbooked.
+137.
+(A) Our regularly scheduled guided tours have been overbooked.
 (B) This ensures your experience with us is both safe and satisfactory.
 (C) The livestock we raise is renowned for its exceptionally high quality,
 (D) Your horse-riding gear must meet the strict standards of the ranch.
 
-138. (A) switch
+138.
+(A) switch
 (B) race
 (C) house
 (D) auction
@@ -270,22 +278,26 @@ Questions 139-142 refer to the following announcement.
 
 Important Announcement Beaumont Hall announces with _____ that the August 17 concert featuring the pianist Sophia Kaminsky has been canceled. Ms. Kaminsky has suddenly taken ill, and organizers have deemed it best to ----- the event until further notice. If you purchased your ticket using cash, you will receive an immediate refund. On the other hand, those who paid for tickets with a credit card will not get a _____ refund. This is due to card processing regulations. in addition to being fully refunded, everyone who purchased a ticket will receive a 20 percent discount when they make a future reservation. Hopefully, the discount makes up for the inconvenience. Please accept our sincerest apologies.
 
-139. (A) regrettable
+139.
+(A) regrettable
 (B) regret
 (C) regrettably
 (D) regretful
 
-140. (A) sponsor
+140.
+(A) sponsor
 (B) evaluate
 (C) confirm
 (D) postpone
 
-141. (A) previous
+141.
+(A) previous
 (B) formal
 (C) prompt
 (D)dependent
 
-142. (A) We can no longer offer group rates to lHll those without valid memberships.
+142.
+(A) We can no longer offer group rates to lHll those without valid memberships.
 (B) We cannot combine this price reduction with any other special promotion or discount.
 (C) We are committed to starting each of our productions in a punctual manner.
 (D) We have posted the dates and times for this performance on our Web site.
@@ -298,22 +310,26 @@ _____ The recital will take place on October 10 at the Rocheport Arts Center. We
 
 Sincerely, Abraham Schlitz Rocheport Arts Center
 
-143. (A) imminent
+143.
+(A) imminent
 (B) crowded
 (C) widespread
 (D) promising
 
-144. (A) performances
+144.
+(A) performances
 (B) publications
 (C) communications
 (D) competitions
 
-145. (A) With the right publicity, these poets will be able to become well known.
+145.
+(A) With the right publicity, these poets will be able to become well known.
 (B) There are similarities between traditional and contemporary works.
 (C) Instead, they rely on expressive writing to address modern issues.
 (D) Many guests have much preferred the themes of our earlier recitals.
 
-146. (A) his
+146.
+(A) his
 (B) its
 (C) your
 (D) their

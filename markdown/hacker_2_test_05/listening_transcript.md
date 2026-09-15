@@ -208,10 +208,10 @@ Questions 38-40 refer to the following conversation.
 `호주식 발음 → 미국식 발음`
 M: Laura, these necklaces are very impressive. Do you plan to sell them at your friend’s boutique like your other pieces?
 W: Yes. However, I feel as though my designs aren’t getting enough attention. So, I’m considering sending in an application to attend this year’s National Jewelry Expo to better advertise my work.
-M: That’s a great idea. You could attract a lot of customers. Provided that you actually go . . .
+M: That’s a great idea. You could attract a lot of customers. Provided that you actually go ...
 W: You think so? I’m still a bit hesitant. Operating a booth there can be expensive.
 M: Numerous people have used exposure from that event to help boost their businesses. I’m sure the same would happen for you.
-W: You’re right . . . I’m gonna download the application form now and fill it out.
+W: You’re right ... I’m gonna download the application form now and fill it out.
 
 Questions 41-43 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
@@ -224,7 +224,7 @@ Questions 44-46 refer to the following conversation with three speakers.
 `영국식 발음 → 캐나다식 발음 → 미국식 발음`
 W1: Hey, Randy. Doesn’t your shift start at 9 o’clock?
 M: Yeah, I came in early this morning to unpack the Digi 5 game consoles. They just arrived, and we need to get them on the shelves.
-W1: I see. Here . . . I’ll help.
+W1: I see. Here ... I’ll help.
 W2: Sorry to interrupt. I know we don’t open for five more minutes, but some customers have already started to form a line at the door. They’re here for the Digi 5.
 W1: I was going to keep stocking the shelves after we opened, but we’d better finish soon if people are lined up.
 M: Maybe one of us should ask Richard to give us a hand.
@@ -258,8 +258,8 @@ Questions 56-58 refer to the following conversation.
 M: Have you loaded the scuba gear into the boat yet? We need enough equipment to take 10 people on a diving trip.
 W: Yeah, but I discovered a crack in one of the masks.
 M: Really? That’s a problem since the other dive group has taken all the spare ones with them.
-W: Hmm . . . Splash World, the dive supply shop, is really close to here. If they have any in stock, I can go pick one up. Why don’t you give them a call and see if they have what we need?
-M: Good idea! I’ll get right on that. Only . . . do you know the store’s phone number?
+W: Hmm ... Splash World, the dive supply shop, is really close to here. If they have any in stock, I can go pick one up. Why don’t you give them a call and see if they have what we need?
+M: Good idea! I’ll get right on that. Only ... do you know the store’s phone number?
 W: No, but I bet Reggie does.
 
 Questions 59-61 refer to the following conversation.
@@ -286,7 +286,7 @@ Questions 65-67 refer to the following conversation and building directory.
 `영국식 발음 → 캐나다식 발음`
 W: Excuse me. I’m scheduled to meet with Harvey Pinkerton. However, the office listed for him on the directory here in the lobby is incorrect. I went up to the second floor, but someone else was using the office which the directory mentions.
 M: Oh, I’m very sorry for the inconvenience. Mr. Pinkerton is in another office, but the directory has yet to be updated. He should have told you about this.
-W: So it seems . . . Well, where is his new one?
+W: So it seems ... Well, where is his new one?
 M: He’s moved into Mr. Johnson’s old office, which is down the hallway and to the right. Just beside Markus Swanson’s office.
 W: OK, I’ll head there now. Thanks.
 
@@ -295,7 +295,7 @@ Questions 68-70 refer to the following conversation and coupon.
 M: Hi. My blender broke down, so I need help finding a replacement. Also, I wanna use this coupon for 15 percent off that I cut out of a local newspaper.
 W: I’d be happy to assist you. Is there a particular model you are interested in?
 M: I’m not sure, but I’d prefer not to spend more than $200. Do you have any suggestions?
-W: Well, the Dicer 2 and the Total Blend are both in your price range, and they’re made by PowerMix. The ChopMaster is Electrostar’s most popular model . . . and the most expensive. It’s over $400. But that company also sells the BlendPro, which is only $175.
+W: Well, the Dicer 2 and the Total Blend are both in your price range, and they’re made by PowerMix. The ChopMaster is Electrostar’s most popular model ... and the most expensive. It’s over $400. But that company also sells the BlendPro, which is only $175.
 
 ### PART 4
 
@@ -309,11 +309,11 @@ Good morning, and welcome to this seminar on European clothing trends. I will be
 
 Questions 77-79 refer to the following announcement.
 `호주식 발음`
-Hello, everyone. Thank you all for coming to the grand reopening of the Norfield Planetarium. Upon entering the building today, you’ll be pleased to see that the majority of its sections have been completely renovated. In particular, our exhibit hall has undergone considerable changes. It now features a variety of educational displays that you can interact with through touch screen technology. And to commemorate this special day, local astronomer Shane Donner will make a speech about his recent findings in his studies of outer space in Lecture Room B. However, that will be pushed back an hour later than planned . . . Mr. Donner is making preparations. In the meantime, please feel free to explore the facility.
+Hello, everyone. Thank you all for coming to the grand reopening of the Norfield Planetarium. Upon entering the building today, you’ll be pleased to see that the majority of its sections have been completely renovated. In particular, our exhibit hall has undergone considerable changes. It now features a variety of educational displays that you can interact with through touch screen technology. And to commemorate this special day, local astronomer Shane Donner will make a speech about his recent findings in his studies of outer space in Lecture Room B. However, that will be pushed back an hour later than planned ... Mr. Donner is making preparations. In the meantime, please feel free to explore the facility.
 
 Questions 80-82 refer to the following announcement.
 `미국식 발음`
-I’d like to let everyone know that our paper shredder will be replaced tomorrow. A technician looked at it this morning, and it appears that there is a serious problem with the blades that cut the paper. Plus, it’s old and out-of-date. So now is the perfect time to get a new one. If you need to shred anything before then, just use the one in the accounting department’s office on the third floor. I think that’s everything. Oh, hold on . . . we need someone to come in at 8 a.m. tomorrow to give the delivery person access to our office. Please let me know by 5 p.m. today if you wish to volunteer to do this.
+I’d like to let everyone know that our paper shredder will be replaced tomorrow. A technician looked at it this morning, and it appears that there is a serious problem with the blades that cut the paper. Plus, it’s old and out-of-date. So now is the perfect time to get a new one. If you need to shred anything before then, just use the one in the accounting department’s office on the third floor. I think that’s everything. Oh, hold on ... we need someone to come in at 8 a.m. tomorrow to give the delivery person access to our office. Please let me know by 5 p.m. today if you wish to volunteer to do this.
 
 Questions 83-85 refer to the following telephone message.
 `캐나다식 발음`
@@ -327,7 +327,7 @@ Questions 89-91 refer to the following news report.
 `영국식 발음`
 My name is Anita Busby, and you’re tuned in to Channel 9 News. Today’s top story is on Williamton’s Citizen of the Year Award. This year’s recipient is Maude Evans, owner of Gately Automotive Dealership right here in Williamton. Ms. Evans has been selected for the award in recognition of her charitable work in the Williamton community. Over the previous six months, she has devoted much of her personal time to collecting donations for Memorial Hospital, a local health care facility. Moreover, Ms. Evans is also raising money in hopes of helping to establish the city’s first performing arts center. The award will be presented to Ms. Evans on September 22 at a dinner hosted by the Williamton City Council. The event will be attended by community leaders and city government officials. Question 92-94 refer to the following telephone message and map.
 `미국식 발음`
-Good morning, Richard. This is Sally. We need to find a new location for our department’s Christmas party next month. I just called Golden China—the restaurant we discussed yesterday—but they said that 30 seats are not available on that day. They could accommodate us if we broke into smaller groups . . . but that’s not really a good option. I was hoping you could call the new restaurant that opened on the corner of Jefferson Street and Parkinson Boulevard, right next to city hall. I heard they have a private dining room! I’d call them myself, but I’m headed to the airport now. With the party coming up in only three weeks, we need to make a reservation as soon as possible. Thanks.
+Good morning, Richard. This is Sally. We need to find a new location for our department’s Christmas party next month. I just called Golden China—the restaurant we discussed yesterday—but they said that 30 seats are not available on that day. They could accommodate us if we broke into smaller groups ... but that’s not really a good option. I was hoping you could call the new restaurant that opened on the corner of Jefferson Street and Parkinson Boulevard, right next to city hall. I heard they have a private dining room! I’d call them myself, but I’m headed to the airport now. With the party coming up in only three weeks, we need to make a reservation as soon as possible. Thanks.
 
 Questions 95-97 refer to the following advertisement and price list.
 `영국식 발음`

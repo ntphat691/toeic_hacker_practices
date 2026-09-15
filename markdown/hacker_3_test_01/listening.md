@@ -2,84 +2,70 @@
 
 ## LISTENING TEST
 
-In this section, you must demonstrate your ability to understand spoken English. This section is divided into four parts and will take approximately 45 minutes to complete. Do not mark the answers in your test book. Use the answer sheet that is provided separately.
+In this section, you must demonstrate your ability to understand spoken English.
+This section is divided into four parts and will take approximately 45 minutes to complete.
+Do not mark the answers in your test book.
+Use the answer sheet that is provided separately.
 
 ### PART 1
 
-Directions: For each question, you will listen to four short statements about a picture in your test book. These statements will not be printed and will only be spoken one time. Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
+Directions: For each question, you will listen to four short statements about a picture in your test book.
+These statements will not be printed and will only be spoken one time.
+Select the statement that best describes what is happening in the picture and mark the corresponding letter (A), (B), (C), or (D) on the answer sheet.
+
 Sample Answer
 (A)(B)(C)(D)
-The statement that best describes the picture is (B), "The man is sitting at the desk." So, you should mark letter (B) on the answer sheet.
 
-1.
+<img src="image0.jpg" alt="Image 1">
 
-2.
+The statement that best describes the picture is (B), "The man is sitting at the desk."
+So, you should mark letter (B) on the answer sheet.
 
-3.
-
-4.
-
-5.
-
-6.
+1. <img src="image1.jpg" alt="Image 1">
+2. <img src="image2.jpg" alt="Image 2">
+3. <img src="image3.jpg" alt="Image 3">
+4. <img src="image4.jpg" alt="Image 4">
+5. <img src="image5.jpg" alt="Image 5">
+6. <img src="image6.jpg" alt="Image 6">
 
 ### PART 2
 
-Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English. They will not be printed and will only be spoken one time. Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
+Directions: For each question, you will listen to a statement or question followed by three possible responses spoken in English.
+They will not be printed and will only be spoken one time.
+Select the best response and mark the corresponding letter (A), (B), or (C) on your answer sheet.
 
-7. Mark your answer on your answer sheet.
-
-8. Mark your answer on your answer sheet.
-
-9. Mark your answer on your answer sheet.
-
-10. Mark your answer on your answer sheet.
-
-11. Mark your answer on your answer sheet.
-
-12. Mark your answer on your answer sheet.
-
-13. Mark your answer on your answer sheet.
-
-14. Mark your answer on your answer sheet.
-
-15. Mark your answer on your answer sheet.
-
-16. Mark your answer on your answer sheet.
-
-17. Mark your answer on your answer sheet.
-
-18. Mark your answer on your answer sheet.
-
-19. Mark your answer on your answer sheet.
-
-20. Mark your answer on your answer sheet.
-
-21. Mark your answer on your answer sheet.
-
-22. Mark your answer on your answer sheet.
-
-23. Mark your answer on your answer sheet.
-
-24. Mark your answer on your answer sheet.
-
-25. Mark your answer on your answer sheet.
-
-26. Mark your answer on your answer sheet.
-
-27. Mark your answer on your answer sheet.
-
-28. Mark your answer on your answer sheet.
-
-29. Mark your answer on your answer sheet.
-
-30. Mark your answer on your answer sheet.
-
-31. Mark your answer on your answer sheet.
+7. [Mark your answer on your answer sheet.]
+8. [Mark your answer on your answer sheet.]
+9. [Mark your answer on your answer sheet.]
+10. [Mark your answer on your answer sheet.]
+11. [Mark your answer on your answer sheet.]
+12. [Mark your answer on your answer sheet.]
+13. [Mark your answer on your answer sheet.]
+14. [Mark your answer on your answer sheet.]
+15. [Mark your answer on your answer sheet.]
+16. [Mark your answer on your answer sheet.]
+17. [Mark your answer on your answer sheet.]
+18. [Mark your answer on your answer sheet.]
+19. [Mark your answer on your answer sheet.]
+20. [Mark your answer on your answer sheet.]
+21. [Mark your answer on your answer sheet.]
+22. [Mark your answer on your answer sheet.]
+23. [Mark your answer on your answer sheet.]
+24. [Mark your answer on your answer sheet.]
+25. [Mark your answer on your answer sheet.]
+26. [Mark your answer on your answer sheet.]
+27. [Mark your answer on your answer sheet.]
+28. [Mark your answer on your answer sheet.]
+29. [Mark your answer on your answer sheet.]
+30. [Mark your answer on your answer sheet.]
+31. [Mark your answer on your answer sheet.]
 
 ### PART 3
 
-Directions: In this part, you will listen to several conversations between two or more speakers. These conversations will not be printed and will only be spoken one time. For each conversation, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several conversations between two or more speakers.
+These conversations will not be printed and will only be spoken one time.
+For each conversation, you will be asked to answer three questions.
+Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 32. What most likely is the man's occupation?
 (A) A salesperson
@@ -159,7 +145,7 @@ Directions: In this part, you will listen to several conversations between two o
 (C) Bought some bedding
 (D) Replaced a mattress
 
-45. What does the man imply when he says, ^ "I can look up the transaction using the number"?
+45. What does the man imply when he says, "I can look up the transaction using the number"?
 (A) A purchase may be processed.
 (B) A product might be available.
 (C) A receipt should be located.
@@ -201,7 +187,7 @@ Directions: In this part, you will listen to several conversations between two o
 (C) Checked schedule changes
 (D) Submitted a complaint
 
-52. Why does the woman say, "we can provide ^ you with a 20 percent discount"?
+52. Why does the woman say, "we can provide you with a 20 percent discount"?
 (A) To promote a service
 (B) To recommend an option
 (C) To fulfill a request
@@ -277,7 +263,19 @@ Directions: In this part, you will listen to several conversations between two o
 (A) Take over a work shift
 (B) Set up a booth
 (C) Replace some equipment
-(D) Distribute some documents Holly's Cake Shop Menu Type Size Price Coconut Cake 8 in $36 Strawberry Cheesecake 10 in $54 Carrot Cake 12 in $46 Chocolate Cake 14 in $58 Melbourne Bus Terminal Line 1 Line 2 Line 3 T" ft Norton Station O Subway Stop Line 4
+(D) Distribute some documents
+
+```
+Holly's Cake Shop Menu
+-----------------------------------------
+| Type                  | Size  | Price |
+|-----------------------|-------|-------|
+| Coconut Cake          | 8 in  | $36   |
+| Strawberry Cheesecake | 10 in | $54   |
+| Carrot Cake           | 12 in | $46   |
+| Chocolate Cake        | 14 in | $58   |
+-----------------------------------------
+```
 
 65. Why does the woman thank the man?
 (A) He gave her a venue recommendation.
@@ -297,6 +295,24 @@ Directions: In this part, you will listen to several conversations between two o
 (C) Carrot Cake
 (D) Chocolate Cake
 
+```
+----------------------------------
+    Melbourne Bus Terminal        
+----------------------------------
+Line 1 | Line 2 | Line 3 | Line 4 
+            x                     
+   x                 x        x   
+            x                     
+                              x   
+   x        x                 x   
+                     x            
+            x                     
+----------------------------------
+          Norton Station          
+----------------------------------
+x Subway Stop
+```
+
 68. Where most likely does the man work?
 (A) At a transportation authority
 (B) At a travel agency
@@ -309,7 +325,7 @@ Directions: In this part, you will listen to several conversations between two o
 (C) The time of a delivery
 (D) The duration of an event
 
-70. Look at the graphic. Which subway line did ^ the woman take today?
+70. Look at the graphic. Which subway line did the woman take today?
 (A) Line 1
 (B) Line 2
 (C) Line 3
@@ -317,7 +333,10 @@ Directions: In this part, you will listen to several conversations between two o
 
 ### PART 4
 
-Directions: In this part, you will listen to several short talks by a single speaker. These talks will not be printed and will only be spoken one time. For each talk, you will be asked to answer three questions. Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
+Directions: In this part, you will listen to several short talks by a single speaker.
+These talks will not be printed and will only be spoken one time.
+For each talk, you will be asked to answer three questions.
+Select the best response and mark the corresponding letter (A), (B), (C), or (D) on your answer sheet.
 
 71. What did the speaker agree to do?
 (A) Attend an event
@@ -349,11 +368,13 @@ Directions: In this part, you will listen to several short talks by a single spe
 (C) It was launched yesterday.
 (D) It is receiving fewer visitors.
 
-76. What does the speaker imply when she ^ says, "Our prices are already low"?
+76. What does the speaker imply when she says, "Our prices are already low"?
 (A) She is upset with a coworker.
 (B) She is doubtful about an idea.
 (C) She is confused by a situation.
-(D) She is concerned about a budget. II. What is the speaker advertising?
+(D) She is concerned about a budget.
+
+77. What is the speaker advertising?
 (A) A speaker system
 (B) A kitchen appliance
 (C) A device operator
@@ -377,7 +398,7 @@ Directions: In this part, you will listen to several short talks by a single spe
 (C) Called a delivery person
 (D) Canceled a purchase
 
-81. What does the speaker imply when he ^ says, "I really can't believe it"?
+81. What does the speaker imply when he says, "I really can't believe it"?
 (A) He is shocked by a guest turnout.
 (B) He is worried about a late shipment.
 (C) He is overwhelmed with requests.
@@ -441,7 +462,14 @@ Directions: In this part, you will listen to several short talks by a single spe
 (A) Alter a schedule
 (B) Revise a manual
 (C) Hand out a document
-(D) Give a presentation * Mon Tue Wed Thu 9 A.M.-11 A.M. Session 2 Session 3 2 P.M. —4 P.M. Session 1 Session 4
+(D) Give a presentation
+
+```
+|                | Mon       | Tue       | Wed       | Thu       |
+|----------------|-----------|-----------|-----------|-----------|
+| 9 A.M.-11 A.M. |           | Session 2 | Session 3 |           |
+| 2 P.M.-4 P.M.  | Session 1 |           |           | Session 4 |
+```
 
 92. Who most likely is the speaker?
 (A) A writer
@@ -449,7 +477,7 @@ Directions: In this part, you will listen to several short talks by a single spe
 (C) A cameraperson
 (D) A director
 
-93. Look at the graphic. When will the speaker ^ and Nancy Davis attend a session together?
+93. Look at the graphic. When will the speaker and Nancy Davis attend a session together?
 (A) Monday
 (B) Tuesday
 (C) Wednesday
@@ -459,7 +487,20 @@ Directions: In this part, you will listen to several short talks by a single spe
 (A) Details about a role
 (B) Assignments for a team
 (C) Requests from a producer
-(D) Changes to a script KEY:--Beginner — Intermediate — Advanced Summit Resort
+(D) Changes to a script
+
+```
+KEY: -- Beginner
+     =  Intermediate
+     —  Advanced
+
+-- Trail A -- 
+=  Trail B  = 
+-- Trail C -- Summit Resort
+=  Trail D  = 
+—  Trail E  — 
+
+```
 
 95. What will the listeners do first?
 (A) Practice snowboarding techniques
@@ -473,11 +514,25 @@ Directions: In this part, you will listen to several short talks by a single spe
 (C) To meet a teacher
 (D) To get some equipment
 
-97. Look at the graphic. Which trail will the ^ listeners use?
+97. Look at the graphic. Which trail will the listeners use?
 (A) Trail A
 (B) Trail B
 (C) Trail C
-(D) Trail D Quarterly Sales 11,000 10,000 9,000 8,000 7,000 6,000 5,000 ■ ■ Core Speed Clear Bell Spreadsheet Anti-Virus Image Editor Web Browser
+(D) Trail D
+
+```
+Quarterly Sales
+
+11,000 |-------------------■■■■------------------------------
+10,000 |-------------------■■■■------------------------------
+ 9,000 |-----■■■■----------■■■■--------■■■■------------------
+ 8,000 |-----■■■■----------■■■■--------■■■■------------------
+ 7,000 |-----■■■■----------■■■■--------■■■■------------------
+ 6,000 |-----■■■■----------■■■■--------■■■■----------■■■■----
+ 5,000 |-----■■■■----------■■■■--------■■■■----------■■■■----
+             Core          Speed       Clear         Bell
+          Spreadsheet   Anti-Virus  Image Editor  Web Browser
+```
 
 98. What department do the listeners most likely work in?
 (A) Sales
@@ -485,7 +540,7 @@ Directions: In this part, you will listen to several short talks by a single spe
 (C) Accounting
 (D) Human resources
 
-99. Look at the graphic. Which software ^ product will the company stop selling?
+99. Look at the graphic. Which software product will the company stop selling?
 (A) Core Spreadsheet
 (B) Speed Anti-Virus
 (C) Clear Image Editor
@@ -496,4 +551,3 @@ Directions: In this part, you will listen to several short talks by a single spe
 (B) Test a product
 (C) Download a program
 (D) Prepare a proposal
-

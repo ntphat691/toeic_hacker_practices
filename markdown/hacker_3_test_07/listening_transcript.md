@@ -211,7 +211,7 @@ M: What’s the issue this time, Ms. Davis?
 W: The screen keeps freezing, and the computer often restarts automatically.
 M: Well, that sounds like a software error, which isn’t my area of expertise. My associate Robert specializes in those types of repairs. Would it be possible to bring your laptop to our office next Monday? He can work on it then.
 W: I’m going abroad for a real estate workshop on Sunday. I’d really like it running properly before then.
-M: Hmm . . . let me transfer you to Robert now. I can’t say whether he’ll be able to fit you into his schedule sometime today. One moment, please.
+M: Hmm ... let me transfer you to Robert now. I can’t say whether he’ll be able to fit you into his schedule sometime today. One moment, please.
 
 Questions 41-43 refer to the following conversation.
 `호주식 발음 → 영국식 발음`
@@ -258,7 +258,7 @@ Questions 56-58 refer to the following conversation.
 M: Kumiko, do you know where I can find a copy of the study our research department conducted on health care devices? I need data from it to make another report.
 W: I’ve got a printout of that in my file cabinet right here. By the way, are you going to the Heart and Lung Foundation’s annual charity fundraiser on May 4? Or will you be too busy working on this project?
 M: I requested a deadline extension. I heard that there will be many industry professionals attending the fundraiser, so I don’t want to miss it. It would be a great opportunity to network with them.
-W: Definitely . . . If you haven’t registered yet, I can do it for you.
+W: Definitely ... If you haven’t registered yet, I can do it for you.
 
 Questions 59-61 refer to the following conversation.
 `미국식 발음 → 호주식 발음`
@@ -282,7 +282,7 @@ W1: That should be a comfortable amount of time to work with.
 Questions 65-67 refer to the following conversation and coupon.
 `영국식 발음 → 캐나다식 발음`
 W: Shane, the IT team was supposed to update the Web site yesterday to include information about our new Oceans Alive line of soap, but it hasn’t been done yet.
-M: I forgot to tell you. They’re gonna finish this afternoon, by . . . um . . . 3:00 p.m. at the latest.
+M: I forgot to tell you. They’re gonna finish this afternoon, by ... um ... 3:00 p.m. at the latest.
 W: OK, I’ll check it then. Is there anything that needs to be done for the product release event being held at SuperSmart at the end of next month?
 M: Of our new products, the shampoo, hand soap, and face cleanser are made of organic ingredients, but the body wash isn’t. The current coupon must be modified to ensure it’s valid for the entire line.
 
@@ -303,15 +303,15 @@ Cynthia, it’s Haley Vincent. I know you’re busy preparing for the convention
 
 Questions 74-76 refer to the following speech.
 `호주식 발음`
-Thank you all very much for being here to celebrate the release of our company’s latest device, the Access Portable Charger. I would like to give Patricia Sanderson from the design team special praise today. She came up with the idea to include a flashlight function in the charger. This feature has proven popular with online reviewers who were given the device in advance. They say it makes this the perfect charger for a camping trip, which should result in more sales. Now, please turn your attention to the screen at the front of the room . . . A commercial for the Access Portable Charger will air on several major TV networks starting tomorrow, and I’d like to give you a sneak preview.
+Thank you all very much for being here to celebrate the release of our company’s latest device, the Access Portable Charger. I would like to give Patricia Sanderson from the design team special praise today. She came up with the idea to include a flashlight function in the charger. This feature has proven popular with online reviewers who were given the device in advance. They say it makes this the perfect charger for a camping trip, which should result in more sales. Now, please turn your attention to the screen at the front of the room ... A commercial for the Access Portable Charger will air on several major TV networks starting tomorrow, and I’d like to give you a sneak preview.
 
 Questions 77-79 refer to the following telephone message.
 `영국식 발음`
-Hello, Mr. Holster. This is Julie Thompson from Beaumont Industries. You did very well during the interview on Thursday. Our CEO was impressed with your idea about how to sell more of our products in the Chinese home appliance market. As a result, I’m pleased to inform you that you’ve been selected to take over as manager of our Beijing branch. I’ll e-mail you the contract today. If you decide to accept the terms, please sign it and bring it to my office. I don’t want to rush you, but . . . um, the current manager will be retiring in three weeks. Obviously, we’d like you to spend a few weeks working with him. Call me back at 555-0393 if you have any questions.
+Hello, Mr. Holster. This is Julie Thompson from Beaumont Industries. You did very well during the interview on Thursday. Our CEO was impressed with your idea about how to sell more of our products in the Chinese home appliance market. As a result, I’m pleased to inform you that you’ve been selected to take over as manager of our Beijing branch. I’ll e-mail you the contract today. If you decide to accept the terms, please sign it and bring it to my office. I don’t want to rush you, but ... um, the current manager will be retiring in three weeks. Obviously, we’d like you to spend a few weeks working with him. Call me back at 555-0393 if you have any questions.
 
 Questions 80-82 refer to the following talk.
 `미국식 발음`
-OK . . . My name is Sarah Edwards, and I’ll be showing you around our tire manufacturing facility today. As new employees, it’s important that you be familiar with the various sections. Now, we usually visit the tire testing laboratory first during these orientation tours. But, since researchers are currently wrapping up an urgent study, I’ve been asked to do the tour in reverse order today. So, we’ll start by heading to the viewing deck of our assembly line room. Throughout the tour, please refrain from placing your hands or fingers on any of the machines. Are there any questions before we begin?
+OK ... My name is Sarah Edwards, and I’ll be showing you around our tire manufacturing facility today. As new employees, it’s important that you be familiar with the various sections. Now, we usually visit the tire testing laboratory first during these orientation tours. But, since researchers are currently wrapping up an urgent study, I’ve been asked to do the tour in reverse order today. So, we’ll start by heading to the viewing deck of our assembly line room. Throughout the tour, please refrain from placing your hands or fingers on any of the machines. Are there any questions before we begin?
 
 Questions 83-85 refer to the following telephone message.
 `호주식 발음`
@@ -323,15 +323,15 @@ Are you a singer or musician looking for your first big break? Then Star Broadca
 
 Questions 89-91 refer to the following talk.
 `호주식 발음`
-I’d like to start by saying that it’s a great honor to be able to participate in this lecture series at James College. Several speakers have already given excellent talks, and I hope that you’ll find mine as engaging as theirs. Now . . . the focus of my lecture is the impact that fiction has on society. Specifically, I’m going to look at how one popular novel . . . um, The Looking Glass by Jack Coyle . . . led to several reforms to the legal system. If you haven’t read Coyle’s book, don’t panic. I’ll hand out the relevant excerpts from it now, so you can refer to them during my lecture.
+I’d like to start by saying that it’s a great honor to be able to participate in this lecture series at James College. Several speakers have already given excellent talks, and I hope that you’ll find mine as engaging as theirs. Now ... the focus of my lecture is the impact that fiction has on society. Specifically, I’m going to look at how one popular novel ... um, The Looking Glass by Jack Coyle ... led to several reforms to the legal system. If you haven’t read Coyle’s book, don’t panic. I’ll hand out the relevant excerpts from it now, so you can refer to them during my lecture.
 
 Questions 92-94 refer to the following announcement and floor plan.
 `영국식 발음`
-Attention, everyone. Before we open today, I just want to remind you that our clothing store is having a sale this week in honor of the holidays. Make sure to tell customers that over 20 of our best-selling sportswear items are marked down. The display has been set up in the aisle closest to the main entrance, so it will be the first thing people see when they enter the store. Oh . . . one more thing. We’re going to close down for two days toward the end of the month so that our checkout area can be expanded. I’ll announce the dates tomorrow after I have met with a representative of the interior design firm doing the work.
+Attention, everyone. Before we open today, I just want to remind you that our clothing store is having a sale this week in honor of the holidays. Make sure to tell customers that over 20 of our best-selling sportswear items are marked down. The display has been set up in the aisle closest to the main entrance, so it will be the first thing people see when they enter the store. Oh ... one more thing. We’re going to close down for two days toward the end of the month so that our checkout area can be expanded. I’ll announce the dates tomorrow after I have met with a representative of the interior design firm doing the work.
 
 Questions 95-97 refer to the following excerpt from a meeting and graph.
 `미국식 발음`
-Before we wrap up, I’d like to talk about how our four stores are doing. I went through the figures in our quarterly sales report yesterday, and . . . well, there’s good news and bad news. The Kingston branch continues to do well. It exceeded $30,000 in revenue every month last quarter. In addition, the Albany branch has improved. Sales have increased each month since Harry Ferguson took over as manager in June. I’m concerned about the Bethany and Newark locations, though, because sales have declined since they opened in August. I’m going to pass out the report now. Please look through it and then come up with some suggestions for our next meeting on how to turn things around.
+Before we wrap up, I’d like to talk about how our four stores are doing. I went through the figures in our quarterly sales report yesterday, and ... well, there’s good news and bad news. The Kingston branch continues to do well. It exceeded $30,000 in revenue every month last quarter. In addition, the Albany branch has improved. Sales have increased each month since Harry Ferguson took over as manager in June. I’m concerned about the Bethany and Newark locations, though, because sales have declined since they opened in August. I’m going to pass out the report now. Please look through it and then come up with some suggestions for our next meeting on how to turn things around.
 
 Questions 98-100 refer to the following announcement and chart.
 `캐나다식 발음`

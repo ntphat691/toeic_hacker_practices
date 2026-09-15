@@ -194,7 +194,7 @@ Questions 32-34 refer to the following conversation.
 `호주식 발음 → 미국식 발음`
 M: Selina, is your phone working? I just tried to make a call, but there’s a busy signal when I pick up my receiver.
 W: I have the same problem. I contacted Mr. Bradford, the technical manager, and he said that the entire fourth floor has been affected. His team is fixing the phone lines now, but it looks like we’ll have to rely on our mobile devices to call clients until the matter is resolved.
-M: Hmm . . . That’s going to be an issue because I’m supposed to participate in a conference call in 15 minutes.
+M: Hmm ... That’s going to be an issue because I’m supposed to participate in a conference call in 15 minutes.
 W: I see. Well, maybe you should head to the third floor and use a phone in the meeting room there.
 
 Questions 35-37 refer to the following conversation.
@@ -223,7 +223,7 @@ Questions 44-46 refer to the following conversation.
 `미국식 발음 → 캐나다식 발음`
 W: I’m dissatisfied with Gordon Distribution Services. Our retail outlet has received incorrect shipments of goods from them on multiple occasions over the previous six months. For instance, just last Tuesday we received a dozen pairs of Eclipse basketball shoes, which is fewer than I requested. Plus, the company has yet to address my complaints.
 M: Considering the ongoing troubles that we’re experiencing with that company, I think it would be best for us to partner with another firm.
-W: In that case, I’ll reach out to other reputable distributors that provide services in the Madison area. Ah . . . but before I do that, can you help me hang up some signs about our membership program changes throughout the store?
+W: In that case, I’ll reach out to other reputable distributors that provide services in the Madison area. Ah ... but before I do that, can you help me hang up some signs about our membership program changes throughout the store?
 
 Questions 47-49 refer to the following conversation.
 `호주식 발음 → 영국식 발음`
@@ -234,7 +234,7 @@ W: Sure. I’ll also put emphasis on how many people on our team responded more 
 
 Questions 50-52 refer to the following conversation with three speakers.
 `미국식 발음 → 호주식 발음 → 영국식 발음`
-W1: Tim, Laura . . . Have you had a chance to speak with Mr. Kang from Seaward Financial yet? He needs help finding employees for the new office his company is opening in San Diego.
+W1: Tim, Laura ... Have you had a chance to speak with Mr. Kang from Seaward Financial yet? He needs help finding employees for the new office his company is opening in San Diego.
 M: Oh, yes. He stopped by this morning.
 W2: Right. We explained how our firm can manage the recruiting process, and he seemed very interested.
 W1: Great. So, he’s decided to hire us, then?
@@ -246,7 +246,7 @@ Questions 53-55 refer to the following conversation.
 M: Inez, did you hear that a new employee will start working for us next Monday? His name is Danny Williams.
 W: I did. A representative from the IT team—Joowon Kim—called this morning and said he will set up a computer for him tomorrow afternoon.
 M: Great, but Danny will also need access to CashFind—our company’s online financial research application. He’ll use it for the budget analysis project. You should make sure this is arranged before he starts.
-W: Oh . . . I didn’t realize that. I’ll e-mail the Web services team requesting a CashFind password now.
+W: Oh ... I didn’t realize that. I’ll e-mail the Web services team requesting a CashFind password now.
 
 Questions 56-58 refer to the following conversation.
 `영국식 발음 → 캐나다식 발음`
@@ -266,9 +266,9 @@ Questions 62-64 refer to the following conversation and table.
 `미국식 발음 → 호주식 발음`
 W: Eastside Cable. How may I help you?
 M: Hi. This is Jeremy Monroe. A worker is supposed to install a new cable box at my property today, but I can’t remember the appointment time.
-W: Just a minute . . . Um, he’ll be there at 2 p.m.
+W: Just a minute ... Um, he’ll be there at 2 p.m.
 M: Thanks. I also want to change my TV package. I’m viewing your online brochure now.
-W: OK . . . Well, for this month only, Package A is offered at a discount.
+W: OK ... Well, for this month only, Package A is offered at a discount.
 M: But that doesn’t include the service I’m most interested in. I prefer Package B.
 W: I see. Well, you’re certainly free to upgrade to that one, but you’ll have to pay the standard rate.
 
@@ -310,7 +310,7 @@ Hello, Ms. Olsen. I’m calling from Vine Express to let you know that we’re h
 
 Questions 83-85 refer to the following excerpt from a meeting.
 `영국식 발음`
-As we discussed in our last meeting, the employee who will receive the gift certificate for having the most sales will be announced today. But before I do this, I’d like to congratulate everyone on the sales team. After calculating your sales from last month and comparing them to those from the previous month, we found that they’d all increased. Several of you boosted your sales by more than 50 percent, but, um . . . that still wasn’t good enough. Our winner actually doubled her monthly sales by signing a service contract with a hotel chain. I’d like to now ask Christine McKesson to come up and accept her reward.
+As we discussed in our last meeting, the employee who will receive the gift certificate for having the most sales will be announced today. But before I do this, I’d like to congratulate everyone on the sales team. After calculating your sales from last month and comparing them to those from the previous month, we found that they’d all increased. Several of you boosted your sales by more than 50 percent, but, um ... that still wasn’t good enough. Our winner actually doubled her monthly sales by signing a service contract with a hotel chain. I’d like to now ask Christine McKesson to come up and accept her reward.
 
 Questions 86-88 refer to the following radio broadcast.
 `캐나다식 발음`
@@ -318,7 +318,7 @@ In business news, local firm Digital Solutions has announced plans to release th
 
 Questions 89-91 refer to the following announcement.
 `호주식 발음`
-I’ve got an announcement for all IT staff members. I know you’ve had many requests for technical assistance from other departments. There were more problems than expected following our recent merger with Fairfield Financial. I’m happy to inform you, though, that new staff members have been hired for our team . . . um, five in total. Once they start working in October, your workload should be significantly reduced. But keep in mind that we still need to update the customer database software this month. The marketing team isn’t able to access some records, so it needs to be done as soon as possible. This means that you’ll be working long hours over the next few weeks, but the end is in sight.
+I’ve got an announcement for all IT staff members. I know you’ve had many requests for technical assistance from other departments. There were more problems than expected following our recent merger with Fairfield Financial. I’m happy to inform you, though, that new staff members have been hired for our team ... um, five in total. Once they start working in October, your workload should be significantly reduced. But keep in mind that we still need to update the customer database software this month. The marketing team isn’t able to access some records, so it needs to be done as soon as possible. This means that you’ll be working long hours over the next few weeks, but the end is in sight.
 
 Questions 92-94 refer to the following telephone message.
 `미국식 발음`
@@ -326,7 +326,7 @@ I’m calling on behalf of Music Central in Newark, New Jersey. I apologize for 
 
 Questions 95-97 refer to the following announcement and a survey.
 `호주식 발음`
-Thank you for participating in this focus group. The designer of the product . . . uh, Greg Henderson . . . wanted to welcome you personally, but he’s dealing with a problem at our factory. Anyway, the goal today is to get your feedback on our newest product, the Flow S60. We are confident that there is a strong demand for it. In a recent survey about upcoming purchases, a large percentage of respondents indicated that they plan to buy this type of device soon. Next to air conditioners, it was the most popular choice. However, we’re concerned that our model may be difficult to operate. So to start, please give your opinion about the most recent draft of the user instructions. I’ll hand this document out now . . .
+Thank you for participating in this focus group. The designer of the product ... uh, Greg Henderson ... wanted to welcome you personally, but he’s dealing with a problem at our factory. Anyway, the goal today is to get your feedback on our newest product, the Flow S60. We are confident that there is a strong demand for it. In a recent survey about upcoming purchases, a large percentage of respondents indicated that they plan to buy this type of device soon. Next to air conditioners, it was the most popular choice. However, we’re concerned that our model may be difficult to operate. So to start, please give your opinion about the most recent draft of the user instructions. I’ll hand this document out now ...
 
 Questions 98-100 refer to the following advertisement and map.
 `미국식 발음`

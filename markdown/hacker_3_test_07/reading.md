@@ -213,22 +213,26 @@ Questions 131-134 refer to the following e-mail.
 
 To: Mimi O'Hare <mohare_1 @mymail.ca> From: Super Wash Center <customersupport@superwashcenter.ca> Subject: Your inquiry Date: June 2 Dear Ms. O'Hare, We received the message stating that you _____ your pre-paid rechargeable card. You mentioned that the missing card had a $50 balance and that you hoped to get it back. Unfortunately, we cannot fulfill this request because our records show that you failed _____ for balance protection, which allows us to track card balances. It is a service we offer to recover _____ money left on your card in the event that it is _____ misplaced or stolen. If you get it, we'll be able to secure your balance in the future and send you a replacement card immediately. We are sorry that we cannot be of more help, Mac Benson, Super Wash Center
 
-131. (A) damaged
+131.
+(A) damaged
 (B) returned
 (C) lost
 (D) sold
 
-132. (A) registers
+132.
+(A) registers
 (B) to register
 (C) registered
 (D) be registering
 
-133. (A) You can also collect and spend points HHl with the card.
+133.
+(A) You can also collect and spend points HHl with the card.
 (B) We will begin distributing it in the coming weeks.
 (C) We recommend signing up for it next time to prevent this problem,
 (D) You did not have enough money on your card to cover the cost.
 
-134. (A) what
+134.
+(A) what
 (B) every
 (C) some of <<MISSING>>
 
@@ -236,22 +240,26 @@ Questions 135-138 refer to the following article.
 
 KYR Commonwealth Trust Application Period to Open August 1 Organizations _____ funding may be in luck. The KYR Commonwealth Trust has announced that grant applications for local businesses will soon be available. According to spokesperson Meryl Pond, proposals will be accepted from August 1 to September 30. _____ Applicants should note that one aspect of the initiative has changed. Businesses have traditionally used the funding to supplement their existing programs. _____ , they will now be expected to use the money to develop new services for the community. "We're willing to give grant recipients more _____ than before. But we expect more in return for this additional money. We want to inspire the design of better, more productive programs that can make a bigger difference for more people," she said.
 
-135. (A) in charge of
+135.
+(A) in charge of
 (B) in opposition to
 (C) in search of
 (D) in lieu of
 
-136. (A) They have already begun fundraising for the event.
+136.
+(A) They have already begun fundraising for the event.
 (B) They can be submitted through the foundation's Web site.
 (C) The application process was revised after this point.
 (D) The funding organization is in need of capital itself.
 
-137. (A) Consequently
+137.
+(A) Consequently
 (B) Otherwise
 (C) However
 (D) Therefore
 
-138. (A) support
+138.
+(A) support
 (B) training
 (C) information
 (D) concern
@@ -260,22 +268,26 @@ Questions 139-142 refer to the following notice.
 
 The city's Waste Management Division has been cleaning Brentridge's streets twice a month. However, in response to the rapid accumulation of trash in several districts, we have decided to increase the frequency of this service to once a week starting May 1 _____ , we hope to improve the appearance of public areas while removing substances that could contaminate the environment. There are a few things that you need to be aware of. First, each neighborhood has been assigned a day of the week for its streets to be cleaned. _____ Additionally, residents must make sure to keep their curbs _____ at these times. This is vital as our cleaning vehicles will be unable to reach them otherwise. We would truly appreciate your _____ with these changes.
 
-139. (A) For instance
+139.
+(A) For instance
 (B) Until now
 (C) On the other hand
 (D) In this way
 
-140. (A) Refrain from disposing of toxic materials |||| outside of these designated areas.
+140.
+(A) Refrain from disposing of toxic materials |||| outside of these designated areas.
 (B) Please visit our Web site to see when this will occur in your area.
 (C) The mayor will address citizens' concerns at the next town hall meeting.
 (D) The city plans to implement a new recycling program to reduce waste.
 
-141. (A) occupied
+141.
+(A) occupied
 (B) separate
 (C) accessible
 (D) flexible
 
-142. (A) association
+142.
+(A) association
 (B) qualification
 (C) cooperation
 (D)sequence
@@ -284,22 +296,26 @@ Questions 143-146 refer to the following article.
 
 | A|| OS! -r- Baiter Food Reaches Agreement with Lexi's July 21—National grocery chain Baiter Food ----- organic produce company Lexi's. Negotiations began in October of last year, and the transaction came to a close last Monday. Lexi's was founded nearly six decades ago but struggled to recover from losses for quite a while. Its attempt to enter the California market with the opening of new locations proved This caused Lexi's to fall behind its competition. a a _____ " Baiter Food representatives say that 15 of the 29 Lexi's stores are now in the process of being renamed "Baiter." _____ The performance of these stores will be monitored closely to determine whether they should undergo additional modifications. According to consultants, this is the best strategy as loyal Lexi's customers may need to _____ during the transition.
 
-143. (A) will have acquired
+143.
+(A) will have acquired
 (B) has acquired
 (C) will acquire
 (D) to acquire
 
-144. (A) unsuccessful
+144.
+(A) unsuccessful
 (B) incomparable
 (C) unintentional
 (D) inaccurate
 
-145. (A) Some suggest that the renovations |||| were an excessive expenditure.
+145.
+(A) Some suggest that the renovations |||| were an excessive expenditure.
 (B) The new brand will represent Baiter's most recent innovation.
 (C) All other branch names will be changed gradually over the course of a year.
 (D) The market for grocery stores has become flooded in recent years.
 
-146. (A) gauge
+146.
+(A) gauge
 (B) adjust
 (C) regulate
 (D) finalize

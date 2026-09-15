@@ -205,22 +205,26 @@ Questions 131-134 refer to the following article.
 
 Scott Harper has been ---- - to lead Canada's national sailing team in the upcoming Cannon Regatta. Team spokesperson Jeremy Dawes made the announcement at a press conference earlier today. _____ Harper, a 39-year old New Brunswick native, is a lifelong boating enthusiast who has competed in several international events. He has won two Yachtmaster trophies for solo sailing and will compete in a third later next month, time with a crew of six. Speaking on behalf of his team in his new capacity, Mr. Harper appeared confident about Team Canada's chances. "Most of us have worked together on previous occasions. _____ I've been in races with at least four of the other members," he said.
 
-131. (A) selected
+131.
+(A) selected
 (B) educated
 (C) refused
 (D) reserved
 
-132. (A) No one expected the Canadian team to lose at the Regatta.
+132.
+(A) No one expected the Canadian team to lose at the Regatta.
 (B) He also answered questions from journalists at the event.
 (C) This year's contest has been the toughest in years.
 (D) The media conference is scheduled for this coming weekend.
 
-133. (A) their
+133.
+(A) their
 (B) which
 (C) this
 (D) while
 
-134. (A) Instead
+134.
+(A) Instead
 (B) In fact
 (C) Despite
 (D) On the other hand
@@ -229,23 +233,28 @@ Questions 135-138 refer to the following e-mail.
 
 TO: Randy Huffington <r.huffington@megadelta.com> FROM: Olivia Cottrell <o_cottrell@edicare.com> SUBJECT: Machine issues DATE: June 20 I his is my second correspondence regarding the factory equipment that _____ at our Denver plant recently. As I stated in my first e-mail, a factory worker said a machine was making a lot of noise and shaking _____ Because there was a risk of danger, we shut the machine down to prevent it from causing serious injury to any of our workers. The machine was delivered to our plant by your company just one week ago. _____ Could you please send an engineer to our plant to examine the equipment? Hopefully, your technician will be able to determine why the machine failed soon after its _____ We will wait for your response and anticipate that it will be speedy. Sincerely, Olivia Cottrell Senior administrator Edicare Industrials
 
-135. (A) malfunctioning
+135.
+(A) malfunctioning
 (B) to malfunction
 (C) malfunctions
 (D) malfunctioned
 
-136. (A) boldly 136.
+136.
+(A) boldly 136.
 (B) violently
 (C) effortlessly
 (D) instantly
 
-137. (A) machine at your expense. Si W (B) However, fixing the machine may require more time. Therefore, the equipment we
+137.
+(A) machine at your expense. Si W (B) However, fixing the machine may require more time. Therefore, the equipment we
 (C) purchased is still under warranty, (t was already repaired at least or
 (D) the past year.
 
-138. (A)
+138.
+(A)
 
-138. (B)
+138.
+(B)
 (C)
 (D) <<MISSING>>
 
@@ -253,22 +262,26 @@ Questions 139-142 refer to the following instruction.
 
 DiMaggiano's Frozen Pizzas Cooking Instructions Remove the pizza from the packaging, but do not defrost it. If it has thawed, reduce the cooking time _____ approximately three minutes. Preheat your oven to 230 degrees Celsius, For a softer crust, put the pizza on the middle oven rack and bake it for 10 to 12 minutes. _____ And for a crispier crust, bake the pizza on the top rack at a _____ temperature. Set the dial to 280 degrees for a perfectly crunchy crust! Remove the pizza from your oven carefully so as not to burn your fingers. Allow it _____ for three to four minutes before eating. Then simply slice the pizza and enjoy a delicious DiMaggiano's meal with your favorite beverage.
 
-139. (A) across
+139.
+(A) across
 (B) as
 (C) by
 (D) of
 
-140. (A) Store uncooked pizzas in your refrigerator's freezer compartment.
+140.
+(A) Store uncooked pizzas in your refrigerator's freezer compartment.
 (B) Order our pizzas online or buy them at any supermarket.
 (C) Do not cook it if the pizza is still frozen.
 (D) Take it out when the crust is golden and the cheese has melted.
 
-141. (A) wooden
+141.
+(A) wooden
 (B) clean
 (C) smaller
 (D) hotter
 
-142. (A) cool
+142.
+(A) cool
 (B) cools
 (C) to cool
 (D) cooling
@@ -277,22 +290,26 @@ Questions 143-146 refer to the following e-mail.
 
 TO: Tara Fanning <ethan12@beautydeep.com> FROM: Sarah Monaco <monaco2323@litmail.net> DATE: January 30 SUBJECT: E-mail order request Dear Ms. Fanning, A colleague of mine gave me some samples of your lotion and cream, and after trying them, I realized that your products are just what I need. I understand that you _____ your Beauty Deep skin care products door-to-door. Flowever, I'd like to know if they're available any other way. Specifically, I'd like to purchase your deep moisturizing lotion online and have it delivered to my home. _____ , I'd like a tube of your exceptional eye cream. This cream put _____ back into the skin around my eyes. The other creams I've used do not do that. _____ Please let me know if you process online orders. If you do, I will send a complete order with my billing and shipping information. Thank you! Best Regards, Sarah Monaco
 
-143. (A) report
+143.
+(A) report
 (B) market
 (C) label
 (D) gather
 
-144. (A) Additionally
+144.
+(A) Additionally
 (B) Meanwhile
 (C) Nonetheless
 (D) Consequently
 
-145. (A) enjoyment
+145.
+(A) enjoyment
 (B) freedom
 (C) humor
 (D) vitality
 
-146. (A) So I was surprised at how young my skin looked, using your cream.
+146.
+(A) So I was surprised at how young my skin looked, using your cream.
 (B) But I am not sure if you received my order in my previous e-mail.
 (C) First, I'd like to know when your representative can visit my home.
 (D) Actually, the itching was caused by an ingredient in your product.

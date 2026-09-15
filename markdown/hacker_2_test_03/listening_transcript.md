@@ -214,7 +214,7 @@ M: Sure thing. See you then.
 Questions 41-43 refer to the following conversation with three speakers.
 `영국식 발음 → 캐나다식 발음 → 미국식 발음`
 W1: This is Emily Baker from Suite 324. I’d like to book one of the excursions listed in the resort guests’ guide. Can you do that for me?
-M: Actually, I’m not supposed to . . . I’ll transfer you to our activities manager. She can help you out with that.
+M: Actually, I’m not supposed to ... I’ll transfer you to our activities manager. She can help you out with that.
 W1: No problem.
 W2: Hello, Ms. Baker. I’m Molly. Brian says you’d like to reserve an excursion. We offer a great variety of options such as tours of historic Holston City, guided hikes, and fishing trips.
 W1: I’m interested in the Holston City tour. However, while your brochure says groups leave daily at 9 a.m., nothing is mentioned about when they return.
@@ -254,9 +254,9 @@ W: I think we should go with that slogan. Let’s bring it up to our supervisor 
 Questions 56-58 refer to the following conversation.
 `캐나다식 발음 → 미국식 발음`
 M: Hi. The recreational baseball team that I play on needs a banner for an upcoming tournament. Here is what it should look like.
-W: Let’s see . . . The Panthers? Wait, didn’t I make a banner for your team a few months ago . . . one with a blue and green stripe along the bottom?
+W: Let’s see ... The Panthers? Wait, didn’t I make a banner for your team a few months ago ... one with a blue and green stripe along the bottom?
 M: Yes. But last week there was a storm, and the banner was pulled off the fence by the wind. It has a big tear in it now.
-W: Oh, what a shame. I can have a new one ready by Friday. But, um, before you leave . . . Why don’t I show you how to securely attach a banner to a fence? That way you can avoid similar issues in the future.
+W: Oh, what a shame. I can have a new one ready by Friday. But, um, before you leave ... Why don’t I show you how to securely attach a banner to a fence? That way you can avoid similar issues in the future.
 
 Questions 59-61 refer to the following conversation.
 `호주식 발음 → 영국식 발음`
@@ -289,7 +289,7 @@ M: Later this afternoon, I want our crew leaders to get together to be briefed o
 W: Some of the crew leaders have been asking about when work on the stadium is set to begin, so they’ll be eager to learn more.
 M: Good. I’m also gonna bring up comments a recent client shared with us. Aside from cleanliness— which I’ve already talked about to supervisors— her feedback highlights a less-than-ideal aspect of our service that I need to talk about.
 W: OK. Well, I’ll post a memo about it this afternoon on our online board.
-M: Thanks. Oh . . . and please schedule the meeting for 4:15 p.m.
+M: Thanks. Oh ... and please schedule the meeting for 4:15 p.m.
 
 ### PART 4
 
@@ -315,11 +315,11 @@ I want to express how much we at Green Renewal appreciate all of you donating yo
 
 Questions 86-88 refer to the following report.
 `미국식 발음`
-And now for business news . . . The Harvest Supermarkets chain has announced the acquisition of its rival, Atlantic Foods. Donald Parker, who established Harvest Supermarkets 12 years ago, assured consumers at a press conference this morning that the joining of the two companies would not result in less variety or higher prices. Harvest will retain Atlantic Foods’ most popular product lines and remains committed to giving its customers the best value for their money. Mr. Parker also stated that the deal would put his company in a position to compete with the national supermarket chains. Although time is required for consolidation, he plans on opening at least three stores later this year.
+And now for business news ... The Harvest Supermarkets chain has announced the acquisition of its rival, Atlantic Foods. Donald Parker, who established Harvest Supermarkets 12 years ago, assured consumers at a press conference this morning that the joining of the two companies would not result in less variety or higher prices. Harvest will retain Atlantic Foods’ most popular product lines and remains committed to giving its customers the best value for their money. Mr. Parker also stated that the deal would put his company in a position to compete with the national supermarket chains. Although time is required for consolidation, he plans on opening at least three stores later this year.
 
 Questions 89-91 refer to the following excerpt from a meeting.
 `호주식 발음`
-As you may have heard, our art center is planning to display some works by Oscar Juan. I expect the show will attract many potential buyers as well as some media attention. This is because Mr. Juan will be featured in an issue of a national art magazine that comes out on September 27, which is roughly one week before the exhibit here will begin. Um . . . the exhibition will run from October 3 to October 14. As this will be our center’s most important exhibit yet, it is crucial that everything goes smoothly. Our curator will now show us some slides of the paintings we will be displaying and provide some background information on each. This will hopefully give us some ideas about how to organize the exhibit.
+As you may have heard, our art center is planning to display some works by Oscar Juan. I expect the show will attract many potential buyers as well as some media attention. This is because Mr. Juan will be featured in an issue of a national art magazine that comes out on September 27, which is roughly one week before the exhibit here will begin. Um ... the exhibition will run from October 3 to October 14. As this will be our center’s most important exhibit yet, it is crucial that everything goes smoothly. Our curator will now show us some slides of the paintings we will be displaying and provide some background information on each. This will hopefully give us some ideas about how to organize the exhibit.
 
 Questions 92-94 refer to the following telephone message and map.
 `영국식 발음`
@@ -327,7 +327,7 @@ Hello, Mr. Chen. This is Karen calling from the Emerald Lodge regarding the rese
 
 Questions 95-97 refer to the following talk and graph.
 `호주식 발음`
-I have one more thing to discuss before we finish up today. As most of you know, the company’s latest refrigerator model has been very popular with consumers. Um, although sales revenues are still down a bit from earlier this year, we experienced our largest increase in the month of its launch. I met with some of the board members yesterday, and they expect the same level of success when we begin selling our new dishwasher in October. You know what that means . . . We’re going to have to develop an effective advertising strategy. So I’d like each of you to come up with one proposal to share with the other members of the team when we get together again on Friday.
+I have one more thing to discuss before we finish up today. As most of you know, the company’s latest refrigerator model has been very popular with consumers. Um, although sales revenues are still down a bit from earlier this year, we experienced our largest increase in the month of its launch. I met with some of the board members yesterday, and they expect the same level of success when we begin selling our new dishwasher in October. You know what that means ... We’re going to have to develop an effective advertising strategy. So I’d like each of you to come up with one proposal to share with the other members of the team when we get together again on Friday.
 
 Questions 98-100 refer to the following telephone message and credit card statement.
 `캐나다식 발음`

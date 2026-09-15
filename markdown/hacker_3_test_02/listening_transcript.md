@@ -215,7 +215,7 @@ Questions 41-43 refer to the following conversation.
 `미국식 발음 → 캐나다식 발음`
 W: Pardon me. Is there an ATM I can use other than the one by the bank’s entrance? Quite a few people are in line to use that one.
 M: Unfortunately, the only other one in the building is undergoing regular maintenance. It won’t be accessible for about an hour.
-W: Hmm . . . I’m in a bit of a rush. I need to withdraw cash before I fly to Vancouver for a business trip.
+W: Hmm ... I’m in a bit of a rush. I need to withdraw cash before I fly to Vancouver for a business trip.
 M: Well, the teller at the end of the counter is helping another customer, but that shouldn’t take too long. You can get cash from her once she’s available. I’m sure you’ll find that option faster than using the machine.
 W: Yeah, you’re probably right. Thanks for the suggestion.
 
@@ -239,13 +239,13 @@ M1: Certainly. Here you are. Can I help you with anything else today?
 W: Yes. Do you know if it is possible to get a free flu shot at the medical clinic next door?
 M1: It costs $30, I believe.
 W: I see. And where exactly should I go to get the shot? I’ve never been inside the clinic before.
-M1: I’m not sure. Ah . . . I can ask my supervisor, though. One moment, please. Daniel, this customer is interested in getting a flu vaccination at the clinic. Where exactly should she go?
+M1: I’m not sure. Ah ... I can ask my supervisor, though. One moment, please. Daniel, this customer is interested in getting a flu vaccination at the clinic. Where exactly should she go?
 M2: Just head to the eighth floor—the area for family medicine. You can’t miss it.
 
 Questions 53-55 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
 W: Calvin, do you have a portable storage device that I can borrow? I need to move the file for the marketing presentation I’m giving at the staff meeting to my laptop.
-M: I’ve got one in my drawer. Now . . . um . . . isn’t that the meeting taking place three days from now?
+M: I’ve got one in my drawer. Now ... um ... isn’t that the meeting taking place three days from now?
 W: It’s two days away. But I’d like to rehearse in advance, since I’ll be presenting in front of our department head.
 M: That makes sense. Well, if you want, I can join you in the conference room to watch your presentation. I’ll give you my feedback on it so that you’ll be better prepared for any questions that might come up.
 
@@ -259,7 +259,7 @@ Questions 59-61 refer to the following conversation.
 `호주식 발음 → 영국식 발음`
 M: How are negotiations going with TruCare Medical Supplies? Did the president of TruCare say whether the company agrees to our acquisition terms regarding the retention of personnel?
 W: Yes. He agreed that none of our existing employees will be dismissed immediately. However, all staff will be subject to a six-month evaluation following the purchase to determine whether they will receive contract extensions.
-M: Hmm . . . Well, at least everyone will have a chance to maintain their jobs. Have financial figures been discussed at all?
+M: Hmm ... Well, at least everyone will have a chance to maintain their jobs. Have financial figures been discussed at all?
 W: As of now, we’re being offered $45 million, which our analysts tell me is a bit low. I need your approval to ask the company to pay $48 million instead.
 
 Questions 62-64 refer to the following conversation and floor plan.
@@ -269,14 +269,14 @@ M: Right, I’ve got the actors’ photographs framed for display. What else is 
 W: Can you set up some tables where programs can be handed out?
 M: Sure. There are a few in the basement. I’ll ask Jacob to help me carry them up here. His shift starts in 15 minutes.
 W: OK. And finally, we need a spot where fans can take photos with the cast after the show.
-M: Let’s put it where it was last year . . . in the area to the left when you enter the building, just before you reach the refreshment stand.
+M: Let’s put it where it was last year ... in the area to the left when you enter the building, just before you reach the refreshment stand.
 
 Questions 65-67 refer to the following conversation and coupon.
 `캐나다식 발음 → 영국식 발음`
 M: Excuse me. I’d like to buy a pad to make my bike’s seat more comfortable. Do you have the Explorer XS Cushion in stock?
 W: Yes, it’s right here. And you’re in luck. The product has a retail price of $56, but it’s currently marked down by 10 percent.
 M: That’s great. Plus, I’ve got this coupon to use.
-W: Hmm . . . Unfortunately, it won’t be valid for this purchase.
+W: Hmm ... Unfortunately, it won’t be valid for this purchase.
 M: Oh, I see what you mean. Well, I’ll still take the pad. I need it as I’m going biking this weekend.
 W: OK. If you’re finished shopping, I can show you the way to the cashier area.
 M: Yes, this is all I’m looking for today.
@@ -294,11 +294,11 @@ W: Yeah. Ms. Anderson probably won’t ask us much about the conference anyway. 
 
 Questions 71-73 refer to the following recorded message.
 `미국식 발음`
-Hello, Mr. Richter. This is Deloris Burke from Anytime Optical. As a friendly reminder, you have a 3:30 p.m. appointment on Saturday, January 13. Also, we moved our main office . . . It’s now on Clyde Boulevard, right next door to the Devon Art Gallery. To avoid any complications during your visit, we ask that you have your current pair of glasses and a copy of your latest prescription on hand. Our optometrist will need to look at them both before conducting your eye examination. Please arrive at least 15 minutes early, as you’ll need to fill out a couple of brief forms.
+Hello, Mr. Richter. This is Deloris Burke from Anytime Optical. As a friendly reminder, you have a 3:30 p.m. appointment on Saturday, January 13. Also, we moved our main office ... It’s now on Clyde Boulevard, right next door to the Devon Art Gallery. To avoid any complications during your visit, we ask that you have your current pair of glasses and a copy of your latest prescription on hand. Our optometrist will need to look at them both before conducting your eye examination. Please arrive at least 15 minutes early, as you’ll need to fill out a couple of brief forms.
 
 Questions 74-76 refer to the following broadcast.
 `호주식 발음`
-And now for an entertainment update . . . The musical City Streets will run from March 27 to April 4 at the Conway Theater. This is the first production at the theater since it was purchased by Eastwood Entertainment earlier this year. In a press conference this morning, a company representative confirmed that the original cast members would be featured, including actor Gerald Frey. Of course, tickets will go quickly, as many people will want to take advantage of this opportunity to see him on stage. The theater will begin selling tickets on February 20, and prices are expected to range from $35 to $65. And for those of you who aren’t aware, the theater was renovated last month, so be sure to look at the updated seating map on its Web site.
+And now for an entertainment update ... The musical City Streets will run from March 27 to April 4 at the Conway Theater. This is the first production at the theater since it was purchased by Eastwood Entertainment earlier this year. In a press conference this morning, a company representative confirmed that the original cast members would be featured, including actor Gerald Frey. Of course, tickets will go quickly, as many people will want to take advantage of this opportunity to see him on stage. The theater will begin selling tickets on February 20, and prices are expected to range from $35 to $65. And for those of you who aren’t aware, the theater was renovated last month, so be sure to look at the updated seating map on its Web site.
 
 Questions 77-79 refer to the following introduction.
 `영국식 발음`
@@ -314,7 +314,7 @@ Western College will be holding a job fair on Saturday, September 14, for its st
 
 Questions 86-88 refer to the following excerpt from a meeting.
 `캐나다식 발음`
-Just a quick note about the training session on next Tuesday . . . I know you’ve all been busy this week creating the newest version of our anti-virus application, but you should still attend the session. It’s going to be crucial. In fact, I’m even willing to give you an extra day to finish up your project, if necessary. The company has hired a renowned expert on Internet security to conduct this workshop, and I’m certain he will have a lot of useful information to share. You should sign up this morning, though. Some of the other team leaders mentioned that they were going to encourage their staff members to participate as well. I don’t want you to lose out on this opportunity.
+Just a quick note about the training session on next Tuesday ... I know you’ve all been busy this week creating the newest version of our anti-virus application, but you should still attend the session. It’s going to be crucial. In fact, I’m even willing to give you an extra day to finish up your project, if necessary. The company has hired a renowned expert on Internet security to conduct this workshop, and I’m certain he will have a lot of useful information to share. You should sign up this morning, though. Some of the other team leaders mentioned that they were going to encourage their staff members to participate as well. I don’t want you to lose out on this opportunity.
 
 Questions 89-91 refer to the following telephone message.
 `미국식 발음`
@@ -326,8 +326,8 @@ Good morning, and thanks for attending this one-day seminar on import and export
 
 Questions 95-97 refer to the following talk and chart.
 `호주식 발음`
-For those of you who don’t know me, my name is Lucas Scott. I’m in charge of collecting and analyzing data about consumer trends. I’ve been asked to discuss the results of the survey that I e-mailed to customers on our mailing list last Wednesday. Um, we requested their opinions on our current line of products. Many were impressed with the design of our newest shoes . . . the Hornet Pumps. They said they plan to buy them even though they are more expensive than our other items. However, we got some negative feedback on our second-best-selling athletic shoes. A number of customers indicated that they felt they weren’t durable enough. Now . . . please turn your attention to the screen behind me to see my slideshow.
+For those of you who don’t know me, my name is Lucas Scott. I’m in charge of collecting and analyzing data about consumer trends. I’ve been asked to discuss the results of the survey that I e-mailed to customers on our mailing list last Wednesday. Um, we requested their opinions on our current line of products. Many were impressed with the design of our newest shoes ... the Hornet Pumps. They said they plan to buy them even though they are more expensive than our other items. However, we got some negative feedback on our second-best-selling athletic shoes. A number of customers indicated that they felt they weren’t durable enough. Now ... please turn your attention to the screen behind me to see my slideshow.
 
 Questions 98-100 refer to the following talk and table.
 `영국식 발음`
-Welcome to the Sahara Wildlife Reserve. When your professor contacted us about arranging a special tour for his class members, we were happy to accommodate his request. Today, I’ll be showing you around the facility and introducing you to our director and some of the other people who work here . . . like the biologists and medical staff. The reserve currently covers an area of 500 acres, but an additional 100 acres will be . . . um . . . added to it later this fall. We need all this space because we care for 200 animals from 60 different species. The first inhabitant that you’re going to see arrived here 10 days ago. It is our only animal under six months old. Her enclosure is just this way.
+Welcome to the Sahara Wildlife Reserve. When your professor contacted us about arranging a special tour for his class members, we were happy to accommodate his request. Today, I’ll be showing you around the facility and introducing you to our director and some of the other people who work here ... like the biologists and medical staff. The reserve currently covers an area of 500 acres, but an additional 100 acres will be ... um ... added to it later this fall. We need all this space because we care for 200 animals from 60 different species. The first inhabitant that you’re going to see arrived here 10 days ago. It is our only animal under six months old. Her enclosure is just this way.

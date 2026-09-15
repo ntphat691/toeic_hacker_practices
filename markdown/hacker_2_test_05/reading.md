@@ -207,22 +207,26 @@ Questions 131-134 refer to the following announcement.
 
 Southwestern Residences IMPORTANT ANNOUNCEMENT The building's will perform maintenance checks on the condominium's electrical circuits and switch boxes on Monday between 10 a.m. and 1 p.m. During this time, the power supply will be _____ We apologize for any inconvenience this may cause. _____ However, repair _____ work may need to be carried out if any problems are detected. _____ the shutdown may be extended to accommodate repairs. For details regarding this and other related matters, please contact the building superintendent, Ms. Jena Gordon, at 555-2124. Thank you for your patience and understanding.
 
-131. (A) administer
+131.
+(A) administer
 (B) administrative
 (C) administration
 (D) administratively
 
-132. (A) motivated 132.
+132.
+(A) motivated 132.
 (B) pressured
 (C) interrupted
 (D) dismissed
 
-133. (A) A realtor will be showing people |||| around the building during this time.
+133.
+(A) A realtor will be showing people |||| around the building during this time.
 (B) The maintenance check lasted through the weekend.
 (C) We are sorry that we were unable to complete the inspection.
 (D) We intend to restore electricity immediately following the inspection.
 
-134. (A) In this case
+134.
+(A) In this case
 (B) Above all
 (C) By far
 (D) On the contrary
@@ -231,22 +235,26 @@ Questions 135-138 refer to the following article.
 
 PARNOPIUS REOPENS IN SEPTEMBER! The newly renovated Parnopius Museum of the Arts will officially reopen its doors to the public on September 1 at 10 a.m. The ribbon-cutting ceremony will be led by City Mayor Adam Warren, and other _____ officials are expected to attend. Chief curator Minerva Hughes said the renovation focused on the construction of a south wing with 25 thousand square feet of exhibition space. The space allows for 20 galleries and will _____ the works of European and Asian artists. In addition, it has facilities not found in the _____ rest of the building. _____ The first exhibit in the new wing _____ contemporary Greek sculpture. It will run from September 15 to October 31. For more information, visit www.parnopiusmuseum.org.
 
-135. (A) prominent
+135.
+(A) prominent
 (B)thorough
 (C) casual
 (D) precise
 
-136. (A) generate
+136.
+(A) generate
 (B) portray
 (C) house
 (D) restore
 
-137. (A) These unique artifacts had made the |R| museum very popular.
+137.
+(A) These unique artifacts had made the |R| museum very popular.
 (B) These include a lecture hall, gift shop, and cafe on the ground floor.
 (C) The decision to renovate on the south wing was suspended.
 (D) Museum visitors found the opening exhibit to be a complete success.
 
-138. (A) feature
+138.
+(A) feature
 (B) featuring
 (C) featured
 (D) will feature
@@ -255,22 +263,26 @@ Questions 139-142 refer to the following letter.
 
 Charles Nave 3739 Dale Avenue Seattle, WA 98161 Dear Mr. Nave, This is in reply to your inquiry about discounts for regular clients. Our company _____ offers them, but they are not applicable in all cases. _____ Only headquarters has the authority to further reduce the price of your order. Therefore, we ----- - your request to our staff there and we are waiting to hear back from them. If they provide an estimate, we will send it to you and wait for your approval. It should take just three business days to complete the order after obtaining your _____ - to proceed. The invoice will be mailed to you separately. We appreciate your understanding. Sincerely, Edie Harris
 
-139. (A) usually
+139.
+(A) usually
 (B) safely
 (C) deliberately
 (D) accurately
 
-140. (A) You should consider placing a bulk order to get a free gift.
+140.
+(A) You should consider placing a bulk order to get a free gift.
 (B) Due to an error, the discount wasn't applied to the quote we sent you.
 (C) We are only permitted to offer refunds to our regular customers.
 (D) The items you ordered have already been heavily marked down.
 
-141. (A) forward
+141.
+(A) forward
 (B) forwarding
 (C) have forwarded
 (D) will be forwarded
 
-142. (A) advantage
+142.
+(A) advantage
 (B) confirmation
 (C) reimbursement
 (D) recommendation
@@ -279,22 +291,26 @@ Questions 143-146 refer to the following information.
 
 The Robinson Library offers complimentary alerts to members who have registered an e-mail address or mobile phone number. These alerts remind them when materials, including books, audiovisual selections, and periodicals, are _____ their due date. However, failing to receive a reminder does not excuse borrowers from their responsibility to return materials on time. 144 ' 'S essent'a'that borrowers always take note of the due date. This is stamped on the return card attached to the book or other _____ Should anything borrowed from the library be returned late, a notice will be sent after the due date. _____ Please follow our regulations so that other users may have access to these materials within an appropriate period of time.
 
-143. (A) across 143.
+143.
+(A) across 143.
 (B) near
 (C) inside
 (D) above
 
-144. (A) Nevertheless 144.
+144.
+(A) Nevertheless 144.
 (B) Instead
 (C) Otherwise
 (D) Therefore
 
-145. (A) envelope 145.
+145.
+(A) envelope 145.
 (B) item
 (C) term
 (D) check
 
-146. (A) periodical and tapes. iSl W (B) The library will add up the cost of the books that are purchased. Upon return of the material, the
+146.
+(A) periodical and tapes. iSl W (B) The library will add up the cost of the books that are purchased. Upon return of the material, the
 (C) borrower will have to pay a late fee. As per the decision of the library
 (D) management, alerts will be canceled, <<MISSING>>
 

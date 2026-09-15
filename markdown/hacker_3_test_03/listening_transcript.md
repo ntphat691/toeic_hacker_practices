@@ -200,7 +200,7 @@ M: Could you forward the message to me? I’ll check it out.
 Questions 35-37 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
 W: Our competitor is launching a free delivery service next month. To stay competitive, we should consider eliminating the fee to deliver furniture from our store to customers’ homes as well. What do you think?
-M: Hmm . . . I’m concerned we’d need to buy additional delivery trucks. More customers would use that service if there were no charge.
+M: Hmm ... I’m concerned we’d need to buy additional delivery trucks. More customers would use that service if there were no charge.
 W: Well, we could just lease them instead. That would require less initial investment.
 M: I like your suggestion. Do you believe we should prepare a cost projection report before we discuss the idea with our supervisor?
 W: Yes, let’s do that. Can I get my tablet back from you? I lent it to you yesterday, and it contains the report template we’ll need.
@@ -234,7 +234,7 @@ Questions 47-49 refer to the following conversation.
 W: Liwei, a few of our junior copywriters approached me about getting raises this year. Do you think it’s possible?
 M: Unfortunately, our labor costs have increased dramatically of late. I don’t think we can afford to award raises at this time.
 W: But they’ve done such a wonderful job on all of our magazine issues over the past year. It seems like the right thing to do. Can’t we appeal to upper management about their request?
-M: Let’s bring it up when we meet with department heads this Thursday . . . But I don’t think it will go well, since management has been emphasizing how high our labor expenses are at the moment.
+M: Let’s bring it up when we meet with department heads this Thursday ... But I don’t think it will go well, since management has been emphasizing how high our labor expenses are at the moment.
 
 Questions 50-52 refer to the following conversation.
 `영국식 발음 → 캐나다식 발음`
@@ -269,7 +269,7 @@ Questions 62-64 refer to the following conversation.
 `캐나다식 발음 → 영국식 발음`
 M: Hi. This is Kirk from TeleCorp. I received the voice mail you left with us earlier this morning about adding more hard drives to the computer server you ordered. I can do it, but the cost will be higher. And I’ll have to change the contract.
 W: That’s what I figured. How much more will it be?
-M: Well . . . The cost will be about $500 higher than my previous quote.
+M: Well ... The cost will be about $500 higher than my previous quote.
 W: OK. That’s fine. Will the change to my order affect the installation date?
 M: No, I’ll come next Monday, as originally scheduled. It’ll take about one hour longer than anticipated, though. That means I’ll finish on Tuesday at 12 p.m. instead of 11 a.m.
 
@@ -278,7 +278,7 @@ Questions 65-67 refer to the following conversation and receipt.
 M: Paula, is your dress ready for the charity fund-raiser we’re attending tomorrow evening?
 W: It’s still at the dry cleaners, since it needed to be shortened a few inches. I’ll pick it up tomorrow morning.
 M: You go to Bedford Dry Cleaners, don’t you? I’m thinking about switching to that one, as my current dry cleaner will shut down in June.
-W: Well, Bedford’s customer service is exceptional, and they even have monthly discounts. Ah . . . in May, they’re providing 10 percent off work on all leather items.
+W: Well, Bedford’s customer service is exceptional, and they even have monthly discounts. Ah ... in May, they’re providing 10 percent off work on all leather items.
 M: That sounds great. Maybe I’ll come with you tomorrow and drop off some of my button-down shirts.
 
 Questions 68-70 refer to the following conversation and notice.
@@ -288,7 +288,7 @@ W: Hi. I’d like to borrow this book. I have my library card right here.
 M: OK. And just to let you know, we’ve increased the loan period. You can borrow books for up to three weeks now.
 W: Great. Um, I also want to check out some new books that were supposed to arrive on August 13, but they aren’t on the shelves.
 M: I know the two you’re referring to. The guidebook will be available on August 23. There’s a typo on the notice. But the other one was damaged in transit, and the replacement won’t arrive until September.
-W: Hmm . . . Can you recommend another book on that topic?
+W: Hmm ... Can you recommend another book on that topic?
 M: Sure. I’ll check our system for a similar title.
 
 ### PART 4
@@ -303,7 +303,7 @@ This message is for Amy Yang. My name is Floyd Lamar, and I’m an employee at t
 
 Questions 77-79 refer to the following talk.
 `호주식 발음`
-Everyone, we’ve reached our final stop . . . Patterson Beach. This is where the famous scene from the movie Paradise was shot. If you look to your left, you’ll see the dock where Mark Campbell and Alyssa Perth performed their wedding scene. We’ll spend about an hour here. I know I originally told you 30 minutes, but we’re running a bit ahead today. So feel free to take as many pictures as you like and enjoy the sunshine. Afterwards, we will visit an outdoor crafts market near the beach before heading back to the resort. Oh . . . you shouldn’t remove your shoes when you are on the beach because the sand is full of sharp shells and rocks. OK, please follow me.
+Everyone, we’ve reached our final stop ... Patterson Beach. This is where the famous scene from the movie Paradise was shot. If you look to your left, you’ll see the dock where Mark Campbell and Alyssa Perth performed their wedding scene. We’ll spend about an hour here. I know I originally told you 30 minutes, but we’re running a bit ahead today. So feel free to take as many pictures as you like and enjoy the sunshine. Afterwards, we will visit an outdoor crafts market near the beach before heading back to the resort. Oh ... you shouldn’t remove your shoes when you are on the beach because the sand is full of sharp shells and rocks. OK, please follow me.
 
 Questions 80-82 refer to the following broadcast.
 `미국식 발음`
@@ -311,7 +311,7 @@ In tonight’s Around Town segment, we’re going to look at a recently complete
 
 Questions 83-85 refer to the following telephone message.
 `호주식 발음`
-Good morning, Ms. Harris. This is Michael Banner returning your call. I’m delighted that you’ve chosen us for your daughter’s graduation party at your home next month. As to your question, we offer a wide range of dishes that are compatible with your dietary restrictions. Um, we have provided food for several vegan events in the past, including a vegan barbeque! A real triumph . . . I wasn’t sure we were going to be able to prepare suitable food for that event. Anyway, I’ll e-mail you some questions about your event and budget this afternoon. Please respond by Friday so that I can start planning the menu and prepare some sample dishes for you to taste.
+Good morning, Ms. Harris. This is Michael Banner returning your call. I’m delighted that you’ve chosen us for your daughter’s graduation party at your home next month. As to your question, we offer a wide range of dishes that are compatible with your dietary restrictions. Um, we have provided food for several vegan events in the past, including a vegan barbeque! A real triumph ... I wasn’t sure we were going to be able to prepare suitable food for that event. Anyway, I’ll e-mail you some questions about your event and budget this afternoon. Please respond by Friday so that I can start planning the menu and prepare some sample dishes for you to taste.
 
 Questions 86-88 refer to the following announcement.
 `영국식 발음`
@@ -327,8 +327,8 @@ Just a couple of things to keep in mind this week. Our distribution center has a
 
 Questions 95-97 refer to the following telephone message and sign.
 `미국식 발음`
-Hello, Mr. Peters. It’s Caley Francis from the Baldwin Performing Arts Center. I wanted to let you know that you have won two free tickets for the ballet Bold Winter. If you are not interested in seeing this performance, call me back immediately at 555-0939. I’ll switch these tickets with those for another production. To claim your prize, you need to visit our administration office at 1201 Harbor Street . . . um, one block away from our main building on Field Street. Parking is limited, so I recommend that you take public transportation. The office is within walking distance of the Oakridge Subway Station.
+Hello, Mr. Peters. It’s Caley Francis from the Baldwin Performing Arts Center. I wanted to let you know that you have won two free tickets for the ballet Bold Winter. If you are not interested in seeing this performance, call me back immediately at 555-0939. I’ll switch these tickets with those for another production. To claim your prize, you need to visit our administration office at 1201 Harbor Street ... um, one block away from our main building on Field Street. Parking is limited, so I recommend that you take public transportation. The office is within walking distance of the Oakridge Subway Station.
 
 Questions 98-100 refer to the following excerpt from a meeting and map.
 `캐나다식 발음`
-All right, I want to talk about the party we’re planning for our interns. They were a great help during the product launch we hosted last month, and I think an informal dinner on Friday will be a good way to thank them. I know some of you are planning to make your team members work late that night on the Coleman Industries project, but let’s push it back to next week. I don’t want anyone to miss out on this chance to socialize together. Since everyone seemed to enjoy the restaurant we chose for Mr. Sanderson’s retirement party, let’s hold the dinner there. Um, the one next to the parking lot on Gray Road . . . right across from Shea Pub. OK. That’s all for now.
+All right, I want to talk about the party we’re planning for our interns. They were a great help during the product launch we hosted last month, and I think an informal dinner on Friday will be a good way to thank them. I know some of you are planning to make your team members work late that night on the Coleman Industries project, but let’s push it back to next week. I don’t want anyone to miss out on this chance to socialize together. Since everyone seemed to enjoy the restaurant we chose for Mr. Sanderson’s retirement party, let’s hold the dinner there. Um, the one next to the parking lot on Gray Road ... right across from Shea Pub. OK. That’s all for now.

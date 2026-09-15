@@ -206,7 +206,7 @@ W: Certainly. Just come back to the customer service desk once you’re ready to
 Questions 38-40 refer to the following conversation.
 `영국식 발음 → 호주식 발음`
 W: Dennis, how much longer will it be until the entrées for Table 5 are ready?
-M: At least 15 minutes. I’m . . . ah . . . I’m struggling to keep up with orders since we’re short-staffed today.
+M: At least 15 minutes. I’m ... ah ... I’m struggling to keep up with orders since we’re short-staffed today.
 W: The diners have been waiting for almost an hour, and they’re getting frustrated.
 M: Sorry, but I don’t know what to tell you. I’m doing the best I can.
 W: In that case, I think we’d better give them a discount to make up for the delay. I’ll go and see if our manager is fine with that.
@@ -243,7 +243,7 @@ W2: Did you have something in mind?
 W1: What about an online campaign?
 W2: I’m not sure. Marcus, what do you think about changing to online fundraising?
 M: We could do that. Web-based campaigns cost very little, so it could save money. I’m sure it would be better than hosting fundraising dinners like we do now.
-W2: I see. Well . . . I’m open to the idea. However, I’m unfamiliar with the steps we’d need to take.
+W2: I see. Well ... I’m open to the idea. However, I’m unfamiliar with the steps we’d need to take.
 M: I organized some campaigns at my previous job that were very successful. If you want, I can make an initial strategy proposal for you to review.
 W1: Would you? That’d be helpful.
 
@@ -254,12 +254,12 @@ M2: Sure, what’s up?
 M1: An order of office furniture is currently in the loading bay on the other side of the factory. However, we need to find somewhere else to store it until we ship it to the customer—a furniture retailer—next Monday.
 W: I’m on my way to a meeting, so I’m not free at the moment. But, I don’t think we have anywhere to keep the shipment anyway. We’re currently at capacity.
 M2: Actually, Angie told me earlier today that there’s some extra space at the south end of the facility.
-W: Oh . . . I wasn’t aware of that. If you can wait, I can help in an hour.
+W: Oh ... I wasn’t aware of that. If you can wait, I can help in an hour.
 M1: Thanks, but it has to be done as soon as possible. So, Josh, please move the crates to that area now.
 
 Questions 56-58 refer to the following conversation.
 `호주식 발음 → 미국식 발음`
-M: Hello, my name is Raj Shan. I’m calling because there’s an issue with my credit card. Its . . . magnetic strip is worn, and scanners can’t read it. So, I need a replacement.
+M: Hello, my name is Raj Shan. I’m calling because there’s an issue with my credit card. Its ... magnetic strip is worn, and scanners can’t read it. So, I need a replacement.
 W: Certainly, Mr. Shan. To get one, you must fill out the necessary form on our Web site.
 M: Can’t we take care of that over the phone?
 W: I’m afraid not. We have a strict procedure for such requests.
@@ -280,7 +280,7 @@ Questions 62-64 refer to the following conversation and order form.
 M: Christine, is everything ready for the tablet release party we’re catering for Stratus Technologies?
 W: Almost. Yesterday, I submitted the online order form to our supplier for the place settings and linens we need. They’ll arrive in five days.
 M: Great. Please check everything carefully before you sign for the delivery. The last shipment contained broken glasses.
-W: I will. Oh, I almost forgot . . . We only need 100 of each type of plate, but one of them was on sale. So, I ordered some extra ones.
+W: I will. Oh, I almost forgot ... We only need 100 of each type of plate, but one of them was on sale. So, I ordered some extra ones.
 M: Good idea. We use those dishes for many of the events we cater, so we’ll probably need them in the future.
 W: Yeah. That’s what I thought as well.
 
@@ -294,7 +294,7 @@ W: That seems reasonable. Well, maybe we can make it more like the one from the 
 Questions 68-70 refer to the following conversation and calendar.
 `캐나다식 발음 → 영국식 발음`
 M: Hello. I’m calling because I heard you’re holding special events at your botanical garden in July. Is that correct?
-W: Yes. The tour of the facility is especially popular. It’s conducted by Myra Lawrence . . . um, an assistant botany professor from a local university.
+W: Yes. The tour of the facility is especially popular. It’s conducted by Myra Lawrence ... um, an assistant botany professor from a local university.
 M: Actually, I’d like to take one of the classes. However, given my work hours, I’ll only be able to attend one on the weekend.
 W: Certainly. But you’ll need to sign up ahead of time on our Web site. Simply click on the day you’d like to attend, and you’ll be directed to the registration page.
 
@@ -302,7 +302,7 @@ W: Certainly. But you’ll need to sign up ahead of time on our Web site. Simply
 
 Questions 71-73 refer to the following excerpt from a talk.
 `영국식 발음`
-I’d like to thank Littleton Books for inviting me here this evening. And I’m also grateful to everyone in the audience for showing up. Today, I’ll be sharing several excerpts from my latest book, Tiger in the Night. This work is an autobiography based on my experiences growing up in a small South African town. It also describes my struggles in becoming a published writer. This section will last about an hour . . . um, until around 7:15 p.m. I will then take a short break, and return at 7:30 p.m. to answer questions. Following that, I’ll be happy to autograph copies of my book, which will be available for sale. Now, the first passage you will hear is about my early childhood.
+I’d like to thank Littleton Books for inviting me here this evening. And I’m also grateful to everyone in the audience for showing up. Today, I’ll be sharing several excerpts from my latest book, Tiger in the Night. This work is an autobiography based on my experiences growing up in a small South African town. It also describes my struggles in becoming a published writer. This section will last about an hour ... um, until around 7:15 p.m. I will then take a short break, and return at 7:30 p.m. to answer questions. Following that, I’ll be happy to autograph copies of my book, which will be available for sale. Now, the first passage you will hear is about my early childhood.
 
 Questions 74-76 refer to the following advertisement.
 `호주식 발음`
@@ -330,12 +330,12 @@ Welcome to the Masami Teahouse in Kyoto, Japan. The teahouse was built in the la
 
 Questions 92-94 refer to the following telephone message.
 `미국식 발음`
-Good morning, Mr. Parker. This is Akita Kang from Goldman and Associates. I’m interested in having you audition for a movie my agency has been hired to do the casting for. I was going to speak to your agent about this, but apparently she is on vacation until next month. So, I decided to contact you directly. Anyway, it is a supporting role in a romantic comedy. I know . . . All of your previous parts have been in action movies. But it’s a great opportunity to expand your résumé and try something new. You have several days to make a decision. I’ll send you a preliminary copy of the screenplay to look over. Let me know what you think.
+Good morning, Mr. Parker. This is Akita Kang from Goldman and Associates. I’m interested in having you audition for a movie my agency has been hired to do the casting for. I was going to speak to your agent about this, but apparently she is on vacation until next month. So, I decided to contact you directly. Anyway, it is a supporting role in a romantic comedy. I know ... All of your previous parts have been in action movies. But it’s a great opportunity to expand your résumé and try something new. You have several days to make a decision. I’ll send you a preliminary copy of the screenplay to look over. Let me know what you think.
 
 Questions 95-97 refer to the following talk and list.
 `호주식 발음`
-Thank you all so much for joining our annual job fair. Your participation will be especially appreciated by our students. Many of them have experienced problems finding companies interested in hiring recent college graduates during this recession. We’re happy to welcome many new participants this year, including our sponsor, Global Education. Before you head out to your booths, I need to let you know that there has been a switch in the room assignments. We originally planned to have engineering companies in room 202, but more of these types of firms signed up than expected, so we’ve decided to let them use the largest room . . . uh, the one initially assigned to the finance and investment companies. Any questions?
+Thank you all so much for joining our annual job fair. Your participation will be especially appreciated by our students. Many of them have experienced problems finding companies interested in hiring recent college graduates during this recession. We’re happy to welcome many new participants this year, including our sponsor, Global Education. Before you head out to your booths, I need to let you know that there has been a switch in the room assignments. We originally planned to have engineering companies in room 202, but more of these types of firms signed up than expected, so we’ve decided to let them use the largest room ... uh, the one initially assigned to the finance and investment companies. Any questions?
 
 Questions 98-100 refer to the following telephone message and receipt.
 `영국식 발음`
-Good afternoon. This is Beverly Gilder. I stayed at the . . . um . . . Presidential Palace for the first time when I was in Manila last week. While I enjoyed the experience, I’ve run into a problem. I didn’t closely examine my bill upon check-out, and I just noticed an error. I was charged for laundry services that I did not use. I would like you to review your billing records, refund me the amount in question, and e-mail me a corrected bill. This needs to be done as soon as possible because I have to turn in my final expense report on Friday. Thank you.
+Good afternoon. This is Beverly Gilder. I stayed at the ... um ... Presidential Palace for the first time when I was in Manila last week. While I enjoyed the experience, I’ve run into a problem. I didn’t closely examine my bill upon check-out, and I just noticed an error. I was charged for laundry services that I did not use. I would like you to review your billing records, refund me the amount in question, and e-mail me a corrected bill. This needs to be done as soon as possible because I have to turn in my final expense report on Friday. Thank you.
